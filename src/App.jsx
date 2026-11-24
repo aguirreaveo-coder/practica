@@ -1,5 +1,5 @@
 import { Routes, Route, Navigate, useParams } from 'react-router-dom'
-import Home from './pages/Home'
+import Home from './pages/home'
 import Modulo from './pages/Modulo'
 import Clase from './pages/Clase'
 import CuestionarioPage from './pages/CuestionarioPage'
