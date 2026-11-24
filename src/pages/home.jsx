@@ -21,7 +21,7 @@ function Home() {
     nombresCursos,
     cerrarSesion,
     cursosPermitidos,
-    actualizarEstadoPerfil,
+    academico,
   } = useAuth()
 
   const modulosVisibles = useMemo(
@@ -172,47 +172,56 @@ function Home() {
 
           {usuario?.nivel === 'admin' && (
             <section className="mb-10 rounded-xl border border-slate-200 bg-white/80 p-5 shadow-sm dark:border-white/10 dark:bg-slate-800/50">
-              <div className="mb-5 flex items-center justify-between gap-4">
-                <div>
-                  <p className="text-xs font-bold uppercase tracking-widest text-blue-600 dark:text-blue-400">
-                    Administración
-                  </p>
-                  <h2 className="mt-1 text-xl font-bold">Estado de perfiles</h2>
-                </div>
-                <span className="rounded-full bg-slate-100 px-3 py-1 text-sm font-semibold text-slate-600 dark:bg-slate-700 dark:text-slate-300">
-                  {usuarios.filter((perfil) => perfil.activo).length} activos
-                </span>
-              </div>
-
-              <div className="divide-y divide-slate-200 dark:divide-white/10">
+              <p className="text-xs font-bold uppercase tracking-widest text-blue-600 dark:text-blue-400">
+                Administración
+              </p>
+              <label htmlFor="usuario-admin" className="mt-2 mb-2 block text-sm font-semibold">
+                Usuarios registrados
+              </label>
+              <select
+                id="usuario-admin"
+                className="w-full rounded-lg border border-slate-300 bg-white px-4 py-3 outline-none focus:border-blue-500 dark:border-white/10 dark:bg-slate-800"
+                defaultValue=""
+              >
+                <option value="" disabled>Selecciona un usuario</option>
                 {usuarios.map((perfil) => (
-                  <div key={perfil.id} className="flex items-center justify-between gap-4 py-4">
-                    <div>
-                      <p className="font-bold text-slate-900 dark:text-white">{perfil.nombre}</p>
-                      <p className="mt-0.5 text-sm text-slate-500 dark:text-slate-400">
-                        {perfil.nivel === 'admin' ? 'Administrador' : 'Usuario'} ·{' '}
-                        {perfil.activo ? 'Activo' : 'Inactivo'}
+                  <option key={perfil.id} value={perfil.id}>
+                    {perfil.nombre} — {perfil.nivel === 'admin' ? 'Administrador' : 'Usuario'}
+                  </option>
+                ))}
+              </select>
+            </section>
+          )}
+
+          {usuario?.nivel === 'usuario' && (
+            <section className="mb-10 rounded-xl border border-slate-200 bg-white/80 p-5 shadow-sm dark:border-white/10 dark:bg-slate-800/50">
+              <p className="mb-4 text-xs font-bold uppercase tracking-widest text-blue-600 dark:text-blue-400">
+                Progreso y calificaciones
+              </p>
+              <div className="grid gap-4 md:grid-cols-3">
+                {nombresCursos.map((nombreCurso) => {
+                  const curso = [...programas, ...modulos].find((item) => item.nombre === nombreCurso)
+                  const cursoId = curso?.id
+                  const progreso = academico.progreso?.[cursoId] || 0
+                  const calificacion = academico.calificaciones?.[cursoId]?.final
+                  return (
+                    <div key={nombreCurso} className="rounded-lg border border-slate-200 p-4 dark:border-white/10">
+                      <p className="font-bold">{nombreCurso}</p>
+                      <p className="mt-2 text-sm text-slate-500 dark:text-slate-400">
+                        Progreso: <span className="font-bold text-slate-900 dark:text-white">{progreso}%</span>
+                      </p>
+                      <div className="mt-2 h-2 overflow-hidden rounded-full bg-slate-200 dark:bg-slate-700">
+                        <div className="h-full bg-blue-500" style={{ width: `${progreso}%` }} />
+                      </div>
+                      <p className="mt-3 text-sm text-slate-500 dark:text-slate-400">
+                        Calificación final:{' '}
+                        <span className="font-bold text-slate-900 dark:text-white">
+                          {calificacion == null ? 'Pendiente' : `${calificacion}%`}
+                        </span>
                       </p>
                     </div>
-                    <button
-                      type="button"
-                      role="switch"
-                      aria-checked={perfil.activo}
-                      onClick={() => actualizarEstadoPerfil(perfil.id, !perfil.activo)}
-                      disabled={perfil.id === usuario.id}
-                      className={`relative h-7 w-12 rounded-full transition ${
-                        perfil.activo ? 'bg-emerald-500' : 'bg-slate-300 dark:bg-slate-600'
-                      } disabled:cursor-not-allowed disabled:opacity-50`}
-                      title={perfil.id === usuario.id ? 'No puedes desactivar tu propio perfil' : 'Cambiar estado'}
-                    >
-                      <span
-                        className={`absolute top-1 h-5 w-5 rounded-full bg-white shadow transition ${
-                          perfil.activo ? 'left-6' : 'left-1'
-                        }`}
-                      />
-                    </button>
-                  </div>
-                ))}
+                  )
+                })}
               </div>
             </section>
           )}

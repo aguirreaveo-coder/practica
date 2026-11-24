@@ -1,6 +1,7 @@
 import { useState, useEffect, useMemo } from 'react'
 import Pizarron from './Pizarron'
 import { usePantallaCompleta } from '../hooks/usePantallaCompleta'
+import { useAuth } from '../contexts/AuthContext'
 
 // Fisher-Yates: baraja un array
 function barajar(array) {
@@ -30,8 +31,9 @@ function mezclarPreguntas(preguntas) {
   })
 }
 
-function Cuestionario({ cuestionario, onSalir }) {
+function Cuestionario({ cuestionario, cursoId, tipo = 'final', onSalir }) {
   usePantallaCompleta()
+  const { registrarCalificacion } = useAuth()
 
   // Contador de versión: al incrementarlo se fuerza una nueva mezcla
   const [version, setVersion] = useState(0)
@@ -92,6 +94,13 @@ function Cuestionario({ cuestionario, onSalir }) {
       return acc + (resp === preguntasMezcladas[i].correcta ? 1 : 0)
     }, 0)
   }
+
+  useEffect(() => {
+    if (!finalizado) return
+    const puntaje = calcularPuntaje()
+    const porcentaje = Math.round((puntaje / total) * 100)
+    registrarCalificacion(cursoId, tipo, porcentaje)
+  }, [finalizado])
 
   const reiniciar = () => {
     setIndice(0)

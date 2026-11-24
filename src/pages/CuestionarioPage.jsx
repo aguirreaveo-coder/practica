@@ -37,6 +37,8 @@ function CuestionarioPage() {
   return (
     <Cuestionario
       cuestionario={cuestionario}
+      cursoId={id}
+      tipo={num ? `sesion-${num}` : 'final'}
       onSalir={() => navigate(`/modulo/${id}`)}
     />
   )

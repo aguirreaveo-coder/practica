@@ -6,10 +6,15 @@ import ThemeToggle from '../components/ThemeToggle'
 function Login() {
   const { usuario, usuarios, iniciarSesion } = useAuth()
   const [nombre, setNombre] = useState('')
+  const [password, setPassword] = useState('')
   const [error, setError] = useState('')
   const navigate = useNavigate()
 
   if (usuario) return <Navigate to="/" replace />
+  const perfilSeleccionado = usuarios.find(
+    (perfil) => perfil.nombre.toLowerCase() === nombre.trim().toLowerCase()
+  )
+  const requierePassword = perfilSeleccionado?.nivel === 'admin'
 
   const enviar = (event) => {
     event.preventDefault()
@@ -20,8 +25,8 @@ function Login() {
       setError('Este perfil está inactivo temporalmente.')
       return
     }
-    if (!iniciarSesion(nombre)) {
-      setError('El nombre no coincide con ningún perfil definido.')
+    if (!iniciarSesion(nombre, password)) {
+      setError(requierePassword ? 'La contraseña es incorrecta.' : 'El nombre no coincide con ningún perfil definido.')
       return
     }
     setError('')
@@ -58,6 +63,21 @@ function Login() {
               {usuarios.map((perfil) => <option key={perfil.id} value={perfil.nombre} />)}
             </datalist>
           </div>
+          {requierePassword && (
+            <div>
+              <label htmlFor="password" className="mb-2 block text-sm font-semibold">Contraseña</label>
+              <input
+                id="password"
+                type="password"
+                value={password}
+                onChange={(event) => setPassword(event.target.value)}
+                autoComplete="current-password"
+                required
+                placeholder="Ingresa tu contraseña"
+                className="w-full rounded-lg border border-slate-300 bg-white px-4 py-3 outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-500/20 dark:border-white/10 dark:bg-slate-900"
+              />
+            </div>
+          )}
           {error && <p className="rounded-lg bg-red-50 px-3 py-2 text-sm text-red-700 dark:bg-red-950/40 dark:text-red-300">{error}</p>}
           <button type="submit" className="w-full rounded-lg bg-blue-600 px-4 py-3 font-bold text-white shadow-sm transition hover:bg-blue-700">
             Iniciar sesión

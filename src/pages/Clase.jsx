@@ -34,6 +34,7 @@ function Clase({ esExpress = false }) {
   return (
     <Slideshow
       clase={clase}
+      cursoId={id}
       onSalir={() => navigate(`/modulo/${id}`)}
     />
   )

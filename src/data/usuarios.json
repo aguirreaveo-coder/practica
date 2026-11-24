@@ -4,6 +4,7 @@
     "nombre": "Christofer Aguirre",
     "nivel": "admin",
     "activo": true,
+    "password": "1234",
     "cursos": []
   },
   {
@@ -15,6 +16,16 @@
       "matematicas",
       "ciencias-experimentales",
       "tabla-periodica"
-    ]
+    ],
+    "progreso": {
+      "matematicas": 0,
+      "ciencias-experimentales": 0,
+      "tabla-periodica": 0
+    },
+    "calificacionesFinales": {
+      "matematicas": null,
+      "ciencias-experimentales": null,
+      "tabla-periodica": null
+    }
   }
 ]

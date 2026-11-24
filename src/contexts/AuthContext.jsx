@@ -1,11 +1,11 @@
-import { createContext, useContext, useMemo, useState } from 'react'
+import { createContext, useContext, useEffect, useMemo, useState } from 'react'
 import usuariosData from '../data/usuarios.json'
 import modulos from '../data/modulos.json'
 import programas from '../data/programas.json'
 
 const AuthContext = createContext(null)
 const SESSION_KEY = 'practica_usuario'
-const ESTADOS_KEY = 'practica_estados_perfiles'
+const ACADEMICO_KEY = 'practica_academico'
 
 function normalizar(texto) {
   return texto
@@ -15,35 +15,47 @@ function normalizar(texto) {
 }
 
 export function AuthProvider({ children }) {
-  const [usuarios, setUsuarios] = useState(() => {
-    let estados = {}
-    try {
-      estados = JSON.parse(localStorage.getItem(ESTADOS_KEY)) || {}
-    } catch {
-      estados = {}
-    }
-    return usuariosData.map((perfil) => ({
+  const [usuarios] = useState(() =>
+    usuariosData.map((perfil) => ({
       ...perfil,
-      activo: Object.prototype.hasOwnProperty.call(estados, perfil.id)
-        ? estados[perfil.id]
-        : perfil.activo !== false,
+      activo: perfil.activo !== false,
     }))
-  })
-
+  )
   const [usuario, setUsuario] = useState(() => {
     const guardado = sessionStorage.getItem(SESSION_KEY)
     if (!guardado) return null
     const perfil = usuarios.find((item) => item.id === guardado)
     return perfil?.activo ? perfil : null
   })
+  const [academico, setAcademico] = useState({})
 
-  const iniciarSesion = (nombre) => {
+  useEffect(() => {
+    if (!usuario?.id) {
+      setAcademico({})
+      return
+    }
+    try {
+      const guardado = JSON.parse(localStorage.getItem(`${ACADEMICO_KEY}_${usuario.id}`)) || {}
+      setAcademico({
+        progreso: { ...usuario.progreso, ...guardado.progreso },
+        calificaciones: { ...usuario.calificacionesFinales, ...guardado.calificaciones },
+      })
+    } catch {
+      setAcademico({
+        progreso: usuario.progreso || {},
+        calificaciones: usuario.calificacionesFinales || {},
+      })
+    }
+  }, [usuario])
+
+  const iniciarSesion = (nombre, password = '') => {
     const nombreNormalizado = normalizar(nombre.trim())
     const encontrado = usuarios.find(
       (perfil) => perfil.activo && normalizar(perfil.nombre) === nombreNormalizado
     )
 
     if (!encontrado) return false
+    if (encontrado.nivel === 'admin' && encontrado.password !== password) return false
 
     sessionStorage.setItem(SESSION_KEY, encontrado.id)
     setUsuario(encontrado)
@@ -55,26 +67,39 @@ export function AuthProvider({ children }) {
     setUsuario(null)
   }
 
-  const actualizarEstadoPerfil = (id, activo) => {
-    if (usuario?.nivel !== 'admin') return false
-
-    setUsuarios((actuales) => {
-      const nuevos = actuales.map((perfil) =>
-        perfil.id === id ? { ...perfil, activo } : perfil
+  const guardarAcademico = (actualizacion) => {
+    if (!usuario) return
+    setAcademico((actual) => {
+      const nuevo = actualizacion(actual)
+      localStorage.setItem(
+        `${ACADEMICO_KEY}_${usuario.id}`,
+        JSON.stringify(nuevo)
       )
-      const estados = Object.fromEntries(nuevos.map((perfil) => [perfil.id, perfil.activo]))
-      localStorage.setItem(ESTADOS_KEY, JSON.stringify(estados))
-      return nuevos
+      return nuevo
     })
+  }
 
-    setUsuario((actual) => {
-      if (actual?.id !== id) return actual
-      return activo ? actual : null
-    })
-    if (usuario?.id === id && !activo) {
-      sessionStorage.removeItem(SESSION_KEY)
-    }
-    return true
+  const registrarProgreso = (cursoId, porcentaje) => {
+    guardarAcademico((actual) => ({
+      progreso: {
+        ...(actual.progreso || {}),
+        [cursoId]: Math.max(actual.progreso?.[cursoId] || 0, porcentaje),
+      },
+      calificaciones: actual.calificaciones || {},
+    }))
+  }
+
+  const registrarCalificacion = (cursoId, tipo, porcentaje) => {
+    guardarAcademico((actual) => ({
+      progreso: actual.progreso || {},
+      calificaciones: {
+        ...(actual.calificaciones || {}),
+        [cursoId]: {
+          ...(actual.calificaciones?.[cursoId] || {}),
+          [tipo]: porcentaje,
+        },
+      },
+    }))
   }
 
   const puedeAcceder = (id) => {
@@ -107,7 +132,9 @@ export function AuthProvider({ children }) {
     puedeAcceder,
     cursosPermitidos,
     nombresCursos,
-    actualizarEstadoPerfil,
+    academico,
+    registrarProgreso,
+    registrarCalificacion,
   }
 
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>

@@ -6,9 +6,11 @@ import SlidePractica from './SlidePractica'
 import SlideEjemplo from './SlideEjemplo'
 import Pizarron from './Pizarron'
 import { usePantallaCompleta } from '../hooks/usePantallaCompleta'
+import { useAuth } from '../contexts/AuthContext'
 
-function Slideshow({ clase, onSalir }) {
+function Slideshow({ clase, cursoId, onSalir }) {
   usePantallaCompleta()
+  const { registrarProgreso } = useAuth()
 
   const [indice, setIndice] = useState(0)
   const [pizarronAbierto, setPizarronAbierto] = useState(false)
@@ -31,6 +33,11 @@ function Slideshow({ clase, onSalir }) {
     window.addEventListener('keydown', manejar)
     return () => window.removeEventListener('keydown', manejar)
   }, [indice, pizarronAbierto])
+
+  useEffect(() => {
+    const porcentaje = Math.round(((indice + 1) / total) * 100)
+    if (cursoId) registrarProgreso(cursoId, porcentaje)
+  }, [indice, total, cursoId])
 
   const renderizarSlide = () => {
     switch (slide.tipo) {
