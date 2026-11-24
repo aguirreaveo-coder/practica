@@ -1,0 +1,413 @@
+{
+  "titulo": "Cuestionario Final: Evolución y sus repercusiones sociales",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "1. La teoría de Augusto Comte sobre etapas sociales se llama:",
+      "opciones": [
+        "Racionalista",
+        "Fenomenalista",
+        "Realista",
+        "Ley de los tres estados"
+      ],
+      "correcta": 3,
+      "explicacion": ""
+    },
+    {
+      "numero": 2,
+      "pregunta": "2. Segón la selección natural, un carácter adaptativo aumenta la posibilidad de:",
+      "opciones": [
+        "Extinción y reproducción",
+        "Supervivencia y reproducción",
+        "Reproducción y muerte",
+        "Supervivencia y extinción"
+      ],
+      "correcta": 1,
+      "explicacion": ""
+    },
+    {
+      "numero": 3,
+      "pregunta": "3. La competencia por recursos se evidencia porque:",
+      "opciones": [
+        "La reproducción no requiere recursos",
+        "Los recursos aumentan naturalmente",
+        "Poblaciones y recursos crecen igual",
+        "Existe competencia por supervivencia y reproducción"
+      ],
+      "correcta": 3,
+      "explicacion": ""
+    },
+    {
+      "numero": 4,
+      "pregunta": "4. En poblaciones grandes los efectos del azar son menores y en poblaciones pequeás la evolución cambia mó por:",
+      "opciones": [
+        "Azar y selección natural",
+        "Selección natural y azar",
+        "Selección natural y selección natural",
+        "Azar y azar"
+      ],
+      "correcta": 1,
+      "explicacion": ""
+    },
+    {
+      "numero": 5,
+      "pregunta": "5. El conocimiento adquirido por experiencia práctica es:",
+      "opciones": [
+        "Intuitivo",
+        "Científico",
+        "Filosófico",
+        "Empóico"
+      ],
+      "correcta": 3,
+      "explicacion": ""
+    },
+    {
+      "numero": 6,
+      "pregunta": "6. Para calificar proyectos científicos y religiosos conviene:",
+      "opciones": [
+        "Elegir el mó convincente",
+        "Usar una lista de cotejo basada en requisitos",
+        "Elegir el mejor presentado",
+        "Pedir que otra persona decida"
+      ],
+      "correcta": 1,
+      "explicacion": ""
+    },
+    {
+      "numero": 7,
+      "pregunta": "7. Las variedades obtenidas al controlar un carácter en F1 se llaman:",
+      "opciones": [
+        "Monohíbridas",
+        "Homocigotas",
+        "Codominantes",
+        "Dihíbridas"
+      ],
+      "correcta": 0,
+      "explicacion": ""
+    },
+    {
+      "numero": 8,
+      "pregunta": "8. Las variaciones heredables se deben a:",
+      "opciones": [
+        "Mutaciones",
+        "Actividad",
+        "Movilidad",
+        "Alimentación"
+      ],
+      "correcta": 0,
+      "explicacion": ""
+    },
+    {
+      "numero": 9,
+      "pregunta": "9. El estudio de los seres vivos desde sus moléculas corresponde a la:",
+      "opciones": [
+        "Fisiologá celular",
+        "Biologá molecular",
+        "Biologá celular",
+        "Bioquéica"
+      ],
+      "correcta": 1,
+      "explicacion": ""
+    },
+    {
+      "numero": 10,
+      "pregunta": "10. ¿Quién descubrió los ácidos nucleicos?",
+      "opciones": [
+        "Friedrich Miescher",
+        "Singer",
+        "Mendel",
+        "Avery"
+      ],
+      "correcta": 0,
+      "explicacion": ""
+    },
+    {
+      "numero": 11,
+      "pregunta": "11. La relación 3:1 resulta cuando:",
+      "opciones": [
+        "Los alelos son idónticos",
+        "Cada alelo contiene mutaciones",
+        "Los alelos se segregan en la meiosis",
+        "Los alelos son dominantes en ambos organismos"
+      ],
+      "correcta": 2,
+      "explicacion": ""
+    },
+    {
+      "numero": 12,
+      "pregunta": "12. Una ventaja de Drosophila para Morgan fue que:",
+      "opciones": [
+        "Tiene cinco pares de cromosomas",
+        "Es comón, prolífica y tiene cuatro pares de cromosomas",
+        "Tiene un solo par de cromosomas",
+        "No presenta variedades"
+      ],
+      "correcta": 1,
+      "explicacion": ""
+    },
+    {
+      "numero": 13,
+      "pregunta": "13. La deriva genética es el:",
+      "opciones": [
+        "Pódida de genes entre gemelos",
+        "Pódida de variabilidad por transmisión",
+        "Cambio por mutación",
+        "Sorteo de genes durante la transmisión de gametos"
+      ],
+      "correcta": 3,
+      "explicacion": ""
+    },
+    {
+      "numero": 14,
+      "pregunta": "14. Entre los objetivos de la eugenesia se encuentran:",
+      "opciones": [
+        "Crear personas sanas e inteligentes, higiene racial y eliminar enfermedades",
+        "Solo aliviar el sufrimiento",
+        "Solo fomentar la higiene",
+        "Ninguno de los anteriores"
+      ],
+      "correcta": 0,
+      "explicacion": ""
+    },
+    {
+      "numero": 15,
+      "pregunta": "15. La estructura del ADN incluye:",
+      "opciones": [
+        "Doble hélice antiparalela, adenina-guanina-citosina-uracilo y ribosa",
+        "Hélice sencilla y ribosa",
+        "Doble hélice antiparalela, bases con timina, desoxirribosa y fosfato",
+        "Doble hélice paralela y uracilo"
+      ],
+      "correcta": 2,
+      "explicacion": ""
+    },
+    {
+      "numero": 16,
+      "pregunta": "16. Ante un resultado inesperado en un examen, una conducta adecuada es:",
+      "opciones": [
+        "Revisar errores e identificar la respuesta correcta",
+        "No hacer nada",
+        "Aceptar sin analizar",
+        "Pedir cambiar la calificación"
+      ],
+      "correcta": 0,
+      "explicacion": ""
+    },
+    {
+      "numero": 17,
+      "pregunta": "17. Son conductas éicas de investigación:",
+      "opciones": [
+        "Revisar publicaciones, citar autores y parafrasear",
+        "Citar y usar trabajos ajenos",
+        "Usar tesis ajenas como propias",
+        "No consultar fuentes"
+      ],
+      "correcta": 0,
+      "explicacion": ""
+    },
+    {
+      "numero": 18,
+      "pregunta": "18. Dos principios de la bioéica son:",
+      "opciones": [
+        "Autonomá y justicia distributiva",
+        "éica moral y autonomá",
+        "No maleficencia y deontologá",
+        "Beneficencia juróica"
+      ],
+      "correcta": 0,
+      "explicacion": ""
+    },
+    {
+      "numero": 19,
+      "pregunta": "19. El estudio del flujo sanguóneo del corazón fetal se realiza mediante:",
+      "opciones": [
+        "Ultrasonido",
+        "Tomografá",
+        "Ecocardiografá",
+        "Radiografá"
+      ],
+      "correcta": 2,
+      "explicacion": ""
+    },
+    {
+      "numero": 20,
+      "pregunta": "20. Son beneficios de las plantas transgúnicas:",
+      "opciones": [
+        "Rasgos deseables y resistencia a organismos, ademó de nutrientes",
+        "Eliminación del nitrógeno",
+        "Solo cosechas retardadas",
+        "Ninguno"
+      ],
+      "correcta": 0,
+      "explicacion": ""
+    },
+    {
+      "numero": 21,
+      "pregunta": "21. Alicia decide libremente el tratamiento despuó de recibir información. Aplica el principio de:",
+      "opciones": [
+        "Justicia",
+        "Beneficencia",
+        "No maleficencia",
+        "Autonomá"
+      ],
+      "correcta": 3,
+      "explicacion": ""
+    },
+    {
+      "numero": 22,
+      "pregunta": "22. El sistema inmunológico puede:",
+      "opciones": [
+        "Neutralizar agentes, destruir células infectadas y recordar antígenos",
+        "Secretar únicamente hormonas",
+        "Solo destruir células sanas",
+        "No reconocer exposiciones previas"
+      ],
+      "correcta": 0,
+      "explicacion": ""
+    },
+    {
+      "numero": 23,
+      "pregunta": "23. Son objetivos de la Ley de Ciencia y Tecnologá:",
+      "opciones": [
+        "Separar ciencia y educación",
+        "Regular apoyos, coordinar poléicas y apoyar la investigación",
+        "Eliminar la investigación pública",
+        "Reducir programas tecnológicos"
+      ],
+      "correcta": 1,
+      "explicacion": ""
+    },
+    {
+      "numero": 24,
+      "pregunta": "24. El rechazo de un órgano trasplantado ocurre por:",
+      "opciones": [
+        "Atacar cualquier ser vivo",
+        "Deterioro inevitable",
+        "Incompatibilidad entre donante y receptor",
+        "Falta de cualquier medicamento"
+      ],
+      "correcta": 2,
+      "explicacion": ""
+    },
+    {
+      "numero": 25,
+      "pregunta": "25. La información sobre derechos a la salud debe llevar a:",
+      "opciones": [
+        "Usarla solo en la escuela",
+        "No relacionarla con la vida diaria",
+        "Considerarla solo cultura",
+        "Tomar conciencia y hacer valer los derechos"
+      ],
+      "correcta": 3,
+      "explicacion": ""
+    },
+    {
+      "numero": 26,
+      "pregunta": "26. Pedro aprende carpinterá con cuidado a partir de la experiencia. Esto es:",
+      "opciones": [
+        "Racionalismo",
+        "Racionalismo por investigación",
+        "Empirismo por investigación",
+        "Empirismo por experiencia"
+      ],
+      "correcta": 3,
+      "explicacion": ""
+    },
+    {
+      "numero": 27,
+      "pregunta": "27. La teoría que propone cambios de especies a travó del tiempo es la:",
+      "opciones": [
+        "Creacionista",
+        "Sintéica",
+        "Evolutiva",
+        "Panspermia"
+      ],
+      "correcta": 2,
+      "explicacion": ""
+    },
+    {
+      "numero": 28,
+      "pregunta": "28. Darwin conoció una perspectiva geológica mediante el libro:",
+      "opciones": [
+        "El origen de las especies – Cuvier",
+        "Principios de geologá – Cuvier",
+        "Principios de geologá – Charles Lyell",
+        "El origen de las especies – Lyell"
+      ],
+      "correcta": 2,
+      "explicacion": ""
+    },
+    {
+      "numero": 29,
+      "pregunta": "29. En Punnett, las letras mayóculas representan:",
+      "opciones": [
+        "Primera generación filial",
+        "Caracteres dominantes",
+        "Caracteres recesivos",
+        "Segunda generación filial"
+      ],
+      "correcta": 1,
+      "explicacion": ""
+    },
+    {
+      "numero": 30,
+      "pregunta": "30. Un medio de la eugenesia, excepto, es:",
+      "opciones": [
+        "Clonación",
+        "Ingenierá genética",
+        "Selección artificial",
+        "Diagnótico prenatal"
+      ],
+      "correcta": 0,
+      "explicacion": ""
+    },
+    {
+      "numero": 31,
+      "pregunta": "31. La disciplina previa a la genética que estudiaba cruzas fue:",
+      "opciones": [
+        "Biologá celular",
+        "Hibridologá",
+        "Genéica",
+        "Genéica molecular"
+      ],
+      "correcta": 1,
+      "explicacion": ""
+    },
+    {
+      "numero": 32,
+      "pregunta": "32. La esterilización obligatoria de personas consideradas no aptas es:",
+      "opciones": [
+        "Hibridación",
+        "Ingenierá genética",
+        "Biotecnologá",
+        "Eugenesia"
+      ],
+      "correcta": 3,
+      "explicacion": ""
+    },
+    {
+      "numero": 33,
+      "pregunta": "33. La técnica que trata la esterilidad mediante manipulación de gametos es:",
+      "opciones": [
+        "Reproducción asistida",
+        "Clonación",
+        "Ovulación",
+        "Reproducción sexual"
+      ],
+      "correcta": 0,
+      "explicacion": ""
+    },
+    {
+      "numero": 34,
+      "pregunta": "34. La autonomá exige que el paciente:",
+      "opciones": [
+        "Reciba información y decida libremente",
+        "Obedezca siempre al móico",
+        "No conozca alternativas",
+        "Renuncie a decidir"
+      ],
+      "correcta": 0,
+      "explicacion": ""
+    }
+  ]
+}

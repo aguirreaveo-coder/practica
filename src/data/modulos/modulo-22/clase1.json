@@ -1,0 +1,113 @@
+
+{
+  "titulo": "Clase 1: Herramientas de ofimática",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 22: Informática",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Herramientas de ofimática</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 1: Word y Excel</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Procesadores de texto · Formatos · Tabulaciones · Configuración de página · Hojas de cálculo · Tablas · Macros · Herramientas gráficas</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "¿Qué es la ofimática?",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>La <b>ofimática</b> es el conjunto de herramientas informáticas utilizadas para crear, procesar, almacenar y organizar información en actividades administrativas y laborales.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Entre sus aplicaciones principales se encuentran los procesadores de texto, las hojas de cálculo y los programas de presentaciones.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Ejemplos: Microsoft Word y Microsoft Excel.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Procesadores de texto y autoedición",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Un <b>procesador de texto</b> permite crear, editar y dar formato a documentos escritos. Ejemplo: Microsoft Word.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Un programa de <b>autoedición</b> permite diseñar publicaciones mediante la combinación de textos, imágenes y elementos gráficos.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Se utiliza para elaborar revistas, periódicos, folletos, catálogos y otros materiales impresos.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Herramientas de formato de texto",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Los formatos permiten modificar la apariencia de un documento.</p><ul class='text-lg text-slate-700 dark:text-slate-200'><li><b>Negritas:</b> resalta el texto aumentando el grosor de los caracteres.</li><li><b>Cursiva:</b> inclina los caracteres.</li><li><b>Subrayado:</b> coloca una línea debajo del texto.</li><li><b>Fuente:</b> determina el diseño de los caracteres.</li><li><b>Color de fuente:</b> cambia el color del texto.</li></ul><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>También existen herramientas de zoom para ampliar o reducir la visualización del documento.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tipos de alineación",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>La alineación determina la posición del texto respecto a los márgenes del documento.</p><ul class='text-lg text-slate-700 dark:text-slate-200'><li><b>Izquierda:</b> alinea el texto con el margen izquierdo.</li><li><b>Derecha:</b> alinea el texto con el margen derecho.</li><li><b>Centrada:</b> coloca el texto en el centro.</li><li><b>Justificada:</b> distribuye los espacios para alinear los extremos izquierdo y derecho de las líneas.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tabulaciones en Word",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Las <b>tabulaciones</b> permiten establecer posiciones específicas para organizar el texto dentro de una línea.</p><ul class='text-lg text-slate-700 dark:text-slate-200'><li><b>Izquierda:</b> el texto comienza en la marca.</li><li><b>Derecha:</b> el texto termina en la marca.</li><li><b>Centro:</b> el texto queda centrado respecto a la marca.</li><li><b>Decimal:</b> alinea los números tomando como referencia el separador decimal.</li></ul><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>La tabulación decimal facilita la organización de cantidades.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Atajos de teclado",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Los atajos de teclado permiten ejecutar acciones rápidamente sin utilizar los menús.</p><ul class='text-lg text-slate-700 dark:text-slate-200'><li><b>Ctrl + Inicio:</b> desplaza el cursor al principio del documento.</li><li><b>Ctrl + C:</b> copia el contenido seleccionado.</li><li><b>Ctrl + V:</b> pega el contenido del portapapeles.</li><li><b>Ctrl + X:</b> corta el contenido seleccionado.</li><li><b>Ctrl + RePág:</b> permite desplazarse entre páginas u hojas según la aplicación.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Configuración de página",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>La opción <b>Configurar página</b> permite establecer las características físicas y de presentación de un documento antes de imprimirlo.</p><ul class='text-lg text-slate-700 dark:text-slate-200'><li><b>Márgenes:</b> espacios entre el contenido y los bordes del papel.</li><li><b>Orientación:</b> vertical u horizontal.</li><li><b>Tamaño:</b> dimensiones del papel.</li><li><b>Encabezados y pies:</b> información que aparece en la parte superior o inferior de las páginas.</li></ul><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>La vista Diseño de página permite revisar cómo se distribuirá el contenido impreso.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Conceptos básicos de Excel",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Excel es una aplicación de hoja de cálculo utilizada para organizar, procesar y analizar información.</p><ul class='text-lg text-slate-700 dark:text-slate-200'><li><b>Libro:</b> archivo que contiene una o varias hojas.</li><li><b>Hoja de cálculo:</b> espacio organizado en filas y columnas.</li><li><b>Fila:</b> conjunto horizontal de celdas.</li><li><b>Columna:</b> conjunto vertical de celdas.</li><li><b>Celda:</b> intersección entre una fila y una columna.</li><li><b>Rango:</b> conjunto de celdas seleccionadas.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tablas y registros en Excel",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Una <b>tabla</b> es un conjunto de datos organizados en filas y columnas.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>La primera fila generalmente contiene los nombres de los campos o encabezados, mientras que las filas siguientes almacenan los registros.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'><b>Registro:</b> conjunto de datos relacionados que describen un elemento.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'><b>Campo:</b> categoría de información representada por una columna.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Edición de datos y pegado especial",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Excel permite modificar el contenido de las celdas sin necesidad de eliminar toda la información.</p><ul class='text-lg text-slate-700 dark:text-slate-200'><li><b>F2:</b> permite editar el contenido de la celda activa.</li><li><b>Barra de fórmulas:</b> muestra y permite modificar el contenido de una celda.</li><li><b>Pegado especial:</b> permite elegir qué elementos se copiarán.</li></ul><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Por ejemplo, se pueden copiar solamente los valores, las fórmulas o los formatos, sin trasladar todos los elementos originales.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Opciones para borrar información",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Excel ofrece diferentes opciones para eliminar información de las celdas.</p><ul class='text-lg text-slate-700 dark:text-slate-200'><li><b>Borrar todo:</b> elimina el contenido, formatos y demás elementos.</li><li><b>Borrar contenido:</b> elimina los datos, pero conserva el formato y los comentarios.</li><li><b>Borrar formatos:</b> elimina la apariencia aplicada a las celdas.</li><li><b>Borrar comentarios:</b> elimina únicamente los comentarios.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Herramientas gráficas de Excel",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Excel incluye herramientas para mejorar la presentación visual de la información.</p><ul class='text-lg text-slate-700 dark:text-slate-200'><li><b>WordArt:</b> crea textos decorativos mediante estilos prediseñados.</li><li><b>SmartArt:</b> permite insertar diagramas para representar procesos, relaciones y estructuras.</li><li><b>Formas:</b> permite insertar figuras geométricas y otros elementos.</li><li><b>Tablas dinámicas:</b> permiten resumir y analizar grandes cantidades de datos.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Macros, filtros y estilos",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Una <b>macro</b> es una secuencia de instrucciones que automatiza tareas repetitivas mediante una sola ejecución.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'><b>Filtros:</b> permiten mostrar únicamente los registros que cumplen determinadas condiciones.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'><b>Estilos:</b> conjuntos de características de formato que pueden aplicarse a las celdas para mantener una presentación uniforme.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'><b>Vista personalizada:</b> permite guardar configuraciones específicas de visualización e impresión.</p>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Actividad: Repaso de la Guía",
+      "instrucciones": "Resuelve las siguientes preguntas del Módulo 22 correspondientes a esta clase. Utiliza las definiciones y características revisadas. Cuando se indique, consulta el reactivo completo en tu guía.",
+      "preguntas": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        9,
+        10,
+        12,
+        17,
+        18,
+        19,
+        25,
+        28,
+        29,
+        30,
+        31,
+        32,
+        36
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Revisión de la Actividad",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Compara tus respuestas con las definiciones estudiadas durante la clase.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Recuerda distinguir las funciones de WordArt, SmartArt, macros, tablas dinámicas y las opciones de edición de celdas.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Las preguntas 25 y 28 requieren identificar herramientas mediante imágenes. Consulta el reactivo completo en tu guía.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 1",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Repaso de ofimática</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>En esta clase estudiamos las funciones principales de Word y Excel, sus herramientas de formato, organización y automatización.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>En la siguiente clase estudiaremos el desarrollo de sistemas, los modelos de software y las bases de datos.</p>"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

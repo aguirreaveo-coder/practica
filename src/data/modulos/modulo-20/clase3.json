@@ -1,0 +1,193 @@
+{
+  "titulo": "Clase 3: Ciencias sociales y metodología de la investigación",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 20: Optimización en sistemas naturales y sociales",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Ciencias sociales y metodología de la investigación</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 3: Ciencias sociales y metodología de la investigación</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Actividades económicas · Sectores productivos · Demografía · Migración · Investigación científica · Marco teórico · Hipótesis</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Las actividades económicas",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Las actividades económicas son acciones que realizan las personas para producir, distribuir e intercambiar bienes y servicios.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'>Su finalidad es satisfacer necesidades individuales y colectivas mediante el aprovechamiento de recursos, el trabajo y la organización de los procesos productivos.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'>Se clasifican en tres grandes sectores: primario, secundario y terciario.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Sector primario",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>El sector primario comprende actividades que obtienen recursos directamente de la naturaleza.</p><ul class='text-lg text-slate-700 dark:text-slate-200 mt-3'><li><strong>Agricultura:</strong> cultivo de plantas y alimentos.</li><li><strong>Ganadería:</strong> crianza de animales.</li><li><strong>Pesca:</strong> captura de especies acuáticas.</li><li><strong>Silvicultura:</strong> aprovechamiento y cuidado de los bosques.</li><li><strong>Minería:</strong> extracción de minerales y materiales del subsuelo.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Sector secundario",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>El sector secundario transforma materias primas en productos elaborados o semielaborados.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'>Incluye actividades industriales, manufactureras y de construcción.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'>Su desarrollo depende de factores como la disponibilidad de materias primas, energía, infraestructura, tecnología, transporte y mano de obra.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Sector terciario",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>El sector terciario comprende actividades que ofrecen servicios y facilitan la distribución de bienes.</p><ul class='text-lg text-slate-700 dark:text-slate-200 mt-3'><li>Comercio y ventas.</li><li>Transporte y comunicaciones.</li><li>Educación y servicios de salud.</li><li>Turismo y actividades recreativas.</li><li>Servicios financieros y administrativos.</li></ul><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'>Su participación puede crecer conforme una economía se desarrolla.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Demografía y población",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>La demografía estudia las poblaciones humanas: su tamaño, composición, distribución territorial y evolución.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'>La población puede analizarse mediante características como edad, sexo, ocupación, escolaridad y lugar de residencia.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'><strong>Población económicamente activa:</strong> conjunto de personas que participan en el mercado laboral, ya sea trabajando o buscando empleo, según los criterios estadísticos utilizados.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Migración y movilidad humana",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>La migración es el desplazamiento de personas de un lugar a otro, generalmente con la intención de cambiar su residencia.</p><ul class='text-lg text-slate-700 dark:text-slate-200 mt-3'><li><strong>Interna:</strong> ocurre dentro de un mismo país.</li><li><strong>Internacional:</strong> implica cruzar fronteras nacionales.</li><li><strong>Temporal:</strong> se realiza por un periodo limitado.</li><li><strong>Definitiva:</strong> implica establecerse permanentemente en otro lugar.</li></ul><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'>Las causas pueden ser económicas, familiares, sociales, políticas o ambientales.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "El proceso de investigación",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>La investigación es un proceso sistemático que busca generar conocimientos y explicar fenómenos mediante la recopilación y el análisis de información.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'>Un esquema general comprende:</p><ul class='text-lg text-slate-700 dark:text-slate-200'><li>Delimitación del tema y planteamiento del problema.</li><li>Revisión de antecedentes y marco teórico.</li><li>Formulación de hipótesis.</li><li>Comprobación o contrastación.</li><li>Análisis de resultados y conclusiones.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Marco teórico y fuentes de información",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>El marco teórico reúne conceptos, antecedentes, teorías y estudios previos relacionados con el problema de investigación.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'>Su función es dar sustento al proyecto, orientar el análisis, ayudar a definir variables y relacionar el estudio con investigaciones anteriores.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'>Las fuentes bibliográficas deben identificarse y citarse para reconocer las aportaciones de otros autores.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Hipótesis, variables y muestreo",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'><strong>Hipótesis:</strong> explicación provisional que plantea una posible respuesta al problema y puede someterse a comprobación.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'><strong>Variable:</strong> característica que puede cambiar y observarse o medirse.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'><strong>Muestra:</strong> subconjunto de una población seleccionado para realizar un estudio. El muestreo puede ser probabilístico, como el aleatorio simple o sistemático.</p>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Actividad: Repaso de la Guía",
+      "instrucciones": "Responde las siguientes preguntas de tu Guía del Módulo 20. Conserva la numeración original de cada reactivo.",
+      "preguntas": [
+        13,
+        14,
+        19,
+        20,
+        21,
+        23,
+        25,
+        26,
+        31,
+        34,
+        37,
+        38
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Revisión de la actividad",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Revisa tus respuestas e identifica los conceptos que necesitas reforzar.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'>Distingue los sectores productivos, los tipos de migración y los elementos que integran un proyecto de investigación.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'>Recuerda que el marco teórico sustenta el estudio, la hipótesis plantea una explicación provisional y el muestreo permite seleccionar participantes o elementos de una población.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Pregunta 13",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Revisa la información complementaria en tu Guia. La clasificación de la minería como actividad secundaria en este reactivo no coincide con la clasificación económica convencional, por lo que conviene verificar el criterio utilizado en tu material.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "14. La división de actividades productivas se relaciona con el tipo de recurso utilizado, pero también tiene implicaciones en la extensión territorial. ¿Cuáles actividades tienen la ubicación territorial más extensa o generalizada?",
+      "opciones": [
+        "Primaria y terciaria",
+        "Secundaria",
+        "Primaria",
+        "Secundaria y terciaria"
+      ],
+      "correcta": 0,
+      "explicacion": "Las actividades primarias se distribuyen de acuerdo con los recursos naturales disponibles y las terciarias se extienden mediante los servicios y el comercio.",
+      "numero": 14
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "19. En demografía se denomina migración a:",
+      "opciones": [
+        "El incremento de la población de un lugar determinado",
+        "El movimiento o desplazamiento de los seres humanos sobre la superficie terrestre",
+        "La salida o entrada que ocurre diariamente de un lugar, ya sea país o estado",
+        "La relación existente entre la población que entra y la población que sale de un lugar"
+      ],
+      "correcta": 1,
+      "explicacion": "La migración es el desplazamiento de personas de un lugar a otro, generalmente con la intención de cambiar su residencia.",
+      "numero": 19
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Pregunta 20",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Consultar en tu Guia. El reactivo requiere una tabla o relación de características que no aparece completa en el documento proporcionado.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "21. Completa el enunciado: Las actividades productivas que buscan el aprovechamiento de recursos naturales NO renovables son las ____________, mientras que las actividades ____________ buscan el aprovechamiento de los recursos naturales renovables.",
+      "opciones": [
+        "Secundarias / primarias",
+        "Secundarias / terciarias",
+        "Primarias / secundarias",
+        "Primarias / terciarias"
+      ],
+      "correcta": 0,
+      "explicacion": "De acuerdo con la clasificación planteada por el reactivo, las actividades secundarias aprovechan recursos no renovables y las primarias recursos renovables.",
+      "numero": 21
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "23. Completa el siguiente enunciado con respecto a sectores de la producción: Cuando la economía de un país crece, se puede concluir que:",
+      "opciones": [
+        "Los sectores primario, secundario y terciario crecen en forma proporcional",
+        "Existe incremento de la participación del sector primario solamente",
+        "Se incrementa la participación sólo del sector secundario",
+        "El sector terciario va ocupando mayor proporción de la economía"
+      ],
+      "correcta": 3,
+      "explicacion": "El reactivo plantea que, conforme una economía crece y se desarrolla, el sector terciario puede adquirir una mayor participación.",
+      "numero": 23
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Pregunta 25",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Revisa la información complementaria en tu Guia.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "26. La definición de las fases del proceso de investigación depende del propósito, del tipo de investigación y del paradigma elegido. ¿Cuál opción establece un esquema correcto del proceso de investigación?",
+      "opciones": [
+        "Delimitación del tema → marco teórico → hipótesis → comprobación → conclusiones",
+        "Hipótesis → delimitación del tema → marco teórico → comprobación → conclusiones",
+        "Marco teórico → comprobación → hipótesis → delimitación del tema → conclusiones",
+        "Hipótesis → marco teórico → comprobación → delimitación del tema → conclusiones"
+      ],
+      "correcta": 0,
+      "explicacion": "El proceso inicia con la delimitación del tema, continúa con el marco teórico y la hipótesis, después se realiza la comprobación y finalmente se elaboran conclusiones.",
+      "numero": 26
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "31. El marco teórico es necesario en una investigación para: 1. Analizar e interpretar los datos. 2. Definir las variables e hipótesis. 3. Reunir resultados de campo. 4. Sustentar el trabajo en relación con otros investigadores. 5. Comprobar las hipótesis.",
+      "opciones": [
+        "1, 2 y 4",
+        "1, 2, 3 y 4",
+        "1, 3 y 5",
+        "2 y 4"
+      ],
+      "correcta": 3,
+      "explicacion": "El marco teórico permite definir conceptos, variables e hipótesis, además de sustentar la investigación mediante antecedentes y trabajos de otros investigadores.",
+      "numero": 31
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Pregunta 34",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Revisa la información complementaria en tu Guia.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Pregunta 37",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Revisa la información complementaria en tu Guia.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Pregunta 38",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Consultar en tu Guia. El caso que describe la selección de la muestra no aparece en el documento proporcionado.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 3",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Clase 3: Ciencias sociales y metodología de la investigación.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Con esta sesión concluye la revisión de los contenidos del Módulo 20. Repasa los conceptos y las preguntas de tu guía para preparar tu evaluación.</p>"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

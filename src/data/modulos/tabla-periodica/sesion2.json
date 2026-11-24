@@ -1,0 +1,303 @@
+{
+  "titulo": "Sesión 2: Grupos y familias",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Tabla Periódica de los Elementos",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Sesión 2: Grupos y familias</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Conoce las familias principales de la tabla periódica</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Alcalinos · Alcalinotérreos · Metales de transición · Halógenos · Gases nobles</p>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "¿Qué son las familias?",
+      "html": "<p>Las <strong>familias químicas</strong> son grupos de elementos que comparten propiedades similares porque tienen el <strong>mismo número de electrones en su última capa</strong> (electrones de valencia).</p><p>Esto hace que reaccionen de manera parecida con otros elementos.</p><p>Las familias más importantes de la tabla periódica son:</p><ul><li><strong>Metales alcalinos</strong> (grupo 1)</li><li><strong>Metales alcalinotérreos</strong> (grupo 2)</li><li><strong>Metales de transición</strong> (grupos 3-12)</li><li><strong>Halógenos</strong> (grupo 17)</li><li><strong>Gases nobles</strong> (grupo 18)</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "¿Por qué se agrupan así?",
+      "html": "<p>Los elementos de una misma familia comparten:</p><ul><li><strong>Electrones de valencia:</strong> todos tienen el mismo número en su última capa.</li><li><strong>Reactividad similar:</strong> reaccionan de manera parecida con otros elementos.</li><li><strong>Propiedades físicas parecidas:</strong> punto de fusión, ebullición, densidad.</li></ul><p><strong>Ejemplo:</strong> todos los metales alcalinos (Li, Na, K, Rb, Cs, Fr) tienen 1 electrón de valencia, por eso reaccionan violentamente con el agua.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Por qué los elementos de una misma familia tienen propiedades similares?",
+      "opciones": [
+        "Porque tienen la misma masa atómica",
+        "Porque tienen el mismo número de electrones de valencia",
+        "Porque fueron descubiertos en el mismo año",
+        "Porque tienen el mismo color"
+      ],
+      "correcta": 1,
+      "explicacion": "Los elementos de una misma familia comparten propiedades porque tienen el mismo número de electrones en su última capa (electrones de valencia)."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuántas familias principales se estudian en la tabla periódica?",
+      "opciones": [
+        "3",
+        "5",
+        "7",
+        "18"
+      ],
+      "correcta": 1,
+      "explicacion": "Las 5 familias principales son: alcalinos, alcalinotérreos, metales de transición, halógenos y gases nobles."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "Los elementos de una familia comparten el mismo número de:",
+      "opciones": [
+        "Neutrones",
+        "Protones",
+        "Electrones de valencia",
+        "Isótopos"
+      ],
+      "correcta": 2,
+      "explicacion": "Los elementos de una misma familia tienen el mismo número de electrones en su última capa (electrones de valencia)."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Metales alcalinos (Grupo 1)",
+      "html": "<p>Los <strong>metales alcalinos</strong> son los elementos del <strong>grupo 1</strong> de la tabla periódica (excepto el hidrógeno).</p><p><strong>Elementos:</strong> Litio (Li), Sodio (Na), Potasio (K), Rubidio (Rb), Cesio (Cs), Francio (Fr).</p><p><strong>Características:</strong></p><ul><li>Tienen <strong>1 electrón de valencia</strong>.</li><li>Son <strong>muy reactivos</strong>, especialmente con el agua.</li><li>Son blandos y se pueden cortar con un cuchillo.</li><li>Conducen muy bien la electricidad.</li><li>Tienen bajos puntos de fusión.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Metales alcalinos: reactividad",
+      "html": "<p>Los metales alcalinos son <strong>tan reactivos</strong> que deben guardarse en aceite para evitar que reaccionen con la humedad del aire.</p><p><strong>Reacción con agua:</strong> cuando un metal alcalino entra en contacto con el agua, produce hidrógeno gaseoso y calor. En el caso del sodio y potasio, la reacción puede ser <strong>violenta</strong>.</p><p><strong>Usos comunes:</strong></p><ul><li><strong>Litio:</strong> baterías recargables.</li><li><strong>Sodio:</strong> sal de mesa (NaCl), lámparas de vapor.</li><li><strong>Potasio:</strong> fertilizantes, funciones vitales en el cuerpo.</li></ul>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es la característica principal de los metales alcalinos?",
+      "opciones": [
+        "Tienen 2 electrones de valencia",
+        "Tienen 1 electrón de valencia y son muy reactivos",
+        "No reaccionan con nada",
+        "Son gases a temperatura ambiente"
+      ],
+      "correcta": 1,
+      "explicacion": "Los metales alcalinos (grupo 1) tienen 1 electrón de valencia, lo que los hace muy reactivos."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de los siguientes es un metal alcalino?",
+      "opciones": [
+        "Calcio (Ca)",
+        "Hierro (Fe)",
+        "Sodio (Na)",
+        "Cloro (Cl)"
+      ],
+      "correcta": 2,
+      "explicacion": "El sodio (Na) es un metal alcalino del grupo 1. El calcio es alcalinotérreo, el hierro es de transición y el cloro es un halógeno."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Por qué los metales alcalinos se guardan en aceite?",
+      "opciones": [
+        "Para que no se oxiden con el aire",
+        "Para que no pierdan su color",
+        "Para que no se evaporen",
+        "Para que no reaccionen violentamente con la humedad del aire"
+      ],
+      "correcta": 3,
+      "explicacion": "Los metales alcalinos son tan reactivos que reaccionan con la humedad del aire. Se guardan en aceite para evitar esa reacción."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Metales alcalinotérreos (Grupo 2)",
+      "html": "<p>Los <strong>metales alcalinotérreos</strong> son los elementos del <strong>grupo 2</strong> de la tabla periódica.</p><p><strong>Elementos:</strong> Berilio (Be), Magnesio (Mg), Calcio (Ca), Estroncio (Sr), Bario (Ba), Radio (Ra).</p><p><strong>Características:</strong></p><ul><li>Tienen <strong>2 electrones de valencia</strong>.</li><li>Son reactivos, pero <strong>menos que los alcalinos</strong>.</li><li>Son más duros y tienen puntos de fusión más altos.</li><li>Forman compuestos con número de oxidación +2.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Metales alcalinotérreos: usos",
+      "html": "<p>Estos metales son muy importantes en la vida cotidiana:</p><ul><li><strong>Berilio (Be):</strong> aleaciones ligeras para la industria aeroespacial.</li><li><strong>Magnesio (Mg):</strong> parte de la clorofila en las plantas, también en fuegos artificiales.</li><li><strong>Calcio (Ca):</strong> huesos y dientes, cemento, yeso, cal.</li><li><strong>Estroncio (Sr):</strong> fuegos artificiales de color rojo.</li><li><strong>Bario (Ba):</strong> estudios médicos con rayos X.</li></ul>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuántos electrones de valencia tienen los metales alcalinotérreos?",
+      "opciones": [
+        "1",
+        "2",
+        "3",
+        "8"
+      ],
+      "correcta": 1,
+      "explicacion": "Los metales alcalinotérreos (grupo 2) tienen 2 electrones de valencia, por eso forman compuestos con número de oxidación +2."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de los siguientes es un metal alcalinotérreo?",
+      "opciones": [
+        "Litio (Li)",
+        "Calcio (Ca)",
+        "Hierro (Fe)",
+        "Flúor (F)"
+      ],
+      "correcta": 1,
+      "explicacion": "El calcio (Ca) es un metal alcalinotérreo del grupo 2. El litio es alcalino, el hierro es de transición y el flúor es un halógeno."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de los siguientes metales es esencial para los huesos y dientes?",
+      "opciones": [
+        "Sodio (Na)",
+        "Calcio (Ca)",
+        "Cobre (Cu)",
+        "Oro (Au)"
+      ],
+      "correcta": 1,
+      "explicacion": "El calcio (Ca) es fundamental para la formación y mantenimiento de huesos y dientes."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Metales de transición (Grupos 3-12)",
+      "html": "<p>Los <strong>metales de transición</strong> ocupan los <strong>grupos 3 al 12</strong> de la tabla periódica. Es el bloque más grande y contiene los metales más conocidos.</p><p><strong>Elementos:</strong> Hierro (Fe), Cobre (Cu), Zinc (Zn), Plata (Ag), Oro (Au), Níquel (Ni), Cobalto (Co), Titanio (Ti), Cromo (Cr), entre muchos otros.</p><p><strong>Características:</strong></p><ul><li>Son <strong>metales duros</strong> y brillantes.</li><li>Conducen muy bien <strong>calor y electricidad</strong>.</li><li>Tienen altos puntos de fusión y ebullición.</li><li>Forman <strong>compuestos coloridos</strong>.</li><li>Pueden tener varios estados de oxidación.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Metales de transición: usos",
+      "html": "<p>Estos metales son esenciales en la industria y la vida diaria:</p><ul><li><strong>Hierro (Fe):</strong> acero, construcciones, herramientas.</li><li><strong>Cobre (Cu):</strong> cables eléctricos, monedas, tuberías.</li><li><strong>Zinc (Zn):</strong> recubrimiento para evitar la corrosión del hierro.</li><li><strong>Plata (Ag):</strong> joyería, espejos, conductores eléctricos.</li><li><strong>Oro (Au):</strong> joyería, reservas económicas, electrónica.</li><li><strong>Titanio (Ti):</strong> implantes médicos, aeronáutica.</li></ul>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿En qué grupos de la tabla periódica se ubican los metales de transición?",
+      "opciones": [
+        "Grupos 1 y 2",
+        "Grupos 3 al 12",
+        "Grupos 13 al 18",
+        "Grupos 1 al 18"
+      ],
+      "correcta": 1,
+      "explicacion": "Los metales de transición ocupan los grupos 3 al 12 de la tabla periódica."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de los siguientes es un metal de transición?",
+      "opciones": [
+        "Sodio (Na)",
+        "Calcio (Ca)",
+        "Cobre (Cu)",
+        "Argón (Ar)"
+      ],
+      "correcta": 2,
+      "explicacion": "El cobre (Cu) es un metal de transición. El sodio es alcalino, el calcio alcalinotérreo y el argón es un gas noble."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Qué metal de transición se usa principalmente en cables eléctricos?",
+      "opciones": [
+        "Oro (Au)",
+        "Cobre (Cu)",
+        "Titanio (Ti)",
+        "Cromo (Cr)"
+      ],
+      "correcta": 1,
+      "explicacion": "El cobre (Cu) es un excelente conductor eléctrico y se usa ampliamente en cables y alambres eléctricos."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Halógenos (Grupo 17)",
+      "html": "<p>Los <strong>halógenos</strong> son los elementos del <strong>grupo 17</strong> de la tabla periódica.</p><p><strong>Elementos:</strong> Flúor (F), Cloro (Cl), Bromo (Br), Yodo (I), Astato (At).</p><p><strong>Características:</strong></p><ul><li>Tienen <strong>7 electrones de valencia</strong>.</li><li>Son <strong>muy reactivos</strong> (solo les falta 1 electrón para completar el octeto).</li><li>Son <strong>no metales</strong>.</li><li>Forman compuestos con los metales alcalinos: por ejemplo, NaCl (sal de mesa).</li><li>Son tóxicos en su forma elemental.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Halógenos: usos",
+      "html": "<p>Los halógenos son muy útiles en la vida diaria y la industria:</p><ul><li><strong>Flúor (F):</strong> pasta de dientes, teflón, refrigerantes.</li><li><strong>Cloro (Cl):</strong> desinfectante para agua, blanqueador, PVC, sal de mesa.</li><li><strong>Bromo (Br):</strong> retardantes de fuego, medicamentos.</li><li><strong>Yodo (I):</strong> antiséptico, sal yodada, tiroides.</li></ul><p><strong>Truco:</strong> la palabra \"halógeno\" significa <em>formador de sales</em> porque reaccionan con metales para formar sales (como NaCl).</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuántos electrones de valencia tienen los halógenos?",
+      "opciones": [
+        "1",
+        "2",
+        "7",
+        "8"
+      ],
+      "correcta": 2,
+      "explicacion": "Los halógenos (grupo 17) tienen 7 electrones de valencia, por eso solo les falta 1 para completar el octeto. Esto los hace muy reactivos."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de los siguientes es un halógeno?",
+      "opciones": [
+        "Sodio (Na)",
+        "Cloro (Cl)",
+        "Calcio (Ca)",
+        "Neón (Ne)"
+      ],
+      "correcta": 1,
+      "explicacion": "El cloro (Cl) es un halógeno del grupo 17. El sodio es alcalino, el calcio alcalinotérreo y el neón es un gas noble."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Qué halógeno se usa comúnmente en la pasta de dientes para prevenir caries?",
+      "opciones": [
+        "Cloro (Cl)",
+        "Bromo (Br)",
+        "Flúor (F)",
+        "Yodo (I)"
+      ],
+      "correcta": 2,
+      "explicacion": "El flúor (F) se usa en la pasta de dientes porque ayuda a prevenir las caries dentales."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Gases nobles (Grupo 18)",
+      "html": "<p>Los <strong>gases nobles</strong> son los elementos del <strong>grupo 18</strong> de la tabla periódica. Son los elementos <strong>más estables</strong> de la tabla.</p><p><strong>Elementos:</strong> Helio (He), Neón (Ne), Argón (Ar), Kriptón (Kr), Xenón (Xe), Radón (Rn).</p><p><strong>Características:</strong></p><ul><li>Tienen <strong>8 electrones de valencia</strong> (excepto el helio, que tiene 2).</li><li>Cumplen la <strong>regla del octeto</strong>, por eso no reaccionan con otros elementos.</li><li>Son <strong>gases incoloros e inodoros</strong> a temperatura ambiente.</li><li>Son muy poco reactivos (se les llama también <em>gases inertes</em>).</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Gases nobles: usos",
+      "html": "<p>Los gases nobles tienen aplicaciones muy interesantes:</p><ul><li><strong>Helio (He):</strong> globos, dirigibles, criogenia (enfriar a temperaturas muy bajas).</li><li><strong>Neón (Ne):</strong> letreros luminosos de color rojo-naranja.</li><li><strong>Argón (Ar):</strong> bombillas, soldadura, atmósferas protectoras.</li><li><strong>Kriptón (Kr):</strong> lámparas de alta intensidad, láseres.</li><li><strong>Xenón (Xe):</strong> lámparas de xenón para autos, anestesia.</li><li><strong>Radón (Rn):</strong> es radiactivo y se usa en medicina.</li></ul>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuántos electrones de valencia tienen los gases nobles?",
+      "opciones": [
+        "1",
+        "2",
+        "7",
+        "8 (excepto el helio, que tiene 2)"
+      ],
+      "correcta": 3,
+      "explicacion": "Los gases nobles tienen 8 electrones de valencia (octeto completo), excepto el helio que tiene solo 2. Por eso son tan estables."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de los siguientes es un gas noble?",
+      "opciones": [
+        "Cloro (Cl)",
+        "Argón (Ar)",
+        "Calcio (Ca)",
+        "Sodio (Na)"
+      ],
+      "correcta": 1,
+      "explicacion": "El argón (Ar) es un gas noble del grupo 18. El cloro es un halógeno, el calcio es alcalinotérreo y el sodio es alcalino."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Por qué los gases nobles no reaccionan con otros elementos?",
+      "opciones": [
+        "Porque son muy pesados",
+        "Porque ya tienen 8 electrones en su última capa (regla del octeto)",
+        "Porque son radiactivos",
+        "Porque son líquidos"
+      ],
+      "correcta": 1,
+      "explicacion": "Los gases nobles son muy estables porque cumplen la regla del octeto: tienen 8 electrones en su última capa (excepto el helio que tiene 2)."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Resumen de la Sesión 2",
+      "html": "<p>Repasemos las 5 familias principales:</p><table class='w-full text-left my-3 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-2'>Familia</th><th class='py-2'>Grupo</th><th class='py-2'>e⁻ valencia</th><th class='py-2'>Ejemplos</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-2'>Alcalinos</td><td class='py-2'>1</td><td class='py-2'>1</td><td class='py-2'>Li, Na, K</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Alcalinotérreos</td><td class='py-2'>2</td><td class='py-2'>2</td><td class='py-2'>Be, Mg, Ca</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Transición</td><td class='py-2'>3-12</td><td class='py-2'>Variable</td><td class='py-2'>Fe, Cu, Zn, Ag, Au</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Halógenos</td><td class='py-2'>17</td><td class='py-2'>7</td><td class='py-2'>F, Cl, Br, I</td></tr><tr><td class='py-2'>Gases nobles</td><td class='py-2'>18</td><td class='py-2'>8</td><td class='py-2'>He, Ne, Ar, Kr</td></tr></tbody></table><p>En la siguiente sesión veremos <strong>metales, no metales y metaloides</strong>.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Sesión 2",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Sesión 2</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Grupos y familias</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Nos vemos en la Sesión 3: Metales, no metales y metaloides</p>"
+    }
+  ]
+}

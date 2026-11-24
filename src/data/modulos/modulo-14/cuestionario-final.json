@@ -1,0 +1,461 @@
+{
+  "titulo": "Cuestionario Final: Fenómenos sociales y modelos económicos",
+  "preguntas": [
+    {
+      "pregunta": "1. ¿Cuál es la expresión que indica el resultado del logaritmo de dos números positivos?",
+      "opciones": [
+        "log A + log B",
+        "[opción B no aparece legible en el material fuente]",
+        "(log A)(log B)",
+        "log A − log B"
+      ],
+      "correcta": 0,
+      "explicacion": "El logaritmo de un producto es la suma de los logaritmos de sus factores.",
+      "numero": 1
+    },
+    {
+      "pregunta": "2. Relaciona los tipos de riesgo con sus ejemplos. 1) Efectivo en casa que otra persona puede sustraer. 2) Inflación, devaluación y situación económica. 3) Una persona adquiere CETES o bonos y el título baja de precio. Tipos: a) Del sistema; b) Interés; c) Crédito; d) Robo.",
+      "opciones": [
+        "[1-b] [2-a] [3-c]",
+        "[1-c] [2-b] [3-d]",
+        "[1-d] [2-a] [3-b]",
+        "[1-d] [2-c] [3-b]"
+      ],
+      "correcta": 2,
+      "explicacion": "La combinación es [1-d] [2-a] [3-b]: robo, riesgo del sistema y riesgo de interés.",
+      "numero": 2
+    },
+    {
+      "pregunta": "3. ¿Cuáles de las siguientes opciones corresponden a las actividades de las AFORES? 1. Invertir el dinero de las cuentas individuales. 2. Administrar el dinero de la cuenta individual del SAR. 3. Informar al trabajador al menos cada año sobre la cantidad ahorrada.",
+      "opciones": [
+        "Sólo 1",
+        "1 y 3",
+        "2 y 3",
+        "Sólo 2"
+      ],
+      "correcta": 2,
+      "explicacion": "Las AFORE administran las cuentas individuales e informan periódicamente su saldo; las SIEFORE realizan las inversiones.",
+      "numero": 3
+    },
+    {
+      "pregunta": "4. Relaciona los tipos de tasas de interés con sus definiciones. 1) Tasa ajustada para eliminar los efectos de la inflación. 2) Tasa declarada normalmente para periodos de un año. 3) Tasa generada sobre el capital inicial y los intereses reinvertidos. Tipos: a) Simple; b) Real; c) Compuesto; d) Nominal.",
+      "opciones": [
+        "[1-c] [2-a] [3-b]",
+        "[1-a] [2-c] [3-d]",
+        "[1-b] [2-d] [3-c]",
+        "[1-a] [2-b] [3-d]"
+      ],
+      "correcta": 2,
+      "explicacion": "La tasa real ajusta por inflación, la nominal se declara para el periodo y la compuesta incorpora intereses reinvertidos.",
+      "numero": 4
+    },
+    {
+      "pregunta": "5. Clasifica como verdaderos (V) o falsos (F) los enunciados. 1. El interés descontado se calcula sobre el valor nominal del préstamo y se paga anticipadamente. 2. El interés aditivo se agrega a los fondos recibidos para determinar el valor nominal de un préstamo en bonos. 3. El interés simple se gana sobre el capital inicial y los intereses reinvertidos.",
+      "opciones": [
+        "F, F, V",
+        "V, V, F",
+        "V, F, F",
+        "F, V, V"
+      ],
+      "correcta": 1,
+      "explicacion": "Los dos primeros enunciados son verdaderos; el tercero describe el interés compuesto, no el simple.",
+      "numero": 5
+    },
+    {
+      "pregunta": "6. Clasifica como verdaderos (V) o falsos (F) los enunciados sobre instituciones de crédito. 1. Las empresas de factoraje adelantan al dueño del derecho de cobro el importe menos una comisión. 2. Las uniones de crédito facilitan el crédito a sus socios y pueden recibir préstamos. 3. El bono de prenda permite vender mercancía sin movilizarla y lo expiden los almacenes generales de depósito.",
+      "opciones": [
+        "F, V, F",
+        "F, V, V",
+        "V, V, F",
+        "V, F, V"
+      ],
+      "correcta": 2,
+      "explicacion": "El factoraje adelanta el cobro con una comisión y las uniones de crédito atienden a sus socios; el tercer enunciado es falso.",
+      "numero": 6
+    },
+    {
+      "pregunta": "7. ¿Cuál es la institución cuyo propósito es promover el ahorro, financiamiento y la inversión en el sector integrado por entidades de ahorro y crédito popular?",
+      "opciones": [
+        "Comercial",
+        "Bansefi",
+        "Sofoles",
+        "Desarrollo"
+      ],
+      "correcta": 1,
+      "explicacion": "Bansefi promueve el ahorro, financiamiento e inversión popular.",
+      "numero": 7
+    },
+    {
+      "pregunta": "8. ¿Cómo se llama el plazo durante el cual una persona está dispuesta a mantener invertido su capital sin prever que lo necesitará para otros fines?",
+      "opciones": [
+        "Objeto de la inversión",
+        "Valor residual",
+        "Horizonte temporal",
+        "Coste de la inversión"
+      ],
+      "correcta": 2,
+      "explicacion": "El horizonte temporal es el periodo durante el cual se mantiene una inversión.",
+      "numero": 8
+    },
+    {
+      "pregunta": "9. Relaciona los tipos de gastos con sus ejemplos. Tipos: 1) Gasto social. 2) Gasto público corriente. Ejemplos: a) Educación; b) Limpieza de inmueble; c) Salarios de empleados; d) Vivienda; e) Prestaciones laborales; f) Salud.",
+      "opciones": [
+        "[1-a, d, f] [2-b, c, e]",
+        "[1-a, c] [2-b, d, e, f]",
+        "[1-b, e, f] [2-a, c, d]",
+        "[1-b, d] [2-a, c, e, f]"
+      ],
+      "correcta": 0,
+      "explicacion": "Educación, vivienda y salud son gasto social; limpieza, salarios y prestaciones son gasto público corriente.",
+      "numero": 9
+    },
+    {
+      "pregunta": "10. ¿Es verdad que el riesgo de volatilidad consiste en no poder cambiar un valor o instrumento por su equivalente en dinero?",
+      "opciones": [
+        "No, la volatilidad es el grado en que varía el precio o interés del instrumento con el tiempo.",
+        "Sí, puede faltar liquidez para solventar gastos inmediatos por fluctuaciones económicas.",
+        "No, esa explicación corresponde al riesgo de crédito.",
+        "Sí, al no poder cambiar el instrumento queda volátil la liquidez inmediata."
+      ],
+      "correcta": 0,
+      "explicacion": "La volatilidad mide cambios de precio o interés; la dificultad de convertir un activo en efectivo es riesgo de liquidez.",
+      "numero": 10
+    },
+    {
+      "pregunta": "11. ¿Qué haces cuando recibes el resultado de un examen con ejercicios de créditos y tus resultados no son los esperados?",
+      "opciones": [
+        "Revisas por tu cuenta en qué te equivocaste e identificas la respuesta correcta.",
+        "Solicitas una revisión para que el asesor te señale los errores.",
+        "Aceptas la calificación porque ya no hay forma de modificarla.",
+        "Si apruebas, no haces nada ni identificas qué te faltó."
+      ],
+      "correcta": 0,
+      "explicacion": "Revisar los errores permite identificar qué corregir y aprender del resultado.",
+      "numero": 11
+    },
+    {
+      "pregunta": "12. Participas en una mesa sobre los factores que fomentan la migración mexicana a Estados Unidos. Simpatizas con MIO, reconoces opiniones aceptables de SUYO y TUYO es mayoritario. ¿Cómo actúas?",
+      "opciones": [
+        "Repites los argumentos de TUYO para convencer a los demás.",
+        "Omites las opiniones razonables de SUYO para no mostrar simpatía por ese partido.",
+        "Expresas opiniones basadas sólo en MIO para ser congruente con tu simpatía.",
+        "Expresas tus opiniones y comentas argumentos de MIO, SUYO y TUYO aunque no siempre coincidan con lo que piensas."
+      ],
+      "correcta": 3,
+      "explicacion": "Una participación informada considera argumentos pertinentes de distintas posturas.",
+      "numero": 12
+    },
+    {
+      "pregunta": "13. Selecciona los factores políticos que propician la migración humana: 1. Censura a la libre expresión en Cuba. 2. Éxodo judío al actual territorio de Israel. 3. Idealización del sueño americano. 4. Persecución de civiles por el gobierno franquista. 5. Religión diferente a la musulmana en los Balcanes. 6. Traslado obligado de judíos durante la Segunda Guerra Mundial.",
+      "opciones": [
+        "3, 4, 5, 6",
+        "1 y 4",
+        "1, 2, 3, 5",
+        "2 y 6"
+      ],
+      "correcta": 1,
+      "explicacion": "La censura y la persecución de civiles son factores políticos directos.",
+      "numero": 13
+    },
+    {
+      "pregunta": "14. Analiza la tabla de tasas de analfabetismo y población aproximada de países latinoamericanos. Argentina: 1.4%, 41 millones; Brasil: 13.0%, 190; Chile: 2.8%, 17; Colombia: 4.6%, 46; Costa Rica: 5.3%, 5; Ecuador: 12.0%, 14; El Salvador: 10.4%, 6; Guatemala: 16.0%, 15; Honduras: 10.4%, 8. ¿Cuál afirmación es correcta?",
+      "opciones": [
+        "Honduras supera a todos los países latinoamericanos en índice de analfabetismo.",
+        "Brasil, de acuerdo con su población, es el país latinoamericano con menor analfabetismo.",
+        "El país latinoamericano con mayor tasa de analfabetismo es Guatemala.",
+        "El Salvador, de acuerdo con su población, tiene más analfabetas que Honduras."
+      ],
+      "correcta": 2,
+      "explicacion": "Guatemala registra la mayor tasa de analfabetismo de la tabla: 16.0%.",
+      "numero": 14
+    },
+    {
+      "pregunta": "15. ¿En cuántos meses se obtendrán $120,000 al invertir $40,000 con interés simple del 5% bimestral?",
+      "opciones": [
+        "80",
+        "60",
+        "30",
+        "40"
+      ],
+      "correcta": 0,
+      "explicacion": "Se requieren 40 bimestres, equivalentes a 80 meses.",
+      "numero": 15
+    },
+    {
+      "pregunta": "16. Relaciona los modelos de crecimiento poblacional con las fórmulas. Modelos: 1) Tasa de crecimiento local. 2) Crecimiento poblacional logístico. 3) Tasa de crecimiento. Fórmulas: a) r = b − d; b) dN/dt = rN; c) dN/dt = rN(k − N)/k; d) r = (b − d) + (i − e).",
+      "opciones": [
+        "[1-d] [2-b] [3-c]",
+        "[1-c] [2-b] [3-a]",
+        "[1-c] [2-b] [3-a]",
+        "[1-a] [2-c] [3-d]"
+      ],
+      "correcta": 3,
+      "explicacion": "La tasa local incluye migración (d), el modelo logístico corresponde a la fórmula logística (c) y la tasa natural es b − d (a). Nota: el texto fuente repite dos opciones y no ofrece la combinación [1-d] [2-c] [3-a]; se conserva el reactivo tal como aparece.",
+      "numero": 16
+    },
+    {
+      "pregunta": "17. Analiza la gráfica de los principales países que recibieron remesas por trabajo en 2001. Las cantidades se expresan en miles de millones de dólares. ¿Qué aseveraciones son verdaderas? 1. México ocupa el segundo lugar mundial en recepción de remesas. 2. Turquía recibe la mitad de las remesas de México. 3. Filipinas recibe el doble de remesas que Marruecos.",
+      "opciones": [
+        "1 y 3",
+        "2 y 3",
+        "Sólo 2",
+        "Sólo 1"
+      ],
+      "correcta": 0,
+      "explicacion": "De acuerdo con los datos de la gráfica, las aseveraciones 1 y 3 son verdaderas.",
+      "numero": 17
+    },
+    {
+      "pregunta": "18. ¿Puedes elaborar una representación gráfica de los pasos para realizar un análisis sociodemográfico usando funciones exponenciales?",
+      "opciones": [
+        "Conoces los pasos, pero se te dificulta ordenarlos para explicarlos por escrito o gráficamente.",
+        "No puedes elaborar ni explicar la gráfica, aunque conoces la mayoría de los pasos y puedes utilizar los datos como tabla.",
+        "Sí; conoces los pasos y, con los datos, puedes explicar cada elemento.",
+        "Conoces los pasos, pero se te complica interpretar y organizar los datos o explicarlos."
+      ],
+      "correcta": 2,
+      "explicacion": "La opción C expresa que puede elaborar y explicar la representación conociendo los pasos y los datos.",
+      "numero": 18
+    },
+    {
+      "pregunta": "19. ¿Qué haces si tu asesor te da material extra sobre variación poblacional y no logras entenderlo?",
+      "opciones": [
+        "Esperas a que alguien más le pregunte al asesor.",
+        "Le pides al asesor que lo explique con otro ejemplo.",
+        "Buscas más referencias para tratar de entenderlo.",
+        "Te reúnes con compañeros para revisarlo entre todos."
+      ],
+      "correcta": 1,
+      "explicacion": "Pedir otro ejemplo al asesor puede aclarar el contenido.",
+      "numero": 19
+    },
+    {
+      "pregunta": "20. ¿Cómo se llama el valor monetario de los bienes y servicios finales producidos por una economía en un periodo determinado?",
+      "opciones": [
+        "Producto interno bruto",
+        "Producto interno bruto nominal",
+        "Poder adquisitivo neto",
+        "Producto interno bruto real"
+      ],
+      "correcta": 0,
+      "explicacion": "El PIB mide el valor de los bienes y servicios finales producidos durante un periodo.",
+      "numero": 20
+    },
+    {
+      "pregunta": "21. ¿Cuál institución promueve el ahorro, financiamiento e inversión en un sector integrado por entidades de ahorro y crédito popular?",
+      "opciones": [
+        "Comercial",
+        "Bansefi",
+        "Desarrollo",
+        "Sofoles"
+      ],
+      "correcta": 1,
+      "explicacion": "Bansefi promueve el ahorro y el financiamiento popular.",
+      "numero": 21
+    },
+    {
+      "pregunta": "22. ¿Cómo se denomina el tipo de inversión en activos extranjeros mediante el cual una compañía compra acciones de compañías propietarias de esos activos?",
+      "opciones": [
+        "Indirecta",
+        "Directa",
+        "Financieras",
+        "Cartera"
+      ],
+      "correcta": 3,
+      "explicacion": "La inversión de cartera consiste en adquirir instrumentos financieros, como acciones, sin controlar directamente la empresa.",
+      "numero": 22
+    },
+    {
+      "pregunta": "23. ¿Qué tipo de riesgo está influido por inflación, devaluación y situación económica general del país, y no puede eliminarse cambiando de institución financiera?",
+      "opciones": [
+        "Del sistema",
+        "De crédito",
+        "De mercado",
+        "De interés"
+      ],
+      "correcta": 0,
+      "explicacion": "El riesgo del sistema proviene de condiciones económicas generales que afectan al país.",
+      "numero": 23
+    },
+    {
+      "pregunta": "24. Desde el punto de vista de un prestamista, ¿cómo se define el interés?",
+      "opciones": [
+        "Precio que se tiene que pagar por utilizar el dinero.",
+        "Compensación por permitir a otro utilizar su dinero.",
+        "Valor que se le da al uso del dinero de otra persona.",
+        "Precio por el uso del dinero ajeno durante un tiempo."
+      ],
+      "correcta": 1,
+      "explicacion": "Para el prestamista, el interés es la compensación por ceder el uso de su dinero.",
+      "numero": 24
+    },
+    {
+      "pregunta": "25. El tipo de interés que se cobra considerando comisiones, depósitos y otros cargos anexos al crédito se denomina:",
+      "opciones": [
+        "Nominal",
+        "Simple",
+        "Compuesto",
+        "Efectivo"
+      ],
+      "correcta": 3,
+      "explicacion": "La tasa efectiva considera comisiones y otros cargos o aportaciones asociados al crédito.",
+      "numero": 25
+    },
+    {
+      "pregunta": "26. Si Alfredo deposita $1,000 en una cuenta de ahorro que paga 6% de interés anual, ¿cuánto tendrá después de dos años si no realiza retiros?",
+      "opciones": [
+        "1,123.6",
+        "1,200.0",
+        "112.38",
+        "2,120.0"
+      ],
+      "correcta": 0,
+      "explicacion": "Con capitalización anual, 1000(1.06)^2 = 1123.60.",
+      "numero": 26
+    },
+    {
+      "pregunta": "27. Calcula la tasa de crecimiento absoluto del municipio de Tula si tenía 256,986 habitantes en 1992 y 845,276 en 2007.",
+      "opciones": [
+        "TC = 228.91",
+        "TC = 3.28",
+        "TC = 2.28",
+        "TC = 392.19"
+      ],
+      "correcta": 0,
+      "explicacion": "(845276 − 256986) / 256986 × 100 ≈ 228.91%.",
+      "numero": 27
+    },
+    {
+      "pregunta": "28. ¿A qué se le denomina modelo?",
+      "opciones": [
+        "Conjetura que se formula para responder una pregunta de investigación.",
+        "Representación de la realidad mediante conceptos, símbolos o relaciones matemáticas.",
+        "Interrogante sobre el funcionamiento de fenómenos naturales y sociales.",
+        "Método de investigación que permite establecer conceptos y relaciones matemáticas."
+      ],
+      "correcta": 1,
+      "explicacion": "Un modelo representa de forma simplificada la realidad mediante conceptos, símbolos o relaciones.",
+      "numero": 28
+    },
+    {
+      "pregunta": "29. En términos económicos, ¿cuál condición es necesaria para afirmar que aumenta la riqueza económica de una nación?",
+      "opciones": [
+        "Cuando el crecimiento del PIB es mayor al crecimiento de la población.",
+        "Cuando el aumento del valor agregado es mayor al valor de producción.",
+        "Cuando el crecimiento del valor agregado es proporcional al índice poblacional.",
+        "Cuando el crecimiento del PIB es paralelo al crecimiento de la población."
+      ],
+      "correcta": 0,
+      "explicacion": "Si el PIB crece más que la población, aumenta el producto promedio por habitante.",
+      "numero": 29
+    },
+    {
+      "pregunta": "30. Para determinar el crecimiento de una población se toman en cuenta natalidad, mortalidad, inmigración y emigración. ¿Cuál gráfica representa una población con alta tasa de mortalidad y baja tasa de natalidad?",
+      "opciones": [
+        "Imagen 1",
+        "Imagen 2",
+        "Imagen 3",
+        "Imagen 4"
+      ],
+      "correcta": 2,
+      "explicacion": "La opción señalada corresponde a la gráfica con mortalidad alta y natalidad baja.",
+      "numero": 30
+    },
+    {
+      "pregunta": "31. ¿Cuál tipo de interés se carga sobre la base del monto solicitado de un préstamo?",
+      "opciones": [
+        "Aditivo.",
+        "Descontado.",
+        "Efectivo.",
+        "Simple."
+      ],
+      "correcta": 0,
+      "explicacion": "El interés aditivo se calcula sobre el monto solicitado del préstamo.",
+      "numero": 31
+    },
+    {
+      "pregunta": "32. Encuentra el valor de x en logₓ 27 = 3.",
+      "opciones": [
+        "1/3",
+        "9",
+        "3",
+        "19683"
+      ],
+      "correcta": 2,
+      "explicacion": "Como 3³ = 27, la base x es 3.",
+      "numero": 32
+    },
+    {
+      "pregunta": "33. Encuentra el valor de x en la expresión log x = 3.",
+      "opciones": [
+        "9",
+        "∛2",
+        "√3",
+        "8"
+      ],
+      "correcta": 3,
+      "explicacion": "Se conserva la opción marcada en la versión anterior del cuestionario; el texto pegado no incluye la notación completa de la base del logaritmo.",
+      "numero": 33
+    },
+    {
+      "pregunta": "34. ¿Qué elementos considera la tasa de interés real (TIR) para su cálculo?",
+      "opciones": [
+        "Tasa de interés nominal y ganancia anual total.",
+        "Ganancia anual total y tasa de inflación esperada.",
+        "Tasa de interés nominal y tasa de inflación esperada.",
+        "Tasa efectiva de interés y tasa de inflación esperada."
+      ],
+      "correcta": 2,
+      "explicacion": "La tasa real considera la tasa nominal y la inflación esperada.",
+      "numero": 34
+    },
+    {
+      "pregunta": "35. Selecciona las cualidades que corresponden a la tasa de natalidad: 1. Incrementa el tamaño de la población. 2. Reduce el tamaño de la población. 3. Frecuencia con que los organismos producen descendencia. 4. Frecuencia con que los organismos mueren.",
+      "opciones": [
+        "2 y 4",
+        "2 y 3",
+        "1 y 4",
+        "1 y 3"
+      ],
+      "correcta": 3,
+      "explicacion": "La natalidad incrementa el tamaño de la población y mide la frecuencia de producción de descendencia.",
+      "numero": 35
+    },
+    {
+      "pregunta": "36. ¿Cuál es la finalidad de realizar una inversión?",
+      "opciones": [
+        "Incrementar eficazmente el capital inicial.",
+        "Destinar capital a una causa específica.",
+        "Guardar un capital para su uso posterior.",
+        "Mantener la disponibilidad del capital inicial."
+      ],
+      "correcta": 0,
+      "explicacion": "Una finalidad de la inversión es obtener rendimiento e incrementar el capital.",
+      "numero": 36
+    },
+    {
+      "pregunta": "37. La rentabilidad mide la relación entre beneficio e inversión. Si Mario invierte $100,000 y obtiene una rentabilidad de 20% al término del primer año, ¿a cuánto crece su inversión inicial?",
+      "opciones": [
+        "$120,000",
+        "$100,020",
+        "$110,000",
+        "$150,000"
+      ],
+      "correcta": 0,
+      "explicacion": "El 20% de $100,000 es $20,000; el total es $120,000.",
+      "numero": 37
+    },
+    {
+      "pregunta": "38. Juan ahorra 20% de su sueldo mensual. Si gana $120 diarios y trabaja de lunes a viernes, ¿cuánto reúne en 2 meses?",
+      "opciones": [
+        "$480",
+        "$960",
+        "$96",
+        "$48"
+      ],
+      "correcta": 1,
+      "explicacion": "Considerando cuatro semanas por mes, gana $2,400 mensuales; el 20% durante dos meses suma $960.",
+      "numero": 38
+    }
+  ]
+}

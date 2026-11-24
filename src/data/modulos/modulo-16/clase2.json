@@ -1,0 +1,78 @@
+{
+  "titulo": "Clase 2: Estequiometría y Reacciones Químicas",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 16",
+      "html": "<p class='text-2xl text-slate-100'>Hacia un Desarrollo Sustentable</p><p class='text-lg text-slate-200 mt-4'>Clase 2: Estequiometría y Reacciones Químicas</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "¿Qué es una reacción química?",
+      "html": "<p>Una <strong>reacción química</strong> es un proceso en el que una o más sustancias (los <strong>reactivos</strong>) se transforman en otras sustancias diferentes (los <strong>productos</strong>).</p><p>Durante la reacción, los átomos se reorganizan, pero <strong>no se crean ni se destruyen</strong>.</p><p>Se representa con una ecuación química. Ejemplo:</p><p class='font-mono text-center text-lg my-4 text-slate-100'>CH₄ + 2O₂ → CO₂ + 2H₂O</p><ul><li><strong>Reactivos:</strong> lo que está a la izquierda de la flecha.</li><li><strong>Productos:</strong> lo que está a la derecha.</li><li><strong>Coeficientes:</strong> los números que multiplican cada sustancia.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Balanceo de ecuaciones",
+      "html": "<p>Una ecuación está <strong>balanceada</strong> cuando hay el mismo número de átomos de cada elemento en reactivos y productos.</p><p>Esto refleja la <strong>Ley de conservación de la masa</strong>: la materia no se crea ni se destruye, solo se transforma.</p><p><strong>Ejemplo:</strong> H₂ + O₂ → H₂O (sin balancear)</p><p><strong>Balanceada:</strong> <span class='font-mono text-slate-100'>2H₂ + O₂ → 2H₂O</span> (4 H y 2 O en cada lado)</p><p>Se ajustan los <strong>coeficientes</strong>, nunca los subíndices de las fórmulas.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Masa molar y mol",
+      "html": "<p>La <strong>masa atómica</strong> es la masa de un átomo de un elemento (se encuentra en la Tabla Periódica).</p><p>La <strong>masa molar (M)</strong> es la masa de un mol de una sustancia, en gramos por mol (g/mol). Se calcula sumando las masas atómicas.</p><p><strong>Ejemplo:</strong> H₂O = 2(1) + 16 = <strong>18 g/mol</strong></p><p>Un <strong>mol</strong> = 6.022 × 10²³ partículas.</p><p class='font-mono text-center text-lg my-4 text-slate-100'>n = m / M</p><p>n = moles, m = masa (g), M = masa molar (g/mol)</p>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Calcula masa molar",
+      "instrucciones": "En tu cuaderno, calcula la masa molar de las siguientes sustancias. Usa las masas atómicas: H = 1, C = 12, N = 14, O = 16, S = 32.\n\n1. HCl (ácido clorhídrico)\n2. H₂SO₄ (ácido sulfúrico)\n3. NH₃ (amoniaco)\n4. C₆H₁₂O₆ (glucosa)\n5. CO (monóxido de carbono)\n\nEscribe el procedimiento completo para cada uno.",
+      "pista": "Suma las masas atómicas de todos los átomos. Ejemplo: HCl = 1 + 35.5 = 36.5 g/mol (el Cl vale 35.5)."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Cálculos estequiométricos",
+      "html": "<p>Los <strong>cálculos estequiométricos</strong> permiten determinar cuánto de cada sustancia se necesita o se produce en una reacción.</p><p>Los coeficientes de una ecuación balanceada indican la <strong>proporción en moles</strong> entre reactivos y productos.</p><p><strong>Ejemplo:</strong> <span class='font-mono text-slate-100'>CH₄ + 2O₂ → CO₂ + 2H₂O</span></p><ul><li>1 mol de CH₄ reacciona con 2 moles de O₂.</li><li>Se producen 1 mol de CO₂ y 2 moles de H₂O.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tipos de reacciones químicas",
+      "html": "<p>Las reacciones se clasifican según cómo se reorganizan los átomos:</p><ul><li><strong>Síntesis o combinación:</strong> A + B → AB. Ej: 2H₂ + O₂ → 2H₂O</li><li><strong>Descomposición:</strong> AB → A + B. Ej: 2H₂O₂ → 2H₂O + O₂</li><li><strong>Sustitución simple:</strong> A + BC → AC + B. Ej: Zn + 2HCl → ZnCl₂ + H₂</li><li><strong>Doble sustitución:</strong> AB + CD → AD + CB. Ej: AgNO₃ + NaCl → AgCl + NaNO₃</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Termoquímica: energía en las reacciones",
+      "html": "<p>Todas las reacciones involucran intercambio de energía, generalmente en forma de <strong>calor</strong>.</p><ul><li><strong>Reacciones exotérmicas:</strong> liberan energía al entorno. ΔH negativo. Ej: combustión del metano.</li><li><strong>Reacciones endotérmicas:</strong> absorben energía del entorno. ΔH positivo.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Conversión de temperatura",
+      "html": "<p>Existen tres escalas principales: Celsius (°C), Fahrenheit (°F) y Kelvin (K).</p><p><strong>Fórmulas de conversión:</strong></p><ul><li>°C → °F: <span class='font-mono text-slate-100'>°F = (°C × 9/5) + 32</span></li><li>°F → °C: <span class='font-mono text-slate-100'>°C = (°F − 32) × 5/9</span></li><li>°C → K: <span class='font-mono text-slate-100'>K = °C + 273.15</span></li><li>K → °C: <span class='font-mono text-slate-100'>°C = K − 273.15</span></li></ul><p>Ejemplo: 30 °C = (30 × 9/5) + 32 = 86 °F = 303 K</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Concentración de disoluciones: molaridad",
+      "html": "<p>La <strong>molaridad (M)</strong> indica cuántos moles de soluto hay por litro de disolución.</p><p class='font-mono text-center text-lg my-4 text-slate-100'>M = n / V</p><p>Donde:<br>M = molaridad (mol/L)<br>n = moles de soluto<br>V = volumen de disolución en litros</p>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Calcula moles y masa molar",
+      "instrucciones": "Responde en tu cuaderno:\n\n1. Calcula cuántos moles hay en 90 g de agua (H₂O, M = 18 g/mol).\n2. Calcula cuántos gramos hay en 3 moles de CO₂ (M = 44 g/mol).\n3. Calcula la masa molar del HCl (H = 1, Cl = 35.5).\n4. ¿Cuántos moles hay en 100 g de NaOH (M = 40 g/mol)?\n\nEscribe el procedimiento completo para cada uno.",
+      "pista": "Usa la fórmula n = m / M. Para masa molar, suma las masas atómicas."
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Reflexión: reacciones en tu vida",
+      "instrucciones": "Responde en tu cuaderno:\n\nIdentifica 3 reacciones químicas que ocurran en tu vida diaria:\n\n• ¿Qué reactivos intervienen?\n• ¿Qué productos se forman?\n• ¿Es exotérmica o endotérmica?\n\nEjemplos: la combustión del gas de la estufa, la oxidación del hierro, la fermentación del pan.",
+      "pista": "Cuando algo se calienta (como encender la estufa), normalmente es exotérmico. Cuando necesitas aplicar calor para que ocurra (como cocinar un huevo), es endotérmico."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Cierre: reacciones y cálculos",
+      "html": "<p>En esta clase vimos:</p><ul><li>Qué es una <strong>reacción química</strong> y cómo se representa.</li><li>Cómo <strong>balancear ecuaciones</strong>.</li><li>El concepto de <strong>mol</strong> y <strong>masa molar</strong>.</li><li>Cálculos estequiométricos básicos.</li><li>Tipos de reacciones.</li><li>Reacciones <strong>exotérmicas y endotérmicas</strong>.</li><li>Conversión entre escalas de <strong>temperatura</strong>.</li><li>El concepto de <strong>molaridad</strong>.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 2",
+      "html": "<p class='text-3xl text-slate-100 mt-8'>Fin de la Clase 2</p><p class='text-lg text-slate-200 mt-4'>Estequiometría y Reacciones Químicas</p><p class='text-base text-slate-300 mt-8'>Nos vemos en la Clase 3: Ecología, Ciclos Biogeoquímicos y Biomas</p>"
+    }
+  ]
+}

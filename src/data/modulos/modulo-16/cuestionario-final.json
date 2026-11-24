@@ -1,0 +1,478 @@
+{
+  "titulo": "Cuestionario Final: Hacia un Desarrollo Sustentable",
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el criterio principal para clasificar la materia?",
+      "opciones": [
+        "Su composición, es decir, los tipos de partículas que la forman",
+        "Su color y textura",
+        "Su estado físico",
+        "Su temperatura"
+      ],
+      "correcta": 0,
+      "explicacion": "La clasificación principal de la materia se basa en su composición: qué tipo de partículas la forman y cómo están organizadas."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes sustancias es un elemento?",
+      "opciones": [
+        "Agua (H₂O)",
+        "Cadmio (Cd)",
+        "Metano (CH₄)",
+        "Ácido sulfúrico (H₂SO₄)"
+      ],
+      "correcta": 1,
+      "explicacion": "El cadmio es un elemento porque está formado por un solo tipo de átomo. Los demás son compuestos."
+    },
+    {
+      "pregunta": "Una diferencia clave entre elemento y compuesto es que:",
+      "opciones": [
+        "Los elementos son siempre sólidos",
+        "Los compuestos tienen un solo tipo de átomo",
+        "Los compuestos se pueden descomponer químicamente y los elementos no",
+        "Los elementos solo existen en el laboratorio"
+      ],
+      "correcta": 2,
+      "explicacion": "Los compuestos pueden separarse en sustancias más simples por métodos químicos; los elementos no."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes opciones es un ejemplo de mezcla heterogénea?",
+      "opciones": [
+        "Agua de mar",
+        "Aire",
+        "Gasolina",
+        "Cemento con arena"
+      ],
+      "correcta": 3,
+      "explicacion": "El cemento con arena es heterogéneo porque a simple vista se distinguen sus componentes."
+    },
+    {
+      "pregunta": "Las mezclas homogéneas también se conocen como:",
+      "opciones": [
+        "Disoluciones",
+        "Suspensiones",
+        "Coloides",
+        "Precipitados"
+      ],
+      "correcta": 0,
+      "explicacion": "Las mezclas homogéneas se llaman disoluciones porque sus componentes están distribuidos uniformemente."
+    },
+    {
+      "pregunta": "Para separar agua y aceite, ¿qué método es el más adecuado?",
+      "opciones": [
+        "Filtración",
+        "Decantación",
+        "Destilación",
+        "Evaporación"
+      ],
+      "correcta": 1,
+      "explicacion": "La decantación es ideal para líquidos no miscibles que se separan por sí solos."
+    },
+    {
+      "pregunta": "¿Para qué tipo de mezcla es más útil la filtración?",
+      "opciones": [
+        "Para separar dos líquidos que no se mezclan",
+        "Para separar dos gases",
+        "Para separar un sólido insoluble de un líquido",
+        "Para separar un sólido disuelto"
+      ],
+      "correcta": 2,
+      "explicacion": "La filtración retiene el sólido insoluble en un medio poroso mientras el líquido pasa a través."
+    },
+    {
+      "pregunta": "¿En qué propiedad se basa la destilación para separar líquidos?",
+      "opciones": [
+        "En el color",
+        "En la densidad",
+        "En la solubilidad",
+        "En los diferentes puntos de ebullición"
+      ],
+      "correcta": 3,
+      "explicacion": "La destilación aprovecha que cada líquido tiene un punto de ebullición distinto."
+    },
+    {
+      "pregunta": "Si una muestra de agua hierve a 102 °C en lugar de 100 °C, lo más probable es que:",
+      "opciones": [
+        "Contenga alguna sustancia disuelta (sea una mezcla)",
+        "El termómetro esté descompuesto",
+        "Sea agua pura",
+        "Esté congelada"
+      ],
+      "correcta": 0,
+      "explicacion": "Las sustancias puras tienen puntos de ebullición fijos. Si cambia, contiene impurezas disueltas."
+    },
+    {
+      "pregunta": "¿Por qué las mezclas no tienen propiedades fijas?",
+      "opciones": [
+        "Porque no existen en la naturaleza",
+        "Porque sus propiedades dependen de las proporciones de sus componentes",
+        "Porque no se pueden medir",
+        "Porque siempre son gaseosas"
+      ],
+      "correcta": 1,
+      "explicacion": "Las mezclas pueden tener distintas proporciones de componentes, así que sus propiedades varían."
+    },
+    {
+      "pregunta": "En la ecuación 2H₂ + O₂ → 2H₂O, ¿cuáles son los reactivos?",
+      "opciones": [
+        "H₂O solamente",
+        "Solamente O₂",
+        "H₂ y O₂",
+        "H₂O y O₂"
+      ],
+      "correcta": 2,
+      "explicacion": "Los reactivos son las sustancias a la izquierda de la flecha: H₂ y O₂."
+    },
+    {
+      "pregunta": "¿Qué ley se cumple cuando una ecuación química está correctamente balanceada?",
+      "opciones": [
+        "Ley de la gravedad",
+        "Ley de la termodinámica",
+        "Ley de Ohm",
+        "Ley de conservación de la masa"
+      ],
+      "correcta": 3,
+      "explicacion": "La Ley de conservación de la masa dice que la materia no se crea ni se destruye. Por eso debe haber el mismo número de átomos en ambos lados."
+    },
+    {
+      "pregunta": "¿Cuál es el coeficiente correcto para balancear la ecuación: __H₂ + O₂ → __H₂O?",
+      "opciones": [
+        "2 y 2",
+        "1 y 1",
+        "2 y 1",
+        "1 y 2"
+      ],
+      "correcta": 0,
+      "explicacion": "La ecuación balanceada es: 2H₂ + O₂ → 2H₂O."
+    },
+    {
+      "pregunta": "Dadas las masas atómicas C = 12 y O = 16, ¿cuál es la masa molar del CO₂?",
+      "opciones": [
+        "28 g/mol",
+        "44 g/mol",
+        "32 g/mol",
+        "56 g/mol"
+      ],
+      "correcta": 1,
+      "explicacion": "CO₂ = 12 + (2 × 16) = 12 + 32 = 44 g/mol."
+    },
+    {
+      "pregunta": "¿Cuántos moles hay en 44 g de CO₂, si su masa molar es 44 g/mol?",
+      "opciones": [
+        "0.5 mol",
+        "44 moles",
+        "1 mol",
+        "2 moles"
+      ],
+      "correcta": 2,
+      "explicacion": "n = m / M = 44 g / 44 g/mol = 1 mol."
+    },
+    {
+      "pregunta": "En la reacción CH₄ + 2O₂ → CO₂ + 2H₂O, ¿cuántos moles de agua se producen a partir de 1 mol de CH₄?",
+      "opciones": [
+        "1 mol",
+        "3 moles",
+        "4 moles",
+        "2 moles"
+      ],
+      "correcta": 3,
+      "explicacion": "Según los coeficientes, por cada mol de CH₄ se producen 2 moles de H₂O."
+    },
+    {
+      "pregunta": "¿Qué tipo de reacción es 2H₂ + O₂ → 2H₂O?",
+      "opciones": [
+        "Síntesis o combinación",
+        "Descomposición",
+        "Sustitución simple",
+        "Doble sustitución"
+      ],
+      "correcta": 0,
+      "explicacion": "Es una síntesis porque dos sustancias (H₂ y O₂) se combinan para formar una sola (H₂O)."
+    },
+    {
+      "pregunta": "La reacción H₂O₂ → H₂O + O₂ es un ejemplo de:",
+      "opciones": [
+        "Síntesis",
+        "Descomposición",
+        "Sustitución",
+        "Combustión"
+      ],
+      "correcta": 1,
+      "explicacion": "Es una descomposición porque una sola sustancia (H₂O₂) se separa en dos productos."
+    },
+    {
+      "pregunta": "¿Qué indica un valor negativo de ΔH en una reacción química?",
+      "opciones": [
+        "Que es endotérmica y absorbe calor",
+        "Que la temperatura disminuye",
+        "Que es exotérmica y libera calor",
+        "Que no ocurre"
+      ],
+      "correcta": 2,
+      "explicacion": "Un ΔH negativo indica que la reacción libera energía al entorno, es decir, es exotérmica."
+    },
+    {
+      "pregunta": "¿Cuál es la fórmula correcta para convertir grados Celsius a Fahrenheit?",
+      "opciones": [
+        "°F = °C + 273.16",
+        "°F = (°C − 32) × 5/9",
+        "°F = °C × 1.8",
+        "°F = (°C × 9/5) + 32"
+      ],
+      "correcta": 3,
+      "explicacion": "La fórmula correcta es °F = (°C × 9/5) + 32."
+    },
+    {
+      "pregunta": "¿Cómo se llama el conjunto de organismos de distintas especies que viven juntos en un mismo lugar?",
+      "opciones": [
+        "Biocenosis o comunidad",
+        "Población",
+        "Ecosistema",
+        "Biosfera"
+      ],
+      "correcta": 0,
+      "explicacion": "La biocenosis (o comunidad biótica) es el conjunto de todas las poblaciones que conviven en un área."
+    },
+    {
+      "pregunta": "¿Qué nombre recibe el conjunto de todos los ecosistemas del planeta Tierra?",
+      "opciones": [
+        "Bioma",
+        "Biosfera",
+        "Biotopo",
+        "Población"
+      ],
+      "correcta": 1,
+      "explicacion": "La biosfera incluye todos los ecosistemas del planeta."
+    },
+    {
+      "pregunta": "El biotopo se define como:",
+      "opciones": [
+        "El conjunto de todos los seres vivos",
+        "El conjunto de todos los ecosistemas",
+        "El fragmento de la biosfera que proporciona el medio abiótico a la biocenosis",
+        "Una población de la misma especie"
+      ],
+      "correcta": 2,
+      "explicacion": "El biotopo es la parte no viva del ecosistema: el espacio físico con sus condiciones (clima, suelo, agua)."
+    },
+    {
+      "pregunta": "Al agrupamiento de ecosistemas de la misma clase, como bosques tropicales, pastizales y selvas, se le llama:",
+      "opciones": [
+        "Biosfera",
+        "Comunidad biótica",
+        "Factores abióticos",
+        "Bioma"
+      ],
+      "correcta": 3,
+      "explicacion": "Un bioma agrupa ecosistemas que comparten características similares de clima, vegetación y fauna."
+    },
+    {
+      "pregunta": "En una cadena alimenticia, ¿qué nivel ocupan las plantas y algas?",
+      "opciones": [
+        "Productores",
+        "Consumidores primarios",
+        "Consumidores secundarios",
+        "Descomponedores"
+      ],
+      "correcta": 0,
+      "explicacion": "Las plantas y algas son productores porque fabrican su propio alimento mediante la fotosíntesis."
+    },
+    {
+      "pregunta": "¿Qué organismos realizan la fotosíntesis en un ecosistema?",
+      "opciones": [
+        "Solo los consumidores",
+        "Solo los productores (autótrofos)",
+        "Los consumidores y descomponedores",
+        "Todos los seres vivos"
+      ],
+      "correcta": 1,
+      "explicacion": "Solo los organismos autótrofos (productores) realizan la fotosíntesis. Son la base de la cadena alimenticia."
+    },
+    {
+      "pregunta": "El proceso mediante el cual el agua líquida pasa a vapor por acción del calor solar se llama:",
+      "opciones": [
+        "Condensación",
+        "Precipitación",
+        "Evaporación",
+        "Escurrimiento"
+      ],
+      "correcta": 2,
+      "explicacion": "La evaporación es el paso del agua de líquido a vapor, principalmente por acción del sol."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes NO es una reserva abiótica del ciclo del nitrógeno?",
+      "opciones": [
+        "Nitrógeno atmosférico (N₂)",
+        "Nitratos (NO₃⁻)",
+        "Amonio (NH₄⁺)",
+        "Fosfatos en el suelo"
+      ],
+      "correcta": 3,
+      "explicacion": "Los fosfatos pertenecen al ciclo del fósforo, no al del nitrógeno."
+    },
+    {
+      "pregunta": "¿Qué bioma se caracteriza por tener árboles como abedul y nogal que pierden sus hojas en otoño?",
+      "opciones": [
+        "Bosque caducifolio",
+        "Taiga",
+        "Tundra",
+        "Selva tropical"
+      ],
+      "correcta": 0,
+      "explicacion": "El bosque caducifolio tiene árboles que pierden sus hojas en otoño, como el abedul y el nogal."
+    },
+    {
+      "pregunta": "La taiga se caracteriza por estar formada principalmente por:",
+      "opciones": [
+        "Musgos y líquenes sobre suelo congelado",
+        "Árboles de coníferas como pino, abeto y picea",
+        "Árboles caducifolios como roble y nogal",
+        "Cactus y matorrales espinosos"
+      ],
+      "correcta": 1,
+      "explicacion": "La taiga es un bosque de coníferas con árboles siempreverdes como pino, abeto, oyamel y picea."
+    },
+    {
+      "pregunta": "¿Cómo se les llama a los beneficios que los ecosistemas ofrecen al ser humano, como la purificación del aire o el agua limpia?",
+      "opciones": [
+        "Recursos renovables",
+        "Alternativas de conservación",
+        "Servicios ecosistémicos",
+        "Desarrollo sustentable"
+      ],
+      "correcta": 2,
+      "explicacion": "Los servicios ecosistémicos son los beneficios que obtenemos de la naturaleza."
+    },
+    {
+      "pregunta": "¿Cuál es la definición correcta de desarrollo sustentable?",
+      "opciones": [
+        "Explotar los recursos al máximo",
+        "Limitar toda actividad humana",
+        "Cultivar la tierra solo para autoconsumo",
+        "Satisfacer las necesidades presentes sin comprometer las de las generaciones futuras"
+      ],
+      "correcta": 3,
+      "explicacion": "El desarrollo sustentable busca satisfacer las necesidades actuales sin comprometer los recursos de las generaciones futuras."
+    },
+    {
+      "pregunta": "¿Cuáles son las tres dimensiones que integra el desarrollo sustentable?",
+      "opciones": [
+        "Ambiental, económica y social",
+        "Política, religiosa y cultural",
+        "Científica, tecnológica y educativa",
+        "Industrial, comercial y agrícola"
+      ],
+      "correcta": 0,
+      "explicacion": "El desarrollo sustentable se apoya en tres pilares: ambiental, económico y social."
+    },
+    {
+      "pregunta": "El gobierno promueve el uso de trolebuses eléctricos con emisiones nulas de CO₂. ¿Qué tipo de sustentabilidad promueve?",
+      "opciones": [
+        "Económica",
+        "Ambiental",
+        "Social",
+        "Equitativa"
+      ],
+      "correcta": 1,
+      "explicacion": "Al reducir emisiones contaminantes, promueve la sustentabilidad ambiental."
+    },
+    {
+      "pregunta": "¿Cuál es el fin de la justicia distributiva respecto al ambiente?",
+      "opciones": [
+        "Satisfacer necesidades presentes sin considerar a las generaciones futuras",
+        "Vivir en armonía sin importar cómo se distribuya la riqueza",
+        "Uso racional de recursos naturales para mejorar la relación hombre-ambiente-sociedad y erradicar la pobreza",
+        "Satisfacer necesidades sin importar consecuencias ambientales"
+      ],
+      "correcta": 2,
+      "explicacion": "La justicia distributiva ambiental busca un uso racional de los recursos que mejore la relación hombre-ambiente-sociedad y reduzca la pobreza."
+    },
+    {
+      "pregunta": "El aumento de temperatura mundial por el uso indiscriminado de combustibles fósiles se conoce como:",
+      "opciones": [
+        "Cambio climático natural",
+        "Variabilidad natural del clima",
+        "Efecto invernadero natural",
+        "Calentamiento global"
+      ],
+      "correcta": 3,
+      "explicacion": "El calentamiento global es el aumento de la temperatura promedio del planeta por acumulación de gases de efecto invernadero."
+    },
+    {
+      "pregunta": "¿Cuál es el gas de efecto invernadero que se emite en mayor cantidad por actividades humanas?",
+      "opciones": [
+        "Dióxido de carbono (CO₂)",
+        "Metano (CH₄)",
+        "Óxido de nitrógeno (N₂O)",
+        "Hexafluoruro de azufre (SF₆)"
+      ],
+      "correcta": 0,
+      "explicacion": "El CO₂ representa aproximadamente el 85% de las emisiones de GEI."
+    },
+    {
+      "pregunta": "¿Cuál es la función principal de la capa de ozono?",
+      "opciones": [
+        "Transmitir el calor del Sol",
+        "Proteger de las radiaciones ultravioleta provenientes del Sol",
+        "Regular la temperatura terrestre",
+        "Absorber la energía solar"
+      ],
+      "correcta": 1,
+      "explicacion": "La capa de ozono actúa como escudo natural que filtra la mayor parte de la radiación ultravioleta (UV)."
+    },
+    {
+      "pregunta": "¿Cuáles son los principales gases que causan la lluvia ácida?",
+      "opciones": [
+        "CO₂ y CH₄",
+        "O₂ y N₂",
+        "SO₂ y NOₓ (óxidos de azufre y nitrógeno)",
+        "H₂ y He"
+      ],
+      "correcta": 2,
+      "explicacion": "La lluvia ácida se forma cuando el SO₂ y los NOₓ reaccionan con el agua en la atmósfera, formando ácidos."
+    },
+    {
+      "pregunta": "El aumento progresivo de la concentración de un tóxico (como el DDT) a lo largo de una cadena alimenticia se conoce como:",
+      "opciones": [
+        "Eutroficación",
+        "Lluvia ácida",
+        "Contaminación primaria",
+        "Biomagnificación"
+      ],
+      "correcta": 3,
+      "explicacion": "La biomagnificación ocurre cuando las sustancias tóxicas se acumulan en concentraciones cada vez mayores en los niveles superiores."
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes es un recurso natural renovable?",
+      "opciones": [
+        "Maíz",
+        "Petróleo",
+        "Gas natural",
+        "Oro"
+      ],
+      "correcta": 0,
+      "explicacion": "El maíz es un recurso renovable porque se puede replantar en cada ciclo agrícola."
+    },
+    {
+      "pregunta": "¿Qué acuerdo internacional firmado en 1997 buscó reducir las emisiones de gases de efecto invernadero?",
+      "opciones": [
+        "Agenda 21",
+        "Protocolo de Kioto",
+        "Cumbre de Río",
+        "Cumbre de Johannesburgo"
+      ],
+      "correcta": 1,
+      "explicacion": "El Protocolo de Kioto, firmado en 1997, comprometió a los países industrializados a reducir sus emisiones de GEI."
+    },
+    {
+      "pregunta": "Un parque construido en una unidad habitacional, donde las familias conviven al aire libre, es un ejemplo de servicio ecosistémico de tipo:",
+      "opciones": [
+        "Aprovisionamiento",
+        "Regulación",
+        "Cultural",
+        "Esencial"
+      ],
+      "correcta": 2,
+      "explicacion": "Los servicios culturales son beneficios no materiales: recreación, paisaje, valor estético o espiritual."
+    }
+  ]
+}

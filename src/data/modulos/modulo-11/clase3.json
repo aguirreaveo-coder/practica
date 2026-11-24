@@ -1,0 +1,171 @@
+{
+  "titulo": "Clase 3: Globalización, medios y conflictos contemporáneos",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 11",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Transformaciones en el Mundo Contemporáneo</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 3: Globalización, Medios y Conflictos Contemporáneos</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Globalización · Medios de Comunicación · World Wide Web · Revolución Informática · Estado de Israel · Cuba y la Guerra Fría · Guerra Preventiva · Problemas Contemporáneos</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Globalización y medios de comunicación",
+      "html": "<p class='text-lg'>En la etapa contemporánea, los <strong>medios de comunicación</strong> cumplen funciones esenciales para la sociedad: <strong>informar</strong>, <strong>interpretar</strong> y <strong>formar</strong> la opinión pública.</p><p class='text-lg'>La globalización amplió su alcance: la información circula rápidamente entre países, ideologías y culturas, y los medios se convierten en actores centrales de la vida política y social.</p><p class='text-lg'>Cuando se cumplen condiciones ideales, la función básica de los medios no es ocultar la información, sino ayudar a la ciudadanía a comprender el mundo.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: La World Wide Web",
+      "html": "<p class='text-lg'>La <strong>World Wide Web</strong> fue creada por <strong>Tim Berners-Lee</strong> y <strong>Robert Cailliau</strong> en el marco de la expansión tecnológica de finales del siglo XX.</p><p class='text-lg'>Su desarrollo transformó la forma de compartir información, estudiar, comunicarse y acceder a la prensa, la educación y los servicios digitales.</p><p class='text-lg'>La web se convirtió en el símbolo de la nueva era tecnológica, junto con internet y los medios digitales.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Revolución informática",
+      "html": "<p class='text-lg'>La <strong>revolución informática</strong> es la etapa de gran desarrollo científico y tecnológico iniciada en la segunda mitad del siglo XX.</p><p class='text-lg'>Se caracteriza por la automatización, la digitalización, la expansión de internet y la aparición de nuevos medios de comunicación.</p><p class='text-lg'>En esta época, el conocimiento circula a mucha velocidad y las sociedades se vuelven más interconectadas.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Estado de Israel y Medio Oriente",
+      "html": "<p class='text-lg'>El Estado de Israel fue proclamado en <strong>1948</strong>, bajo la dirección del presidente del Consejo Nacional Judío, <strong>David Ben Gurión</strong>.</p><p class='text-lg'>La creación del Estado fue el resultado de procesos históricos complejos vinculados con la identidad nacional, la conflictividad regional y la tensión entre comunidades.</p><p class='text-lg'>A partir de ese momento, la región vivió una serie de conflictos, procesos de paz y disputas territoriales que marcaron la geopolítica del Medio Oriente.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Consecuencias políticas de la Revolución Cubana",
+      "html": "<p class='text-lg'>La victoria de los comunistas en Cuba tuvo un fuerte impacto en el continente americano.</p><p class='text-lg'>Una de sus consecuencias fue <strong>el inicio y la expansión de movimientos revolucionarios comunistas en Latinoamérica</strong>.</p><p class='text-lg'>También reforzó la presencia política y militar de la Unión Soviética en la región, lo que aumentó la tensión con Estados Unidos y transformó la dinámica de la Guerra Fría en América.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Guerra preventiva y conflictos contemporáneos",
+      "html": "<p class='text-lg'>La <strong>guerra preventiva</strong> es una estrategia militar defendida como respuesta a una amenaza potencial, antes de que ocurra un ataque.</p><p class='text-lg'>Estados Unidos justificó su intervención en Irak con el argumento de que el país disponía de armamento nuclear o podía producirlo y prepararse para atacar.</p><p class='text-lg'>Ese tipo de justificación se clasificó como una guerra <strong>preventiva</strong>, distinta de una guerra fría, civil o sucia.</p>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Actividad: Repaso de la Guía",
+      "instrucciones": "Responde las siguientes preguntas de tu guía relacionadas con la globalización, los medios y los conflictos contemporáneos:",
+      "preguntas": [
+        17,
+        18,
+        19,
+        22,
+        26,
+        27,
+        29,
+        31,
+        32
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Revisión de la Actividad",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white mb-4'>Revisión de la actividad</p><p class='text-lg text-slate-700 dark:text-slate-200'>Repasamos la relación entre la información, la tecnología, la política internacional y los conflictos contemporáneos, temas clave para cerrar el módulo.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "18. Revisa la información complementaria en tu Guia",
+      "opciones": [
+        "2 y 3",
+        "1 y 2",
+        "1 y 3",
+        "2 y 4"
+      ],
+      "correcta": 2,
+      "explicacion": "En condiciones ideales, los medios deben informar y formar, no solo entretener.",
+      "numero": 18
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "19. ¿Quiénes fueron los creadores de la World Wide Web?",
+      "opciones": [
+        "Ted Nelson y Engelbart.",
+        "Bill Gates y Héctor Molina.",
+        "Tim Berners-Lee y Robert Cailliau.",
+        "Vinton G. Cerf y Robert Khan."
+      ],
+      "correcta": 2,
+      "explicacion": "Tim Berners-Lee y Robert Cailliau desarrollaron la World Wide Web, que transformó la circulación de información en Internet.",
+      "numero": 19
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "22. ¿En qué año el presidente del Consejo Nacional Judío, David Ben Gurión, proclamó el Estado de Israel?",
+      "opciones": [
+        "1956",
+        "1933",
+        "1939",
+        "1948"
+      ],
+      "correcta": 3,
+      "explicacion": "El Estado de Israel fue proclamado en 1948, tras un proceso histórico complejo y de gran tensión en la región.",
+      "numero": 22
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "26. ¿Cómo se le llama a la era del gran desarrollo científico y tecnológico alcanzado a finales del siglo XX?",
+      "opciones": [
+        "Revolución Cultural.",
+        "Primera Revolución Industrial.",
+        "Revolución Informática.",
+        "Segunda Revolución Industrial."
+      ],
+      "correcta": 2,
+      "explicacion": "La era del gran desarrollo tecnológico de finales del siglo XX es la Revolución Informática, impulsada por la digitalización y la conectividad.",
+      "numero": 26
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "27. ¿Cuáles son los medios de comunicación que existen actualmente en esta época de globalización que ilustran los nuevos desafíos?",
+      "opciones": [
+        "Prensa, Internet y buscadores.",
+        "Periódico, revista y radio.",
+        "Radio, televisión y prensa.",
+        "Radio, televisión e Internet."
+      ],
+      "correcta": 3,
+      "explicacion": "En la actualidad, los medios tradicionales y digitales más representativos incluyen radio, televisión e Internet.",
+      "numero": 27
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "29. ¿Cómo se clasificó la guerra que inició Estados Unidos con el argumento de que Irak disponía de armamento nuclear y se preparaba para atacarlo?",
+      "opciones": [
+        "Fría.",
+        "Civil.",
+        "Preventiva.",
+        "Sucia."
+      ],
+      "correcta": 2,
+      "explicacion": "Se habló de una guerra preventiva porque se justificó como respuesta anticipada a una posible amenaza militar.",
+      "numero": 29
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "31. ¿En qué año se estableció el Estado de Israel?",
+      "opciones": [
+        "1897",
+        "1945",
+        "1920",
+        "1948"
+      ],
+      "correcta": 3,
+      "explicacion": "El Estado de Israel fue proclamado en 1948, un hecho fundamental para la historia contemporánea del Medio Oriente.",
+      "numero": 31
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "32. Indica cuáles de los siguientes enunciados poseen información correcta sobre los conflictos entre Israel y Palestina:",
+      "opciones": [
+        "Solo 2 es correcta.",
+        "Solo 1 y 3 son correctas.",
+        "Solo 3 es correcta.",
+        "1 y 3 son correctas."
+      ],
+      "correcta": 0,
+      "explicacion": "Las tres afirmaciones son correctas: el IRA tenía objetivos políticos y la violencia terrorista buscó desestabilizar el conflicto y generar miedo.",
+      "numero": 32
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 3",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase 3</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Globalización, Medios y Conflictos Contemporáneos</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Nos vemos en la Clase 4: Repaso Final y Cuestionario del Módulo 11</p>"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

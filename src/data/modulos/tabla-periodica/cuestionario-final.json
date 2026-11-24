@@ -1,0 +1,225 @@
+{
+  "titulo": "Cuestionario Final: Tabla Periódica de los Elementos",
+  "preguntas": [
+    {
+      "pregunta": "¿Qué científico ruso propuso el primer ordenamiento periódico de los elementos en 1869?",
+      "opciones": [
+        "Dmitri Mendeléyev",
+        "Antoine Lavoisier",
+        "John Dalton",
+        "Marie Curie"
+      ],
+      "correcta": 0,
+      "explicacion": "Dmitri Mendeléyev propuso la primera tabla periódica en 1869, ordenando los elementos por masa atómica."
+    },
+    {
+      "pregunta": "¿Cuántos periodos (filas horizontales) tiene la tabla periódica?",
+      "opciones": [
+        "5",
+        "7",
+        "18",
+        "10"
+      ],
+      "correcta": 1,
+      "explicacion": "La tabla periódica tiene 7 periodos (filas horizontales), numerados del 1 al 7."
+    },
+    {
+      "pregunta": "¿Cuántos grupos (columnas verticales) tiene la tabla periódica actual?",
+      "opciones": [
+        "8",
+        "12",
+        "18",
+        "7"
+      ],
+      "correcta": 2,
+      "explicacion": "La tabla periódica tiene 18 grupos (columnas verticales), numerados del 1 al 18."
+    },
+    {
+      "pregunta": "¿Cuál es el criterio actual para ordenar los elementos en la tabla periódica?",
+      "opciones": [
+        "Su masa atómica",
+        "Su densidad",
+        "Su año de descubrimiento",
+        "Su número atómico (cantidad de protones)"
+      ],
+      "correcta": 3,
+      "explicacion": "La tabla periódica moderna ordena los elementos por número atómico. Este criterio fue propuesto por Henry Moseley."
+    },
+    {
+      "pregunta": "¿En qué bloque se ubican los elementos cuyos electrones de valencia están en el subnivel d?",
+      "opciones": [
+        "Bloque s",
+        "Bloque p",
+        "Bloque d",
+        "Bloque f"
+      ],
+      "correcta": 2,
+      "explicacion": "El bloque d incluye los metales de transición (grupos 3-12), cuyos electrones de valencia están en el subnivel d."
+    },
+    {
+      "pregunta": "¿Cuántos electrones de valencia tienen los metales alcalinos (grupo 1)?",
+      "opciones": [
+        "1 electrón",
+        "2 electrones",
+        "7 electrones",
+        "8 electrones"
+      ],
+      "correcta": 0,
+      "explicacion": "Los metales alcalinos (grupo 1) tienen 1 electrón de valencia, lo que los hace muy reactivos."
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes es un metal alcalinotérreo?",
+      "opciones": [
+        "Sodio (Na)",
+        "Cobre (Cu)",
+        "Flúor (F)",
+        "Calcio (Ca)"
+      ],
+      "correcta": 3,
+      "explicacion": "El calcio (Ca) es un metal alcalinotérreo (grupo 2). El sodio es alcalino, el cobre es de transición y el flúor es un halógeno."
+    },
+    {
+      "pregunta": "¿Cuál es la característica principal de los gases nobles (grupo 18)?",
+      "opciones": [
+        "Son muy reactivos con el agua",
+        "Tienen 8 electrones de valencia (octeto completo) y son muy estables",
+        "Solo existen en estado sólido",
+        "Forman enlaces iónicos fácilmente"
+      ],
+      "correcta": 1,
+      "explicacion": "Los gases nobles tienen 8 electrones de valencia (excepto el helio), cumplen la regla del octeto y son muy estables."
+    },
+    {
+      "pregunta": "¿Qué familia de elementos es conocida como 'formadora de sales' por su alta reactividad con metales?",
+      "opciones": [
+        "Gases nobles",
+        "Metales alcalinos",
+        "Halógenos",
+        "Metaloides"
+      ],
+      "correcta": 2,
+      "explicacion": "Los halógenos (grupo 17) tienen 7 electrones de valencia y reaccionan con metales para formar sales."
+    },
+    {
+      "pregunta": "¿Por qué los metales alcalinos se guardan en aceite?",
+      "opciones": [
+        "Para mantener su brillo",
+        "Para evitar que se evaporen",
+        "Para aumentar su temperatura",
+        "Para evitar que reaccionen violentamente con la humedad del aire"
+      ],
+      "correcta": 3,
+      "explicacion": "Los metales alcalinos son tan reactivos que reaccionan con la humedad del aire. Se guardan en aceite para evitar esa reacción peligrosa."
+    },
+    {
+      "pregunta": "En las reacciones químicas, los metales tienden a:",
+      "opciones": [
+        "Ganar electrones y formar aniones",
+        "Ceder electrones y formar cationes",
+        "No reaccionar nunca",
+        "Perder protones del núcleo"
+      ],
+      "correcta": 1,
+      "explicacion": "Los metales ceden electrones (los pierden) y forman cationes (iones positivos)."
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes elementos es un metaloide?",
+      "opciones": [
+        "Hierro (Fe)",
+        "Silicio (Si)",
+        "Cloro (Cl)",
+        "Argón (Ar)"
+      ],
+      "correcta": 1,
+      "explicacion": "El silicio (Si) es uno de los 6 metaloides: B, Si, Ge, As, Sb y Te."
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes es un no metal?",
+      "opciones": [
+        "Sodio (Na)",
+        "Calcio (Ca)",
+        "Azufre (S)",
+        "Cobre (Cu)"
+      ],
+      "correcta": 2,
+      "explicacion": "El azufre (S) es un no metal. El sodio es alcalino, el calcio es alcalinotérreo y el cobre es de transición."
+    },
+    {
+      "pregunta": "¿Por qué el silicio es tan importante en la tecnología moderna?",
+      "opciones": [
+        "Porque es un metal muy barato",
+        "Porque es semiconductor y se usa en chips y paneles solares",
+        "Porque es radiactivo",
+        "Porque conduce electricidad como el cobre"
+      ],
+      "correcta": 1,
+      "explicacion": "El silicio es semiconductor: su conductividad puede controlarse, ideal para chips de computadora y paneles solares."
+    },
+    {
+      "pregunta": "Una característica típica de los metaloides es que:",
+      "opciones": [
+        "Son mejores conductores que los metales",
+        "Son aislantes perfectos",
+        "Tienen propiedades intermedias entre metales y no metales",
+        "Son siempre gases a temperatura ambiente"
+      ],
+      "correcta": 2,
+      "explicacion": "Los metaloides tienen propiedades intermedias entre metales y no metales."
+    },
+    {
+      "pregunta": "¿Cuál es el símbolo del potasio?",
+      "opciones": [
+        "P",
+        "Po",
+        "Pt",
+        "K"
+      ],
+      "correcta": 3,
+      "explicacion": "El potasio tiene el símbolo K, del latín kalium."
+    },
+    {
+      "pregunta": "¿Cuál es el símbolo del oro?",
+      "opciones": [
+        "O",
+        "Au",
+        "Or",
+        "Ag"
+      ],
+      "correcta": 1,
+      "explicacion": "El oro tiene el símbolo Au, del latín aurum. Ag es plata."
+    },
+    {
+      "pregunta": "¿Cuál es el símbolo del hierro?",
+      "opciones": [
+        "H",
+        "Ir",
+        "Fr",
+        "Fe"
+      ],
+      "correcta": 3,
+      "explicacion": "El hierro tiene el símbolo Fe, del latín ferrum."
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes elementos es un gas noble?",
+      "opciones": [
+        "Argón (Ar)",
+        "Cloro (Cl)",
+        "Oxígeno (O)",
+        "Sodio (Na)"
+      ],
+      "correcta": 0,
+      "explicacion": "El argón (Ar) es un gas noble del grupo 18."
+    },
+    {
+      "pregunta": "¿Cuál es el símbolo de la plata?",
+      "opciones": [
+        "P",
+        "Pl",
+        "Ag",
+        "Au"
+      ],
+      "correcta": 2,
+      "explicacion": "La plata tiene el símbolo Ag, del latín argentum."
+    }
+  ]
+}

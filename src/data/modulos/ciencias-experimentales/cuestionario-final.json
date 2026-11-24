@@ -1,0 +1,467 @@
+{
+  "titulo": "Cuestionario Final: Ciencias Experimentales",
+  "preguntas": [
+    {
+      "pregunta": "El estudio del clima, el relieve y los cuerpos de agua pertenece a la:",
+      "opciones": [
+        "Geografía física",
+        "Geografía humana",
+        "Geografía política",
+        "Geografía económica"
+      ],
+      "correcta": 0,
+      "explicacion": "La geografía física estudia los elementos naturales: clima, relieve, cuerpos de agua, suelos y vegetación."
+    },
+    {
+      "pregunta": "Si un mapa tiene una escala 1:100,000 y la distancia entre dos puntos es 5 cm, la distancia real es:",
+      "opciones": [
+        "500 m",
+        "5 km",
+        "50 km",
+        "500 km"
+      ],
+      "correcta": 1,
+      "explicacion": "5 cm × 100,000 = 500,000 cm = 5,000 m = 5 km."
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes es un elemento obligatorio de un mapa?",
+      "opciones": [
+        "El autor",
+        "El relieve",
+        "La simbología",
+        "La población"
+      ],
+      "correcta": 2,
+      "explicacion": "Los 4 elementos obligatorios son: título, escala, simbología y coordenadas. Autor y relieve son adicionales."
+    },
+    {
+      "pregunta": "El sistema que combina mapas con bases de datos para análisis espacial es:",
+      "opciones": [
+        "GPS",
+        "Croquis",
+        "Carta topográfica",
+        "SIG"
+      ],
+      "correcta": 3,
+      "explicacion": "El SIG (Sistema de Información Geográfica) integra mapas con bases de datos. Ejemplos: Google Maps, ArcGIS."
+    },
+    {
+      "pregunta": "El desgaste de las rocas por el impacto de las olas del mar es erosión:",
+      "opciones": [
+        "Marina",
+        "Eólica",
+        "Fluvial",
+        "Glaciar"
+      ],
+      "correcta": 0,
+      "explicacion": "La erosión marina es causada por el oleaje. Forma acantilados y arcos naturales."
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes es un recurso natural no renovable?",
+      "opciones": [
+        "Energía solar",
+        "Petróleo",
+        "Flora",
+        "Viento"
+      ],
+      "correcta": 1,
+      "explicacion": "El petróleo es no renovable porque se agota y no se regenera en tiempos humanos. La energía solar y el viento son inagotables."
+    },
+    {
+      "pregunta": "En la clasificación de Köppen, un clima 'Aw' significa:",
+      "opciones": [
+        "Tropical con lluvias todo el año",
+        "Seco desértico",
+        "Tropical con lluvias en verano",
+        "Templado con lluvias en invierno"
+      ],
+      "correcta": 2,
+      "explicacion": "A = tropical, w = lluvias en verano. El clima Aw se encuentra en la costa del Pacífico y del Golfo."
+    },
+    {
+      "pregunta": "Un huracán es un fenómeno natural de tipo:",
+      "opciones": [
+        "Geológico",
+        "Hidrológico",
+        "Antropogénico",
+        "Meteorológico"
+      ],
+      "correcta": 3,
+      "explicacion": "Los huracanes son fenómenos meteorológicos porque se originan y desarrollan en la atmósfera."
+    },
+    {
+      "pregunta": "El IDH (Índice de Desarrollo Humano) combina tres indicadores:",
+      "opciones": [
+        "Esperanza de vida, educación e ingreso per cápita",
+        "Natalidad, mortalidad y fecundidad",
+        "Industria, agricultura y servicios",
+        "Petróleo, agua y minerales"
+      ],
+      "correcta": 0,
+      "explicacion": "El IDH combina salud (esperanza de vida), educación (años de escolaridad) y economía (ingreso per cápita)."
+    },
+    {
+      "pregunta": "La Zona Económica Exclusiva (ZEE) de México se extiende hasta:",
+      "opciones": [
+        "12 millas náuticas",
+        "200 millas náuticas",
+        "50 millas náuticas",
+        "100 millas náuticas"
+      ],
+      "correcta": 1,
+      "explicacion": "La ZEE se extiende hasta 200 millas náuticas (aproximadamente 370 km) desde la costa."
+    },
+    {
+      "pregunta": "¿Qué biomolécula es la fuente de energía inmediata para las células?",
+      "opciones": [
+        "Lípidos",
+        "Proteínas",
+        "Carbohidratos",
+        "Ácidos nucleicos"
+      ],
+      "correcta": 2,
+      "explicacion": "Los carbohidratos (como la glucosa) son la fuente de energía inmediata. Los lípidos son reserva a largo plazo."
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes organelos solo está presente en células vegetales?",
+      "opciones": [
+        "Mitocondria",
+        "Cloroplasto",
+        "Ribosoma",
+        "Núcleo"
+      ],
+      "correcta": 1,
+      "explicacion": "El cloroplasto realiza la fotosíntesis y solo está en células vegetales."
+    },
+    {
+      "pregunta": "En la fotosíntesis, la fase luminosa ocurre en:",
+      "opciones": [
+        "El estroma",
+        "La mitocondria",
+        "Los tilacoides",
+        "El núcleo"
+      ],
+      "correcta": 2,
+      "explicacion": "La fase luminosa ocurre en los tilacoides del cloroplasto. La fase oscura (ciclo de Calvin) ocurre en el estroma."
+    },
+    {
+      "pregunta": "La división celular que produce 4 células con la mitad de cromosomas se llama:",
+      "opciones": [
+        "Mitosis",
+        "Citocinesis",
+        "Cariocinesis",
+        "Meiosis"
+      ],
+      "correcta": 3,
+      "explicacion": "La meiosis produce 4 células haploides (gametos: óvulos y espermatozoides). La mitosis produce 2 células idénticas."
+    },
+    {
+      "pregunta": "Si se cruzan dos plantas heterocigotas Aa × Aa, la proporción fenotípica esperada es:",
+      "opciones": [
+        "3:1",
+        "1:1",
+        "9:3:3:1",
+        "2:1"
+      ],
+      "correcta": 0,
+      "explicacion": "El cruce Aa × Aa produce AA, Aa, Aa, aa → 3 dominantes : 1 recesivo."
+    },
+    {
+      "pregunta": "La teoría evolutiva basada en la selección natural fue propuesta por:",
+      "opciones": [
+        "Lamarck",
+        "Darwin",
+        "Cuvier",
+        "Mendel"
+      ],
+      "correcta": 1,
+      "explicacion": "Charles Darwin propuso la selección natural: los individuos mejor adaptados sobreviven y se reproducen más."
+    },
+    {
+      "pregunta": "La relación entre el pez rémora y el tiburón (el rémora come restos, el tiburón no se afecta) es:",
+      "opciones": [
+        "Mutualismo",
+        "Parasitismo",
+        "Comensalismo",
+        "Depredación"
+      ],
+      "correcta": 2,
+      "explicacion": "En el comensalismo, uno se beneficia (+), el otro no se afecta (0)."
+    },
+    {
+      "pregunta": "En una pirámide trófica, ¿qué porcentaje de energía pasa de un nivel al siguiente?",
+      "opciones": [
+        "1%",
+        "50%",
+        "90%",
+        "10%"
+      ],
+      "correcta": 3,
+      "explicacion": "La regla del 10% (o del diezmo) indica que solo el 10% de la energía pasa de un nivel trófico al siguiente."
+    },
+    {
+      "pregunta": "¿Qué teoría del origen de la vida sostiene que esta llegó del espacio en meteoritos?",
+      "opciones": [
+        "Panspermia",
+        "Biogénesis",
+        "Generación espontánea",
+        "Síntesis abiótica"
+      ],
+      "correcta": 0,
+      "explicacion": "La panspermia (Arrhenius) sostiene que la vida llegó a la Tierra desde el espacio en meteoritos o cometas."
+    },
+    {
+      "pregunta": "En la nomenclatura binomial, la primera palabra (con mayúscula) representa:",
+      "opciones": [
+        "La especie",
+        "El género",
+        "La familia",
+        "El reino"
+      ],
+      "correcta": 1,
+      "explicacion": "En la nomenclatura binomial de Linneo, la primera palabra es el género y la segunda (minúscula) la especie. Ej: Canis familiaris."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes partículas subatómicas define al elemento químico?",
+      "opciones": [
+        "Neutrón",
+        "Electrón",
+        "Protón",
+        "Isótopo"
+      ],
+      "correcta": 2,
+      "explicacion": "El número de protones (número atómico) define al elemento. Si cambia el número de protones, cambia el elemento."
+    },
+    {
+      "pregunta": "¿Quién propuso el modelo del 'pudín con pasas'?",
+      "opciones": [
+        "Dalton",
+        "Rutherford",
+        "Bohr",
+        "Thomson"
+      ],
+      "correcta": 3,
+      "explicacion": "J.J. Thomson propuso el modelo del 'pudín con pasas': electrones negativos incrustados en una masa positiva."
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes es un gas noble?",
+      "opciones": [
+        "Neón",
+        "Hidrógeno",
+        "Cloro",
+        "Oxígeno"
+      ],
+      "correcta": 0,
+      "explicacion": "El neón (Ne) es un gas noble. Los gases nobles son He, Ne, Ar, Kr, Xe, Rn. El hidrógeno NO es gas noble."
+    },
+    {
+      "pregunta": "El cambio de estado de sólido a gas directamente se llama:",
+      "opciones": [
+        "Fusión",
+        "Sublimación",
+        "Condensación",
+        "Solidificación"
+      ],
+      "correcta": 1,
+      "explicacion": "La sublimación es el paso directo de sólido a gas, sin pasar por líquido. Ejemplo: el hielo seco."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes es una mezcla heterogénea?",
+      "opciones": [
+        "Agua de mar",
+        "Aire",
+        "Agua con aceite",
+        "Vinagre"
+      ],
+      "correcta": 2,
+      "explicacion": "El agua con aceite es heterogénea porque sus componentes se distinguen a simple vista."
+    },
+    {
+      "pregunta": "En una reacción redox, la sustancia que pierde electrones:",
+      "opciones": [
+        "Se reduce",
+        "Disminuye su número de oxidación",
+        "Es el agente oxidante",
+        "Se oxida"
+      ],
+      "correcta": 3,
+      "explicacion": "Perder electrones es oxidarse. El número de oxidación aumenta. La sustancia es el agente reductor."
+    },
+    {
+      "pregunta": "Una disolución con pH = 3 es:",
+      "opciones": [
+        "Ácida",
+        "Neutra",
+        "Básica",
+        "Alcalina"
+      ],
+      "correcta": 0,
+      "explicacion": "Un pH menor a 7 es ácido. Un pH de 3 es fuertemente ácido."
+    },
+    {
+      "pregunta": "El enlace entre dos no metales se llama:",
+      "opciones": [
+        "Iónico",
+        "Covalente",
+        "Metálico",
+        "Puente de hidrógeno"
+      ],
+      "correcta": 1,
+      "explicacion": "Los enlaces covalentes se forman entre no metales que comparten electrones. Ej: H₂O, CO₂."
+    },
+    {
+      "pregunta": "Un gas ocupa 40 L a 2 atm. Si la presión aumenta a 4 atm (T constante), el volumen será:",
+      "opciones": [
+        "10 L",
+        "40 L",
+        "20 L",
+        "80 L"
+      ],
+      "correcta": 2,
+      "explicacion": "Ley de Boyle: P₁V₁ = P₂V₂ → 2 × 40 = 4 × V₂ → V₂ = 80/4 = 20 L."
+    },
+    {
+      "pregunta": "El compuesto CH₃-CH₂-OH pertenece al grupo funcional:",
+      "opciones": [
+        "Aldehído",
+        "Cetona",
+        "Éster",
+        "Alcohol"
+      ],
+      "correcta": 3,
+      "explicacion": "El grupo -OH (hidroxilo) caracteriza a los alcoholes. El sufijo -ol confirma: etanol."
+    },
+    {
+      "pregunta": "Un auto recorre 240 metros en 20 segundos a velocidad constante. ¿Cuál es su velocidad?",
+      "opciones": [
+        "12 m/s",
+        "20 m/s",
+        "24 m/s",
+        "48 m/s"
+      ],
+      "correcta": 0,
+      "explicacion": "v = d/t = 240/20 = 12 m/s. Fórmula del MRU."
+    },
+    {
+      "pregunta": "Un objeto parte del reposo y acelera a 4 m/s² durante 5 segundos. ¿Qué velocidad alcanza?",
+      "opciones": [
+        "9 m/s",
+        "20 m/s",
+        "16 m/s",
+        "25 m/s"
+      ],
+      "correcta": 1,
+      "explicacion": "vf = vi + a·t = 0 + 4 × 5 = 20 m/s."
+    },
+    {
+      "pregunta": "La 2ª ley de Newton se expresa como:",
+      "opciones": [
+        "F = m·g",
+        "E = ρ·g·V",
+        "F = m·a",
+        "V = I·R"
+      ],
+      "correcta": 2,
+      "explicacion": "La 2ª ley de Newton es F = m·a: la fuerza neta produce aceleración proporcional a la masa."
+    },
+    {
+      "pregunta": "Según la 2ª ley de Kepler, cuando un planeta está más cerca del Sol:",
+      "opciones": [
+        "Se mueve más lento",
+        "Se detiene",
+        "Mantiene la misma velocidad",
+        "Se mueve más rápido"
+      ],
+      "correcta": 3,
+      "explicacion": "La ley de las áreas dice que los planetas se mueven más rápido cerca del Sol (perihelio) y más lento lejos (afelio)."
+    },
+    {
+      "pregunta": "El calor que se transfiere a través de ondas electromagnéticas se llama:",
+      "opciones": [
+        "Radiación",
+        "Conducción",
+        "Convección",
+        "Evaporación"
+      ],
+      "correcta": 0,
+      "explicacion": "La radiación es la transferencia de calor por ondas electromagnéticas, y puede viajar en el vacío (ej: el Sol calienta la Tierra)."
+    },
+    {
+      "pregunta": "La 1ª ley de la termodinámica se expresa como:",
+      "opciones": [
+        "F = m·a",
+        "ΔU = Q − W",
+        "P·V = n·R·T",
+        "E = ρ·g·V"
+      ],
+      "correcta": 1,
+      "explicacion": "La 1ª ley es la conservación de la energía: ΔU = Q − W (cambio de energía interna = calor menos trabajo)."
+    },
+    {
+      "pregunta": "Un gas ocupa 300 mL a 200 K. Si la temperatura sube a 400 K (P constante), el volumen será:",
+      "opciones": [
+        "150 mL",
+        "300 mL",
+        "600 mL",
+        "900 mL"
+      ],
+      "correcta": 2,
+      "explicacion": "Ley de Charles: V₁/T₁ = V₂/T₂ → 300/200 = V₂/400 → V₂ = 600 mL. Al subir la temperatura, el volumen sube."
+    },
+    {
+      "pregunta": "Si un resorte con constante de 80 N/m se estira 0.3 m, la fuerza aplicada es:",
+      "opciones": [
+        "8 N",
+        "80 N",
+        "240 N",
+        "24 N"
+      ],
+      "correcta": 3,
+      "explicacion": "Ley de Hooke: F = k·x = 80 × 0.3 = 24 N."
+    },
+    {
+      "pregunta": "En una prensa hidráulica, si el área del émbolo grande es 15 veces la del pequeño, la fuerza del grande:",
+      "opciones": [
+        "Es 15 veces mayor",
+        "Es 15 veces menor",
+        "No cambia",
+        "Depende del fluido"
+      ],
+      "correcta": 0,
+      "explicacion": "Según el Principio de Pascal: F₁/A₁ = F₂/A₂. Si A₂ = 15·A₁, entonces F₂ = 15·F₁."
+    },
+    {
+      "pregunta": "Un objeto sumergido desplaza 2 m³ de agua. ¿Cuál es el empuje que recibe? (ρ = 1000 kg/m³, g = 9.81 m/s²)",
+      "opciones": [
+        "1,962 N",
+        "19,620 N",
+        "4,905 N",
+        "9,810 N"
+      ],
+      "correcta": 1,
+      "explicacion": "E = ρ·g·V = 1000 × 9.81 × 2 = 19,620 N. Principio de Arquímedes."
+    },
+    {
+      "pregunta": "Una resistencia de 50 Ω se conecta a 100 V. ¿Cuál es la corriente que circula?",
+      "opciones": [
+        "0.5 A",
+        "5 A",
+        "2 A",
+        "20 A"
+      ],
+      "correcta": 2,
+      "explicacion": "I = V/R = 100/50 = 2 A. Ley de Ohm."
+    },
+    {
+      "pregunta": "En la Ley de Snell, si la luz pasa del aire (n=1) al agua (n=1.33), el ángulo de refracción:",
+      "opciones": [
+        "Es mayor que el incidente",
+        "Es igual al incidente",
+        "Es 90°",
+        "Es menor que el incidente"
+      ],
+      "correcta": 3,
+      "explicacion": "Al pasar a un medio más denso (agua), la luz se acerca a la normal. El ángulo de refracción es menor que el de incidencia."
+    }
+  ]
+}

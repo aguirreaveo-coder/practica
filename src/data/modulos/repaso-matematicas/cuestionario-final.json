@@ -1,0 +1,485 @@
+{
+  "titulo": "Cuestionario Final: Matemáticas",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "1. Una tienda ofrece un descuento del 15 % sobre una mochila de $480. ¿Cuánto debe pagar el cliente después del descuento?",
+      "opciones": [
+        "$408",
+        "$412",
+        "$420",
+        "$432"
+      ],
+      "correcta": 0,
+      "explicacion": "El descuento es 480 × 0.15 = $72. El precio final es 480 − 72 = $408."
+    },
+    {
+      "numero": 2,
+      "pregunta": "2. En una excursión, 3 autobuses transportan a 126 estudiantes, todos con la misma capacidad ocupada. ¿Cuántos estudiantes transportarían 5 autobuses en las mismas condiciones?",
+      "opciones": [
+        "180",
+        "210",
+        "200",
+        "225"
+      ],
+      "correcta": 1,
+      "explicacion": "La razón es 126 ÷ 3 = 42 estudiantes por autobús. Para 5 autobuses: 42 × 5 = 210."
+    },
+    {
+      "numero": 3,
+      "pregunta": "3. Una persona ahorra $250 la primera semana y aumenta su ahorro en $40 cada semana. ¿Cuánto ahorrará durante la sexta semana?",
+      "opciones": [
+        "$410",
+        "$490",
+        "$450",
+        "$500"
+      ],
+      "correcta": 2,
+      "explicacion": "Es una sucesión aritmética: 250 + (6 − 1) × 40 = $450."
+    },
+    {
+      "numero": 4,
+      "pregunta": "4. Una población de bacterias se duplica cada hora. Si inicialmente hay 120 bacterias, ¿cuántas habrá después de 3 horas?",
+      "opciones": [
+        "480",
+        "720",
+        "840",
+        "960"
+      ],
+      "correcta": 3,
+      "explicacion": "Cada hora se multiplica por 2: 120 × 2³ = 960."
+    },
+    {
+      "numero": 5,
+      "pregunta": "5. ¿Qué expresión representa el costo de comprar x cuadernos de $28 cada uno y una mochila de $165?",
+      "opciones": [
+        "28x + 165",
+        "165x + 28",
+        "28(x + 165)",
+        "193x"
+      ],
+      "correcta": 0,
+      "explicacion": "El costo de los cuadernos es 28x y se suma el costo fijo de la mochila: 28x + 165."
+    },
+    {
+      "numero": 6,
+      "pregunta": "6. Una papelería compra una caja con x lápices. Después recibe 12 lápices adicionales y distribuye el total en 5 paquetes iguales. ¿Qué expresión representa los lápices de cada paquete?",
+      "opciones": [
+        "5x + 12",
+        "(x + 12) ÷ 5",
+        "(x + 5) ÷ 12",
+        "5(x + 12)"
+      ],
+      "correcta": 1,
+      "explicacion": "Primero se suman los 12 lápices: x + 12. Después se divide el total entre 5 paquetes."
+    },
+    {
+      "numero": 7,
+      "pregunta": "7. Al desarrollar (2x − 3)(x + 4), ¿qué expresión se obtiene?",
+      "opciones": [
+        "2x² + 11x − 12",
+        "2x² − 5x + 12",
+        "2x² + 5x − 12",
+        "2x² + 8x − 3"
+      ],
+      "correcta": 2,
+      "explicacion": "Multiplicando término a término: 2x² + 8x − 3x − 12 = 2x² + 5x − 12."
+    },
+    {
+      "numero": 8,
+      "pregunta": "8. Una parcela rectangular tiene un área de x² + 7x + 12 metros cuadrados. ¿Qué dimensiones algebraicas pueden representar sus lados?",
+      "opciones": [
+        "(x + 1) y (x + 12)",
+        "(x − 3) y (x − 4)",
+        "(x + 2) y (x + 6)",
+        "(x + 3) y (x + 4)"
+      ],
+      "correcta": 3,
+      "explicacion": "La factorización de x² + 7x + 12 es (x + 3)(x + 4), pues 3 × 4 = 12 y 3 + 4 = 7."
+    },
+    {
+      "numero": 9,
+      "pregunta": "9. Un servicio de mensajería cobra $45 de tarifa fija más $8 por kilómetro recorrido. Si el costo total fue de $133, ¿cuántos kilómetros se recorrieron?",
+      "opciones": [
+        "11",
+        "10",
+        "12",
+        "14"
+      ],
+      "correcta": 0,
+      "explicacion": "Se plantea 45 + 8x = 133. Entonces 8x = 88 y x = 11 kilómetros."
+    },
+    {
+      "numero": 10,
+      "pregunta": "10. La suma de tres números enteros consecutivos es 72. ¿Cuál es el número mayor?",
+      "opciones": [
+        "23",
+        "25",
+        "24",
+        "26"
+      ],
+      "correcta": 1,
+      "explicacion": "Sean x, x + 1 y x + 2. Al resolver 3x + 3 = 72 se obtiene x = 23; el mayor es 25."
+    },
+    {
+      "numero": 11,
+      "pregunta": "11. El doble de un número disminuido en 7 es igual a 19. ¿Cuál es el número?",
+      "opciones": [
+        "6",
+        "19",
+        "13",
+        "26"
+      ],
+      "correcta": 2,
+      "explicacion": "La ecuación es 2x − 7 = 19. Al sumar 7 y dividir entre 2, x = 13."
+    },
+    {
+      "numero": 12,
+      "pregunta": "12. Un rectángulo tiene un perímetro de 34 cm. Su largo mide 3 cm más que el ancho. ¿Cuánto mide el ancho?",
+      "opciones": [
+        "6 cm",
+        "8 cm",
+        "10 cm",
+        "7 cm"
+      ],
+      "correcta": 3,
+      "explicacion": "Si el ancho es x, el largo es x + 3. Entonces 2x + 2(x + 3) = 34; de ahí x = 7 cm."
+    },
+    {
+      "numero": 13,
+      "pregunta": "13. En una función de cine se vendieron 18 boletos. Los de adulto cuestan $80 y los de estudiante $50. Si se recaudaron $1,230, ¿cuántos boletos de adulto se vendieron?",
+      "opciones": [
+        "11",
+        "8",
+        "10",
+        "9"
+      ],
+      "correcta": 0,
+      "explicacion": "Al sustituir e = 18 − a en 80a + 50e = 1230, se obtiene 30a = 330; por tanto, a = 11."
+    },
+    {
+      "numero": 14,
+      "pregunta": "14. La suma de dos números es 41 y su diferencia es 9. ¿Cuál es el número mayor?",
+      "opciones": [
+        "16",
+        "25",
+        "27",
+        "32"
+      ],
+      "correcta": 1,
+      "explicacion": "Si x + y = 41 y x − y = 9, al sumar las ecuaciones se obtiene 2x = 50. El mayor es 25."
+    },
+    {
+      "numero": 15,
+      "pregunta": "15. Una escalera de 10 m está apoyada en una pared. Su base se encuentra a 6 m de la pared. ¿A qué altura llega?",
+      "opciones": [
+        "6 m",
+        "7 m",
+        "8 m",
+        "9 m"
+      ],
+      "correcta": 2,
+      "explicacion": "Por el teorema de Pitágoras, h² + 6² = 10². Así, h² = 64 y h = 8 m."
+    },
+    {
+      "numero": 16,
+      "pregunta": "16. Un terreno rectangular mide 18 m de largo y 12 m de ancho. ¿Cuál es su área?",
+      "opciones": [
+        "30 m²",
+        "108 m²",
+        "196 m²",
+        "216 m²"
+      ],
+      "correcta": 3,
+      "explicacion": "El área de un rectángulo es largo por ancho: 18 × 12 = 216 m²."
+    },
+    {
+      "numero": 17,
+      "pregunta": "17. Un jardín circular tiene un radio de 4 m. ¿Cuál es su área aproximada? Usa π = 3.14.",
+      "opciones": [
+        "50.24 m²",
+        "25.12 m²",
+        "40.96 m²",
+        "100.48 m²"
+      ],
+      "correcta": 0,
+      "explicacion": "El área del círculo es πr² = 3.14 × 4² = 50.24 m²."
+    },
+    {
+      "numero": 18,
+      "pregunta": "18. Dos ángulos son suplementarios. Si uno mide 127°, ¿cuánto mide el otro?",
+      "opciones": [
+        "43°",
+        "53°",
+        "63°",
+        "73°"
+      ],
+      "correcta": 1,
+      "explicacion": "Los ángulos suplementarios suman 180°. Por tanto, 180° − 127° = 53°."
+    },
+    {
+      "numero": 19,
+      "pregunta": "19. Un triángulo tiene dos ángulos interiores de 48° y 67°. ¿Cuánto mide el tercer ángulo?",
+      "opciones": [
+        "55°",
+        "60°",
+        "65°",
+        "75°"
+      ],
+      "correcta": 2,
+      "explicacion": "La suma de los ángulos interiores es 180°. El tercero mide 180° − 48° − 67° = 65°."
+    },
+    {
+      "numero": 20,
+      "pregunta": "20. Un poste de 2 m proyecta una sombra de 1.5 m. En el mismo momento, un árbol proyecta una sombra de 9 m. ¿Cuál es la altura del árbol?",
+      "opciones": [
+        "9 m",
+        "10 m",
+        "11 m",
+        "12 m"
+      ],
+      "correcta": 3,
+      "explicacion": "Por semejanza de triángulos, h/9 = 2/1.5. Entonces h = 9 × 2 ÷ 1.5 = 12 m."
+    },
+    {
+      "numero": 21,
+      "pregunta": "21. En un triángulo rectángulo, el cateto opuesto a un ángulo mide 5 cm y la hipotenusa 13 cm. ¿Cuál es el seno de ese ángulo?",
+      "opciones": [
+        "5/13",
+        "12/13",
+        "5/12",
+        "13/5"
+      ],
+      "correcta": 0,
+      "explicacion": "El seno es cateto opuesto entre hipotenusa: 5/13."
+    },
+    {
+      "numero": 22,
+      "pregunta": "22. Una rampa tiene una longitud de 5 m y alcanza una altura vertical de 3 m. ¿Cuál es el coseno del ángulo que forma con el suelo?",
+      "opciones": [
+        "3/5",
+        "4/5",
+        "3/4",
+        "5/4"
+      ],
+      "correcta": 1,
+      "explicacion": "El cateto horizontal mide 4 m por Pitágoras. El coseno es adyacente entre hipotenusa: 4/5."
+    },
+    {
+      "numero": 23,
+      "pregunta": "23. ¿Cuál es la distancia entre los puntos A(2, 3) y B(8, 11) en el plano cartesiano?",
+      "opciones": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "correcta": 2,
+      "explicacion": "La distancia es √[(8 − 2)² + (11 − 3)²] = √(36 + 64) = 10."
+    },
+    {
+      "numero": 24,
+      "pregunta": "24. ¿Cuál es el punto medio del segmento cuyos extremos son A(−2, 4) y B(6, 10)?",
+      "opciones": [
+        "(4, 7)",
+        "(2, 6)",
+        "(1, 7)",
+        "(2, 7)"
+      ],
+      "correcta": 3,
+      "explicacion": "El punto medio se obtiene promediando las coordenadas: ((−2 + 6)/2, (4 + 10)/2) = (2, 7)."
+    },
+    {
+      "numero": 25,
+      "pregunta": "25. Una recta pasa por los puntos (1, 2) y (5, 10). ¿Cuál es su pendiente?",
+      "opciones": [
+        "2",
+        "1/2",
+        "4",
+        "8"
+      ],
+      "correcta": 0,
+      "explicacion": "La pendiente es (10 − 2)/(5 − 1) = 8/4 = 2."
+    },
+    {
+      "numero": 26,
+      "pregunta": "26. Una recta tiene pendiente 3 y corta al eje vertical en −4. ¿Cuál es su ecuación en la forma y = mx + b?",
+      "opciones": [
+        "y = −4x + 3",
+        "y = 3x − 4",
+        "y = 3x + 4",
+        "y = x − 4"
+      ],
+      "correcta": 1,
+      "explicacion": "En la forma y = mx + b, la pendiente es m = 3 y la intersección vertical es b = −4. Por tanto, y = 3x − 4."
+    },
+    {
+      "numero": 27,
+      "pregunta": "27. Una empresa determina que el costo de producir x artículos es C(x) = 120 + 35x. ¿Cuál es el costo de producir 20 artículos?",
+      "opciones": [
+        "$700",
+        "$720",
+        "$820",
+        "$920"
+      ],
+      "correcta": 2,
+      "explicacion": "Se sustituye x = 20: C(20) = 120 + 35(20) = 120 + 700 = $820."
+    },
+    {
+      "numero": 28,
+      "pregunta": "28. Una función está definida por f(x) = x² − 4x + 6. ¿Cuál es el valor de f(3)?",
+      "opciones": [
+        "1",
+        "2",
+        "4",
+        "3"
+      ],
+      "correcta": 3,
+      "explicacion": "Al sustituir x = 3: f(3) = 3² − 4(3) + 6 = 9 − 12 + 6 = 3."
+    },
+    {
+      "numero": 29,
+      "pregunta": "29. ¿Cuál es el dominio de la función f(x) = (x + 2)/(x − 5), considerando valores reales?",
+      "opciones": [
+        "Todos los números reales excepto 5",
+        "Todos los números reales excepto −2",
+        "Todos los números positivos",
+        "Todos los números reales"
+      ],
+      "correcta": 0,
+      "explicacion": "El denominador no puede ser cero. x − 5 = 0 cuando x = 5, por lo que se excluye ese valor."
+    },
+    {
+      "numero": 30,
+      "pregunta": "30. Una población inicia con 500 individuos y aumenta 4 % cada año. ¿Qué expresión representa la población después de t años, suponiendo crecimiento compuesto?",
+      "opciones": [
+        "500 + 4t",
+        "500(1.04)^t",
+        "500(0.04)^t",
+        "500 + 1.04t"
+      ],
+      "correcta": 1,
+      "explicacion": "En un crecimiento porcentual compuesto se multiplica por 1 + 0.04 en cada periodo: P(t) = 500(1.04)^t."
+    },
+    {
+      "numero": 31,
+      "pregunta": "31. Si f(x) = 2x + 1 y g(x) = x², ¿cuál es el valor de (f + g)(2)?",
+      "opciones": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correcta": 2,
+      "explicacion": "f(2) = 5 y g(2) = 4. Por tanto, (f + g)(2) = 5 + 4 = 9."
+    },
+    {
+      "numero": 32,
+      "pregunta": "32. ¿Cuál es la derivada de la función f(x) = 5x³ − 2x² + 7?",
+      "opciones": [
+        "15x³ − 4x",
+        "5x² − 2x",
+        "15x² − 4x + 7",
+        "15x² − 4x"
+      ],
+      "correcta": 3,
+      "explicacion": "Aplicando la regla de la potencia término a término, la derivada es 15x² − 4x. La constante 7 deriva en cero."
+    },
+    {
+      "numero": 33,
+      "pregunta": "33. Las calificaciones de cinco estudiantes son 6, 7, 8, 8 y 10. ¿Cuál es la media aritmética?",
+      "opciones": [
+        "7.8",
+        "8",
+        "7.5",
+        "8.2"
+      ],
+      "correcta": 0,
+      "explicacion": "La media es (6 + 7 + 8 + 8 + 10) ÷ 5 = 39 ÷ 5 = 7.8."
+    },
+    {
+      "numero": 34,
+      "pregunta": "34. En el conjunto de datos 4, 6, 6, 7, 9, 12, ¿cuál es la mediana?",
+      "opciones": [
+        "6",
+        "6.5",
+        "7",
+        "7.5"
+      ],
+      "correcta": 1,
+      "explicacion": "Hay seis datos ordenados. La mediana es el promedio del tercero y cuarto: (6 + 7) ÷ 2 = 6.5."
+    },
+    {
+      "numero": 35,
+      "pregunta": "35. En una bolsa hay 5 fichas rojas, 3 azules y 2 verdes. Si se extrae una ficha al azar, ¿cuál es la probabilidad de que sea azul?",
+      "opciones": [
+        "1/5",
+        "1/4",
+        "3/10",
+        "1/2"
+      ],
+      "correcta": 2,
+      "explicacion": "Hay 10 fichas en total y 3 son azules. La probabilidad es 3/10."
+    },
+    {
+      "numero": 36,
+      "pregunta": "36. Se lanza un dado equilibrado de seis caras. ¿Cuál es la probabilidad de obtener un número par o un número mayor que 4?",
+      "opciones": [
+        "1/2",
+        "5/6",
+        "1/3",
+        "2/3"
+      ],
+      "correcta": 3,
+      "explicacion": "Los resultados favorables son 2, 4, 5 y 6. La probabilidad es 4/6 = 2/3."
+    },
+    {
+      "numero": 37,
+      "pregunta": "37. Una máquina produce piezas y el 5 % resulta defectuoso. Si se selecciona una pieza al azar, ¿cuál es la probabilidad de que no sea defectuosa?",
+      "opciones": [
+        "0.95",
+        "0.90",
+        "0.05",
+        "0.50"
+      ],
+      "correcta": 0,
+      "explicacion": "El evento contrario a defectuosa tiene probabilidad 1 − 0.05 = 0.95."
+    },
+    {
+      "numero": 38,
+      "pregunta": "38. En una encuesta a 80 personas, 28 prefieren el transporte público, 32 prefieren automóvil y el resto bicicleta. ¿Cuántas personas prefieren bicicleta?",
+      "opciones": [
+        "18",
+        "20",
+        "22",
+        "24"
+      ],
+      "correcta": 1,
+      "explicacion": "Las personas que prefieren bicicleta son 80 − 28 − 32 = 20."
+    },
+    {
+      "numero": 39,
+      "pregunta": "39. Un tanque contiene 240 litros de agua. Se utiliza una cuarta parte por la mañana y después se agregan 35 litros. ¿Cuántos litros contiene al final?",
+      "opciones": [
+        "180",
+        "195",
+        "215",
+        "205"
+      ],
+      "correcta": 2,
+      "explicacion": "Una cuarta parte de 240 es 60. Quedan 180 litros y al agregar 35 se obtiene 215 litros."
+    },
+    {
+      "numero": 40,
+      "pregunta": "40. Una persona compra 3 boletos de adulto a $75 cada uno y 2 boletos infantiles a $45 cada uno. Si paga con $400, ¿cuánto cambio recibe?",
+      "opciones": [
+        "$95",
+        "$105",
+        "$115",
+        "$85"
+      ],
+      "correcta": 3,
+      "explicacion": "El total es 3(75) + 2(45) = $315. El cambio es 400 − 315 = $85."
+    }
+  ]
+}

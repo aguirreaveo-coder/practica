@@ -1,0 +1,275 @@
+{
+  "titulo": "Clase 1: Economía, Política y Sociedad Contemporánea",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 11",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Transformaciones en el Mundo Contemporáneo</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 1: Economía, Política y Sociedad Contemporánea</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Crisis Económica de 2008 · Deuda y Crisis Energética · Instituciones Internacionales · España y Análisis de Fuentes</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: ¿Qué es una crisis económica?",
+      "html": "<p class='text-lg'>Una <strong>crisis económica</strong> es una fase de contracción profunda y prolongada de la actividad económica. Sus características principales son:</p><ul class='text-lg'><li><strong>Desempleo:</strong> aumento del número de personas sin trabajo.</li><li><strong>Inflación:</strong> aumento generalizado y sostenido de los precios.</li><li><strong>Caída de la producción:</strong> disminución de bienes y servicios.</li><li><strong>Reducción del consumo:</strong> las familias gastan menos.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: La crisis de 2008 en Estados Unidos",
+      "html": "<p class='text-lg'><strong>Detonante:</strong> las <strong>hipotecas subprime</strong>, préstamos de alto riesgo otorgados a personas con baja capacidad de pago.</p><p class='text-lg'><strong>Efecto inmediato:</strong> los deudores no pudieron pagar, los bancos quebraron y la crisis se expandió a nivel mundial.</p><p class='text-lg'><strong>Consecuencia en Europa:</strong> todas las bolsas europeas registraron importantes caídas como consecuencia directa de la crisis de las hipotecas subprime.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: La crisis en España",
+      "html": "<p class='text-lg'>La crisis en España se enmarca en la crisis económico-financiera mundial. Giró en torno al fuerte <strong>ajuste de la industria de la construcción</strong> tras la burbuja inmobiliaria surgida en <strong>Estados Unidos</strong>.</p><p class='text-lg'><strong>Factores que incidieron:</strong></p><ul class='text-lg'><li>Ajuste en la construcción.</li><li>Restricciones crediticias.</li><li>Escalada en el precio del petróleo.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Tipos de deuda",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Deuda interna</p><p class='text-lg'>Los acreedores son ciudadanos del mismo país. Se paga en moneda nacional.</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Deuda externa</p><p class='text-lg'>Los acreedores son de otros países o instituciones internacionales.</p></div><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Deuda pública</p><p class='text-lg'>La contrae el Estado para financiar sus actividades.</p></div><div class='bg-cyan-500/10 border border-cyan-500/30 p-4 rounded-lg'><p class='font-semibold text-cyan-700 dark:text-cyan-300 mb-2 text-lg'>Deuda privada</p><p class='text-lg'>La contraen empresas o personas. Procede de los mercados financieros.</p></div></div><p class='text-lg'><strong>Dato 2010:</strong> Francia tenía la mayor deuda externa bruta entre los países europeos.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Crisis energética",
+      "html": "<p class='text-lg'>La <strong>crisis energética</strong> es la disminución de la disponibilidad de petróleo, gas y otros recursos naturales, lo que provoca un incremento en el precio de los combustibles y una disminución en su consumo.</p><p class='text-lg'>Un conflicto internacional en una región productora de petróleo (por ejemplo, Irán) puede ocasionar una crisis energética mundial al incrementar aceleradamente el precio de los combustibles fósiles.</p><p class='text-lg'><strong>Pico de Hubbert:</strong> teoría que establece el punto máximo de extracción de petróleo de un pozo o región, tras el cual la producción comienza a declinar.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Unión Europea, OTAN y ONU",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-3 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Unión Europea</p><p class='text-lg'>Organización supranacional que busca incrementar la integración económica y política y reforzar la cooperación entre países europeos.</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>OTAN</p><p class='text-lg'>Alianza militar y política cuyo propósito es preservar la estabilidad, el bienestar y la libertad de sus miembros mediante seguridad colectiva.</p></div><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>ONU</p><p class='text-lg'>Organización creada en 1945. Sus objetivos incluyen fomentar la amistad entre naciones y armonizar esfuerzos por objetivos comunes.</p></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Instituciones internacionales",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-cyan-500/10 border border-cyan-500/30 p-4 rounded-lg'><p class='font-semibold text-cyan-700 dark:text-cyan-300 mb-2 text-lg'>CEPAL</p><p class='text-lg'>Recoge, organiza, interpreta y difunde información sobre desarrollo económico y social de la región.</p></div><div class='bg-orange-500/10 border border-orange-500/30 p-4 rounded-lg'><p class='font-semibold text-orange-700 dark:text-orange-300 mb-2 text-lg'>BID</p><p class='text-lg'>Ayuda a la región a alcanzar mayor progreso económico y social, reducir la pobreza y promover el desarrollo.</p></div><div class='bg-amber-500/10 border border-amber-500/30 p-4 rounded-lg'><p class='font-semibold text-amber-700 dark:text-amber-300 mb-2 text-lg'>FMI</p><p class='text-lg'>Fomenta la cooperación monetaria internacional mediante un mecanismo de consulta y colaboración.</p></div><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>OEA</p><p class='text-lg'>Favorece la cooperación económica esencial para el bienestar y la prosperidad de los pueblos del continente.</p></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: El régimen franquista en España",
+      "html": "<p class='text-lg'>El <strong>régimen franquista</strong> fue la dictadura establecida en España por Francisco Franco tras la Guerra Civil (1936-1939).</p><p class='text-lg'>Se mantuvo en el poder hasta <strong>1975</strong>, año en que murió Franco y comenzó la transición hacia la democracia.</p><p class='text-lg'>Durante ese periodo, España vivió un régimen autoritario de partido único, con censura y represión política.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Análisis de fuentes históricas",
+      "html": "<p class='text-lg'>El análisis de fuentes consiste en comparar distintos textos o documentos para identificar:</p><ul class='text-lg'><li><strong>Coincidencias:</strong> información que se repite en ambas fuentes.</li><li><strong>Contradicciones:</strong> información que se contrapone.</li><li><strong>Elementos incompatibles:</strong> datos que no pueden ser verdaderos al mismo tiempo.</li></ul><p class='text-lg'><strong>Dato clave:</strong> Egipto <strong>no</strong> forma parte del Magreb (el Magreb agrupa a los países del norte de África al oeste de Egipto). El Magreb <strong>no</strong> es sinónimo de mundo árabe.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: La crisis de 2008 en América Latina",
+      "html": "<p class='text-lg'>La crisis de 2008 también afectó a América Latina, aunque con diferentes intensidades según cada país:</p><ul class='text-lg'><li><strong>México:</strong> fuerte caída de las exportaciones y de las remesas, aumento del desempleo.</li><li><strong>Brasil:</strong> contracción del crédito y disminución de la inversión extranjera.</li><li><strong>Argentina:</strong> dificultades para acceder al financiamiento internacional.</li><li><strong>Chile:</strong> caída en el precio del cobre, su principal producto de exportación.</li></ul><p class='text-lg'>La región respondió con políticas fiscales y monetarias para amortiguar el impacto social de la crisis.</p>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Actividad: Repaso de la Guía",
+      "instrucciones": "Responde las siguientes preguntas de tu guía relacionadas con la economía, la política y la sociedad contemporánea:",
+      "preguntas": [
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13,
+        14,
+        15,
+        16,
+        21,
+        30,
+        34,
+        35
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Revisión de la Actividad",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white mb-4'>Revisión de la actividad</p><p class='text-lg text-slate-700 dark:text-slate-200'>A continuación, reforzaremos los conceptos de economía, política y sociedad contemporánea con las preguntas de la guía asignadas a esta clase.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "5. ¿Cuál fue el detonante que causó la crisis de Estados Unidos en 2008?",
+      "opciones": [
+        "Hipotecas subprime, porque fueron préstamos de alto riesgo que no se pudieron pagar",
+        "Precio de los alimentos, porque aumentó el costo de la canasta básica",
+        "Precio del petróleo, porque se disparó el costo de los combustibles",
+        "Crisis europea, porque se contagió desde los países del Viejo Continente"
+      ],
+      "correcta": 0,
+      "explicacion": "El detonante de la crisis de 2008 fue el colapso de las hipotecas subprime, préstamos de alto riesgo otorgados a personas con baja capacidad de pago.",
+      "numero": 5
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "7. Revisa la información complementaria en tu Guia",
+      "opciones": [
+        "Estados Unidos, porque ahí se originó la burbuja inmobiliaria que se expandió",
+        "Grecia, porque fue el primer país europeo en entrar en crisis financiera",
+        "Gran Bretaña, porque su sector inmobiliario colapsó primero en Europa",
+        "Italia, porque su industria de la construcción sufrió un fuerte ajuste"
+      ],
+      "correcta": 0,
+      "explicacion": "La burbuja inmobiliaria que detonó la crisis de España surgió en Estados Unidos y se expandió a nivel mundial.",
+      "numero": 7
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "8. ¿Cuál es la causa por la que en 2008 todas las bolsas europeas registran importantes caídas?",
+      "opciones": [
+        "Crisis de las hipotecas subprime, porque se contagió la desconfianza financiera",
+        "Caída de la bolsa de Londres, porque arrastró a las demás bolsas europeas",
+        "Baja en los precios del petróleo, porque afectó a las empresas energéticas",
+        "Devaluación del euro, porque encareció las exportaciones europeas"
+      ],
+      "correcta": 0,
+      "explicacion": "Las bolsas europeas cayeron como consecuencia directa de la crisis de las hipotecas subprime originada en Estados Unidos.",
+      "numero": 8
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "9. ¿Cuál es el tipo de deuda que procede de los mercados financieros?",
+      "opciones": [
+        "Privada, porque la contraen empresas o personas en los mercados financieros",
+        "Externa, porque los acreedores son de otros países o instituciones",
+        "Interna, porque los acreedores son ciudadanos del mismo país",
+        "Pública, porque la contrae el Estado para financiar sus actividades"
+      ],
+      "correcta": 0,
+      "explicacion": "La deuda privada procede de los mercados financieros y la contraen empresas o personas físicas.",
+      "numero": 9
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "10. ¿Cuál de los siguientes países tiene una mayor deuda externa bruta en el 2010?",
+      "opciones": [
+        "Francia, porque encabezaba la lista de deuda externa bruta en 2010",
+        "Italia, porque su deuda pública superaba a la de los demás países",
+        "Alemania, porque su economía era la más grande de Europa en 2010",
+        "Inglaterra, porque su sector financiero concentraba gran deuda externa"
+      ],
+      "correcta": 0,
+      "explicacion": "Según los datos de 2010, Francia tenía la mayor deuda externa bruta entre los países mencionados.",
+      "numero": 10
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "11. Revisa la información complementaria en tu Guia",
+      "opciones": [
+        "V, V, F, F, porque las dos primeras son verdaderas y las dos últimas falsas",
+        "V, F, V, F, porque solo la primera y la tercera son verdaderas",
+        "F, F, V, V, porque solo la tercera y la cuarta son verdaderas",
+        "F, V, F, V, porque solo la segunda y la cuarta son verdaderas"
+      ],
+      "correcta": 0,
+      "explicacion": "Las afirmaciones (1) y (2) son verdaderas. La (3) es falsa porque el Pico de Hubbert se refiere al punto máximo de extracción de petróleo. La (4) es falsa porque la solución propuesta es reducir la dependencia de combustibles fósiles.",
+      "numero": 11
+    },
+        {
+      "tipo": "pregunta",
+      "pregunta": "13. La Unión Europea (UE) es una organización supranacional cuyo objetivo es:",
+      "opciones": [
+        "incrementar la integración económica y política y reforzar la cooperación en los países europeos",
+        "regular los sectores productores del carbón y del acero en los países europeos",
+        "favorecer la unión económica de todos los países europeos occidentales.",
+        "asegurar el abastecimiento regular y equitativo de la energía atómica para usos civiles en los países europeos."
+      ],
+      "correcta": 0,
+      "explicacion": "Las afirmaciones (1) y (2) son verdaderas. La (3) es falsa porque el Pico de Hubbert se refiere al punto máximo de extracción de petróleo. La (4) es falsa porque la solución propuesta es reducir la dependencia de combustibles fósiles.",
+      "numero": 13
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "14. ¿Cuál fue el propósito fundamental de la creación de la Organización del Tratado Atlántico Norte (OTAN)?",
+      "opciones": [
+        "Preservar la estabilidad, el bienestar y la libertad de sus miembros mediante un sistema de seguridad colectiva",
+        "Luchar contra la baja en los precios petroleros de referencia de las grandes compañías",
+        "Apoyar a los países del hemisferio norte para fomentar su desarrollo sociopolítico y militar",
+        "Cumplir los acuerdos de reconstrucción para Alemania propuestos por los aliados"
+      ],
+      "correcta": 0,
+      "explicacion": "La OTAN se creó para preservar la estabilidad, el bienestar y la libertad de sus miembros mediante la seguridad colectiva.",
+      "numero": 14
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "15. ¿Es la organización que tiene como misión fundamental resguardar la libertad y la seguridad de los países miembros, tanto de forma política como militar?",
+      "opciones": [
+        "OTAN, porque es una alianza militar y política para la seguridad colectiva",
+        "ONU, porque promueve la paz y la cooperación internacional",
+        "OEA, porque agrupa a los países del continente americano",
+        "OCDE, porque promueve políticas económicas y sociales entre sus miembros"
+      ],
+      "correcta": 0,
+      "explicacion": "La OTAN tiene como misión fundamental resguardar la libertad y la seguridad de sus países miembros en el ámbito político y militar.",
+      "numero": 15
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "16. ¿Cuál es el tipo de deuda en la que los acreedores son ciudadanos del mismo país?",
+      "opciones": [
+        "Interna, porque los acreedores son ciudadanos del mismo país deudor",
+        "Privada, porque la contraen empresas o personas físicas",
+        "Externa, porque los acreedores son de otros países o instituciones",
+        "Pública, porque la contrae el Estado para financiar sus actividades"
+      ],
+      "correcta": 0,
+      "explicacion": "La deuda interna es aquella en la que los acreedores son ciudadanos del mismo país.",
+      "numero": 16
+    },
+        {
+      "tipo": "pregunta",
+      "pregunta": "21. ¿Cuáles son los elementos que caracterizan a una crisis económica? 1 Desempleo 2 Inflación 3 Aumento de población4 Fujo migratorio",
+      "opciones": [
+        "1 y 2",
+        "2 y 3",
+        "3 y 4",
+        "1 y 4"
+      ],
+      "correcta": 0,
+      "explicacion": "El desempleo y la inflación son dos de los elementos que caracterizan a una crisis económica.",
+      "numero": 21
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "30. Revisa la información complementaria en tu Guia",
+      "opciones": [
+        "4 → 2 →1 →5 →3, porque es el orden cronológico correcto de los acontecimientos",
+        "2 → 4 →1 →3 →5, porque los acontecimientos se ordenan por relevancia",
+        "5 → 3 →1 →4 →2, porque los acontecimientos se ordenan por región",
+        "3 → 5 →1 →2 →4, porque los acontecimientos se ordenan por importancia" 
+       
+      ],
+      "correcta": 0,
+      "explicacion": "El orden cronológico correcto de los acontecimientos de Sudáfrica es 4 → 2 →1 →5 →3.",
+      "numero": 30
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "34. ¿Cuáles son los elementos que caracterizan a una crisis económica?",
+      "opciones": [
+        "Desempleo e inflación, porque son indicadores directos de la crisis",
+        "Aumento de población y flujo migratorio, porque afectan la economía",
+        "Inflación y aumento de población, porque ambos reducen el consumo",
+        "Desempleo y flujo migratorio, porque provocan pérdida de talento"
+      ],
+      "correcta": 0,
+      "explicacion": "El desempleo y la inflación son dos de los elementos que caracterizan a una crisis económica.",
+      "numero": 34
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "35. Hasta qué año se mantuvo en el poder el régimen franquista en España.",
+      "opciones": [
+        "1975, porque fue el año en que murió Franco y comenzó la transición hacia la democracia",
+        "1939, porque fue el año en que terminó la Guerra Civil y Franco asumió el poder",
+        "1982, porque fue el año en que se consolidó la democracia en España",
+        "1969, porque fue el año en que Franco designó a Juan Carlos como sucesor y príncipe de España"
+      ],
+      "correcta": 0,
+      "explicacion": "El régimen franquista se mantuvo en el poder hasta 1975, año en que murió Franco y comenzó la transición hacia la democracia.",
+      "numero": 35
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 1",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase 1</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Economía, Política y Sociedad Contemporánea</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Nos vemos en la Clase 2: Guerras y Revoluciones del Siglo XX</p>"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

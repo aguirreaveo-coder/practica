@@ -1,0 +1,484 @@
+{
+  "titulo": "Sesión 1: Geografía",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Ciencias Experimentales",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Sesión 1: Geografía</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>4 horas · 9 temas en clase + 1 de estudio en casa</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Ramas de la geografía · Elementos de un mapa · Tipos de mapas · Herramientas geográficas · Erosión · Recursos naturales · Climas · Fenómenos de riesgo · Indicadores demográficos</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: ¿Qué es la geografía?",
+      "html": "<p class='text-lg'>La <strong>geografía</strong> es la ciencia que estudia la superficie terrestre, los fenómenos que ocurren en ella y la relación entre el ser humano y su entorno.</p><p class='text-lg'>Se divide en <strong>dos grandes ramas</strong>: la geografía física y la geografía humana.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Geografía física vs geografía humana",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Geografía física</p><div class='text-base'>Estudia elementos <em>naturales</em>: clima, relieve, cuerpos de agua, suelos y vegetación. Se apoya en meteorología, geología e hidrología.</div></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Geografía humana</p><div class='text-base'>Estudia la relación del ser humano con el espacio: población, cultura, economía, política y urbanización. Se apoya en sociología, economía y demografía.</div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: ¿Cuándo es física y cuándo es humana?",
+      "html": "<p class='text-lg'>Ejemplos para distinguir:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Geografía física</p><div class='text-base'>Clima de México y distribución de los ríos del país.</div></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Geografía humana</p><div class='text-base'>Migración en la frontera norte y densidad de población en las ciudades.</div></div></div><div class='mt-2 p-4 rounded-lg bg-amber-500/10 border border-amber-500/30 text-lg'><strong>Regla rápida:</strong> si el objeto de estudio es natural → física. Si es humano o social → humana.</div>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Qué rama de la geografía estudia el clima, el relieve y los cuerpos de agua?",
+      "opciones": [
+        "Geografía humana",
+        "Geografía política",
+        "Geografía física",
+        "Geografía económica"
+      ],
+      "correcta": 2,
+      "explicacion": "La geografía física estudia los elementos naturales: clima, relieve, cuerpos de agua, suelos y vegetación."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "El estudio de la migración de personas y la densidad de población pertenece a la:",
+      "opciones": [
+        "Geografía física",
+        "Geografía humana",
+        "Geología",
+        "Meteorología"
+      ],
+      "correcta": 1,
+      "explicacion": "La geografía humana estudia la relación del ser humano con el espacio: población, migración, economía, cultura y urbanización."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de los siguientes temas sería objeto de estudio de la geografía física?",
+      "opciones": [
+        "La migración en la frontera norte",
+        "La distribución de los ríos de México",
+        "Las elecciones presidenciales",
+        "El crecimiento de las ciudades"
+      ],
+      "correcta": 1,
+      "explicacion": "La distribución de los ríos es un elemento natural, por lo tanto pertenece a la geografía física."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: ¿Qué es un mapa?",
+      "html": "<p class='text-lg'>Un <strong>mapa</strong> es la representación gráfica y a escala de una porción de la superficie terrestre. Nos permite ubicar lugares, medir distancias y entender relaciones espaciales.</p><p class='text-lg'>Los mapas traducen la realidad tridimensional a un plano bidimensional de manera comprensible.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Los cuatro elementos obligatorios",
+      "html": "<p class='text-lg'>Todo mapa bien elaborado debe tener cuatro elementos:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Título</p><div class='text-base'>Indica qué representa el mapa y qué zona abarca.</div></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Escala</p><div class='text-base'>Relaciona las distancias del mapa con las distancias reales. Ejemplo: 1:50,000.</div></div><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Simbología</p><div class='text-base'>Explica el significado de cada color, línea o símbolo.</div></div><div class='bg-amber-500/10 border border-amber-500/30 p-4 rounded-lg'><p class='font-semibold text-amber-700 dark:text-amber-300 mb-2 text-lg'>Coordenadas</p><div class='text-base'>Usa latitud y longitud para ubicar cualquier punto.</div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Trampas frecuentes en el examen",
+      "html": "<p class='text-lg'>El examen suele intentar confundirte con opciones como <strong>\"autor\"</strong> o <strong>\"relieve\"</strong> como si fueran elementos obligatorios. <strong>No lo son.</strong></p><p class='text-lg'>Los únicos cuatro elementos obligatorios son: <strong>título, escala, simbología y coordenadas</strong>.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuáles son los cuatro elementos obligatorios que debe tener todo mapa?",
+      "opciones": [
+        "Título, autor, simbología y relieve",
+        "Título, escala, simbología y coordenadas",
+        "Escala, colores, altitud y coordenadas",
+        "Título, leyenda, población y fronteras"
+      ],
+      "correcta": 1,
+      "explicacion": "Los cuatro elementos obligatorios son: título, escala, simbología y coordenadas. El autor y el relieve son información adicional pero no obligatoria."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "Una escala de 1:50,000 significa que 1 cm en el mapa equivale a:",
+      "opciones": [
+        "50 cm en la realidad",
+        "500 m en la realidad",
+        "50,000 cm en la realidad",
+        "5 km en la realidad"
+      ],
+      "correcta": 2,
+      "explicacion": "En una escala 1:50,000, cada centímetro del mapa equivale a 50,000 centímetros en la realidad. Es decir, 500 metros o 0.5 km."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de los siguientes NO es un elemento obligatorio de un mapa?",
+      "opciones": [
+        "Título",
+        "Autor",
+        "Escala",
+        "Coordenadas"
+      ],
+      "correcta": 1,
+      "explicacion": "El autor es un dato adicional útil, pero no es uno de los cuatro elementos obligatorios. Los obligatorios son: título, escala, simbología y coordenadas."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Tipos de mapas",
+      "html": "<p class='text-lg'>Los mapas se clasifican según la información que representan. Los tres tipos principales son: <strong>político, físico y temático</strong>. Además existe el <strong>topográfico</strong>, que combina información de varios tipos.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Mapa político y mapa físico",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Mapa político</p><div class='text-base'>Muestra fronteras, países, estados y capitales. Se enfoca en quién gobierna cada territorio.</div></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Mapa físico</p><div class='text-base'>Muestra montañas, ríos, lagos, valles y llanuras. Se enfoca en cómo es el terreno.</div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Mapa temático y topográfico",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Mapa temático</p><div class='text-base'>Se enfoca en un tema específico: clima, población, vegetación, geología o economía.</div></div><div class='bg-amber-500/10 border border-amber-500/30 p-4 rounded-lg'><p class='font-semibold text-amber-700 dark:text-amber-300 mb-2 text-lg'>Mapa topográfico</p><div class='text-base'>Combina información física y política con detalle. Incluye curvas de nivel, ríos, caminos y poblaciones.</div></div></div>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "Un mapa que muestra las fronteras entre países y estados se llama:",
+      "opciones": [
+        "Mapa físico",
+        "Mapa político",
+        "Mapa temático",
+        "Mapa topográfico"
+      ],
+      "correcta": 1,
+      "explicacion": "El mapa político se enfoca en fronteras, países, estados y capitales. El físico muestra relieve; el temático, un tema específico."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "Un mapa que muestra la densidad de población por estado se llama:",
+      "opciones": [
+        "Político",
+        "Físico",
+        "Temático",
+        "Topográfico"
+      ],
+      "correcta": 2,
+      "explicacion": "Los mapas temáticos se enfocan en un tema específico: densidad de población, clima, vegetación, entre otros."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es la diferencia principal entre un mapa físico y un mapa político?",
+      "opciones": [
+        "El físico muestra el relieve; el político, las fronteras",
+        "El físico es a color y el político en blanco y negro",
+        "El físico es más antiguo que el político",
+        "No hay diferencia, son sinónimos"
+      ],
+      "correcta": 0,
+      "explicacion": "El mapa físico representa el relieve (montañas, ríos, lagos); el político muestra las divisiones territoriales (países, estados, fronteras)."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Herramientas geográficas modernas",
+      "html": "<p class='text-lg'>La geografía moderna usa tecnología para estudiar el espacio con mayor precisión. Estas herramientas han transformado la manera en que analizamos el territorio.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: SIG y GPS",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>SIG</p><div class='text-base'>Integra mapas con bases de datos para hacer consultas y análisis espaciales interactivos.</div></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>GPS</p><div class='text-base'>Sistema de satélites que determina la posición exacta de un lugar. Es el que usa tu celular para ubicarte.</div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Cartas, croquis e imágenes satelitales",
+      "html": "<ul class='text-lg'><li><strong>Carta topográfica:</strong> mapa muy detallado con relieve, ríos, caminos, construcciones y curvas de nivel.</li><li><strong>Croquis:</strong> mapa simple hecho a mano, sin escala precisa. Útil para ubicarse rápidamente.</li><li><strong>Imagen de satélite:</strong> fotografía de la Tierra tomada desde el espacio. Se usa para monitoreo ambiental y climático.</li></ul>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Qué herramienta geográfica combina mapas con bases de datos para hacer análisis espaciales interactivos?",
+      "opciones": [
+        "GPS",
+        "Croquis",
+        "SIG (Sistema de Información Geográfica)",
+        "Carta topográfica"
+      ],
+      "correcta": 2,
+      "explicacion": "El SIG integra mapas con datos, permitiendo consultas y análisis dinámicos. Ejemplos: Google Maps, ArcGIS, QGIS."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "El sistema que usa tu celular para ubicarte se llama:",
+      "opciones": [
+        "SIG",
+        "GPS",
+        "Carta topográfica",
+        "Croquis"
+      ],
+      "correcta": 1,
+      "explicacion": "El GPS (Sistema de Posicionamiento Global) es el sistema de satélites que determina tu posición exacta en cualquier parte del planeta."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es la principal diferencia entre un croquis y una carta topográfica?",
+      "opciones": [
+        "El croquis es más preciso y tiene escala exacta",
+        "El croquis es un dibujo simple sin escala precisa; la carta topográfica es detallada y con curvas de nivel",
+        "La carta topográfica se hace a mano",
+        "No hay diferencia entre ellos"
+      ],
+      "correcta": 1,
+      "explicacion": "El croquis es un dibujo rápido sin escala precisa. La carta topográfica es un mapa técnico muy detallado con curvas de nivel."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: ¿Qué es la erosión?",
+      "html": "<p class='text-lg'>La <strong>erosión</strong> es el desgaste y transporte de la superficie terrestre por agentes naturales como el viento, el agua o el hielo.</p><p class='text-lg'>Es un proceso <strong>externo</strong> que ocurre en la superficie del planeta, a diferencia de los procesos internos (tectonismo y vulcanismo) que <em>crean</em> relieve desde el interior.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Tipos de erosión",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Eólica</p><div class='text-base'>Causada por el viento. Forma dunas.</div></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Marina</p><div class='text-base'>Causada por el oleaje. Forma acantilados, playas y arcos naturales.</div></div><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Fluvial</p><div class='text-base'>Causada por ríos y arroyos. Forma valles, cañones y deltas.</div></div><div class='bg-amber-500/10 border border-amber-500/30 p-4 rounded-lg'><p class='font-semibold text-amber-700 dark:text-amber-300 mb-2 text-lg'>Glaciar</p><div class='text-base'>Causada por glaciares. Forma valles en U y circos.</div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Trampas frecuentes en el examen",
+      "html": "<p class='text-lg'>El examen suele incluir opciones como <strong>\"erosión tectónica\"</strong> o <strong>\"erosión volcánica\"</strong>, que <strong>NO existen</strong>.</p><p class='text-lg'>El tectonismo y el vulcanismo son fenómenos internos que <em>crean</em> relieve, pero no lo erosionan. La erosión siempre es un proceso externo.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "El desgaste de las costas por el impacto continuo de las olas es ejemplo de erosión:",
+      "opciones": [
+        "Eólica",
+        "Fluvial",
+        "Marina",
+        "Glaciar"
+      ],
+      "correcta": 2,
+      "explicacion": "La erosión marina, causada por el oleaje, desgasta las rocas costeras y forma acantilados, arcos y cuevas."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Qué tipo de erosión forma dunas en los desiertos?",
+      "opciones": [
+        "Erosión marina",
+        "Erosión fluvial",
+        "Erosión eólica",
+        "Erosión glaciar"
+      ],
+      "correcta": 2,
+      "explicacion": "La erosión eólica es causada por el viento, que arrastra partículas y forma dunas en desiertos y costas."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de los siguientes tipos de erosión NO existe como tal?",
+      "opciones": [
+        "Erosión eólica",
+        "Erosión marina",
+        "Erosión tectónica",
+        "Erosión fluvial"
+      ],
+      "correcta": 2,
+      "explicacion": "La \"erosión tectónica\" no existe. El tectonismo es un fenómeno interno que crea relieve, pero no lo erosiona."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: ¿Qué son los recursos naturales?",
+      "html": "<p class='text-lg'>Los <strong>recursos naturales</strong> son los elementos de la naturaleza que el ser humano aprovecha para satisfacer sus necesidades: alimentos, energía, materiales, agua.</p><p class='text-lg'>Se clasifican según su capacidad de regeneración en tres grandes grupos.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Clasificación de los recursos",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Inagotables</p><div class='text-base'>No se acaban con su uso. Ejemplos: Sol, viento y energía geotérmica.</div></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Renovables</p><div class='text-base'>Se regeneran si se usan con cuidado. Ejemplos: agua, flora, fauna y suelo.</div></div><div class='bg-amber-500/10 border border-amber-500/30 p-4 rounded-lg'><p class='font-semibold text-amber-700 dark:text-amber-300 mb-2 text-lg'>No renovables</p><div class='text-base'>Se agotan y no se regeneran rápidamente. Ejemplos: petróleo, gas, carbón y minerales.</div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: El caso del agua",
+      "html": "<p class='text-lg'>El <strong>agua</strong> es un recurso renovable porque su ciclo natural la regenera continuamente. <strong>Pero</strong> solo lo es si se respeta su ciclo y se evita la contaminación y la sobreexplotación.</p><p class='text-lg'>Si se contamina o se extrae más rápido de lo que se recarga, puede convertirse en un recurso no disponible.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "El petróleo, el gas natural y el carbón son recursos:",
+      "opciones": [
+        "Inagotables",
+        "Renovables",
+        "No renovables",
+        "Sintéticos"
+      ],
+      "correcta": 2,
+      "explicacion": "El petróleo, el gas natural y el carbón son recursos no renovables porque se agotan y no se regeneran en tiempos humanos."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de los siguientes NO es un recurso renovable?",
+      "opciones": [
+        "Agua",
+        "Flora",
+        "Petróleo",
+        "Fauna"
+      ],
+      "correcta": 2,
+      "explicacion": "El petróleo es un recurso no renovable. El agua, la flora y la fauna son renovables si se manejan de manera sustentable."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de los siguientes es un recurso natural inagotable?",
+      "opciones": [
+        "Petróleo",
+        "Agua dulce",
+        "Energía solar",
+        "Bosques"
+      ],
+      "correcta": 2,
+      "explicacion": "La energía solar es inagotable porque no se acaba con su uso. El petróleo es no renovable y el agua y los bosques son renovables si se cuidan."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Climas de México (Köppen)",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Primera letra: temperatura</p><div class='text-base'>A = tropical; B = seco; C = templado.</div></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Segunda letra: lluvias</p><div class='text-base'>f = todo el año; w = verano; s = invierno.</div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Climas principales de México",
+      "html": "<table class='w-full text-lg text-left my-4 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-2'>Código</th><th class='py-2'>Nombre</th><th class='py-2'>Dónde</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-2'>Af</td><td class='py-2'>Tropical lluvioso todo el año</td><td class='py-2'>Selva Lacandona, sur de Chiapas</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Aw</td><td class='py-2'>Tropical con lluvias en verano</td><td class='py-2'>Costa del Pacífico y Golfo</td></tr><tr class='border-b border-slate-600'><td class='py-2'>BS</td><td class='py-2'>Seco estepario</td><td class='py-2'>Norte de México, Sonora</td></tr><tr class='border-b border-slate-600'><td class='py-2'>BW</td><td class='py-2'>Seco desértico</td><td class='py-2'>Baja California, Chihuahua</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Cf</td><td class='py-2'>Templado lluvioso todo el año</td><td class='py-2'>Sierras altas</td></tr><tr><td class='py-2'>Cw</td><td class='py-2'>Templado con lluvias en verano</td><td class='py-2'>CDMX, Michoacán, Edo. de México</td></tr></tbody></table>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Regla rápida para recordar",
+      "html": "<p class='text-lg'><strong>A</strong> = tropical (calor todo el año).<br><strong>B</strong> = seco.<br><strong>C</strong> = templado.</p><p class='text-lg'>La <strong>segunda letra</strong> indica cuándo llueve: <strong>f</strong> = todo el año, <strong>w</strong> = verano, <strong>s</strong> = invierno.</p><p class='text-lg'>Ejemplo: <strong>Cw</strong> = templado con lluvias en verano (CDMX). <strong>Af</strong> = tropical lluvioso todo el año (Selva Lacandona).</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "La selva Lacandona en Chiapas presenta clima:",
+      "opciones": [
+        "Af - Tropical lluvioso todo el año",
+        "BW - Desértico",
+        "Cw - Templado lluvias en verano",
+        "E - Polar"
+      ],
+      "correcta": 0,
+      "explicacion": "La Selva Lacandona tiene clima Af (tropical lluvioso todo el año), caracterizado por calor y lluvias constantes."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "Una característica del clima BW (desértico) es:",
+      "opciones": [
+        "Precipitaciones todo el año",
+        "Casi nula precipitación anual",
+        "Inviernos extremadamente fríos",
+        "Vegetación selvática"
+      ],
+      "correcta": 1,
+      "explicacion": "El clima BW (seco desértico) se caracteriza por una precipitación casi nula durante todo el año, típico de Baja California y Chihuahua."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "En la clasificación de Köppen, ¿qué letra indica clima tropical?",
+      "opciones": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correcta": 0,
+      "explicacion": "La letra A indica clima tropical (calor todo el año, temperatura promedio mayor a 18 °C)."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: Fenómenos naturales de riesgo",
+      "html": "<p class='text-lg'>Los <strong>fenómenos naturales</strong> son eventos de la naturaleza que pueden representar riesgos para la población. Se clasifican según el medio en el que ocurren.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: Clasificación de fenómenos",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Naturales</p><div class='text-base'>Geológicos, hidrometeorológicos y biológicos. No dependen directamente de una acción humana.</div></div><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Antropogénicos</p><div class='text-base'>Son causados por actividades humanas, como contaminación, incendios provocados o derrames.</div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: Fenómenos antropogénicos",
+      "html": "<p class='text-lg'>Los fenómenos <strong>antropogénicos</strong> son causados por el ser humano y <strong>NO son naturales</strong>:</p><ul class='text-lg'><li>Derrames químicos</li><li>Fugas tóxicas</li><li>Explosiones industriales</li><li>Residuos biológicos</li></ul><p class='text-lg'><strong>Diferencia clave:</strong> un sismo es geológico; un huracán es meteorológico; una inundación es hidrológico; un derrame de petróleo es antropogénico (NO natural).</p><p class='text-lg'><strong>Nota:</strong> un <strong>sismo submarino</strong> puede generar un <strong>tsunami</strong>. Ambos son fenómenos geológicos.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "El Popocatépetl en plena actividad eruptiva es ejemplo de fenómeno:",
+      "opciones": [
+        "Meteorológico",
+        "Hidrológico",
+        "Geológico",
+        "Antropogénico"
+      ],
+      "correcta": 2,
+      "explicacion": "Las erupciones volcánicas son fenómenos geológicos porque ocurren en la corteza terrestre."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de los siguientes NO es un fenómeno natural?",
+      "opciones": [
+        "Huracán",
+        "Tsunami",
+        "Derrame industrial",
+        "Erupción volcánica"
+      ],
+      "correcta": 2,
+      "explicacion": "El derrame industrial es un fenómeno antropogénico, causado por el ser humano. No se considera natural."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Qué fenómeno geológico puede generar un tsunami?",
+      "opciones": [
+        "Una helada",
+        "Un huracán",
+        "Un sismo submarino",
+        "Una sequía"
+      ],
+      "correcta": 2,
+      "explicacion": "Un sismo submarino puede desplazar grandes masas de agua y generar un tsunami. Es un fenómeno geológico."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 9: ¿Qué son los indicadores demográficos?",
+      "html": "<p class='text-lg'>Los <strong>indicadores demográficos</strong> son datos estadísticos que describen a una población: cómo crece, cómo se mueve, cuánto vive.</p><p class='text-lg'>Son fundamentales para planear políticas públicas, servicios de salud, educación y empleo.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 9: Indicadores principales",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Población</p><div class='text-base'>Natalidad, mortalidad, crecimiento y densidad.</div></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Movilidad</p><div class='text-base'>Inmigración, emigración y migración neta.</div></div><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Condiciones sociales</p><div class='text-base'>Esperanza de vida, morbilidad y acceso a servicios.</div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 9: El IDH (Índice de Desarrollo Humano)",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Salud</p><div class='text-base'>Esperanza de vida al nacer.</div></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Educación</p><div class='text-base'>Años promedio y esperados de escolaridad.</div></div><div class='bg-amber-500/10 border border-amber-500/30 p-4 rounded-lg'><p class='font-semibold text-amber-700 dark:text-amber-300 mb-2 text-lg'>Ingreso</p><div class='text-base'>Ingreso nacional bruto por persona.</div></div></div><p class='text-lg mt-2'>El IDH combina estos tres indicadores para comparar el desarrollo de los países.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 9: Trampa frecuente en el examen",
+      "html": "<p class='text-lg'>La <strong>morbilidad</strong> mide cuántas personas se enferman en una población. <strong>NO es un indicador demográfico</strong>, es un <em>indicador epidemiológico</em>.</p><p class='text-lg'>Y el <strong>IDH</strong> no es un indicador simple, es un <strong>índice compuesto</strong> que combina salud, educación e ingreso.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "El número de personas que entran y salen de un país en un año es el indicador llamado:",
+      "opciones": [
+        "Natalidad",
+        "Mortalidad",
+        "Migración",
+        "Fecundidad"
+      ],
+      "correcta": 2,
+      "explicacion": "La migración mide los movimientos de entrada (inmigración) y salida (emigración) de personas de un territorio."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "El IDH (Índice de Desarrollo Humano) considera los siguientes tres indicadores:",
+      "opciones": [
+        "Esperanza de vida, educación e ingreso per cápita",
+        "Natalidad, mortalidad y fecundidad",
+        "Industria, agricultura y servicios",
+        "Petróleo, agua y minerales"
+      ],
+      "correcta": 0,
+      "explicacion": "El IDH combina tres dimensiones: esperanza de vida (salud), educación (años de escolaridad) e ingreso per cápita (economía)."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de los siguientes NO es un indicador demográfico?",
+      "opciones": [
+        "Esperanza de vida",
+        "Natalidad",
+        "Morbilidad",
+        "Migración"
+      ],
+      "correcta": 2,
+      "explicacion": "La morbilidad mide cuántas personas se enferman. Es un indicador epidemiológico, no demográfico."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Actividad de Estudio en Casa",
+      "html": "<div class='text-center py-16'><p class='text-3xl font-bold text-slate-800 dark:text-white mb-4'>Zonas marítimas de México</p><p class='text-3xl font-bold text-slate-800 dark:text-white mb-4'>Regiones naturales de México</p><p class='text-3xl font-bold text-slate-800 dark:text-white'>Coordenadas geográficas y husos horarios</p></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Sesión 1",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Sesión 1</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Geografía</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Nos vemos en la Sesión 2: Biología</p>"
+    }
+  ]
+}

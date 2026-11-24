@@ -1,0 +1,288 @@
+{
+  "titulo": "Clase 4: Cuestionario completo del Módulo 11",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 11",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Transformaciones en el Mundo Contemporáneo</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 4: Cuestionario completo del Módulo 11</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Economía y Crisis · Guerra Fría y Revoluciones · Medio Oriente · Globalización y Medios · Preparación para el Examen Final</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "1. ¿Qué función tiene el sistema HLA durante un trasplante de órganos?",
+      "opciones": [
+        "Garantizar la compatibilidad",
+        "Aumentar los glóbulos blancos",
+        "Preparar al receptor del órgano",
+        "Analizar la compatibilidad"
+      ],
+      "correcta": 3,
+      "explicacion": "El sistema HLA sirve para analizar la compatibilidad entre donante y receptor en un trasplante; esto reduce el riesgo de rechazo del órgano.",
+      "numero": 1
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "2. Revisa la información complementaria en tu Guia",
+      "opciones": [
+        "1925",
+        "1960",
+        "1937",
+        "1953"
+      ],
+      "correcta": 2,
+      "explicacion": "Las transmisiones regulares de televisión en Europa se consolidaron en la década de 1930, y en este contexto el año señalado para el desarrollo temprano de la TV es 1937.",
+      "numero": 2
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "3. ¿Cuál es el movimiento desarrollado en Londres, Inglaterra, entre 1950 y 1960, que se caracterizó por ser un movimiento musical y cultural basado en la moda y la música?",
+      "opciones": [
+        "Mod",
+        "Power Pop",
+        "Garage Rock",
+        "Acid"
+      ],
+      "correcta": 0,
+      "explicacion": "El movimiento Mod nació en Londres y se distinguió por su estilo musical, moda y una identidad cultural muy marcada.",
+      "numero": 3
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "4. Revisa la información complementaria en tu Guia",
+      "opciones": [
+        "[1-a] [2-b] [3-c] [5-d]",
+        "[1-a] [2-d] [3-c] [5-b]",
+        "[1-a] [3-b] [4-d] [6-c]",
+        "[1-b] [2-d] [3-a] [6-c]"
+      ],
+      "correcta": 3,
+      "explicacion": "La televisión se asocia con el iconoscopio (b), Internet con la red mundial (d), Radio con las transmisiones tempranas (a) y cine con la proyección sucesiva de fotogramas (c).",
+      "numero": 4
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "5. Revisa la información complementaria en tu Guia",
+      "opciones": [
+        "Tipo de cambio fijo",
+        "Tipo de cambio libre",
+        "Flotación manejada",
+        "Deslizamiento controlado"
+      ],
+      "correcta": 2,
+      "explicacion": "La flotación manejada es un régimen intermedio en el que el Banco Central interviene solo cuando es necesario estabilizar la moneda.",
+      "numero": 5
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "6. Revisa la información complementaria en tu Guia",
+      "opciones": [
+        "Salida de individuos o grupos de personas del lugar de origen o de residencia habitual.",
+        "Desplazamiento de individuos o grupos de personas para viajar a un lugar distinto del de su residencia habitual.",
+        "Desplazamientos de población que conllevan cambios de residencia, más o menos permanentes.",
+        "Llegada de individuos o grupos de personas a un lugar diferente al de su origen o residencia habitual."
+      ],
+      "correcta": 3,
+      "explicacion": "La inmigración se refiere a la llegada de personas a un lugar distinto al de su origen o residencia habitual, en sentido coloquial y general.",
+      "numero": 6
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "7. Revisa la información complementaria en tu Guia",
+      "opciones": [
+        "[1-d] [2-b] [3-c] [4-a]",
+        "[1-c] [2-d] [3-b] [4-a]",
+        "[1-b] [2-a] [3-d] [4-c]",
+        "[1-a] [2-c] [3-b] [4-d]"
+      ],
+      "correcta": 1,
+      "explicacion": "El caso a corresponde a tipo fijo, b a deslizamiento controlado, c a flotante y d a flotación manejada; por tanto la relación correcta es 1-c, 2-d, 3-b, 4-a.",
+      "numero": 7
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "8. ¿Cuál es el motivo por el que ves un informe presidencial?",
+      "opciones": [
+        "Por obligación",
+        "Solo por estar enterado",
+        "Para analizar el discurso",
+        "Para entretenerme"
+      ],
+      "correcta": 2,
+      "explicacion": "Un informe presidencial se observa con un fin analítico y crítico, para comprender el mensaje del gobierno y su impacto social.",
+      "numero": 8
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "9. ¿A qué países se refieren en la economía internacional el término BRIC?",
+      "opciones": [
+        "Corea, México, Sudáfrica y Brasil.",
+        "China, India, Brasil y Rusia.",
+        "Rusia, México, Arabia Saudita y Corea.",
+        "México, Corea, Brasil y Sudáfrica."
+      ],
+      "correcta": 1,
+      "explicacion": "El acrónimo BRIC reúne a Brasil, Rusia, India y China, países con gran crecimiento económico y proyección internacional.",
+      "numero": 9
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "10. ¿En qué año se desató la crisis de las hipotecas subprime en Estados Unidos causando la crisis financiera internacional?",
+      "opciones": [
+        "2009",
+        "2008",
+        "2006",
+        "2007"
+      ],
+      "correcta": 1,
+      "explicacion": "La crisis financiera global estalló en 2008 con el colapso del mercado de hipotecas subprime en Estados Unidos.",
+      "numero": 10
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "11. Grupo terrorista fundado en Egipto, que operaba en la Franja de Gaza, Judea y Samaria",
+      "opciones": [
+        "Hammas",
+        "Al-Qaida",
+        "Abu Nidal",
+        "Al-Jihad"
+      ],
+      "correcta": 0,
+      "explicacion": "Hamás fue fundado en Egipto y operó especialmente en la Franja de Gaza y Cisjordania.",
+      "numero": 11
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "12. ¿Cuál período histórico del siglo XX propició el desarrollo de la guerra de Vietnam?",
+      "opciones": [
+        "Primera Guerra Mundial.",
+        "La Gran Depresión.",
+        "Segunda Guerra Mundial.",
+        "La Guerra Fría."
+      ],
+      "correcta": 3,
+      "explicacion": "La guerra de Vietnam se desarrolló en el marco de la Guerra Fría, con la confrontación ideológica entre bloques y la intervención estadounidense.",
+      "numero": 12
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "13. Revisa la información complementaria en tu Guia",
+      "opciones": [
+        "V, V, F, F",
+        "F, V, F, V",
+        "V, F, F, F",
+        "F, V, V, V"
+      ],
+      "correcta": 2,
+      "explicacion": "Las afirmaciones 1 es verdadera, mientras que 2, 3 y 4 son falsas; por eso la opción correcta es V, F, F, F.",
+      "numero": 13
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "14. Revisa la información complementaria en tu Guia",
+      "opciones": [
+        "V, F, V, F",
+        "F, V, V, F",
+        "F, V, F, V",
+        "F, F, F, V"
+      ],
+      "correcta": 2,
+      "explicacion": "La afirmación 1 es falsa, la 2 es verdadera, la 3 es falsa y la 4 es verdadera; por lo tanto, la opción correcta es F, V, F, V.s",
+      "numero": 14
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "15. ¿Cuál era el objetivo primordial de la Revolución Cubana?",
+      "opciones": [
+        "Obtener el control de las fuerzas militares.",
+        "Expulsar a los estadounidenses de la isla.",
+        "Derrocar la dictadura de Fulgencio Batista.",
+        "Tener un país comunista en América Latina."
+      ],
+      "correcta": 2,
+      "explicacion": "La Revolución Cubana tuvo como objetivo central derrocar la dictadura de Fulgencio Batista y cambiar el sistema político del país.",
+      "numero": 15
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "16. ¿En qué contexto se desarrolló la invasión denominada 'Bahía de Cochinos'?",
+      "opciones": [
+        "Intereses norteamericanos en Cuba",
+        "Movimiento independentista en el Caribe",
+        "Guerra Civil en Colombia",
+        "Crisis económica de la Europa de posguerra"
+      ],
+      "correcta": 0,
+      "explicacion": "La invasión de Bahía de Cochinos tuvo lugar en el marco de la tensión política y militar entre Cuba y Estados Unidos, con intereses norteamericanos en la isla.",
+      "numero": 16
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "17. ¿Cuáles fueron los países que se consolidaron como potencias mundiales al término de la Segunda Guerra Mundial?",
+      "opciones": [
+        "Inglaterra y Francia",
+        "Alemania y Japón",
+        "Estados Unidos y URSS",
+        "Francia y Alemania"
+      ],
+      "correcta": 2,
+      "explicacion": "Al finalizar la Segunda Guerra Mundial, Estados Unidos y la URSS emergieron como las grandes potencias mundiales.",
+      "numero": 17
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "18. Es el dirigente norcoreano que invadió Corea del Sur el 25 de junio de 1950.",
+      "opciones": [
+        "Kim Jong-Il",
+        "Chiang Ching-kuo",
+        "Jiang Jieshi",
+        "Kim Il-Sung"
+      ],
+      "correcta": 3,
+      "explicacion": "Kim Il-Sung fue el líder norcoreano que inició la invasión de Corea del Sur en 1950.",
+      "numero": 18
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "19. Cita el período que abarcó la Guerra Civil China:",
+      "opciones": [
+        "1910 a 1949",
+        "1914 a 1918",
+        "1927 a 1950",
+        "1938 a 1945"
+      ],
+      "correcta": 2,
+      "explicacion": "La Guerra Civil China se desarrolló principalmente entre 1927 y 1950, con efectos decisivos en la formación del régimen comunista.",
+      "numero": 19
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "20. ¿Cómo te sientes o qué piensas cuando en casa, trabajo o escuela te piden que realices actividades en equipo?",
+      "opciones": [
+        "No te agrada por la pérdida de tiempo al depender de los demás y no es fácil ponerse de acuerdo.",
+        "Puede ser una oportunidad para intercambiar ideas, pero es muy difícil trabajar en equipo; preferirías hacerlo solo.",
+        "Es una oportunidad para intercambiar ideas y puntos de vista para generar un trabajo más completo.",
+        "Es una oportunidad para convivir con los demás y hacer una actividad fuera de lo habitual."
+      ],
+      "correcta": 2,
+      "explicacion": "La respuesta más constructiva es reconocer que el trabajo en equipo permite intercambiar ideas, reforzar el análisis y generar resultados más completos.",
+      "numero": 20
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "21. ¿Cómo preparas un examen final del módulo 'Transformaciones en el mundo contemporáneo'?",
+      "opciones": [
+        "1, 2, 6",
+        "4, 5, 6",
+        "1, 2, 3",
+        "3, 4, 5"
+      ],
+      "correcta": 0,
+      "explicacion": "La preparación efectiva incluye hacer un programa de repaso, realizar autoevaluaciones y estudiar con notas, resúmenes y material generado.",
+      "numero": 21
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 4",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase 4</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Repaso Final y Cuestionario del Módulo 11</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Has concluido la revisión final del módulo. ¡Buen trabajo!</p>"
+    }
+  ]
+}

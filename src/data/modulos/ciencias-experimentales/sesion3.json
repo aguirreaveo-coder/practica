@@ -1,0 +1,690 @@
+{
+  "titulo": "Sesión 3: Química",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Ciencias Experimentales",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Sesión 3: Química</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>4 horas · 12 temas en clase</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Átomo · Número atómico · Masa molecular · Mol · Modelos atómicos · Tabla periódica · Estados de la materia · Cambios físicos y químicos · Mezclas · Redox · Ácidos y bases · Enlaces · Grupos funcionales</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: ¿Qué es el átomo?",
+      "html": "<p class='text-lg'>El <strong>átomo</strong> es la unidad más pequeña de un elemento químico que conserva sus propiedades. Está formado por <strong>tres partículas subatómicas</strong>:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Protón (p⁺)</p><p class='text-base'>Carga positiva. Se encuentra en el núcleo. Su número define al elemento.</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Electrón (e⁻)</p><p class='text-base'>Carga negativa. Se encuentra en los orbitales. Forma los enlaces químicos.</p></div></div><p class='text-lg'>El <strong>neutrón (n)</strong> no tiene carga y también se encuentra en el núcleo. Si varía su número, se forman isótopos.</p><img src='https://www.iaea.org/sites/default/files/2026-01/atomo-ciencia-nuclear-detalle-es.png' alt='Átomo' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Niveles de energía",
+      "html": "<p class='text-lg'><strong>Nivel de energía (n):</strong> indica la distancia al núcleo y la energía del electrón. Se numera 1, 2, 3, 4... A mayor n, mayor energía y mayor distancia al núcleo.</p><ul class='text-lg'><li><strong>Nivel 1 (n=1):</strong> el más cercano al núcleo. Solo puede alojar <strong>2 electrones</strong>.</li><li><strong>Nivel 2 (n=2):</strong> más alejado y con mayor energía. Puede alojar hasta <strong>8 electrones</strong>.</li><li><strong>Nivel 3 (n=3):</strong> continúa alejándose del núcleo. Puede alojar hasta <strong>18 electrones</strong>.</li></ul><p class='text-lg'><strong>Truco:</strong> a mayor nivel de energía, más lejos del núcleo y más energía tienen los electrones. Se llenan en orden: 2, 8, 18...</p><img src='https://upload.wikimedia.org/wikipedia/commons/d/d1/Modelo_de_Bohr.png' alt='Modelo de Bohr mostrando los niveles de energía' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Subniveles de energía",
+      "html": "<p class='text-lg'><strong>Subnivel s:</strong> forma esférica. Aloja máximo <strong>2 electrones</strong>. Aparece desde el nivel 1.</p><p class='text-lg'><strong>Subnivel p:</strong> forma de mancuerna. Aloja máximo <strong>6 electrones</strong>. Aparece desde el nivel 2.</p><p class='text-lg'><strong>Subnivel d:</strong> forma compleja. Aloja máximo <strong>10 electrones</strong>. Aparece desde el nivel 3.</p><p class='text-lg'><strong>Subnivel f:</strong> forma más compleja. Aloja máximo <strong>14 electrones</strong>. Aparece desde el nivel 4.</p><p class='text-lg'><strong>Truco:</strong> recuerda el orden de llenado con la regla de las diagonales (Aufbau): 1s → 2s → 2p → 3s → 3p → 4s → 3d → 4p → 5s → 4d → 5p → 6s → 4f...</p><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6raRoShB5XHYxiRG9J66bxA6ksPOLP9mRQ55sKjv1_r0un2Uwe__WsNq_&s=10' alt='Diagrama de subniveles de energía' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Qué partícula subatómica define al elemento químico?",
+      "opciones": [
+        "El protón, que está en el núcleo y define el número atómico",
+        "El neutrón, que está en el núcleo y aporta masa al átomo",
+        "El electrón, que gira en orbitales alrededor del núcleo atómico",
+        "El isótopo, que varía según el número de neutrones del átomo"
+      ],
+      "correcta": 0,
+      "explicacion": "El número de protones (número atómico) define al elemento. Si cambia el número de protones, cambia el elemento."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "Los electrones se distribuyen en subniveles llamados:",
+      "opciones": [
+        "s, p, d, f, que alojan 2, 6, 10 y 14 electrones respectivamente",
+        "a, b, c, d, que se ordenan por energía y por distancia al núcleo",
+        "1, 2, 3, 4, que se llenan de adentro hacia afuera del átomo entero",
+        "α, β, γ, δ, que corresponden a las capas del modelo atómico actual"
+      ],
+      "correcta": 0,
+      "explicacion": "Los subniveles de energía se llaman s, p, d y f. Almacenan 2, 6, 10 y 14 electrones respectivamente."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Dónde se encuentra la mayor parte de la masa del átomo?",
+      "opciones": [
+        "En el núcleo, formado por protones y neutrones que se concentran",
+        "En los electrones, que giran alrededor del núcleo atómico entero",
+        "En los orbitales, donde se distribuyen todos los electrones del átomo",
+        "En los protones únicamente, que son las partículas más pesadas"
+      ],
+      "correcta": 0,
+      "explicacion": "El núcleo concentra casi toda la masa del átomo (protones + neutrones)."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Número atómico y número másico",
+      "html": "<p class='text-lg'>Dos conceptos fundamentales para identificar un átomo:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Número atómico (Z)</p><p class='text-base'>Número de protones en el núcleo. <strong>Define al elemento.</strong> Todos los átomos del mismo elemento tienen el mismo Z.</p></div><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Número másico (A)</p><p class='text-base'>Suma de protones + neutrones. Indica la masa total del núcleo. <span class='font-mono'>A = Z + n</span></p></div></div><img src='https://concepto.de/wp-content/uploads/2019/11/numero-atomico-e1573437025288.jpg' alt='Número atómico' class='my-4 rounded-lg max-h-72 mx-auto' />",
+      "modal": "tabla-periodica"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Isótopos",
+      "html": "<p class='text-lg'>Los <strong>isótopos</strong> son átomos del mismo elemento (mismo Z) pero con <strong>diferente número de neutrones</strong> (diferente A).</p><p class='text-lg'>Ejemplo: Carbono-12 (6 protones + 6 neutrones) y Carbono-14 (6 protones + 8 neutrones). Ambos son carbono, pero con diferente masa.</p><p class='text-lg'>Los isótopos tienen las mismas propiedades químicas pero diferente masa atómica.</p><img src='https://descargas.intef.es/cedec/proyectoedia/fisica_quimica/contenidos/secretos_atomo/Blausen_0530_HydrogenIsotopes-es.png' alt='Isótopos del hidrógeno' class='my-4 rounded-lg max-h-72 mx-auto' />",
+      "modal": "tabla-periodica"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 2: Número másico",
+      "enunciado": "Un átomo de carbono tiene 6 protones y 8 neutrones. ¿Cuál es su número másico?",
+      "datos": [
+        "Z = 6 protones",
+        "n = 8 neutrones",
+        "Fórmula: A = Z + n"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Número atómico y másico",
+      "ejercicios": [
+        {
+          "pregunta": "Un átomo tiene Z = 8 y 8 neutrones. Calcula su número másico.\\nFórmula: A = Z + n",
+          "respuesta": "16"
+        },
+        {
+          "pregunta": "El oxígeno tiene Z = 8. ¿Cuántos protones y electrones tiene un átomo neutro de oxígeno?\\nFórmula: protones = Z; electrones = Z (átomo neutro)",
+          "respuesta": "8 protones y 8 electrones"
+        },
+        {
+          "pregunta": "Un isótopo del carbono tiene 6 protones y 7 neutrones. ¿Cuál es su número másico?\\nFórmula: A = protones + neutrones",
+          "respuesta": "13"
+        }
+      ]
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "El número atómico de un elemento es igual a:",
+      "opciones": [
+        "Su número de protones, que se encuentra en el núcleo atómico",
+        "Su masa total, que incluye protones y neutrones del núcleo",
+        "Su número de electrones, que siempre es igual a los protones",
+        "Sus neutrones, que junto con los protones forman el núcleo"
+      ],
+      "correcta": 0,
+      "explicacion": "El número atómico (Z) es igual al número de protones en el núcleo. Define la identidad del elemento."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "Los átomos de un mismo elemento que tienen diferente número de neutrones se llaman:",
+      "opciones": [
+        "Isótopos, que tienen el mismo Z pero distinto número másico",
+        "Iones, que han ganado o perdido electrones en su estructura",
+        "Cationes, que tienen carga positiva por perder sus electrones",
+        "Aniones, que tienen carga negativa por ganar más electrones"
+      ],
+      "correcta": 0,
+      "explicacion": "Los isótopos son átomos del mismo elemento (igual número de protones) pero con diferente número de neutrones."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: ¿Qué es la masa molecular?",
+      "html": "<p class='text-lg'>La <strong>masa molecular (M)</strong> es la suma de las masas atómicas de todos los átomos que forman una molécula o compuesto. Se expresa en <strong>g/mol</strong>.</p><p class='text-lg'>Se calcula multiplicando la masa atómica de cada elemento por la cantidad de átomos que tiene en la fórmula, y luego sumando todo.</p><img src='https://s1.dmcdn.net/v/E38BC1ep8qyTFZABJ/x480' alt='Masa molecular' class='my-4 rounded-lg max-h-72 mx-auto' />",
+      "modal": "tabla-periodica"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Cómo calcular la masa molecular",
+      "html": "<p class='text-lg'><strong>Paso 1:</strong> identifica los elementos y sus masas atómicas (de la tabla periódica).</p><p class='text-lg'><strong>Paso 2:</strong> multiplica cada masa por la cantidad de átomos en la fórmula.</p><p class='text-lg'><strong>Paso 3:</strong> suma todos los resultados.</p><p class='text-lg'><strong>Ejemplo: H₂O (agua)</strong></p><ul class='text-lg'><li>H: 1 g/mol × 2 = 2 g/mol</li><li>O: 16 g/mol × 1 = 16 g/mol</li><li>Total: <strong>18 g/mol</strong></li></ul>",
+      "modal": "tabla-periodica"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Masas atómicas más usadas",
+      "html": "<p class='text-lg'>Estas son las masas atómicas que más vas a usar. Si necesitas consultar otra, abre la tabla periódica completa:</p><table class='w-full text-lg text-left my-3 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-2'>Elemento</th><th class='py-2'>Símbolo</th><th class='py-2'>Masa atómica (g/mol)</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-2'>Hidrógeno</td><td class='py-2'>H</td><td class='py-2'>1</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Carbono</td><td class='py-2'>C</td><td class='py-2'>12</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Nitrógeno</td><td class='py-2'>N</td><td class='py-2'>14</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Oxígeno</td><td class='py-2'>O</td><td class='py-2'>16</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Sodio</td><td class='py-2'>Na</td><td class='py-2'>23</td></tr><tr><td class='py-2'>Cloro</td><td class='py-2'>Cl</td><td class='py-2'>35.5</td></tr></tbody></table>",
+      "modal": "tabla-periodica"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 3: Masa molecular del CO₂",
+      "enunciado": "Calcula la masa molecular del CO₂. (C = 12, O = 16)",
+      "datos": [
+        "C = 12 g/mol",
+        "O = 16 g/mol",
+        "Fórmula: M = Σ(masa atómica × cantidad de átomos)"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 3: Masa molecular del CH₄",
+      "enunciado": "Calcula la masa molecular del CH₄ (metano). (C = 12, H = 1)",
+      "datos": [
+        "C = 12 g/mol",
+        "H = 1 g/mol",
+        "Fórmula: M = Σ(masa atómica × cantidad de átomos)"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 3: Masa molecular del NaCl",
+      "enunciado": "Calcula la masa molecular del NaCl. (Na = 23, Cl = 35.5)",
+      "datos": [
+        "Na = 23 g/mol",
+        "Cl = 35.5 g/mol",
+        "Fórmula: M = Σ(masa atómica × cantidad de átomos)"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Masa molecular",
+      "ejercicios": [
+        {
+          "pregunta": "Calcula la masa molecular del H₂SO₄ (H=1, S=32, O=16).\\nFórmula: M = Σ(masa atómica × cantidad de átomos)",
+          "respuesta": "98 g/mol"
+        },
+        {
+          "pregunta": "Calcula la masa molecular del NH₃ (N=14, H=1).\\nFórmula: M = Σ(masa atómica × cantidad de átomos)",
+          "respuesta": "17 g/mol"
+        },
+        {
+          "pregunta": "Calcula la masa molecular del C₆H₁₂O₆ (glucosa, C=12, H=1, O=16).\\nFórmula: M = Σ(masa atómica × cantidad de átomos)",
+          "respuesta": "180 g/mol"
+        }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: El mol y el número de Avogadro",
+      "html": "<p class='text-lg'>Un <strong>mol</strong> es una unidad que representa una cantidad fija de partículas: <strong>6.022 × 10²³ partículas</strong>.</p><p class='text-lg'>Este número se conoce como <strong>número de Avogadro (Nₐ)</strong> y es una constante universal.</p><p class='text-lg'>Así como una docena son 12 unidades, un mol son 6.022 × 10²³ partículas (átomos, moléculas, iones, etc.).</p><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwHpeawIAWNtjXZRziZ4S4camOvgie5XNHRsjAhaJRRrZr_N0PFDdOEGiW&s=10' alt='Número de Avogadro' class='my-4 rounded-lg max-h-72 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Relación entre masa, mol y partículas",
+      "html": "<p class='text-lg'>La fórmula clave relaciona la masa de una sustancia con los moles:</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>n = m / M</span></div><p class='text-lg'>Donde:</p><ul class='text-lg'><li><strong>n</strong> = número de moles</li><li><strong>m</strong> = masa en gramos (g)</li><li><strong>M</strong> = masa molecular (g/mol)</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Ejemplo resuelto",
+      "html": "<p class='text-lg'><strong>Problema:</strong> ¿Cuántos moles hay en 36 g de agua (H₂O)?</p><p class='text-lg'><strong>Paso 1:</strong> masa molecular del agua = 18 g/mol.</p><p class='text-lg'><strong>Paso 2:</strong> aplica la fórmula:</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>n = 36 / 18 = 2 moles</span></div><p class='text-lg'><strong>Respuesta:</strong> 36 g de agua equivalen a 2 moles.</p>",
+      "modal": "tabla-periodica"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 4: Moles de CO₂",
+      "enunciado": "¿Cuántos moles hay en 44 g de CO₂? (M = 44 g/mol)",
+      "datos": [
+        "m = 44 g",
+        "M = 44 g/mol",
+        "Fórmula: n = m / M"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 4: Moles de cromo",
+      "enunciado": "¿Cuántos moles de átomos hay en 140 g de cromo? (M = 52 g/mol)",
+      "datos": [
+        "m = 140 g",
+        "M = 52 g/mol",
+        "Fórmula: n = m / M"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Mol y masa molecular",
+      "ejercicios": [
+        {
+          "pregunta": "¿Cuántos moles hay en 90 g de agua? (M = 18 g/mol)\\nFórmula: n = m / M",
+          "respuesta": "5 moles"
+        },
+        {
+          "pregunta": "¿Cuántos gramos hay en 3 moles de CO₂? (M = 44 g/mol)\\nFórmula: m = n × M",
+          "respuesta": "132 g"
+        },
+        {
+          "pregunta": "¿Cuántos moles hay en 100 g de NaOH? (M = 40 g/mol)\\nFórmula: n = m / M",
+          "respuesta": "2.5 moles"
+        }
+      ]
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "El número de Avogadro es igual a:",
+      "opciones": [
+        "6.022 × 10²³ partículas, que hay en un mol de sustancia",
+        "3.14 × 10²³ partículas, que se usa para calcular moles",
+        "9.81 × 10²³ partículas, que equivale a la constante física",
+        "1.6 × 10²³ partículas, que es la carga del electrón"
+      ],
+      "correcta": 0,
+      "explicacion": "El número de Avogadro es 6.022 × 10²³, la cantidad de partículas que hay en un mol de cualquier sustancia."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: ¿Qué son los modelos atómicos?",
+      "html": "<p class='text-lg'>Los <strong>modelos atómicos</strong> son representaciones que la ciencia ha construido para explicar cómo está formado el átomo. Cada modelo ha ido evolucionando conforme se descubría nueva información.</p><p class='text-lg'>Conocer el orden histórico y el aporte de cada uno es clave para el examen.</p><img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV3UHSUxc8EzaWbSzZJ8YTnpWbuW6GYGT6Ej_D_lpVn8ICNkB12IVMsYipR1NZqPauYT2mEI84Gr-gyAtmm1YIt95am4TwInEQHp1nppoC8oD0YCwT7209ONlP8zJ2lw8Iv6moS4b5-P95hH8qk9y4MwwbVPMXrB5FrsdTQ0Lps2AfZcpTYIviEiofGGt6/s500/modelos%20ato%CC%81micos.png' alt='Modelos atómicos' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Modelos atómicos en orden histórico",
+      "html": "<table class='w-full text-lg text-left my-3 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-2'>Modelo</th><th class='py-2'>Año</th><th class='py-2'>Aporte</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-2'>Dalton</td><td class='py-2'>1803</td><td class='py-2'>El átomo es una esfera indivisible.</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Thomson</td><td class='py-2'>1904</td><td class='py-2'>Pudín con pasas: electrones en masa positiva.</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Rutherford</td><td class='py-2'>1911</td><td class='py-2'>Núcleo denso con electrones girando alrededor.</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Bohr</td><td class='py-2'>1913</td><td class='py-2'>Electrones en niveles de energía definidos.</td></tr><tr><td class='py-2'>Mecánico cuántico</td><td class='py-2'>1926+</td><td class='py-2'>Electrones en orbitales (zonas de probabilidad).</td></tr></tbody></table>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: El modelo de Bohr",
+      "html": "<p class='text-lg'>En el <strong>modelo de Bohr</strong>, los electrones giran en <strong>niveles de energía definidos</strong>.</p><ul class='text-lg'><li>Si un electrón <strong>gana energía</strong> (absorbe fotones), <strong>sube</strong> a un nivel mayor.</li><li>Si <strong>libera energía</strong> (emite fotones), <strong>baja</strong> a un nivel menor y queda más cerca del núcleo.</li></ul><img src='https://upload.wikimedia.org/wikipedia/commons/d/d1/Modelo_de_Bohr.png' alt='Modelo de Bohr' class='my-4 rounded-lg max-h-72 mx-auto' />"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Quién propuso el modelo del 'pudín con pasas'?",
+      "opciones": [
+        "Thomson, quien propuso electrones incrustados en masa positiva",
+        "Dalton, quien propuso que el átomo era una esfera indivisible",
+        "Rutherford, quien propuso la existencia de un núcleo denso",
+        "Bohr, quien propuso los niveles de energía en los electrones"
+      ],
+      "correcta": 0,
+      "explicacion": "J.J. Thomson propuso el modelo del 'pudín con pasas'."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el orden histórico correcto de los modelos atómicos?",
+      "opciones": [
+        "Dalton, Thomson, Rutherford y Bohr, en ese orden cronológico",
+        "Bohr, Dalton, Thomson y Rutherford, en ese orden cronológico",
+        "Thomson, Dalton, Bohr y Rutherford, en ese orden cronológico",
+        "Rutherford, Bohr, Dalton y Thomson, en ese orden cronológico"
+      ],
+      "correcta": 0,
+      "explicacion": "El orden es: Dalton (1803), Thomson (1904), Rutherford (1911) y Bohr (1913)."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "En el modelo de Bohr, cuando un electrón libera energía:",
+      "opciones": [
+        "Baja a un nivel de energía menor, más cerca del núcleo atómico",
+        "Sube a un nivel de energía mayor, más lejos del núcleo atómico",
+        "Se convierte en un protón dentro del núcleo del átomo entero",
+        "Se destruye y deja de formar parte de la estructura atómica"
+      ],
+      "correcta": 0,
+      "explicacion": "Cuando un electrón libera energía (emite fotones), baja a un nivel menor y queda más cerca del núcleo."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: La tabla periódica",
+      "html": "<p class='text-lg'>La <strong>tabla periódica</strong> organiza los elementos según su número atómico y propiedades. Los elementos se clasifican en:</p><ul class='text-lg'><li><strong>Metales:</strong> brillantes, conducen calor y electricidad, ceden electrones (forman cationes).</li><li><strong>No metales:</strong> opacos, no conducen, ganan electrones (forman aniones).</li><li><strong>Metaloides:</strong> propiedades intermedias (Si, Ge, As, Sb, Te, B).</li><li><strong>Gases nobles:</strong> grupo 18 (He, Ne, Ar, Kr, Xe, Rn). NO reaccionan.</li><li><strong>Metales de transición:</strong> grupos 3-12 (Fe, Cu, Zn, Ag, Au).</li></ul>",
+      "modal": "tabla-periodica"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Los gases nobles",
+      "html": "<p class='text-lg'>Los <strong>gases nobles</strong> (grupo 18) son los elementos más estables de la tabla periódica. Esto se debe a que cumplen con la <strong>regla del octeto</strong>: tienen 8 electrones en su última capa.</p><p class='text-lg'>Los gases nobles son: <strong>He, Ne, Ar, Kr, Xe, Rn</strong>.</p><p class='text-lg'>No reaccionan con otros elementos porque ya son estables. Es una trampa de examen común incluir al <strong>hidrógeno</strong> como gas noble — ¡NO lo es!</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de los siguientes es un gas noble?",
+      "opciones": [
+        "El neón (Ne), que es estable y no reacciona con otros elementos",
+        "El hidrógeno (H), que tiene un solo electrón en su última capa",
+        "El cloro (Cl), que tiene siete electrones en su última capa",
+        "El oxígeno (O), que tiene seis electrones en su última capa"
+      ],
+      "correcta": 0,
+      "explicacion": "El neón (Ne) es un gas noble. Los gases nobles son: He, Ne, Ar, Kr, Xe, Rn."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "Los gases nobles no reaccionan con otros elementos porque:",
+      "opciones": [
+        "Cumplen la regla del octeto con ocho electrones en su última capa",
+        "No tienen electrones disponibles para compartir con otros átomos",
+        "Son radiactivos y por eso no pueden combinarse con otros átomos",
+        "Solo existen en el espacio exterior y no en la atmósfera terrestre"
+      ],
+      "correcta": 0,
+      "explicacion": "Los gases nobles son estables porque cumplen la regla del octeto."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de los siguientes es un metal de transición?",
+      "opciones": [
+        "El hierro (Fe), que pertenece a los grupos 3 al 12 de la tabla",
+        "El sodio (Na), que pertenece al grupo 1 de la tabla periódica",
+        "El calcio (Ca), que pertenece al grupo 2 de la tabla periódica",
+        "El cloro (Cl), que pertenece al grupo 17 de la tabla periódica"
+      ],
+      "correcta": 0,
+      "explicacion": "El hierro (Fe) es un metal de transición (grupos 3-12)."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Estados de la materia",
+      "html": "<p class='text-lg'>La materia se presenta en cuatro <strong>estados físicos</strong>:</p><ul class='text-lg'><li><strong>Sólido:</strong> forma y volumen fijos. Partículas muy juntas.</li><li><strong>Líquido:</strong> volumen fijo pero fluye. Partículas más separadas.</li><li><strong>Gas:</strong> se expande, ocupa todo el espacio. Partículas muy separadas.</li><li><strong>Plasma:</strong> gas ionizado. El estado más abundante del universo (estrellas).</li></ul><img src='https://cdn0.ecologiaverde.com/es/posts/3/8/1/estados_de_agregacion_de_la_materia_6183_1200.jpg' alt='Estados de la materia' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Cambios de estado",
+      "html": "<p class='text-lg'>Los cambios de estado se producen por variación de temperatura o presión:</p><table class='w-full text-lg text-left my-3 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-2'>Cambio</th><th class='py-2'>Proceso</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-2'>Fusión</td><td class='py-2'>Sólido → Líquido</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Ebullición</td><td class='py-2'>Líquido → Gas</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Condensación</td><td class='py-2'>Gas → Líquido</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Solidificación</td><td class='py-2'>Líquido → Sólido</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Sublimación</td><td class='py-2'>Sólido → Gas (directo)</td></tr><tr><td class='py-2'>Deposición</td><td class='py-2'>Gas → Sólido (directo)</td></tr></tbody></table><img src='https://auladigitalxxi.wordpress.com/wp-content/uploads/2020/07/sublimaciones.jpg?w=719' alt='Sublimaciones' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Cambios físicos",
+      "html": "<p class='text-lg'>Los <strong>cambios físicos</strong> son transformaciones en las que la sustancia <strong>sigue siendo la misma</strong>; solo cambia su forma, tamaño o estado de agregación.</p><p class='text-lg'><strong>Ejemplos:</strong></p><ul class='text-lg'><li>Fusión del hielo (sólido → líquido).</li><li>Evaporación del agua (líquido → gas).</li><li>Romper un papel en trozos.</li><li>Disolver sal en agua.</li></ul><p class='text-lg'><strong>Truco:</strong> si el cambio es reversible sin alterar la composición química, es físico.</p><img src='https://i.pinimg.com/1200x/3b/8f/ee/3b8fee0dce91136212ef815baed81549.jpg' alt='Cambios físicos' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Cambios químicos",
+      "html": "<p class='text-lg'>Los <strong>cambios químicos</strong> son transformaciones en las que se forman <strong>nuevas sustancias</strong> con propiedades diferentes a las originales.</p><p class='text-lg'><strong>Ejemplos:</strong></p><ul class='text-lg'><li>Combustión (quemar madera).</li><li>Oxidación del hierro (formar óxido).</li><li>Fermentación de la leche.</li><li>Reacción de un ácido con una base.</li></ul><p class='text-lg'><strong>Truco:</strong> si se forman nuevas sustancias y el cambio suele ser irreversible, es químico.</p><img src='https://i.pinimg.com/1200x/f8/36/18/f8361896301ae9cb02127e0eafec9974.jpg' alt='Cambios químicos' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el cambio de estado de sólido a gas directamente?",
+      "opciones": [
+        "Sublimación, que ocurre sin pasar por el estado líquido",
+        "Fusión, que ocurre al calentar un sólido hasta fundirlo",
+        "Condensación, que ocurre al enfriar un gas hasta licuarlo",
+        "Solidificación, que ocurre al enfriar un líquido hasta helarlo"
+      ],
+      "correcta": 0,
+      "explicacion": "La sublimación es el paso directo de sólido a gas, sin pasar por el estado líquido."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "El paso de gas a líquido se llama:",
+      "opciones": [
+        "Condensación, que ocurre al enfriar un gas hasta hacerlo líquido",
+        "Ebullición, que ocurre al calentar un líquido hasta hacerlo gas",
+        "Fusión, que ocurre al calentar un sólido hasta hacerlo líquido",
+        "Deposición, que ocurre al enfriar un gas hasta hacerlo sólido"
+      ],
+      "correcta": 0,
+      "explicacion": "La condensación es el paso de gas a líquido."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el estado de la materia más abundante en el universo?",
+      "opciones": [
+        "El plasma, que es un gas ionizado presente en las estrellas",
+        "El sólido, que forma planetas y asteroides del universo entero",
+        "El líquido, que se encuentra en océanos y atmósferas planetarias",
+        "El gas, que forma las nubes interestelares y nebulosas del espacio"
+      ],
+      "correcta": 0,
+      "explicacion": "El plasma es el estado más abundante del universo. Está presente en las estrellas."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "La oxidación del hierro para formar óxido es un ejemplo de:",
+      "opciones": [
+        "Cambio químico, porque se forma una nueva sustancia con propiedades distintas",
+        "Cambio físico, porque el hierro sigue siendo hierro en todo el proceso",
+        "Cambio de estado, porque el hierro pasa de sólido a otro estado físico",
+        "Cambio reversible, porque el óxido puede volver a convertirse en hierro"
+      ],
+      "correcta": 0,
+      "explicacion": "La oxidación forma una nueva sustancia (óxido de hierro) con propiedades diferentes."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: Sustancias puras",
+      "html": "<p class='text-lg'>Una <strong>sustancia pura</strong> está formada por un solo tipo de partícula. Se divide en dos categorías:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Elemento</p><p class='text-base'>Un solo tipo de átomo. Ej: O₂, Fe, Au. <strong>NO</strong> se puede descomponer químicamente.</p></div><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Compuesto</p><p class='text-base'>Dos o más elementos unidos químicamente. Ej: H₂O, NaCl, CO₂. <strong>SÍ</strong> se puede descomponer por métodos químicos.</p></div></div><img src='https://s1.significados.com/foto/agua-y-sal-dos-sustancias-puras-compuestas.jpg?class=article' alt='Sustancias puras' class='my-4 rounded-lg max-h-80 mx-auto' />",
+      "modal": "tabla-periodica"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: Sustancias puras vs mezclas",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Sustancia pura</p><p class='text-base'>Un solo tipo de partícula. Composición fija y propiedades constantes. Ej: agua destilada, oro puro.</p></div><div class='bg-orange-500/10 border border-orange-500/30 p-4 rounded-lg'><p class='font-semibold text-orange-700 dark:text-orange-300 mb-2 text-lg'>Mezcla</p><p class='text-base'>Combinación física de varias sustancias. Cada una conserva sus propiedades. Ej: agua de mar, aire.</p></div></div><img src='https://cienciasparami.wordpress.com/wp-content/uploads/2020/11/clases-de-materia.jpg' alt='Clases de materia' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: Mezclas homogéneas y heterogéneas",
+      "html": "<p class='text-lg'>Las mezclas se clasifican según cómo se ve su composición:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-cyan-500/10 border border-cyan-500/30 p-4 rounded-lg'><p class='font-semibold text-cyan-700 dark:text-cyan-300 mb-2 text-lg'>Homogénea (disolución)</p><p class='text-base'>Se ve uniforme, no se distinguen sus componentes. Ej: agua de mar, aire, vinagre.</p></div><div class='bg-amber-500/10 border border-amber-500/30 p-4 rounded-lg'><p class='font-semibold text-amber-700 dark:text-amber-300 mb-2 text-lg'>Heterogénea</p><p class='text-base'>Se distinguen las partes a simple vista. Ej: agua con aceite, ensalada, granito.</p></div></div><img src='https://www.areaciencias.com/quimica/imagenes/que-es-una-sustancia.jpg' alt='Mezclas' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: Soluto y solvente",
+      "html": "<p class='text-lg'>En una disolución:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Soluto</p><p class='text-base'>La sustancia que se disuelve. Generalmente está en <strong>menor cantidad</strong>.</p></div><div class='bg-green-500/10 border border-green-500/30 p-4 rounded-lg'><p class='font-semibold text-green-700 dark:text-green-300 mb-2 text-lg'>Solvente</p><p class='text-base'>La sustancia que disuelve. Generalmente está en <strong>mayor cantidad</strong>.</p></div></div><p class='text-lg'><strong>Ejemplo:</strong> en agua de mar, la sal es el soluto y el agua es el solvente.</p><img src='https://elbibliote.com/resources/Temas/html/imageneshtml/1049/1049c.jpg' alt='Soluto y solvente' class='my-4 rounded-lg max-h-72 mx-auto' />"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "El agua de mar (sal disuelta en agua) es ejemplo de mezcla:",
+      "opciones": [
+        "Homogénea, porque sus componentes no se distinguen a simple vista",
+        "Heterogénea, porque se distinguen fácilmente sus dos componentes",
+        "Sustancia pura, porque está formada por un solo tipo de partícula",
+        "Compuesto, porque el agua y la sal están unidas químicamente"
+      ],
+      "correcta": 0,
+      "explicacion": "El agua de mar es una mezcla homogénea (disolución)."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "En una disolución, el componente en mayor cantidad se llama:",
+      "opciones": [
+        "Solvente, que es la sustancia que disuelve al soluto presente",
+        "Soluto, que es la sustancia que se disuelve en el solvente líquido",
+        "Coloide, que es una mezcla intermedia entre disolución y suspensión",
+        "Suspensión, que es una mezcla heterogénea con partículas grandes"
+      ],
+      "correcta": 0,
+      "explicacion": "El solvente es el componente que se encuentra en mayor cantidad."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es la diferencia entre un elemento y un compuesto?",
+      "opciones": [
+        "Los compuestos se descomponen químicamente; los elementos no pueden",
+        "Los elementos son líquidos a temperatura ambiente; los compuestos sólidos",
+        "Los compuestos son mezclas físicas; los elementos son sustancias puras",
+        "No existe ninguna diferencia entre ellos; son sinónimos en química"
+      ],
+      "correcta": 0,
+      "explicacion": "Los compuestos pueden descomponerse en sustancias más simples. Los elementos no."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 9: Reacciones redox",
+      "html": "<p class='text-lg'>Las <strong>reacciones de óxido-reducción (redox)</strong> son aquellas donde hay transferencia de electrones entre sustancias.</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Oxidación</p><p class='text-base'>Una sustancia <strong>pierde electrones</strong>. Su número de oxidación <strong>aumenta</strong>.</p></div><div class='bg-green-500/10 border border-green-500/30 p-4 rounded-lg'><p class='font-semibold text-green-700 dark:text-green-300 mb-2 text-lg'>Reducción</p><p class='text-base'>Una sustancia <strong>gana electrones</strong>. Su número de oxidación <strong>disminuye</strong>.</p></div></div><img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5vvRpe30ywZLDmYMJtSXnZXP9UQ4WPiOiSYiNPEPH6sPEqzZUCZo_YCAKE8dxUMLxqS_hIC_TuJm5MIDxm_GAd1-9COYsJS2297e4k5jhBcrcKW2RXOCVlVrS6_o7nWOh9kVYLM0GhYg/s1600/reacciones-redox-1-638.jpg' alt='Reacciones redox' class='my-4 rounded-lg max-h-72 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 9: Agentes oxidante y reductor",
+      "html": "<ul class='text-lg'><li><strong>Agente reductor:</strong> la sustancia que se oxida (pierde electrones) y provoca la reducción de otra.</li><li><strong>Agente oxidante:</strong> la sustancia que se reduce (gana electrones) y provoca la oxidación de otra.</li></ul><p class='text-lg'><strong>Truco mnemotécnico:</strong> <strong>PEO</strong> = Pierde Electrones → se Oxida. <strong>GER</strong> = Gana Electrones → se Reduce.</p><img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5vvRpe30ywZLDmYMJtSXnZXP9UQ4WPiOiSYiNPEPH6sPEqzZUCZo_YCAKE8dxUMLxqS_hIC_TuJm5MIDxm_GAd1-9COYsJS2297e4k5jhBcrcKW2RXOCVlVrS6_o7nWOh9kVYLM0GhYg/s1600/reacciones-redox-1-638.jpg' alt='Reacciones redox' class='my-4 rounded-lg max-h-72 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 9: Números de oxidación",
+      "html": "<p class='text-lg'>El <strong>número de oxidación</strong> es un número que indica la carga eléctrica que tendría un átomo si los electrones se asignaran al átomo más electronegativo de la molécula. Es una forma de llevar la cuenta de los electrones en una reacción.</p><p class='text-lg'>Las <strong>reglas para asignarlos</strong> son:</p><ul class='text-lg'><li><strong>Elemento libre</strong> (sin combinarse): número de oxidación <strong>0</strong>. Ej: O₂, Fe, Cl₂.</li><li><strong>Hidrógeno</strong>: <strong>+1</strong> cuando está combinado con no metales (ej: H₂O). Es <strong>-1</strong> solo en hidruros metálicos (ej: NaH).</li><li><strong>Oxígeno</strong>: <strong>-2</strong> en la mayoría de sus compuestos (ej: H₂O). Es <strong>-1</strong> solo en peróxidos (ej: H₂O₂).</li><li><strong>Familia IA</strong> (alcalinos: Li, Na, K): <strong>+1</strong> en todos sus compuestos.</li><li><strong>Familia IIA</strong> (alcalinotérreos: Be, Mg, Ca): <strong>+2</strong> en todos sus compuestos.</li></ul><p class='text-lg'><strong>¿Para qué sirve?</strong> Para saber qué sustancia se oxida (aumenta su número de oxidación) y cuál se reduce (disminuye su número de oxidación) en una reacción redox.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "En la reacción Zn + 2HCl → ZnCl₂ + H₂, el zinc:",
+      "opciones": [
+        "Se oxida, porque pierde electrones y aumenta su número de oxidación",
+        "Se reduce, porque gana electrones y disminuye su número de oxidación",
+        "Es inerte, porque no participa en la transferencia de electrones",
+        "Es el agente oxidante, porque provoca la oxidación del hidrógeno"
+      ],
+      "correcta": 0,
+      "explicacion": "El zinc pasa de número de oxidación 0 a +2, es decir, pierde electrones. Se oxida."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "En una reacción redox, la sustancia que gana electrones:",
+      "opciones": [
+        "Se reduce, porque disminuye su número de oxidación total",
+        "Se oxida, porque aumenta su número de oxidación total",
+        "Aumenta su número de oxidación, porque gana electrones libres",
+        "Es el agente reductor, porque provoca la oxidación de otra"
+      ],
+      "correcta": 0,
+      "explicacion": "Ganar electrones es reducirse. Su número de oxidación disminuye."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el truco mnemotécnico para recordar la oxidación y la reducción?",
+      "opciones": [
+        "PEO: Pierde Electrones se Oxida; GER: Gana Electrones se Reduce",
+        "ROJO: Reduce Oxidando, y se aplica a todas las reacciones redox",
+        "NADA: No Acepta Donar Átomos, y sirve para recordar los agentes",
+        "TODOS: Todos Oxidan y Disminuyen Oxígeno, en cualquier reacción"
+      ],
+      "correcta": 0,
+      "explicacion": "PEO = Pierde Electrones → se Oxida. GER = Gana Electrones → se Reduce."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 10: Ácidos y bases (Arrhenius)",
+      "html": "<p class='text-lg'>Existen varias definiciones de ácidos y bases. La primera fue la de <strong>Arrhenius</strong>:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Ácido</p><p class='text-base'>Sustancia que libera iones H⁺ (protones) en agua.</p></div><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Base</p><p class='text-base'>Sustancia que libera iones OH⁻ (hidróxido) en agua.</p></div></div><p class='text-lg'><strong>Neutralización:</strong> ácido + base → sal + agua. Ej: HCl + NaOH → NaCl + H₂O.</p><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz5ycV0yMTW-aBeDH_cQeuWB5gLHai5jbvtIwxD6e3DJTncl1BKviOKI0&s=10' alt='Arrhenius ácidos y bases' class='my-4 rounded-lg max-h-72 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 10: Brønsted-Lowry",
+      "html": "<p class='text-lg'>La definición de <strong>Brønsted-Lowry</strong> amplía la de Arrhenius y es la más usada en química:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Ácido</p><p class='text-base'>Toda sustancia capaz de <strong>donar protones (H⁺)</strong> a otra sustancia.</p></div><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Base</p><p class='text-base'>Toda sustancia capaz de <strong>aceptar protones (H⁺)</strong> de otra sustancia.</p></div></div><p class='text-lg'><strong>Par ácido-base conjugado:</strong> cuando un ácido dona un protón, se convierte en su base conjugada, y viceversa. Se diferencian por un solo H⁺.</p><p class='text-lg'><strong>Ejemplo:</strong> en la reacción HCl + H₂O ⇌ H₃O⁺ + Cl⁻:</p><ul class='text-lg'><li>HCl dona un H⁺ al agua → HCl es el ácido y Cl⁻ es su base conjugada.</li><li>El agua acepta el H⁺ → H₂O es la base y H₃O⁺ es su ácido conjugado.</li></ul><img src='https://i.pinimg.com/474x/f6/b8/70/f6b870367e041379e9323f8649511df8.jpg' alt='Brønsted-Lowry' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 10: Lewis",
+      "html": "<p class='text-lg'>La definición de <strong>Lewis</strong> es la más general y se enfoca en los electrones, no en los protones:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Ácido</p><p class='text-base'>Sustancia capaz de <strong>aceptar un par de electrones</strong>.</p></div><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Base</p><p class='text-base'>Sustancia capaz de <strong>donar un par de electrones</strong>.</p></div></div><p class='text-lg'><strong>Diferencia con las anteriores:</strong> Arrhenius habla de iones H⁺ y OH⁻ en agua. Brønsted-Lowry habla de transferencia de protones. Lewis habla de pares de electrones, lo que permite explicar más reacciones.</p><img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL1tYC1AKDrWQt5E9RCdz7FQ1jHgypW04AVtB6FNXqfsHcqNlBFPTs3J9Q2D7eYnMROASCjf0-UG65KQM-4v7nHKs29q6uqeevgPK-CnUjnXu_nSwblBFmjZYDQ1LKBZfWVm7H73LOLhQ/s1600/formula+1+pag+238.bmp' alt='Lewis' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 10: pH",
+      "html": "<p class='text-lg'>El <strong>pH</strong> mide la concentración de iones H⁺ en una disolución.</p><p class='text-lg'><strong>Escala:</strong> menor a 7 es ácido · 7 es neutro · mayor a 7 es básico.</p><img src='https://lab-ferrer.com/wp-content/uploads/2023/06/pH-alimentos.jpg' alt='Escala de pH' class='my-4 rounded-lg max-h-72 mx-auto' />"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "Una sustancia con pH = 2 es:",
+      "opciones": [
+        "Fuertemente ácida, porque está muy por debajo del pH neutro",
+        "Débilmente ácida, porque está cerca del pH neutro del agua",
+        "Neutra, porque el pH no indica la acidez de la sustancia",
+        "Básica, porque tiene un valor menor que el pH del agua pura"
+      ],
+      "correcta": 0,
+      "explicacion": "Un pH de 2 está muy por debajo de 7, por lo que es fuertemente ácido."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuáles son los productos de una reacción de neutralización?",
+      "opciones": [
+        "Sal y agua, porque el ácido y la base se neutralizan entre sí",
+        "Ácido y base, porque ninguno pierde sus propiedades originales",
+        "Hidrógeno y oxígeno, porque se separan los elementos del agua",
+        "Solamente agua, porque el ácido y la base se destruyen al reaccionar"
+      ],
+      "correcta": 0,
+      "explicacion": "Toda neutralización entre un ácido y una base produce una sal y agua."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "El hidróxido de sodio (NaOH) es:",
+      "opciones": [
+        "Una base fuerte, porque libera iones OH⁻ en agua completamente",
+        "Un ácido fuerte, porque libera iones H⁺ en agua completamente",
+        "Una sal neutra, porque no libera iones en disolución acuosa",
+        "Un oxidante, porque gana electrones en las reacciones químicas"
+      ],
+      "correcta": 0,
+      "explicacion": "El NaOH es una base fuerte porque libera iones OH⁻ en agua."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 11: ¿Qué son los enlaces químicos?",
+      "html": "<p class='text-lg'>Los <strong>enlaces químicos</strong> son las fuerzas que mantienen unidos a los átomos en los compuestos. Se forman para que los átomos alcancen estabilidad (regla del octeto).</p><p class='text-lg'>Existen tres tipos principales: <strong>iónico, covalente y metálico</strong>.</p><div class='my-6 flex justify-center'><svg width='460' height='300' viewBox='0 0 460 300' class='max-w-full' role='img' aria-label='Dos átomos que comparten un par de electrones para formar un enlace covalente'><defs><radialGradient id='gA' cx='35%' cy='35%' r='70%'><stop offset='0%' stop-color='#93c5fd'/><stop offset='60%' stop-color='#3b82f6'/><stop offset='100%' stop-color='#1d4ed8'/></radialGradient><radialGradient id='gB' cx='35%' cy='35%' r='70%'><stop offset='0%' stop-color='#fca5a5'/><stop offset='60%' stop-color='#ef4444'/><stop offset='100%' stop-color='#b91c1c'/></radialGradient><radialGradient id='gE'><stop offset='0%' stop-color='#fef9c3'/><stop offset='60%' stop-color='#fbbf24'/><stop offset='100%' stop-color='#d97706'/></radialGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs><rect width='460' height='300' fill='#0f172a' rx='12'/><text x='230' y='26' text-anchor='middle' font-size='14' font-weight='700' fill='#e2e8f0' font-family='system-ui,sans-serif'>¿Qué es un enlace químico?</text><text x='230' y='44' text-anchor='middle' font-size='11' fill='#94a3b8' font-family='system-ui,sans-serif'>Los átomos comparten electrones para alcanzar estabilidad</text><ellipse cx='160' cy='150' rx='70' ry='60' fill='#3b82f6' opacity='.12'/><ellipse cx='300' cy='150' rx='70' ry='60' fill='#ef4444' opacity='.12'/><line x1='160' y1='150' x2='300' y2='150' stroke='#64748b' stroke-width='6' stroke-linecap='round' stroke-dasharray='10 8' opacity='.6'><animate attributeName='stroke-dashoffset' from='0' to='-36' dur='1.6s' repeatCount='indefinite'/></line><circle cx='160' cy='150' r='44' fill='url(#gA)' filter='url(#glow)'/><text x='160' y='148' text-anchor='middle' font-size='20' font-weight='800' fill='#fff' font-family='system-ui'>H</text><text x='160' y='164' text-anchor='middle' font-size='9' fill='#dbeafe' font-family='system-ui'>1 e⁻</text><circle cx='300' cy='150' r='44' fill='url(#gB)' filter='url(#glow)'/><text x='300' y='148' text-anchor='middle' font-size='20' font-weight='800' fill='#fff' font-family='system-ui'>H</text><text x='300' y='164' text-anchor='middle' font-size='9' fill='#fee2e2' font-family='system-ui'>1 e⁻</text><g><animateTransform attributeName='transform' type='rotate' from='0 160 150' to='360 160 150' dur='6s' repeatCount='indefinite'/><circle cx='160' cy='106' r='4' fill='url(#gE)'/></g><g><animateTransform attributeName='transform' type='rotate' from='180 300 150' to='540 300 150' dur='6s' repeatCount='indefinite'/><circle cx='300' cy='106' r='4' fill='url(#gE)'/></g><circle r='6' fill='#fde047' filter='url(#glow)'><animateMotion dur='3s' repeatCount='indefinite' path='M 160 150 Q 200 120 230 150 Q 260 180 300 150 Q 260 120 230 150 Q 200 180 160 150'/></circle><circle r='6' fill='#fde047' filter='url(#glow)'><animateMotion dur='3s' begin='1.5s' repeatCount='indefinite' path='M 300 150 Q 260 120 230 150 Q 200 180 160 150 Q 200 120 230 150 Q 260 180 300 150'/></circle><text x='230' y='150' text-anchor='middle' font-size='10' font-weight='700' fill='#fde047' font-family='system-ui'>e⁻ compartido</text><text x='230' y='100' text-anchor='middle' font-size='10' fill='#94a3b8' font-family='system-ui' font-style='italic'>zona de enlace</text><line x1='230' y1='108' x2='230' y2='128' stroke='#94a3b8' stroke-width='1' stroke-dasharray='2 2'/><text x='230' y='218' text-anchor='middle' font-size='11' fill='#cbd5e1' font-family='system-ui'>Los electrones se comparten y orbitan entre ambos átomos</text><g transform='translate(20,240)'><circle cx='8' cy='8' r='5' fill='url(#gE)'/><text x='20' y='12' font-size='10' fill='#94a3b8' font-family='system-ui'>Electrón (e⁻)</text></g><g transform='translate(180,240)'><line x1='0' y1='8' x2='20' y2='8' stroke='#64748b' stroke-width='4' stroke-dasharray='6 4'/><text x='26' y='12' font-size='10' fill='#94a3b8' font-family='system-ui'>Enlace covalente</text></g><text x='230' y='278' text-anchor='middle' font-size='10' font-style='italic' fill='#64748b' font-family='system-ui'>Regla del octeto: los átomos buscan 8 electrones en su última capa</text></svg></div><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPxRZdHby-WKj0R0OtZmhuq0V0sguwefnwx6VMWtTsQ&s=10' alt='Enlaces químicos' class='my-4 rounded-lg max-h-72 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 11: Tipos de enlaces",
+      "html": "<table class='w-full text-lg text-left my-3 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-2'>Tipo</th><th class='py-2'>Entre</th><th class='py-2'>Propiedades</th><th class='py-2'>Ejemplo</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-2'>Iónico</td><td class='py-2'>Metal + No metal</td><td class='py-2'>Sólidos duros, puntos de fusión altos, solubles en agua</td><td class='py-2'>NaCl, CaF₂</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Covalente</td><td class='py-2'>No metal + No metal</td><td class='py-2'>Comparten electrones. Polares o no polares</td><td class='py-2'>H₂O, CO₂, CH₄</td></tr><tr><td class='py-2'>Metálico</td><td class='py-2'>Metal + Metal</td><td class='py-2'>Conducen calor/electricidad. Maleables, dúctiles</td><td class='py-2'>Cu, Fe, latón</td></tr></tbody></table><img src='https://s1.significados.com/foto/enlaces-quimicos-tipos-cke.jpg?class=article' alt='Tipos de enlaces químicos' class='my-4 rounded-lg max-h-80 mx-auto' />",
+      "modal": "tabla-periodica"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "El enlace entre Na (metal) y Cl (no metal) en NaCl es:",
+      "opciones": [
+        "Iónico, porque une un metal con un no metal en el compuesto",
+        "Covalente polar, porque comparten electrones de forma desigual",
+        "Covalente no polar, porque comparten electrones equitativamente",
+        "Metálico, porque el sodio y el cloro son metales de transición"
+      ],
+      "correcta": 0,
+      "explicacion": "El NaCl tiene enlace iónico porque une un metal (Na) con un no metal (Cl)."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "Los enlaces covalentes se forman entre:",
+      "opciones": [
+        "Dos no metales, que comparten electrones entre sí para estabilizarse",
+        "Un metal y un no metal, que ceden y ganan electrones entre sí",
+        "Dos metales, que forman una nube electrónica compartida entre ambos",
+        "Un gas noble y un metal, que ceden electrones para formar enlaces"
+      ],
+      "correcta": 0,
+      "explicacion": "Los enlaces covalentes se forman entre dos no metales que comparten electrones."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "Una propiedad característica de los compuestos con enlace metálico es:",
+      "opciones": [
+        "Conducir calor y electricidad, porque sus electrones se mueven libres",
+        "Ser frágiles y quebradizos, porque sus iones están muy ordenados",
+        "No conducir electricidad, porque no tienen electrones libres",
+        "Ser solubles en agua, porque sus iones se separan en disolución"
+      ],
+      "correcta": 0,
+      "explicacion": "Los metales conducen calor y electricidad porque sus electrones se mueven libremente."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 12: Grupos funcionales orgánicos",
+      "html": "<p class='text-lg'>Los <strong>grupos funcionales</strong> son átomos o conjuntos de átomos que dan a los compuestos orgánicos sus propiedades químicas características.</p><p class='text-lg'>Se clasifican en cinco grandes familias según su composición:</p><div class='space-y-5 my-5'><div class='bg-green-500/10 border border-green-500/30 p-5 rounded-lg'><div class='mb-4'><p class='font-semibold text-green-700 dark:text-green-300 text-lg uppercase tracking-wider'>Hidrocarburos</p><p class='text-base text-slate-600 dark:text-slate-400 italic mt-2'>Compuestos formados únicamente por carbono e hidrógeno. Son la base de toda la química orgánica.</p></div><div class='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3'><div class='bg-white/50 dark:bg-white/5 border border-green-500/20 p-4 rounded-md'><p class='text-base font-semibold text-slate-800 dark:text-slate-100 mb-2'>Alcanos</p><p class='font-mono text-base text-slate-700 dark:text-slate-200 mb-3'>R — C — C — R'</p><p class='text-sm text-slate-600 dark:text-slate-300 leading-relaxed'>Enlaces simples. Son los hidrocarburos saturados (metano, etano).</p></div><div class='bg-white/50 dark:bg-white/5 border border-green-500/20 p-4 rounded-md'><p class='text-base font-semibold text-slate-800 dark:text-slate-100 mb-2'>Alquenos</p><p class='font-mono text-base text-slate-700 dark:text-slate-200 mb-3'>R — C ═ C — R'</p><p class='text-sm text-slate-600 dark:text-slate-300 leading-relaxed'>Tienen un doble enlace entre carbonos (etileno).</p></div><div class='bg-white/50 dark:bg-white/5 border border-green-500/20 p-4 rounded-md'><p class='text-base font-semibold text-slate-800 dark:text-slate-100 mb-2'>Alquinos</p><p class='font-mono text-base text-slate-700 dark:text-slate-200 mb-3'>R — C ≡ C — R'</p><p class='text-sm text-slate-600 dark:text-slate-300 leading-relaxed'>Tienen un triple enlace entre carbonos (acetileno).</p></div><div class='bg-white/50 dark:bg-white/5 border border-green-500/20 p-4 rounded-md'><p class='text-base font-semibold text-slate-800 dark:text-slate-100 mb-2'>Aromáticos</p><div class='flex items-center gap-2 mb-3'><svg width='32' height='32' viewBox='0 0 40 40' class='shrink-0'><polygon points='20,4 34,12 34,28 20,36 6,28 6,12' fill='none' stroke='currentColor' stroke-width='2' class='text-slate-700 dark:text-slate-200'/><circle cx='20' cy='20' r='6' fill='none' stroke='currentColor' stroke-width='1.5' class='text-slate-700 dark:text-slate-200'/></svg></div><p class='text-sm text-slate-600 dark:text-slate-300 leading-relaxed'>Anillo de 6 carbonos con enlaces alternados (benceno).</p></div></div></div><div class='bg-yellow-500/10 border border-yellow-500/30 p-5 rounded-lg'><div class='mb-4'><p class='font-semibold text-yellow-700 dark:text-yellow-300 text-lg uppercase tracking-wider'>Halogenuros</p><p class='text-base text-slate-600 dark:text-slate-400 italic mt-2'>Compuestos donde uno o más hidrógenos han sido sustituidos por halógenos.</p></div><div class='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3'><div class='bg-white/50 dark:bg-white/5 border border-yellow-500/20 p-4 rounded-md'><p class='text-base font-semibold text-slate-800 dark:text-slate-100 mb-2'>Derivados halogenados</p><p class='font-mono text-base text-slate-700 dark:text-slate-200 mb-3'>R — X</p><p class='text-sm text-slate-600 dark:text-slate-300 leading-relaxed'>Un halógeno (F, Cl, Br, I) sustituye a un hidrógeno.</p></div></div></div><div class='bg-blue-500/10 border border-blue-500/30 p-5 rounded-lg'><div class='mb-4'><p class='font-semibold text-blue-700 dark:text-blue-300 text-lg uppercase tracking-wider'>Funciones oxigenadas</p><p class='text-base text-slate-600 dark:text-slate-400 italic mt-2'>Compuestos que contienen oxígeno en su grupo funcional.</p></div><div class='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3'><div class='bg-white/50 dark:bg-white/5 border border-blue-500/20 p-4 rounded-md'><p class='text-base font-semibold text-slate-800 dark:text-slate-100 mb-2'>Alcoholes</p><p class='font-mono text-base text-slate-700 dark:text-slate-200 mb-3'>R — O — H</p><p class='text-sm text-slate-600 dark:text-slate-300 leading-relaxed'>Grupo hidroxilo (-OH) unido a un carbono.</p></div><div class='bg-white/50 dark:bg-white/5 border border-indigo-500/20 p-4 rounded-md'><p class='text-base font-semibold text-slate-800 dark:text-slate-100 mb-2'>Éteres</p><p class='font-mono text-base text-slate-700 dark:text-slate-200 mb-3'>R — O — R'</p><p class='text-sm text-slate-600 dark:text-slate-300 leading-relaxed'>Oxígeno entre dos cadenas de carbono.</p></div><div class='bg-white/50 dark:bg-white/5 border border-cyan-500/20 p-4 rounded-md'><p class='text-base font-semibold text-slate-800 dark:text-slate-100 mb-2'>Aldehídos</p><p class='font-mono text-base text-slate-700 dark:text-slate-200 mb-3'>R — C(=O) — H</p><p class='text-sm text-slate-600 dark:text-slate-300 leading-relaxed'>Grupo carbonilo (-CHO) al final de la cadena.</p></div><div class='bg-white/50 dark:bg-white/5 border border-purple-500/20 p-4 rounded-md'><p class='text-base font-semibold text-slate-800 dark:text-slate-100 mb-2'>Cetonas</p><p class='font-mono text-base text-slate-700 dark:text-slate-200 mb-3'>R — C(=O) — R'</p><p class='text-sm text-slate-600 dark:text-slate-300 leading-relaxed'>Grupo carbonilo (-CO-) dentro de la cadena.</p></div><div class='bg-white/50 dark:bg-white/5 border border-red-500/20 p-4 rounded-md'><p class='text-base font-semibold text-slate-800 dark:text-slate-100 mb-2'>Ácidos carboxílicos</p><p class='font-mono text-base text-slate-700 dark:text-slate-200 mb-3'>R — C(=O) — O — H</p><p class='text-sm text-slate-600 dark:text-slate-300 leading-relaxed'>Grupo carboxilo (-COOH) terminal.</p></div><div class='bg-white/50 dark:bg-white/5 border border-orange-500/20 p-4 rounded-md'><p class='text-base font-semibold text-slate-800 dark:text-slate-100 mb-2'>Ésteres</p><p class='font-mono text-base text-slate-700 dark:text-slate-200 mb-3'>R — C(=O) — O — R'</p><p class='text-sm text-slate-600 dark:text-slate-300 leading-relaxed'>Se forman al unir un ácido con un alcohol (-COO-).</p></div></div></div><div class='bg-pink-500/10 border border-pink-500/30 p-5 rounded-lg'><div class='mb-4'><p class='font-semibold text-pink-700 dark:text-pink-300 text-lg uppercase tracking-wider'>Funciones nitrogenadas</p><p class='text-base text-slate-600 dark:text-slate-400 italic mt-2'>Compuestos que contienen nitrógeno en su grupo funcional.</p></div><div class='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3'><div class='bg-white/50 dark:bg-white/5 border border-pink-500/20 p-4 rounded-md'><p class='text-base font-semibold text-slate-800 dark:text-slate-100 mb-2'>Aminas</p><p class='font-mono text-base text-slate-700 dark:text-slate-200 mb-3'>R — NH₂</p><p class='text-sm text-slate-600 dark:text-slate-300 leading-relaxed'>Nitrógeno unido a una o más cadenas de carbono.</p></div><div class='bg-white/50 dark:bg-white/5 border border-amber-500/20 p-4 rounded-md'><p class='text-base font-semibold text-slate-800 dark:text-slate-100 mb-2'>Amidas</p><p class='font-mono text-base text-slate-700 dark:text-slate-200 mb-3'>R — C(=O) — NH₂</p><p class='text-sm text-slate-600 dark:text-slate-300 leading-relaxed'>Carbonilo unido a un grupo amino (-CONH₂).</p></div><div class='bg-white/50 dark:bg-white/5 border border-yellow-700/30 p-4 rounded-md'><p class='text-base font-semibold text-slate-800 dark:text-slate-100 mb-2'>Nitrilos</p><p class='font-mono text-base text-slate-700 dark:text-slate-200 mb-3'>R — C ≡ N</p><p class='text-sm text-slate-600 dark:text-slate-300 leading-relaxed'>Carbono con triple enlace al nitrógeno (-CN).</p></div><div class='bg-white/50 dark:bg-white/5 border border-slate-500/20 p-4 rounded-md'><p class='text-base font-semibold text-slate-800 dark:text-slate-100 mb-2'>Nitrosos</p><p class='font-mono text-base text-slate-700 dark:text-slate-200 mb-3'>R — NO₂</p><p class='text-sm text-slate-600 dark:text-slate-300 leading-relaxed'>Grupo nitro (-NO₂) unido a la cadena de carbono.</p></div></div></div></div><p class='text-base text-slate-600 dark:text-slate-400 italic mt-4'>R y R' = radicales o cadenas de carbonos. Los paréntesis en C(=O) indican el doble enlace del oxígeno con el carbono.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 12: Ejemplos de grupos funcionales",
+      "html": "<p class='text-lg'>Estos son los 9 grupos funcionales más comunes con dos ejemplos cada uno:</p><div class='grid grid-cols-1 md:grid-cols-3 gap-3 my-4'><div class='bg-cyan-500/10 border border-cyan-500/30 p-3 rounded-lg'><p class='font-semibold text-cyan-700 dark:text-cyan-300 text-base mb-1'>Alcohol</p><p class='text-xs text-slate-600 dark:text-slate-400 mb-2 font-mono'>Sufijo: -ol</p><p class='text-sm'><strong>1.</strong> Metanol (CH₃-OH)</p><p class='text-sm'><strong>2.</strong> Etanol (CH₃-CH₂-OH)</p></div><div class='bg-orange-500/10 border border-orange-500/30 p-3 rounded-lg'><p class='font-semibold text-orange-700 dark:text-orange-300 text-base mb-1'>Aldehído</p><p class='text-xs text-slate-600 dark:text-slate-400 mb-2 font-mono'>Sufijo: -al</p><p class='text-sm'><strong>1.</strong> Metanal (H-CHO)</p><p class='text-sm'><strong>2.</strong> Propanal (CH₃-CH₂-CHO)</p></div><div class='bg-red-500/10 border border-red-500/30 p-3 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 text-base mb-1'>Cetona</p><p class='text-xs text-slate-600 dark:text-slate-400 mb-2 font-mono'>Sufijo: -ona</p><p class='text-sm'><strong>1.</strong> Propanona (CH₃-CO-CH₃)</p><p class='text-sm'><strong>2.</strong> Butanona (CH₃-CO-CH₂-CH₃)</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-3 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 text-base mb-1'>Ácido carboxílico</p><p class='text-xs text-slate-600 dark:text-slate-400 mb-2 font-mono'>Sufijo: -ico</p><p class='text-sm'><strong>1.</strong> Ácido metanoico (H-COOH)</p><p class='text-sm'><strong>2.</strong> Ácido acético (CH₃-COOH)</p></div><div class='bg-indigo-500/10 border border-indigo-500/30 p-3 rounded-lg'><p class='font-semibold text-indigo-700 dark:text-indigo-300 text-base mb-1'>Éster</p><p class='text-xs text-slate-600 dark:text-slate-400 mb-2 font-mono'>Sufijo: -ato de -ilo</p><p class='text-sm'><strong>1.</strong> Acetato de metilo (CH₃-COO-CH₃)</p><p class='text-sm'><strong>2.</strong> Acetato de etilo (CH₃-COO-CH₂-CH₃)</p></div><div class='bg-rose-500/10 border border-rose-500/30 p-3 rounded-lg'><p class='font-semibold text-rose-700 dark:text-rose-300 text-base mb-1'>Amina</p><p class='text-xs text-slate-600 dark:text-slate-400 mb-2 font-mono'>Sufijo: -amina</p><p class='text-sm'><strong>1.</strong> Metilamina (CH₃-NH₂)</p><p class='text-sm'><strong>2.</strong> Etilamina (CH₃-CH₂-NH₂)</p></div><div class='bg-purple-500/10 border border-purple-500/30 p-3 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 text-base mb-1'>Éter</p><p class='text-xs text-slate-600 dark:text-slate-400 mb-2 font-mono'>Sufijo: -il éter</p><p class='text-sm'><strong>1.</strong> Metil etil éter (CH₃-O-CH₂-CH₃)</p><p class='text-sm'><strong>2.</strong> Dietil éter (CH₃-CH₂-O-CH₂-CH₃)</p></div><div class='bg-amber-500/10 border border-amber-500/30 p-3 rounded-lg'><p class='font-semibold text-amber-700 dark:text-amber-300 text-base mb-1'>Amida</p><p class='text-xs text-slate-600 dark:text-slate-400 mb-2 font-mono'>Sufijo: -amida</p><p class='text-sm'><strong>1.</strong> Metanamida (H-CO-NH₂)</p><p class='text-sm'><strong>2.</strong> Etanamida (CH₃-CO-NH₂)</p></div><div class='bg-slate-500/10 border border-slate-500/30 p-3 rounded-lg'><p class='font-semibold text-slate-700 dark:text-slate-300 text-base mb-1'>Nitrilo</p><p class='text-xs text-slate-600 dark:text-slate-400 mb-2 font-mono'>Sufijo: -nitrilo</p><p class='text-sm'><strong>1.</strong> Metanonitrilo (CH₃-CN)</p><p class='text-sm'><strong>2.</strong> Etanonitrilo (CH₃-CH₂-CN)</p></div></div>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿A qué grupo funcional pertenece el propanal?",
+      "opciones": [
+        "Aldehído, porque su nombre termina en el sufijo -al",
+        "Alcohol, porque su nombre termina en el sufijo -ol",
+        "Cetona, porque su nombre termina en el sufijo -ona",
+        "Éster, porque su nombre termina en -ato de -ilo"
+      ],
+      "correcta": 0,
+      "explicacion": "El sufijo -al indica aldehído. Propanal = aldehído de 3 carbonos."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "El compuesto CH₃-OH es un:",
+      "opciones": [
+        "Alcohol, porque tiene el grupo hidroxilo -OH unido al carbono",
+        "Aldehído, porque tiene el grupo carbonilo -CHO en su estructura",
+        "Cetona, porque tiene el grupo carbonilo -CO- dentro de su cadena",
+        "Ácido carboxílico, porque tiene el grupo carboxilo -COOH terminal"
+      ],
+      "correcta": 0,
+      "explicacion": "El grupo -OH (hidroxilo) caracteriza a los alcoholes. Su nombre es metanol."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de los siguientes sufijos corresponde al grupo funcional de las cetonas?",
+      "opciones": [
+        "-ona, que se usa para nombrar cetonas como la propanona",
+        "-ol, que se usa para nombrar alcoholes como el etanol",
+        "-al, que se usa para nombrar aldehídos como el metanal",
+        "-ico, que se usa para nombrar ácidos carboxílicos orgánicos"
+      ],
+      "correcta": 0,
+      "explicacion": "El sufijo -ona corresponde a las cetonas. Ejemplo: propanona (acetona)."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Actividad de Estudio en Casa",
+      "html": "<div class='text-center py-16'><p class='text-3xl font-bold text-slate-800 dark:text-white mb-4'>Estequiometría y balanceo de ecuaciones químicas</p><p class='text-3xl font-bold text-slate-800 dark:text-white mb-4'>Química orgánica y nomenclatura básica</p><p class='text-3xl font-bold text-slate-800 dark:text-white'>Contaminación química y química verde</p></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Sesión 3",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Sesión 3</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Química</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Nos vemos en la Sesión 4: Física</p>"
+    }
+  ]
+}

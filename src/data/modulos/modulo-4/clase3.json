@@ -1,0 +1,205 @@
+{
+  "titulo": "Clase 3: Modos de Producción e Historia de las Sociedades",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 4",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Ser Social y Sociedad</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 3: Modos de Producción e Historia de las Sociedades</p>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "¿Qué es un modo de producción?",
+      "html": "<p class='text-lg'>Un <strong>modo de producción</strong> es la forma en que una sociedad organiza la producción de bienes materiales. Se compone de dos elementos:</p><ul class='text-lg'><li><strong>Fuerzas productivas:</strong> los medios de producción (tierra, herramientas, tecnología) y la fuerza de trabajo humana.</li><li><strong>Relaciones de producción:</strong> cómo se organizan los grupos sociales en torno a la producción (quién posee, quién trabaja, quién se beneficia).</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "La comunidad primitiva",
+      "html": "<p class='text-lg'>La <strong>comunidad primitiva</strong> es el primer modo de producción de la historia humana. Características:</p><ul class='text-lg'><li>No existe propiedad privada de los medios de producción: todo es colectivo.</li><li>Los grupos son pequeños y nómadas.</li><li>La cohesión se basa en la <strong>semejanza entre los individuos</strong>.</li><li>La cooperación es indispensable para sobrevivir.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Formas de organización primitiva",
+      "html": "<p class='text-lg'>Dentro de la comunidad primitiva se distinguen varias formas:</p><ul class='text-lg'><li><strong>Horda:</strong> grupo muy pequeño sin relaciones de parentesco definidas.</li><li><strong>Clan:</strong> grupo unido por lazos de parentesco, con exogamia (prohibición de casarse dentro del grupo).</li><li><strong>Gens:</strong> grupo con lazos paternos o maternos, típico en sociedades agrícolas.</li><li><strong>Tribu:</strong> conjunto de clanes con territorio propio, lenguaje común y cultura homogénea.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "El esclavismo",
+      "html": "<p class='text-lg'>El <strong>esclavismo</strong> surge con la agricultura y la propiedad privada. Características:</p><ul class='text-lg'><li>El esclavo es <strong>propiedad del amo</strong>. No tiene derechos.</li><li>El dueño dispone incluso de la vida del esclavo.</li><li>Alcanzó su máximo desarrollo en la <strong>Grecia antigua y la Roma clásica</strong>.</li><li>Los esclavos provenían de prisioneros de guerra, campesinos y artesanos en ruina.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "El feudalismo",
+      "html": "<p class='text-lg'>El <strong>feudalismo</strong> se desarrolla en la Edad Media europea. Características:</p><ul class='text-lg'><li>El <strong>siervo</strong> no es esclavo, pero está atado a la tierra.</li><li>Debe trabajar las tierras del señor feudal y pagarle renta.</li><li>El señor feudal posee la tierra; el siervo no es propietario.</li><li>La economía es agrícola y local; hay poca movilidad social.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Modos de producción: línea histórica",
+      "html": "<img src='https://s1.significados.com/foto/grafica-de-modos-de-produccion-marxismo.jpg?class=article' alt='Modos de producción según Marx' class='my-4 rounded-lg max-h-96 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "El capitalismo",
+      "html": "<p class='text-lg'>El <strong>capitalismo</strong> surge con la Revolución Industrial y se consolida en la modernidad. Características:</p><ul class='text-lg'><li>Los <strong>medios de producción</strong> son propiedad privada de la burguesía (capitalistas).</li><li>Los <strong>obreros</strong> venden su fuerza de trabajo a cambio de un salario.</li><li>El objetivo es la ganancia y la acumulación de capital.</li><li>El obrero es <strong>formalmente libre</strong> ante la ley, pero depende del salario para sobrevivir.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "El socialismo y el comunismo",
+      "html": "<p class='text-lg'>Ambas corrientes condenan la propiedad privada de los medios de producción. Veamos la diferencia principal:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-orange-500/10 border border-orange-500/30 p-4 rounded-lg'><p class='font-semibold text-orange-700 dark:text-orange-300 mb-2 text-lg'>Socialismo</p><p class='text-base'>Sistema donde los medios de producción son <strong>propiedad social</strong> (no privada). Busca una distribución más justa de la riqueza.</p></div><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Comunismo</p><p class='text-base'>Según Marx, etapa superior donde <strong>no hay clases sociales ni Estado</strong>, y los medios de producción son de toda la comunidad.</p></div></div><img src='https://cdn0.unprofesor.com/es/posts/2/7/0/comunismo_y_socialismo_diferencias_2072_orig.jpg' alt='Diferencias entre comunismo y socialismo' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Las edades de la historia",
+      "html": "<p class='text-lg'>La historia de la humanidad se ha dividido tradicionalmente en grandes edades:</p><ul class='text-lg'><li><strong>Prehistoria:</strong> antes de la escritura.</li><li><strong>Edad Antigua:</strong> desde la escritura hasta la caída del Imperio Romano de Occidente (476 d.C.).</li><li><strong>Edad Media:</strong> del 476 d.C. a 1492 (descubrimiento de América).</li><li><strong>Edad Moderna:</strong> de 1492 a 1789 (Revolución Francesa).</li><li><strong>Edad Contemporánea:</strong> de 1789 hasta hoy.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "El estado-nación",
+      "html": "<p class='text-lg'>El <strong>estado-nación</strong> es una forma de organización política moderna. Se caracteriza por:</p><ul class='text-lg'><li>Un <strong>territorio claramente definido</strong> con fronteras reconocidas.</li><li>Un <strong>gobierno</strong> con poder aplicable a toda la población.</li><li>Una <strong>población</strong> que comparte identidad, cultura y lengua (o al menos, ciudadanía común).</li><li><strong>Soberanía:</strong> capacidad de decidir autónomamente sobre sus asuntos internos y externos.</li></ul><img src='https://mapademexicosinnombres.com/wp-content/uploads/2025/01/Mapa-de-Mexico-sin-nombres.webp' alt='Mapa de México sin nombres' class='my-4 rounded-lg max-h-96 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Mesoamérica",
+      "html": "<p class='text-lg'><strong>Mesoamérica</strong> es la región cultural del México prehispánico y Centroamérica. Sus rasgos característicos:</p><ul class='text-lg'><li>La <strong>agricultura</strong> (maíz, frijol, calabaza) como base económica.</li><li>Sociedades organizadas por <strong>grupos de actividad</strong> (sacerdotes, guerreros, campesinos, artesanos).</li><li>Gran importancia al <strong>comercio</strong>.</li><li>Uso de <strong>códices</strong> y <strong>juego de pelota</strong>.</li></ul><p class='text-lg'>NO son rasgos mesoamericanos: el cultivo del arroz, el uso de la pólvora ni la navegación transoceánica.</p><img src='https://clasesdehistorias.wordpress.com/wp-content/uploads/2011/08/mesoamc3a9rica-oasisamc3a9rica-y-aridoamc3a9rica.png?w=640' alt='Mesoamérica, Oasisamérica y Aridoamérica' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Repaso: preguntas de la clase",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white mb-4'>Repaso de la clase</p><p class='text-lg text-slate-700 dark:text-slate-200'>A continuación, una serie de preguntas para reforzar lo aprendido sobre modos de producción e historia de las sociedades.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿En qué se basaba la cohesión de la comunidad primitiva?",
+      "opciones": [
+        "En la semejanza entre los individuos que formaban el grupo",
+        "En la diferencia entre las personas según su papel social",
+        "En los alimentos que lograba conseguir el grupo cada día",
+        "En las particularidades individuales de cada uno de sus miembros"
+      ],
+      "correcta": 0,
+      "explicacion": "En la comunidad primitiva la cohesión se basaba en la igualdad y semejanza entre los individuos, sin propiedad privada ni clases."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Qué forma de organización primitiva se caracteriza por tener territorio propio, lenguaje común y estructura política?",
+      "opciones": [
+        "La tribu, que agrupa varios clanes con territorio y lenguaje común",
+        "El gens, que agrupa familias con lazos paternos o maternos",
+        "El clan, que agrupa parientes con prohibición de matrimonio interno",
+        "La horda, que agrupa personas sin parentesco definido entre sí"
+      ],
+      "correcta": 0,
+      "explicacion": "La tribu agrupa varios clanes con territorio, lenguaje y cultura comunes, además de organización política."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "El modo esclavista de producción alcanzó su máximo desarrollo en:",
+      "opciones": [
+        "Grecia antigua y Roma clásica, donde el esclavo era base económica",
+        "Egipto y Mesopotamia, donde surgieron las primeras ciudades-estado",
+        "China imperial y Japón feudal, donde existía el servicio personal",
+        "Inglaterra y Francia, donde se desarrolló la industria textil"
+      ],
+      "correcta": 0,
+      "explicacion": "El esclavismo floreció en Grecia y Roma, donde los esclavos eran la base de la economía."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "En el feudalismo, el trabajador que no es dueño de la tierra pero tampoco es esclavo se llama:",
+      "opciones": [
+        "Siervo, que está atado a la tierra del señor feudal y paga renta",
+        "Obrero, que vende su fuerza de trabajo a cambio de un salario",
+        "Proletario, que trabaja en las fábricas sin poseer los medios",
+        "Burgués, que es propietario de los medios de producción urbanos"
+      ],
+      "correcta": 0,
+      "explicacion": "El siervo está atado a la tierra del señor feudal y paga renta por trabajarla, pero no es propiedad del señor."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es una diferencia esencial entre el feudalismo y el capitalismo?",
+      "opciones": [
+        "En el capitalismo el obrero es libre ante la ley; en el feudalismo el siervo estaba atado a la tierra",
+        "En el capitalismo el obrero es dueño de los medios de producción; en el feudalismo el siervo también lo era",
+        "En el feudalismo no existían clases sociales diferenciadas; en el capitalismo sí existen clases definidas",
+        "En el feudalismo la economía era industrial y urbana; en el capitalismo la economía era agrícola y rural"
+      ],
+      "correcta": 0,
+      "explicacion": "En el capitalismo el obrero vende libremente su fuerza de trabajo. En el feudalismo el siervo estaba sujeto a la tierra del señor."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "El conjunto de doctrinas que proponen una distribución más justa de la riqueza y condenan la propiedad privada de los medios de producción se conoce como:",
+      "opciones": [
+        "Socialismo, que busca la propiedad social de los medios de producción",
+        "Capitalismo, que defiende la propiedad privada de los medios de producción",
+        "Liberalismo, que promueve la libertad económica y la propiedad privada",
+        "Comunismo, que busca la eliminación del Estado y las clases sociales"
+      ],
+      "correcta": 0,
+      "explicacion": "El socialismo agrupa corrientes que buscan la propiedad social de los medios de producción y la distribución equitativa de la riqueza."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Qué acontecimiento marca el inicio de la Edad Contemporánea?",
+      "opciones": [
+        "La Revolución Francesa de 1789, que transformó el orden político europeo",
+        "La caída del Imperio Romano de Occidente en el año 476 d.C.",
+        "El descubrimiento de América en el año 1492 por los españoles",
+        "La Revolución Industrial de 1750 iniciada en Gran Bretaña"
+      ],
+      "correcta": 0,
+      "explicacion": "La Revolución Francesa (1789) cierra la Edad Moderna e inaugura la Edad Contemporánea."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuáles son las características principales del estado-nación?",
+      "opciones": [
+        "Territorio definido, gobierno con poder sobre toda la población y soberanía",
+        "Fronteras abiertas al comercio y gobierno centralizado en la república",
+        "Solamente lengua común y religión oficial compartida por la población",
+        "Fronteras definidas por tratados internacionales y gobierno por voto"
+      ],
+      "correcta": 0,
+      "explicacion": "El estado-nación se caracteriza por territorio claramente definido, gobierno con poder sobre toda la población y soberanía."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuáles de los siguientes son rasgos característicos de Mesoamérica?",
+      "opciones": [
+        "Gran importancia al comercio, agricultura como base y organización por grupos de actividad",
+        "Uso de la pólvora, navegación transoceánica y cultivo del arroz como base económica",
+        "Poblaciones pequeñas sin organización política, economía basada en la pesca y petroglifos",
+        "Gobierno sin sacerdotes, ausencia de comercio y cultivo exclusivo de trigo y cebada"
+      ],
+      "correcta": 0,
+      "explicacion": "Mesoamérica se caracterizó por el comercio, la agricultura (maíz, frijol, calabaza) y la organización en grupos de actividad."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuáles de los siguientes rasgos NO corresponden al área cultural de Mesoamérica?",
+      "opciones": [
+        "El cultivo del arroz, el uso de la pólvora y la navegación transoceánica",
+        "Los códices, el juego de pelota y el cultivo de maíz, frijol y calabaza",
+        "La organización social por grupos de actividad y la importancia del comercio",
+        "La agricultura como base económica y la existencia de mercados regionales"
+      ],
+      "correcta": 0,
+      "explicacion": "El arroz, la pólvora y la navegación transoceánica NO son rasgos mesoamericanos; fueron introducidos por los europeos."
+    },
+
+    {
+      "tipo": "actividad",
+      "titulo": "Línea de tiempo de las sociedades",
+      "instrucciones": "Responde en tu cuaderno:\n\nElabora una línea de tiempo que muestre la evolución de las sociedades humanas:\n\n• Comunidad primitiva\n• Esclavismo\n• Feudalismo\n• Capitalismo\n• Socialismo (como propuesta)\n\nPara cada etapa, anota:\n• Época aproximada\n• Modo de producción característico\n• Forma de organización social\n\nReflexiona al final: ¿por qué las sociedades cambian de un modo de producción a otro?",
+      "pista": "Los cambios ocurren cuando las fuerzas productivas se desarrollan más rápido que las relaciones de producción, generando contradicciones y conflictos sociales."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 3",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase 3</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Modos de Producción e Historia de las Sociedades</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Nos vemos en la Clase 4: Ética, Moral y Problemas Contemporáneos</p>"
+    }
+  ]
+}

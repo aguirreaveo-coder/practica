@@ -1,0 +1,350 @@
+{
+  "titulo": "Clase 2: Presupuesto, ahorro y crédito",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 14",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Fenómenos sociales y modelos económicos</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 2: Presupuesto, ahorro y crédito</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Presupuesto · Ahorro e inversión · Interés · Crédito · Riesgos financieros</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Presupuesto",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Un presupuesto organiza los ingresos y gastos previstos en un periodo. Registrar entradas y salidas ayuda a comparar recursos con necesidades, anticipar pagos y decidir cuánto ahorrar.</p><p class='text-lg font-semibold text-slate-900 dark:text-white mt-4'>Ingresos fijos y variables</p><p class='text-lg text-slate-700 dark:text-slate-200'>Los ingresos fijos suelen ser regulares y estables; los variables cambian por comisiones, ventas u horas trabajadas. Para planear, estima con prudencia los variables y reserva margen para gastos necesarios e imprevistos.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Ahorro e inversión",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>El ahorro reserva parte del ingreso para metas futuras o emergencias. Definir una cantidad periódica y revisar el presupuesto ayuda a sostener el hábito sin descuidar necesidades prioritarias.</p><p class='text-lg text-slate-700 dark:text-slate-200'>La inversión busca rendimiento y puede implicar riesgo o variaciones de valor. Para compararla considera plazo, liquidez, rendimiento esperado y posibilidad de pérdida; no confundas el rendimiento esperado con una ganancia garantizada.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Interés simple",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>El interés simple se calcula sobre el capital inicial; el monto suma capital e interés. La tasa debe ser decimal y usar la misma unidad de tiempo que el plazo.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>I = C · i · t</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>M = C + I</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>C = I / (i · t)</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>i = I / (C · t)</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>t = I / (C · i)</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>C = M / (1 + i · t)</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>i = (M / C − 1) / t</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>t = (M / C − 1) / i</span></div>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: interés simple",
+      "enunciado": "Una cooperativa deposita $8,000 a una tasa simple de 3% mensual durante 5 meses. Calcula el monto al final del plazo.",
+      "datos": [
+        "I = C · i · t",
+        "M = C + I"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: interés simple",
+      "ejercicios": [
+        {
+          "pregunta": "Capital $4,800; 2% mensual durante 7 meses. Calcula M.\nFórmula: I = C · i · t; M = C + I",
+          "respuesta": "I = $672; M = $5,472."
+        },
+        {
+          "pregunta": "Capital $12,500; 1.8% mensual durante 8 meses. Calcula M.\nFórmula: I = C · i · t; M = C + I",
+          "respuesta": "I = $1,800; M = $14,300."
+        },
+        {
+          "pregunta": "Capital $16,000; 4% trimestral durante 5 trimestres. Calcula M.\nFórmula: I = C · i · t; M = C + I",
+          "respuesta": "I = $3,200; M = $19,200."
+        }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Interés compuesto",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>En el interés compuesto, cada periodo suma los intereses al capital; esos intereses también generan rendimientos posteriores. La tasa i y el número n deben referirse al mismo periodo de capitalización.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>M = C(1 + i)ⁿ</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>C = M / (1 + i)ⁿ</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>i = (M / C)^(1/n) − 1</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>n = ln(M / C) / ln(1 + i)</span></div>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: interés compuesto",
+      "enunciado": "Se invierten $10,000 a una tasa compuesta de 2% mensual durante 10 meses. Calcula el monto al final del plazo.",
+      "datos": [
+        "M = C(1 + i)ⁿ"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: interés compuesto",
+      "ejercicios": [
+        {
+          "pregunta": "Capital $7,000; 2% mensual durante 6 meses. Calcula M.\nFórmula: M = C(1 + i)ⁿ",
+          "respuesta": "M ≈ $7,883.14."
+        },
+        {
+          "pregunta": "Capital $15,000; 1.5% trimestral durante 8 trimestres. Calcula M.\nFórmula: M = C(1 + i)ⁿ",
+          "respuesta": "M ≈ $16,897.38."
+        },
+        {
+          "pregunta": "Capital $3,200; 4% anual durante 5 años. Calcula M.\nFórmula: M = C(1 + i)ⁿ",
+          "respuesta": "M ≈ $3,893.29."
+        }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Costo del crédito",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>El crédito permite usar dinero o adquirir un bien y pagarlo después, normalmente con intereses y cargos. Para comparar ofertas revisa tasa, comisiones, plazo y frecuencia de pago.</p><p class='text-lg text-slate-700 dark:text-slate-200'>El Costo Anual Total (CAT) expresa en porcentaje anual distintos costos del financiamiento y facilita comparar productos. Revisa también el monto total a pagar: mensualidades pequeñas pueden prolongar la deuda y elevar su costo acumulado.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tipos de crédito y participantes",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Hay créditos personales, de nómina, automotrices, hipotecarios y revolventes, como las tarjetas. Una deuda puede clasificarse por propósito, plazo o garantía; las condiciones concretas dependen del contrato.</p><p class='text-lg text-slate-700 dark:text-slate-200'>El prestamista o acreedor entrega recursos y tiene derecho al pago. El deudor o prestatario recibe el dinero o bien y asume devolverlo según lo pactado. El acuerdo establece capital, intereses, cargos, fechas y consecuencias del incumplimiento.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Riesgos financieros",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>El riesgo de mercado surge de cambios en precios o tasas; el de crédito, de incumplir pagos; y el de liquidez, de no convertir un activo en efectivo oportunamente. La inflación y condiciones económicas generales pueden afectar a muchas personas a la vez.</p><p class='text-lg text-slate-700 dark:text-slate-200'>Antes de ahorrar o invertir identifica los riesgos, el plazo y cuándo necesitarás disponer del dinero. Diversificar puede reducir la exposición a un riesgo particular, aunque no elimina la posibilidad de pérdidas.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Ahorro para el retiro",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>En México, las AFORE administran las cuentas individuales del Sistema de Ahorro para el Retiro e informan a las personas trabajadoras. Las SIEFORE invierten esos recursos en fondos con estrategias acordes con el horizonte de inversión y el nivel de riesgo.</p><p class='text-lg text-slate-700 dark:text-slate-200'>Al revisar el ahorro para el retiro, considera aportaciones, comisiones, rendimiento y tiempo disponible para invertir. El saldo puede cambiar y los rendimientos pasados no garantizan los futuros.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Decisiones financieras",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Antes de endeudarte, verifica que los pagos quepan en el presupuesto después de cubrir necesidades prioritarias. Una mensualidad baja no siempre significa una deuda barata: un plazo mayor puede aumentar los intereses totales.</p><p class='text-lg text-slate-700 dark:text-slate-200'>Lee las condiciones, fechas y comisiones, y conserva margen para emergencias. Revisar el presupuesto y actuar pronto ante dificultades ayuda a evitar atrasos y cargos acumulados.</p>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Actividad: Repaso de la Guía",
+      "instrucciones": "Responde las preguntas del Cuestionario 1 asignadas a esta clase.",
+      "preguntas": [
+        6,
+        7,
+        8,
+        14,
+        15,
+        16,
+        20,
+        21,
+        22,
+        28,
+        29,
+        30,
+        31,
+        32,
+        39,
+        40
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Revisión de la Actividad",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Compara tus respuestas con la guía e identifica el concepto o procedimiento que justifica cada una.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "6. ¿Cuál es el ingreso base mensual con el que cuentan Rodrigo y Maribel y cómo se debe determinar?",
+      "opciones": [
+        "$7,500, porque solamente el sueldo de Rodrigo es un ingreso fijo, en cambio el de Maribel es variable.",
+        "$9,900, se considera el salario de Rodrigo y el de Maribel tomando como base la media de 4 días por semana.",
+        "$10,500, se considera el salario fijo de Rodrigo y el ingreso máximo de Maribel por 5 días a la semana.",
+        "$9,300, porque suma al salario de Rodrigo el de Maribel con base en el mínimo de 3 días a la semana."
+      ],
+      "correcta": 3,
+      "explicacion": "Se considera el sueldo fijo de Rodrigo y el ingreso de Maribel calculado con el mínimo de tres días laborados por semana.",
+      "numero": 6
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "7. Rodrigo y Maribel desean sacar su presupuesto mensual, ¿qué requieren para hacerlo?",
+      "opciones": [
+        "Solicitar asesoría contable para registrar sus ingresos egresos durante un periodo.",
+        "Registrar ellos mismos el dinero que ingresa y egresa al hogar durante un periodo mensual.",
+        "Equilibrar sus necesidades prioritarias y recursos disponibles, con un cierto margen de deuda.",
+        "Equilibrar sus necesidades prioritarias y recursos disponibles, con un cierto margen de ahorro."
+      ],
+      "correcta": 1,
+      "explicacion": "Un presupuesto se construye registrando los ingresos y egresos del hogar durante un periodo.",
+      "numero": 7
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "8. ¿Qué ventajas les ofrece a Rodrigo y a Maribel la elaboración de su presupuesto?",
+      "opciones": [
+        "1, 4",
+        "2, 3, 4",
+        "1, 3, 4",
+        "2, 3"
+      ],
+      "correcta": 0,
+      "explicacion": "El presupuesto ayuda a mantener equilibrio financiero y a generar ahorro.",
+      "numero": 8
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "14. El CAT se entiende como: ____________.",
+      "opciones": [
+        "tasa convenida en una operación financiera que puede ser anticipada o vencida.",
+        "cantidad que las partes acuerdan para pagar por un dinero tomado en préstamo.",
+        "medida del costo de financiamiento con fines de información y comparación, representado como porcentaje anual.",
+        "valor en dinero que se recibe al descontar la obligación o el valor actual o presente con descuento bancario."
+      ],
+      "correcta": 2,
+      "explicacion": "El CAT comunica el costo del financiamiento como porcentaje anual para facilitar comparaciones.",
+      "numero": 14
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "15. De acuerdo con el texto y en términos de economía del comprador potencial y su entorno, ¿qué promete el anuncio?",
+      "opciones": [
+        "Ahorro.",
+        "Crédito.",
+        "Recuperar ingresos.",
+        "Control de egresos."
+      ],
+      "correcta": 1,
+      "explicacion": "El anuncio ofrece crédito para adquirir el producto.",
+      "numero": 15
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "16. ¿Es importante la frecuencia de pagos en una compra como la que se ofrece en el cartel publicitario?",
+      "opciones": [
+        "No, debido a que sólo se utilizan para identificar las fechas de pago del producto comprado.",
+        "Sí, porque la periodicidad de los pagos le proporciona al comprador el costo financiero.",
+        "Sí, porque determina el flujo a cubrir periódicamente y el monto de los pagos a realizar.",
+        "No, los pagos pequeños son los más próximos, sin ninguna relación con el costo financiero."
+      ],
+      "correcta": 2,
+      "explicacion": "La frecuencia determina cada cuándo y cuánto debe pagar la persona, información necesaria para conocer el costo financiero.",
+      "numero": 16
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "20. Determina a qué concepto corresponde esta definición: \"Es la cantidad monetaria excedente de las personas e instituciones sobre sus gastos\".",
+      "opciones": [
+        "Inversión.",
+        "Ingreso.",
+        "Ahorro.",
+        "Presupuesto."
+      ],
+      "correcta": 2,
+      "explicacion": "El ahorro es la parte excedente del dinero respecto de los gastos.",
+      "numero": 20
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "21. Relaciona los principales tipos de riesgo que presentan el ahorro y la inversión con los eventos que les corresponden.",
+      "opciones": [
+        "[1-Carlos] [2-Fidel] [3-Abel] [4-David]",
+        "[1-David] [2-Beba] [3-Abel] [4-Emma]",
+        "[1-David] [2-Fidel] [3-Beba] [4-Emma]",
+        "[1-Carlos] [2-Beba] [3-Emma] [4-David]"
+      ],
+      "correcta": 2,
+      "explicacion": "La tabla de escenarios con los nombres de las personas no aparece en el DOCX; se conserva la combinación del reactivo para cotejo con la guía antes de usarla como clave.",
+      "numero": 21
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "22. Esperanza invirtió $1,000 a un plazo de 6 meses, con un interés simple del 5%. ¿Cuánto dinero tendrá al término del plazo?",
+      "opciones": [
+        "$1,300",
+        "$1,276",
+        "$1,340",
+        "$1,250"
+      ],
+      "correcta": 0,
+      "explicacion": "El interés simple del 5% mensual durante seis meses suma $300 sobre el capital de $1,000.",
+      "numero": 22
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "28. ¿Cuál de las siguientes opciones corresponde al tipo de riesgo en el que influyen eventos como la inflación, la devaluación, la situación económica, entre otras, en el que está involucrado todo el país y que no se pueden eliminar independientemente de la institución en dónde se tenga invertido en el sistema financiero?",
+      "opciones": [
+        "Mercado.",
+        "Sistema.",
+        "Crédito.",
+        "Interés."
+      ],
+      "correcta": 1,
+      "explicacion": "El riesgo del sistema depende de condiciones generales que afectan al país y no se elimina al cambiar de institución.",
+      "numero": 28
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "29. En el caso de que una persona haya solicitado un préstamo bancario y se encuentre realizando los pagos correspondientes del mismo, un riesgo de ________ se presenta cuando la tasa de interés sube.",
+      "opciones": [
+        "Mercado.",
+        "Sistema.",
+        "Interés.",
+        "Crédito."
+      ],
+      "correcta": 2,
+      "explicacion": "El aumento de la tasa en un préstamo corresponde al riesgo de interés.",
+      "numero": 29
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "30. ¿Es verdad que el riesgo de volatilidad es aquel en el que no se puede cambiar un valor o instrumento por su equivalente en dinero?",
+      "opciones": [
+        "Sí, ya que, al no poderse realizar el cambio del instrumento, queda volátil la liquidez inmediata.",
+        "No, porque la explicación presentada se refiere al riesgo de crédito y no al riesgo de volatilidad.",
+        "No, el riesgo de volatilidad se refiere al grado en que varía el precio o interés del instrumento con el paso del tiempo.",
+        "Sí, puede carecerse de liquidez para poder solventar los gastos inmediatos por las fluctuaciones económicas."
+      ],
+      "correcta": 2,
+      "explicacion": "La descripción corresponde al riesgo de liquidez; el riesgo de volatilidad se relaciona con cambios en el precio o interés.",
+      "numero": 30
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "31. El tipo de riesgo en el que varía o fluctúa el precio o interés del instrumento a través del tiempo se conoce como:",
+      "opciones": [
+        "Robo.",
+        "Volatilidad.",
+        "Liquidez.",
+        "Crédito."
+      ],
+      "correcta": 1,
+      "explicacion": "El riesgo de volatilidad describe las variaciones del precio o interés de un instrumento a través del tiempo.",
+      "numero": 31
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "32. ¿Cómo se le llama al dinero que un banco presta a una persona física y que puede usarse en el pago de artículos o recibirse en efectivo?",
+      "opciones": [
+        "Débito.",
+        "Embargo.",
+        "Crédito.",
+        "Activo."
+      ],
+      "correcta": 2,
+      "explicacion": "Se llama crédito al dinero que un banco presta y que puede usarse para pagar artículos o recibirse en efectivo.",
+      "numero": 32
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "39. Desde el punto de vista de un deudor, ¿cómo se define el interés?",
+      "opciones": [
+        "Compensación al recibir por utilizar su dinero.",
+        "Precio que tiene que pagar por utilizar el dinero.",
+        "Precio pagado por el uso de recursos durante un tiempo.",
+        "Valor de cambio por uso del dinero de otra persona."
+      ],
+      "correcta": 1,
+      "explicacion": "Para el deudor, el interés es el precio que paga por utilizar el dinero.",
+      "numero": 39
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "40. El tipo de interés que se cobra, considerando las comisiones, depósitos dejados, entre otras aportaciones o cobros anexos al crédito se denomina: ______________________.",
+      "opciones": [
+        "Simple.",
+        "Efectivo.",
+        "Compuesto.",
+        "nominal."
+      ],
+      "correcta": 1,
+      "explicacion": "La tasa efectiva considera comisiones, depósitos y otros cargos o aportaciones asociados al crédito.",
+      "numero": 40
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 2",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Presupuesto, ahorro y crédito. En la siguiente clase continuaremos con el Módulo 14.</p>"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

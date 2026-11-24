@@ -1,0 +1,261 @@
+{
+  "titulo": "Clase 3: Electricidad",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 8",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Matemáticas y representaciones del sistema natural</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 3: Electricidad</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Carga eléctrica · Ley de Coulomb · Corriente eléctrica · Ley de Ohm · Circuitos en serie y paralelo · Diferencia de potencial</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Carga eléctrica y el átomo",
+      "html": "<p class='text-lg'>La <strong>carga eléctrica</strong> es una propiedad fundamental de la materia. Los átomos están formados por:</p><ul class='text-lg'><li><strong>Protones (p⁺):</strong> carga positiva, en el núcleo.</li><li><strong>Neutrones (n):</strong> sin carga, en el núcleo.</li><li><strong>Electrones (e⁻):</strong> carga negativa, giran alrededor del núcleo.</li></ul><p class='text-lg'>Un <strong>átomo neutro</strong> tiene el mismo número de protones que de electrones.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Número atómico",
+      "html": "<p class='text-lg'>El <strong>número atómico (Z)</strong> es el número de protones contenidos en el núcleo de un átomo. Define al elemento químico.</p><p class='text-lg'>En un átomo neutro, el número de protones es igual al número de electrones. Si el átomo gana o pierde electrones, se convierte en un <strong>ion</strong>.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Fuerza nuclear fuerte, fusión y fisión",
+      "html": "<p class='text-lg'>Los <strong>neutrones y protones</strong> se mantienen unidos mediante la <strong>fuerza nuclear fuerte</strong>.</p><p class='text-lg'>Esta fuerza es enorme pero solo actúa a distancias muy cortas, del orden del tamaño del núcleo atómico. Es una de las cuatro fuerzas fundamentales de la naturaleza.</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Fusión nuclear</p><p class='text-lg'>Es la unión de dos núcleos ligeros para formar uno más pesado, liberando gran cantidad de energía. Ocurre en el interior de las estrellas, como el Sol.</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Fisión nuclear</p><p class='text-lg'>Es la división de un núcleo pesado en dos más ligeros, liberando energía. Se aprovecha en las plantas nucleares para generar electricidad.</p></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Ley de Coulomb",
+      "html": "<p class='text-lg'>La <strong>ley de Coulomb</strong> describe la fuerza de atracción o repulsión entre dos cargas eléctricas puntuales.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>F = k · q₁ · q₂ / r²</span></div><p class='text-lg'>Donde <strong>k</strong> = 9 × 10⁹ N·m²/C², <strong>q</strong> son las cargas (C) y <strong>r</strong> la distancia entre ellas (m).</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Fuerza de Coulomb",
+      "enunciado": "Dos esferas, cada una con una carga de 2 × 10⁻⁶ C, están separadas a 30 mm. ¿Cuál es la fuerza de repulsión entre ellas?",
+      "datos": [
+        "Carga 1 (q₁) = 2 × 10⁻⁶ C",
+        "Carga 2 (q₂) = 2 × 10⁻⁶ C",
+        "Distancia (r) = 30 mm = 0.03 m",
+        "Constante (k) = 9 × 10⁹ N·m²/C²",
+        "Fórmula: F = k · q₁ · q₂ / r²"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Ley de Coulomb",
+      "ejercicios": [
+        { "pregunta": "Dos cargas de 3 × 10⁻⁶ C están separadas 0.1 m. ¿Cuál es la fuerza entre ellas?", "respuesta": "8.1 N" },
+        { "pregunta": "Dos cargas de 5 × 10⁻⁶ C y 2 × 10⁻⁶ C están a 0.5 m. ¿Cuál es la fuerza?", "respuesta": "0.36 N" },
+        { "pregunta": "Si dos cargas iguales se repelen con 4 N a 0.3 m, ¿cuál es el valor de cada carga?", "respuesta": "2 × 10⁻⁶ C" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Corriente eléctrica",
+      "html": "<p class='text-lg'>La <strong>corriente eléctrica</strong> es el flujo ordenado de cargas eléctricas a través de un conductor.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>I = Q / t</span></div><p class='text-lg'>Donde <strong>I</strong> es la intensidad (A, amperes), <strong>Q</strong> la carga (C, coulombs) y <strong>t</strong> el tiempo (s).</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Intensidad de corriente",
+      "enunciado": "Una batería suministra una carga de 480 C a un dispositivo durante 40 segundos. ¿Cuál es la intensidad de corriente que circula?",
+      "datos": [
+        "Carga (Q) = 480 C",
+        "Tiempo (t) = 40 s",
+        "Fórmula: I = Q / t"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Corriente eléctrica",
+      "ejercicios": [
+        { "pregunta": "¿Cuál es la intensidad si circulan 90 C en 6 s?", "respuesta": "15 A" },
+        { "pregunta": "¿Cuánta carga circula en 5 s con una corriente de 3 A?", "respuesta": "15 C" },
+        { "pregunta": "¿En cuánto tiempo circulan 60 C con una corriente de 4 A?", "respuesta": "15 s" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Ley de Ohm",
+      "html": "<p class='text-lg'>La <strong>ley de Ohm</strong> establece la relación entre la diferencia de potencial, la intensidad de corriente y la resistencia.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>V = I · R</span></div><p class='text-lg'>Donde <strong>V</strong> es la diferencia de potencial (V, volts), <strong>I</strong> la corriente (A) y <strong>R</strong> la resistencia (Ω, ohms).</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Ley de Ohm",
+      "enunciado": "Tres resistencias están conectadas en serie: 5 Ω, 8 Ω y una desconocida. La caída de potencial en la primera es 10 V y en la segunda es 16 V. ¿Cuánto vale la tercera resistencia si el voltaje total es 46 V?",
+      "datos": [
+        "Resistencia 1 (R₁) = 5 Ω",
+        "Voltaje en R₁ (V₁) = 10 V",
+        "Resistencia 2 (R₂) = 8 Ω",
+        "Voltaje en R₂ (V₂) = 16 V",
+        "Voltaje total (V_T) = 46 V",
+        "En serie: la corriente es la misma",
+        "Fórmula: I = V₁ / R₁; V₃ = V_T − V₁ − V₂; R₃ = V₃ / I"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Ley de Ohm",
+      "ejercicios": [
+        { "pregunta": "Una resistencia de 10 Ω tiene una corriente de 2 A. ¿Cuál es el voltaje?", "respuesta": "20 V" },
+        { "pregunta": "Un voltaje de 12 V produce una corriente de 0.5 A. ¿Cuál es la resistencia?", "respuesta": "24 Ω" },
+        { "pregunta": "Con 6 V y 3 Ω, ¿cuál es la corriente que circula?", "respuesta": "2 A" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Circuitos en serie y paralelo",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Circuito en serie</p><p class='text-lg'>Los componentes se conectan uno tras otro. La corriente es la misma en todos. El voltaje total es la suma de los voltajes. La resistencia total es la suma de resistencias.</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Circuito en paralelo</p><p class='text-lg'>Los componentes se conectan en ramas separadas. El voltaje es el mismo en todos. La corriente total es la suma de las corrientes. La resistencia total es menor que la menor.</p></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Diferencia de potencial",
+      "html": "<p class='text-lg'>La <strong>diferencia de potencial eléctrico</strong> entre dos puntos se define como el trabajo por unidad de carga positiva realizado por una fuerza eléctrica al mover una carga desde el punto de mayor potencial hasta el punto de menor potencial.</p><p class='text-lg'>Se mide en <strong>volts (V)</strong>. El científico inglés <strong>William Gilbert</strong> fue quien dio el nombre de electricidad (del griego elektron = ámbar) a esta propiedad de la materia.</p>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Actividad: Preguntas de la guía",
+      "instrucciones": "Responde las siguientes preguntas de tu Guía 1:",
+      "preguntas": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Revisión de la actividad",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>A continuación, revisaremos las preguntas de la guía que resolviste como actividad, reforzando los conceptos de electricidad, carga, corriente y circuitos.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 10,
+      "pregunta": "10. Un átomo normal sin carga contiene ____________ número de protones que de electrones.",
+      "opciones": [
+        "mayor",
+        "menor",
+        "ninguno",
+        "igual"
+      ],
+      "correcta": 3,
+      "explicacion": "En un átomo neutro, el número de protones es igual al número de electrones, por eso su carga neta es cero."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 11,
+      "pregunta": "11. ¿A qué científico inglés se le atribuye haber dado el nombre de electricidad (del griego elektrón = ámbar) a esta propiedad de la materia?",
+      "opciones": [
+        "James Joule",
+        "Charles Coulomb",
+        "William Gilbert",
+        "Michael Faraday"
+      ],
+      "correcta": 2,
+      "explicacion": "William Gilbert fue quien dio el nombre de electricidad a esta propiedad, del griego elektrón = ámbar."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 12,
+      "pregunta": "12. ¿Cómo se define la diferencia de potencial eléctrico entre dos puntos?",
+      "opciones": [
+        "Trabajo por unidad de carga positiva realizado por una fuerza eléctrica al mover una carga desde el punto de mayor potencial hasta el punto de menor potencial.",
+        "Flujo de carga eléctrica por unidad de tiempo que recorren los electrones en el interior de un material, produciendo como resultado un campo magnético.",
+        "Trabajo que realiza un campo electrostático para mover una carga positiva que desde un punto de referencia dividido por unidad de carga de prueba.",
+        "Medida de la oposición que presenta un objeto conductor al paso de una corriente, de valor proporcional a su voltaje e inversamente a su intensidad."
+      ],
+      "correcta": 0,
+      "explicacion": "La diferencia de potencial es el trabajo por unidad de carga positiva realizado por la fuerza eléctrica al mover una carga desde el punto de mayor potencial hasta el de menor potencial."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 13,
+      "pregunta": "13. ¿Qué físico aportó las bases para las leyes sobre las corrientes eléctricas y estudió cuantitativamente los efectos de la resistencia al limitar el flujo de carga que llevan su nombre?",
+      "opciones": [
+        "Hertz, Heinrich Rudolf",
+        "Ohm, Georg Simon",
+        "Faraday, Michael",
+        "Ampere, André Marie"
+      ],
+      "correcta": 1,
+      "explicacion": "Georg Simon Ohm formuló la ley que relaciona el voltaje, la corriente y la resistencia."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 14,
+      "pregunta": "14. Los neutrones y protones se mantienen unidos mediante la fuerza ____________ de enlace. Esta fuerza es enorme pero solo actúa a corta distancia.",
+      "opciones": [
+        "nuclear fuerte",
+        "nuclear débil",
+        "magnética",
+        "centrípeta"
+      ],
+      "correcta": 0,
+      "explicacion": "La fuerza nuclear fuerte es la encargada de mantener unidos los protones y neutrones en el núcleo atómico."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 15,
+      "pregunta": "15. Dos esferas, cada una con una carga de 3 × 10⁻⁶ C, están separadas a 20 mm. ¿Cuál es la fuerza de repulsión entre ellas?",
+      "opciones": [
+        "810 N",
+        "202.5 N",
+        "90 N",
+        "32.4 N"
+      ],
+      "correcta": 1,
+      "explicacion": "F = k · q₁ · q₂ / r² = (9×10⁹)(3×10⁻⁶)(3×10⁻⁶)/(0.02)² = 202.5 N."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 16,
+      "pregunta": "16. Por un conductor circula una corriente eléctrica, de modo que transporta una carga de 300 C, durante 20 segundos. ¿Cuál es la intensidad de corriente que pasa por el conductor?",
+      "opciones": [
+        "15 A",
+        "60 A",
+        "150 A",
+        "6000 A"
+      ],
+      "correcta": 0,
+      "explicacion": "I = Q / t = 300 C / 20 s = 15 A."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 17,
+      "pregunta": "17. Dos resistencias están conectadas en serie. Una vale 0.2 Ω, la otra es desconocida. La caída de potencial entre los extremos de la primera vale 0.68 V y entre los de la segunda vale 3.0 V. ¿Cuánto vale la segunda resistencia?",
+      "opciones": [
+        "1.136 Ω",
+        "0.88 Ω",
+        "0.045 Ω",
+        "22.06 Ω"
+      ],
+      "correcta": 1,
+      "explicacion": "I = V₁ / R₁ = 0.68 / 0.2 = 3.4 A. Luego R₂ = V₂ / I = 3.0 / 3.4 ≈ 0.88 Ω."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 18,
+      "pregunta": "18. Se muestra un circuito con 4 lámparas iguales. Si la corriente total es 9 A y el voltaje es 115 V, ¿cuál es la intensidad de corriente que pasa por cada lámpara y la resistencia de cada una de ellas?",
+      "opciones": [
+        "I = 2.25 A, R = 51.11 Ω",
+        "I = 9.0 A, R = 12.78 Ω",
+        "I = 36 A, R = 51.11 Ω",
+        "I = 0.5625 A, R = 204.44 Ω"
+      ],
+      "correcta": 0,
+      "explicacion": "En paralelo, la corriente se divide: I = 9 / 4 = 2.25 A. La resistencia de cada lámpara es R = V / I = 115 / 2.25 ≈ 51.11 Ω."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 19,
+      "pregunta": "19. El número atómico del elemento es el número de _______________ contenidos en el átomo.",
+      "opciones": [
+        "electrones",
+        "moléculas",
+        "protones",
+        "neutrones"
+      ],
+      "correcta": 2,
+      "explicacion": "El número atómico es el número de protones contenidos en el núcleo de un átomo."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 3",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase 3</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Electricidad</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Nos vemos en la Clase 4: Termodinámica</p>"
+    }
+  ],
+
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

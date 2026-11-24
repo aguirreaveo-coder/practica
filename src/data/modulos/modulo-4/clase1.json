@@ -1,0 +1,252 @@
+{
+  "titulo": "Clase 1: El Ser Social, Socialización y Cultura",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 4",
+      "html": "<p class='text-2xl text-slate-100'>Ser Social y Sociedad</p><p class='text-lg text-slate-200 mt-4'>Clase 1: El Ser Social, Socialización y Cultura</p>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "¿Qué es el ser social?",
+      "html": "<p class='text-lg'>El ser humano es, por naturaleza, un <strong>ser social</strong>. No podemos desarrollarnos plenamente en aislamiento; necesitamos de otros para sobrevivir, aprender, comunicarnos y construir nuestra identidad.</p><p class='text-lg'>A diferencia de otros seres vivos, los humanos creamos <strong>cultura</strong>: lenguajes, costumbres, normas, instituciones y formas de organización que se transmiten de generación en generación.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Lo biológico y lo social en el ser humano",
+      "html": "<p class='text-lg'>En nosotros coexisten dos dimensiones:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Dimensión biológica</p><p class='text-base'>Lo que heredamos genéticamente. Comer, dormir, respirar, reproducirnos.</p></div><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Dimensión social</p><p class='text-base'>Lo que aprendemos en sociedad. Celebrar una tradición, saludar, votar, ir a la escuela.</p></div></div><p class='text-lg'>La mayoría de nuestras acciones mezclan ambas, pero siempre podemos identificar qué parte es natural y qué parte es cultural.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "La socialización",
+      "html": "<p class='text-lg'>La <strong>socialización</strong> es el proceso por el cual aprendemos las normas, valores, costumbres y habilidades que necesitamos para vivir en sociedad.</p><p class='text-lg'>Gracias a ella nos integramos a la cultura de nuestro grupo. Comienza en la infancia y continúa toda la vida.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Agentes de socialización",
+      "html": "<p class='text-lg'>Los <strong>agentes de socialización</strong> son las personas, grupos e instituciones que nos transmiten la cultura:</p><ul class='text-lg'><li><strong>Familia:</strong> el primer y más importante agente.</li><li><strong>Escuela:</strong> transmite conocimientos y normas sociales.</li><li><strong>Amigos y pares:</strong> influyen en gustos, modas y comportamientos.</li><li><strong>Medios de comunicación:</strong> difunden modelos y valores.</li><li><strong>Trabajo:</strong> integra al individuo a la vida productiva.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "¿Qué es la cultura?",
+      "html": "<p class='text-lg'>La <strong>cultura</strong> es el conjunto de conocimientos, creencias, arte, moral, derecho, costumbres y hábitos que el ser humano adquiere como miembro de una sociedad.</p><p class='text-lg'>Incluye todo lo que aprendemos y compartimos: desde el idioma que hablamos hasta la manera en que saludamos, comemos o celebramos.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Prácticas sociales",
+      "html": "<p class='text-lg'>Las <strong>prácticas sociales</strong> son las acciones cotidianas que realizamos siguiendo las normas y costumbres de nuestra cultura.</p><p class='text-lg'>Ejemplos: saludar de mano, dar propina, formarse en una fila, celebrar un cumpleaños, pedir permiso antes de hablar.</p><p class='text-lg'>Son aprendidas, compartidas por un grupo y varían de una cultura a otra.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Subcultura",
+      "html": "<p class='text-lg'>Una <strong>subcultura</strong> es un grupo dentro de una sociedad que comparte creencias, valores o costumbres distintas a las de la cultura dominante, pero sin separarse completamente de ella.</p><p class='text-lg'>Ejemplos: comunidades indígenas, grupos urbanos (skaters, raperos), comunidades religiosas específicas.</p><p class='text-lg'>Las subculturas mantienen su identidad propia sin dejar de formar parte de la sociedad mayor.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Multiculturalidad e interculturalidad",
+      "html": "<p class='text-lg'>Dos conceptos relacionados pero distintos:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Multiculturalidad</p><p class='text-base'>Coexistencia de varias culturas en un mismo territorio, sin necesariamente interactuar entre sí.</p></div><div class='bg-cyan-500/10 border border-cyan-500/30 p-4 rounded-lg'><p class='font-semibold text-cyan-700 dark:text-cyan-300 mb-2 text-lg'>Interculturalidad</p><p class='text-base'>Relación respetuosa, dialógica y equitativa entre culturas distintas. Implica convivencia activa y aprendizaje mutuo.</p></div></div><p class='text-lg'>El multiculturalismo es un hecho; la interculturalidad es un ideal a construir.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Aculturación, transculturación y sincretismo",
+      "html": "<p class='text-lg'><strong>Aculturación:</strong> un grupo o individuo adopta elementos de otra cultura, generalmente dominante. Ejemplo: durante la conquista de México, los pueblos originarios fueron obligados a adoptar la lengua, la religión y muchas costumbres españolas.</p><p class='text-lg'><strong>Transculturación:</strong> dos o más culturas se influyen mutuamente y dan lugar a una nueva cultura híbrida. No es solo una cultura absorbiendo a otra, sino fusión.</p><p class='text-lg'><strong>Sincretismo:</strong> la fusión de elementos de distintas culturas en una nueva expresión. Ejemplo: la Virgen de Guadalupe, que combina elementos católicos y prehispánicos.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Etnocentrismo y relativismo cultural",
+      "html": "<p class='text-lg'>Dos posturas frente a la diversidad cultural:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Etnocentrismo</p><p class='text-base'>Tendencia a juzgar otras culturas desde los parámetros de la propia, considerándola superior. Es una barrera para la convivencia intercultural.</p></div><div class='bg-green-500/10 border border-green-500/30 p-4 rounded-lg'><p class='font-semibold text-green-700 dark:text-green-300 mb-2 text-lg'>Relativismo cultural</p><p class='text-base'>Postura que reconoce que cada cultura debe entenderse desde sus propios valores y contextos, sin juzgarla con criterios ajenos.</p></div></div><p class='text-lg'>Reconocer el relativismo cultural nos ayuda a combatir la discriminación y valorar la diversidad.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Globalización y cultura",
+      "html": "<p class='text-lg'>La <strong>globalización</strong> es el proceso de integración económica, política, social y cultural a nivel mundial.</p><p class='text-lg'>Ha acelerado el intercambio cultural, pero también ha generado tensiones: homogeneización de costumbres, pérdida de tradiciones locales y dominio de ciertos modelos culturales (generalmente occidentales).</p><p class='text-lg'>Frente a esto, muchos movimientos reivindican las identidades locales y la diversidad cultural.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Instituciones sociales",
+      "html": "<p class='text-lg'>Las <strong>instituciones sociales</strong> son organizaciones estables que regulan aspectos fundamentales de la vida en sociedad:</p><ul class='text-lg'><li><strong>Familia:</strong> reproducción y cuidado.</li><li><strong>Educación:</strong> transmisión de conocimientos y valores.</li><li><strong>Religión:</strong> creencias y prácticas espirituales.</li><li><strong>Gobierno:</strong> orden, leyes y administración.</li><li><strong>Economía:</strong> producción y distribución de bienes.</li></ul><p class='text-lg'>Las instituciones dan estructura y continuidad a la vida social.</p>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Repaso: preguntas de la clase",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white mb-4'>Repaso de la clase</p><p class='text-lg text-slate-700 dark:text-slate-200'>A continuación, una serie de preguntas para reforzar lo aprendido sobre el ser social, la socialización y la cultura.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de las siguientes situaciones corresponde a una característica social y no biológica?",
+      "opciones": [
+        "Celebrar el Día de Muertos con ofrendas y tradiciones familiares",
+        "Dormir ocho horas diarias para recuperar energías",
+        "Respirar para obtener el oxígeno necesario para vivir",
+        "Comer cuando el cuerpo siente la necesidad de alimento"
+      ],
+      "correcta": 0,
+      "explicacion": "El Día de Muertos es una celebración cultural aprendida en sociedad. Dormir, respirar y comer son necesidades biológicas universales."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de los siguientes es un ejemplo de característica biológica?",
+      "opciones": [
+        "Tener sed y beber agua para hidratarse el cuerpo",
+        "Ir a la iglesia los domingos con la familia",
+        "Aprender a leer y escribir en la escuela primaria",
+        "Usar un lenguaje específico según la región donde vives"
+      ],
+      "correcta": 0,
+      "explicacion": "La sed es una señal biológica natural. Las demás son prácticas aprendidas en sociedad."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuáles son los principales agentes de socialización en la vida de una persona?",
+      "opciones": [
+        "La familia y la escuela, que transmiten valores y normas",
+        "El gobierno y los partidos políticos que dirigen el país",
+        "Los bancos y las empresas que ofrecen servicios financieros",
+        "Los hospitales y las farmacias que atienden la salud pública"
+      ],
+      "correcta": 0,
+      "explicacion": "La familia y la escuela son los agentes de socialización primordiales: en ellos se aprenden los primeros valores, normas y conocimientos."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "Un joven que participa en un torneo deportivo de su barrio, se une a un grupo de estudio y asiste a ceremonias cívicas, está viviendo un proceso de:",
+      "opciones": [
+        "Socialización, porque se integra a la vida social de su comunidad",
+        "Aislamiento social, porque se aleja de sus amistades anteriores",
+        "Conflicto cultural, porque enfrenta costumbres diferentes entre grupos",
+        "Migración, porque se desplaza a nuevos espacios de convivencia"
+      ],
+      "correcta": 0,
+      "explicacion": "La socialización es el proceso mediante el cual el individuo se integra a la vida social a través de la participación en actividades colectivas."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cómo se le llama al conjunto de acciones cotidianas que realizamos siguiendo las normas y costumbres de nuestra cultura?",
+      "opciones": [
+        "Prácticas sociales, como saludar, celebrar y convivir con otros",
+        "Agentes sociales, que transmiten la cultura de generación en generación",
+        "Subcultura, que se distingue por sus costumbres propias",
+        "Contexto cultural, que rodea al individuo en su desarrollo"
+      ],
+      "correcta": 0,
+      "explicacion": "Las prácticas sociales son las acciones repetidas y compartidas que reflejan la cultura de un grupo: saludar, celebrar, convivir, etc."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "Cuando se estudia la forma de vida de una comunidad que se rige por sus propias costumbres y tradiciones, se hace referencia a:",
+      "opciones": [
+        "Subcultura, que mantiene su identidad dentro de la cultura dominante",
+        "Aculturación, que implica adoptar elementos de otra cultura",
+        "Transculturación, que fusiona dos culturas en una nueva expresión",
+        "Interculturalismo, que promueve el diálogo entre culturas distintas"
+      ],
+      "correcta": 0,
+      "explicacion": "Una subcultura es un grupo con costumbres propias que convive dentro de una cultura mayor sin dejar de pertenecer a ella."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "En una ciudad conviven personas de distintos países, religiones y costumbres, relacionándose con respeto y enriqueciéndose mutuamente. ¿Qué concepto describe esto?",
+      "opciones": [
+        "Interculturalidad, porque existe interacción respetuosa entre culturas",
+        "Multiculturalidad pasiva, porque solo coexisten sin relacionarse",
+        "Aculturación, porque una cultura adopta elementos de otra dominante",
+        "Etnocentrismo, porque una cultura se considera superior a las demás"
+      ],
+      "correcta": 0,
+      "explicacion": "La interculturalidad va más allá de la simple coexistencia: implica interacción respetuosa, diálogo y aprendizaje mutuo entre culturas."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es la diferencia principal entre multiculturalidad e interculturalidad?",
+      "opciones": [
+        "La multiculturalidad es coexistencia de culturas; la interculturalidad es interacción respetuosa entre ellas",
+        "La multiculturalidad implica convivencia activa; la interculturalidad es solo coexistencia pasiva de grupos",
+        "Ambos términos son sinónimos y se usan indistintamente en ciencias sociales",
+        "La interculturalidad solo aplica en Europa, y la multiculturalidad en América"
+      ],
+      "correcta": 0,
+      "explicacion": "La multiculturalidad es la presencia simultánea de varias culturas. La interculturalidad es la relación activa, respetuosa y equitativa entre ellas."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "Durante la época colonial en México, los pueblos originarios adoptaron la lengua, la religión y muchas costumbres españolas. ¿Qué fenómeno describe esto?",
+      "opciones": [
+        "Aculturación, porque un grupo adopta elementos de otra cultura dominante",
+        "Interculturalidad, porque las culturas dialogan y se enriquecen mutuamente",
+        "Multiculturalidad, porque varias culturas coexisten en el mismo territorio",
+        "Subcultura, porque un grupo mantiene sus costumbres dentro de otra cultura"
+      ],
+      "correcta": 0,
+      "explicacion": "La aculturación es el proceso por el cual un grupo adopta elementos de otra cultura, especialmente cuando existe una relación de dominación."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "Cuando una persona juzga otras culturas desde los valores de la suya propia, considerándola superior, está practicando:",
+      "opciones": [
+        "Etnocentrismo, que impide el diálogo respetuoso entre culturas",
+        "Interculturalidad, que promueve el respeto entre culturas distintas",
+        "Relativismo cultural, que comprende cada cultura en su contexto",
+        "Aculturación, que implica adoptar elementos de otra cultura"
+      ],
+      "correcta": 0,
+      "explicacion": "El etnocentrismo es la tendencia a juzgar otras culturas con los criterios de la propia, considerándola superior."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "La integración económica, política y cultural a nivel mundial que ha acelerado el intercambio entre países se conoce como:",
+      "opciones": [
+        "Globalización, que acelera los intercambios culturales y económicos",
+        "Multiculturalismo, que reconoce la diversidad cultural de los grupos",
+        "Etnocentrismo, que juzga otras culturas desde la propia",
+        "Subcultura, que mantiene costumbres propias dentro de otra cultura"
+      ],
+      "correcta": 0,
+      "explicacion": "La globalización es el proceso de integración mundial en múltiples dimensiones, incluyendo la cultural."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de las siguientes es una institución social?",
+      "opciones": [
+        "La familia, que regula la reproducción y el cuidado de sus miembros",
+        "Un equipo deportivo informal que se reúne los fines de semana",
+        "Un grupo de amigos que comparte gustos y actividades recreativas",
+        "Una banda musical que se presenta en eventos locales de la comunidad"
+      ],
+      "correcta": 0,
+      "explicacion": "La familia es una institución social porque es una organización estable que regula aspectos fundamentales de la vida en sociedad."
+    },
+
+    {
+      "tipo": "actividad",
+      "titulo": "Identifica tus agentes de socialización",
+      "instrucciones": "Responde en tu cuaderno:\n\nMenciona 3 agentes de socialización que hayan influido en tu vida (pueden ser personas, instituciones o grupos).\n\nPara cada uno, escribe:\n• ¿Qué aprendiste de él o ella?\n• ¿Cómo influyó en tus valores o costumbres?\n• ¿Crees que esa influencia fue positiva o negativa? ¿Por qué?\n\nReflexiona al menos un párrafo por cada agente.",
+      "pista": "Piensa en tu familia, maestros, amigos, equipos deportivos, grupos religiosos, redes sociales, etc."
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Analiza tu cultura",
+      "instrucciones": "Responde en tu cuaderno:\n\nPiensa en tu entorno cercano y responde:\n\n1. ¿Qué elementos de tu cultura son de origen indígena?\n2. ¿Qué elementos provienen de la cultura española?\n3. ¿Qué elementos provienen de otras culturas (africana, asiática, estadounidense, etc.)?\n4. Menciona un ejemplo de sincretismo cultural que observes en tu comunidad.\n\nReflexiona al menos un párrafo sobre cómo la mezcla cultural ha enriquecido a México.",
+      "pista": "Ejemplo: la comida mexicana combina ingredientes indígenas (maíz, chile, frijol) con ingredientes españoles (cerdo, trigo, arroz)."
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Reflexiona sobre la globalización",
+      "instrucciones": "Responde en tu cuaderno:\n\nReflexiona sobre cómo la globalización ha afectado tu vida cotidiana:\n\n1. Menciona 3 productos o costumbres extranjeras que usas o practicas.\n2. Menciona 3 tradiciones mexicanas que conservas o conoces.\n3. ¿Crees que la globalización amenaza las tradiciones locales? ¿Por qué?\n4. ¿Qué podrías hacer para mantener vivas tus tradiciones?\n\nEscribe tu reflexión en al menos un párrafo.",
+      "pista": "Ejemplo: usas plataformas digitales (extranjeras) pero celebras el Día de Muertos (mexicana). Ambas pueden coexistir."
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Analiza una institución social",
+      "instrucciones": "Responde en tu cuaderno:\n\nElige una institución social (familia, escuela, religión, gobierno, economía) y responde:\n\n1. ¿Cuál es su función principal en la sociedad?\n2. ¿Qué normas o reglas la rigen?\n3. ¿Cómo influye en tu vida diaria?\n4. ¿Qué cambiarías de esa institución y por qué?\n\nEscribe tu reflexión en al menos un párrafo.",
+      "pista": "Ejemplo: si eliges la escuela, su función es transmitir conocimientos y socializar; sus reglas incluyen horarios, uniformes y evaluación."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 1",
+      "html": "<p class='text-3xl text-slate-100 mt-8'>Fin de la Clase 1</p><p class='text-lg text-slate-200 mt-4'>El Ser Social, Socialización y Cultura</p><p class='text-base text-slate-300 mt-8'>Nos vemos en la Clase 2: Teorías Sociales y Estructura Social</p>"
+    }
+  ]
+}

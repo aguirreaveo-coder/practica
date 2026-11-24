@@ -1,0 +1,117 @@
+{
+  "titulo": "Clase Express: Matemáticas y representaciones del sistema natural",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 8",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Matemáticas y representaciones del sistema natural</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase Express — Versión comprimida</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Recorrido por los conceptos clave del módulo en una sola sesión</p>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "¿Qué es una magnitud?",
+      "html": "<p class='text-lg'>Una <strong>magnitud</strong> es toda propiedad o cualidad de un objeto o fenómeno que puede ser medida y expresada con un número y una unidad.</p><p class='text-lg'>Se clasifican en:</p><ul class='text-lg'><li><strong>Fundamentales:</strong> longitud, masa, tiempo, temperatura, corriente, cantidad de sustancia e intensidad luminosa.</li><li><strong>Derivadas:</strong> velocidad, fuerza, densidad, presión.</li><li><strong>Escalares:</strong> solo número y unidad (masa, tiempo).</li><li><strong>Vectoriales:</strong> magnitud, dirección y sentido (fuerza, velocidad).</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Escalas y escalas de temperatura",
+      "html": "<p class='text-lg'>Una <strong>escala</strong> es un conjunto ordenado de valores que se usa como referencia para medir una magnitud.</p><div class='grid grid-cols-1 md:grid-cols-3 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Celsius (°C)</p><p class='text-lg'>0 °C = congelación<br/>100 °C = ebullición</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Fahrenheit (°F)</p><p class='text-lg'>32 °F = congelación<br/>212 °F = ebullición</p></div><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Kelvin (K)</p><p class='text-lg'>273.15 K = congelación<br/>0 K = cero absoluto</p></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Conversiones de temperatura",
+      "html": "<p class='text-lg'>Fórmulas para convertir entre escalas:</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>°F = (°C × 9/5) + 32</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>°C = (°F − 32) × 5/9</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>K = °C + 273.15</span></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Calor y temperatura",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-orange-500/10 border border-orange-500/30 p-4 rounded-lg'><p class='font-semibold text-orange-700 dark:text-orange-300 mb-2 text-lg'>Calor</p><p class='text-lg'>Energía en tránsito que se transfiere por diferencia de temperatura. Se mide en joules o calorías.</p></div><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Temperatura</p><p class='text-lg'>Medida de la energía cinética promedio de las partículas. Se mide en °C, °F o K.</p></div></div><p class='text-lg'>El calor se transmite siempre de mayor a menor temperatura por conducción, convección o radiación.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Teoría cinética de los gases",
+      "html": "<p class='text-lg'>La <strong>teoría cinética</strong> explica el comportamiento macroscópico de los gases a partir del movimiento microscópico de sus partículas.</p><p class='text-lg'>Postulados principales:</p><ul class='text-lg'><li>Los gases están formados por partículas en movimiento constante y aleatorio.</li><li>Chocan entre sí y con las paredes del recipiente.</li><li>La temperatura es proporcional a la energía cinética promedio.</li><li>Entre partículas hay grandes espacios vacíos.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Ángulos",
+      "html": "<p class='text-lg'>Un <strong>ángulo</strong> es la abertura formada por dos semirrectas que parten de un mismo punto llamado vértice.</p><p class='text-lg'>Tipos según su medida:</p><ul class='text-lg'><li><strong>Agudo:</strong> menor a 90°.</li><li><strong>Recto:</strong> igual a 90°.</li><li><strong>Obtuso:</strong> mayor a 90° y menor a 180°.</li><li><strong>Llano:</strong> igual a 180°.</li></ul><div class='grid grid-cols-1 md:grid-cols-3 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Complementarios</p><p class='text-lg'>Suman 90°.</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Suplementarios</p><p class='text-lg'>Suman 180°.</p></div><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Opuestos por el vértice</p><p class='text-lg'>Son iguales entre sí.</p></div></div>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Presión y presión hidrostática",
+      "html": "<p class='text-lg'>La <strong>presión</strong> es la fuerza perpendicular por unidad de área.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>P = F / A</span></div><p class='text-lg'>La <strong>presión hidrostática</strong> es la que ejerce un fluido en reposo.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>P = ρ · g · h</span></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Densidad",
+      "html": "<p class='text-lg'>La <strong>densidad</strong> es la masa por unidad de volumen.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>ρ = m / V</span></div><p class='text-lg'>Se mide en kg/m³ o g/cm³. El agua tiene densidad de 1000 kg/m³.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Principios de Pascal y Arquímedes",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Pascal</p><p class='text-lg'>La presión aplicada a un fluido encerrado se transmite con la misma intensidad a todos los puntos.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>F₁/A₁ = F₂/A₂</span></div></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Arquímedes</p><p class='text-lg'>Todo cuerpo sumergido recibe un empuje igual al peso del fluido desplazado.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>E = ρ · g · V</span></div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Bernoulli y ecuación de continuidad",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-cyan-500/10 border border-cyan-500/30 p-4 rounded-lg'><p class='font-semibold text-cyan-700 dark:text-cyan-300 mb-2 text-lg'>Bernoulli</p><p class='text-lg'>Donde aumenta la velocidad de un fluido, disminuye la presión.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>P + ½ρv² + ρgh = cte</span></div></div><div class='bg-orange-500/10 border border-orange-500/30 p-4 rounded-lg'><p class='font-semibold text-orange-700 dark:text-orange-300 mb-2 text-lg'>Continuidad</p><p class='text-lg'>El caudal de un fluido incompresible se mantiene constante.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>A₁ · v₁ = A₂ · v₂</span></div></div></div>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Carga eléctrica y número atómico",
+      "html": "<p class='text-lg'>La <strong>carga eléctrica</strong> es una propiedad fundamental de la materia. En el átomo encontramos:</p><ul class='text-lg'><li><strong>Protones (p⁺):</strong> carga positiva, en el núcleo.</li><li><strong>Neutrones (n):</strong> sin carga, en el núcleo.</li><li><strong>Electrones (e⁻):</strong> carga negativa, alrededor del núcleo.</li></ul><p class='text-lg'>Un <strong>átomo neutro</strong> tiene igual número de protones que de electrones. El <strong>número atómico (Z)</strong> es el número de protones.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Ley de Coulomb",
+      "html": "<p class='text-lg'>La <strong>ley de Coulomb</strong> describe la fuerza entre dos cargas eléctricas.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>F = k · q₁ · q₂ / r²</span></div><p class='text-lg'>Donde k = 9 × 10⁹ N·m²/C², q son las cargas y r la distancia entre ellas.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Corriente eléctrica y ley de Ohm",
+      "html": "<p class='text-lg'>La <strong>corriente eléctrica</strong> es el flujo ordenado de cargas.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>I = Q / t</span></div><p class='text-lg'>La <strong>ley de Ohm</strong> relaciona voltaje, corriente y resistencia.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>V = I · R</span></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Circuitos en serie y paralelo",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Serie</p><p class='text-lg'>La corriente es la misma. El voltaje se reparte. Resistencia total: suma de resistencias.</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Paralelo</p><p class='text-lg'>El voltaje es el mismo. La corriente se reparte. Resistencia total: menor que la menor.</p></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Diferencia de potencial",
+      "html": "<p class='text-lg'>La <strong>diferencia de potencial</strong> entre dos puntos es el trabajo por unidad de carga positiva realizado por una fuerza eléctrica al mover una carga entre esos puntos.</p><p class='text-lg'>Se mide en volts (V). William Gilbert dio el nombre de electricidad a esta propiedad (del griego elektrón = ámbar).</p>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Dilatación térmica",
+      "html": "<p class='text-lg'>La <strong>dilatación térmica</strong> es el aumento de dimensiones de un cuerpo al aumentar su temperatura.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>ΔL = L₀ · α · ΔT</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>ΔA = A₀ · 2α · ΔT</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>ΔV = V₀ · 3α · ΔT</span></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Calor específico",
+      "html": "<p class='text-lg'>El <strong>calor específico</strong> es la cantidad de calor necesaria para elevar en 1 °C la temperatura de 1 gramo de una sustancia.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>Q = m · c · ΔT</span></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Leyes de la termodinámica",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Ley cero</p><p class='text-lg'>Si dos cuerpos están en equilibrio térmico con un tercero, los tres están en equilibrio entre sí.</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Primera ley</p><p class='text-lg'>La energía no se crea ni se destruye, solo se transforma.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>ΔU = Q − W</span></div></div><div class='bg-amber-500/10 border border-amber-500/30 p-4 rounded-lg'><p class='font-semibold text-amber-700 dark:text-amber-300 mb-2 text-lg'>Segunda ley</p><p class='text-lg'>El calor fluye de mayor a menor temperatura. La entropía de un sistema aislado siempre aumenta.</p></div><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Tercera ley</p><p class='text-lg'>Es imposible alcanzar el cero absoluto mediante un número finito de procesos.</p></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Procesos termodinámicos",
+      "html": "<p class='text-lg'>Un <strong>proceso termodinámico</strong> es un cambio en el estado de un sistema (presión, volumen, temperatura y energía interna).</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Isotérmico</p><p class='text-lg'>Temperatura constante. Todo el calor se convierte en trabajo.</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Isobárico</p><p class='text-lg'>Presión constante. El calor cambia temperatura y realiza trabajo.</p></div><div class='bg-amber-500/10 border border-amber-500/30 p-4 rounded-lg'><p class='font-semibold text-amber-700 dark:text-amber-300 mb-2 text-lg'>Isocórico</p><p class='text-lg'>Volumen constante. No hay trabajo, todo el calor cambia energía interna.</p></div><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Adiabático</p><p class='text-lg'>No hay intercambio de calor. El trabajo se hace a costa de la energía interna.</p></div></div>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase Express",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase Express</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Matemáticas y representaciones del sistema natural</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Ahora puedes practicar con el Cuestionario Final del módulo.</p>"
+    }
+  ],
+
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

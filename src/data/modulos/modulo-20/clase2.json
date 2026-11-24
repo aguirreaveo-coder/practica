@@ -1,0 +1,297 @@
+{
+  "titulo": "Clase 2: Ciencias naturales y medio ambiente",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 20: Optimización en sistemas naturales y sociales",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Ciencias naturales y medio ambiente</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 2: Ciencias naturales y medio ambiente</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Contaminación · Ciclo del agua · Ecosistemas · Efecto invernadero · Cambio climático · Energía · Legislación ambiental</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Contaminación ambiental",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>La contaminación ambiental ocurre cuando sustancias o agentes físicos alteran las condiciones naturales del entorno y perjudican a los seres vivos.</p><ul class='text-lg text-slate-700 dark:text-slate-200 mt-3'><li><strong>Atmosférica:</strong> deterioro de la calidad del aire.</li><li><strong>Hídrica:</strong> alteración de las características del agua.</li><li><strong>Del suelo:</strong> acumulación de residuos o sustancias dañinas.</li><li><strong>Acústica:</strong> exposición perjudicial al ruido.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fuentes y consecuencias de la contaminación",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Las fuentes de contaminación pueden ser domésticas, industriales, agrícolas y relacionadas con el transporte.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'>Entre sus consecuencias están la pérdida de biodiversidad, enfermedades, degradación del suelo, contaminación de fuentes de agua y alteraciones en los ecosistemas.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'>La prevención incluye reducir residuos, tratar aguas residuales y controlar las emisiones contaminantes.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "El ciclo del agua",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>El ciclo del agua es el movimiento continuo del agua entre la superficie terrestre y la atmósfera.</p><ul class='text-lg text-slate-700 dark:text-slate-200 mt-3'><li><strong>Evaporación:</strong> el agua líquida pasa a vapor.</li><li><strong>Condensación:</strong> el vapor se enfría y forma gotas.</li><li><strong>Precipitación:</strong> el agua cae como lluvia, nieve o granizo.</li><li><strong>Escorrentía:</strong> se desplaza sobre la superficie.</li><li><strong>Infiltración:</strong> penetra en el suelo.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Actividades humanas y ecosistemas",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Los procesos antropogénicos son aquellos que se originan por actividades humanas. Algunos ejemplos son la tala de bosques, la urbanización, la construcción de industrias y la descarga de aguas residuales.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'>Pueden ocasionar erosión, destrucción de hábitats, pérdida de especies y alteraciones en el equilibrio ecológico.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Efecto invernadero y gases atmosféricos",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>El efecto invernadero es un fenómeno natural mediante el cual ciertos gases de la atmósfera retienen parte del calor terrestre.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'>Entre los gases que contribuyen a este fenómeno están el dióxido de carbono, el metano, los óxidos de nitrógeno, el ozono y el vapor de agua.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'>El aumento de su concentración puede intensificar el calentamiento global.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Cambio climático",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>El cambio climático comprende modificaciones significativas y prolongadas en los patrones del clima. Puede relacionarse con procesos naturales y con actividades humanas.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'>Entre sus consecuencias se encuentran el aumento de la temperatura global, el deshielo de glaciares, las alteraciones en las precipitaciones y los cambios en los ecosistemas.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'>El calentamiento global es el incremento de la temperatura media del planeta.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Energía y sus formas",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>La energía es la capacidad de producir cambios o realizar trabajo. Se manifiesta de distintas formas:</p><ul class='text-lg text-slate-700 dark:text-slate-200 mt-3'><li><strong>Química:</strong> almacenada en las sustancias.</li><li><strong>Térmica:</strong> relacionada con la temperatura.</li><li><strong>Eléctrica:</strong> asociada a las cargas eléctricas.</li><li><strong>Mecánica:</strong> relacionada con el movimiento y la posición.</li><li><strong>Calorífica:</strong> energía transferida mediante calor.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Recursos naturales y fuentes de energía",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'><strong>Renovables:</strong> pueden regenerarse naturalmente, como el agua, los bosques y la radiación solar.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'><strong>No renovables:</strong> existen en cantidades limitadas o requieren periodos geológicos para formarse, como el petróleo, el carbón, el gas natural, el oro y la plata.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'>Las fuentes renovables de energía incluyen la solar, eólica, hidráulica, geotérmica y mareomotriz.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Legislación, educación y responsabilidad ambiental",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>La legislación ambiental establece principios y normas para proteger los ecosistemas, preservar la biodiversidad y prevenir el deterioro ambiental.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'>La educación ambiental desarrolla conocimientos, valores y conductas responsables. La protección del entorno requiere la participación de gobiernos, instituciones, empresas y ciudadanía.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'>La mitigación busca reducir las causas o consecuencias de los problemas ambientales.</p>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Actividad: Repaso de la Guía",
+      "instrucciones": "Responde las siguientes preguntas de tu Guía del Módulo 20. Conserva la numeración original de cada reactivo.",
+      "preguntas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        10,
+        11,
+        12,
+        15,
+        16,
+        17,
+        18,
+        27,
+        28,
+        29,
+        30,
+        32,
+        35,
+        36
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Revisión de la actividad",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Revisa tus respuestas e identifica los conceptos que necesitas reforzar.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'>Distingue los tipos de contaminación, las fases del ciclo del agua, los procesos antropogénicos, los gases de efecto invernadero y las fuentes de energía.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-3'>Recuerda que la protección ambiental requiere acciones individuales y colectivas.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "1. ¿Cuál de los siguientes productos debe regularse en primer lugar por ser el de mayor impacto en la contaminación del agua?",
+      "opciones": [
+        "Aceite para coches",
+        "Limpiador para pisos",
+        "Líquido para frenos",
+        "Líquido de transmisión"
+      ],
+      "correcta": 0,
+      "explicacion": "El aceite para coches puede contaminar grandes cantidades de agua cuando se desecha incorrectamente.",
+      "numero": 1
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "2. ¿Cuál opción presenta de manera ordenada cuatro de las fases del ciclo del agua?",
+      "opciones": [
+        "Condensación, evaporación, precipitación y escorrentía",
+        "Evaporación, condensación, precipitación y escorrentía",
+        "Precipitación, escorrentía, condensación y evaporación",
+        "Evaporación, precipitación, escorrentía y condensación"
+      ],
+      "correcta": 1,
+      "explicacion": "El orden presentado corresponde a evaporación, condensación, precipitación y escorrentía.",
+      "numero": 2
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "3. ¿A qué fase del ciclo del agua corresponde la variedad de rutas por las cuales se mueve el agua a través de la Tierra?",
+      "opciones": [
+        "Condensación",
+        "Escorrentía",
+        "Precipitación",
+        "Evaporación"
+      ],
+      "correcta": 1,
+      "explicacion": "La escorrentía es el desplazamiento del agua sobre la superficie terrestre.",
+      "numero": 3
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Pregunta 4",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Revisa la información complementaria en tu Guia.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "5. ¿Cuáles son los gases cuya presencia en la atmósfera contribuyen al efecto invernadero? 1. Dióxido de carbono. 2. Metano. 3. Nitrógeno. 4. Óxidos de nitrógeno. 5. Oxígeno. 6. Ozono. 7. Vapor de agua.",
+      "opciones": [
+        "1, 2, 4, 6 y 7",
+        "1, 3, 5 y 6",
+        "3, 4, 5, 6 y 7",
+        "2, 3, 4 y 5"
+      ],
+      "correcta": 0,
+      "explicacion": "El dióxido de carbono, el metano, los óxidos de nitrógeno, el ozono y el vapor de agua contribuyen al efecto invernadero.",
+      "numero": 5
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Pregunta 6",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Consultar en tu Guia. El enunciado contiene una palabra aparentemente incorrecta que impide identificar con certeza el proceso físico solicitado.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Pregunta 10",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Revisa la información complementaria en tu Guia.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "11. La capacidad corporal de un corredor para arrancar rápidamente, acelerar y mantener su ritmo a lo largo de una carrera corresponde al concepto físico de:",
+      "opciones": [
+        "Energía",
+        "Trabajo",
+        "Potencia",
+        "Impulso"
+      ],
+      "correcta": 2,
+      "explicacion": "La potencia expresa la rapidez con la que se realiza un trabajo o se transfiere energía.",
+      "numero": 11
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Pregunta 12",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Revisa la información complementaria en tu Guia.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "15. ¿Puede considerarse que el incremento de temperatura en lagos y ríos es un factor de contaminación?",
+      "opciones": [
+        "No, los cambios de temperatura en el agua son inapreciables para las especies acuáticas",
+        "Sí, ya que se favorece la acción de los contaminantes existentes en el agua",
+        "No, porque los ríos se autodepuran y benefician el equilibrio del ecosistema",
+        "Sí, debido a que genera problemas para la supervivencia de las especies acuáticas"
+      ],
+      "correcta": 3,
+      "explicacion": "Los cambios de temperatura pueden alterar las condiciones del ecosistema acuático y afectar la supervivencia de sus especies.",
+      "numero": 15
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "16. ¿Cuáles medidas pueden tomarse para aminorar la vulnerabilidad ante el cambio climático? 1. Disminuir las emisiones de gases de efecto invernadero. 2. Aumentar las superficies forestales. 3. Incrementar el consumo de energías no renovables. 4. Mejorar la eficiencia y diversificación energética. 5. Concientizar a las futuras generaciones.",
+      "opciones": [
+        "1, 2, 4 y 5",
+        "1, 3 y 5",
+        "2, 3 y 4",
+        "1, 2, 3 y 5"
+      ],
+      "correcta": 0,
+      "explicacion": "Reducir emisiones, aumentar las superficies forestales, mejorar la eficiencia energética y fomentar la conciencia ambiental son medidas de mitigación.",
+      "numero": 16
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "17. La Ley General del Equilibrio Ecológico y la Protección al Ambiente establece bases para: 1. Garantizar el derecho a un medio ambiente adecuado. 2. Definir principios de política ambiental. 3. Preservar, restaurar y mejorar el ambiente. 4. Identificar especies de flora y fauna en riesgo. 5. Preservar y proteger la biodiversidad.",
+      "opciones": [
+        "1, 2, 3, 4 y 5",
+        "2 y 4",
+        "1, 2, 3 y 5",
+        "1, 3 y 5"
+      ],
+      "correcta": 2,
+      "explicacion": "El reactivo reúne como bases de la ley el derecho a un ambiente adecuado, la política ambiental, la restauración y la protección de la biodiversidad.",
+      "numero": 17
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "18. La educación ambiental facilita la percepción integrada del ambiente. ¿Cuál aspecto NO corresponde a este proceso de formación?",
+      "opciones": [
+        "Competencias y conductas que garanticen la preservación de la vida",
+        "Asimilación de conocimientos que favorezcan conductas racionales",
+        "Formación de valores en favor del desarrollo social y ambiental",
+        "Dirigirse exclusivamente al ámbito escolar y a actividades académicas"
+      ],
+      "correcta": 3,
+      "explicacion": "La educación ambiental no se limita a las escuelas; también comprende la vida cotidiana y la participación de toda la sociedad.",
+      "numero": 18
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "27. ¿Cuáles de los siguientes son ejemplos de recursos naturales NO RENOVABLES? 1. Oro y plata. 2. Agua. 3. Petróleo. 4. Radiación solar.",
+      "opciones": [
+        "2 y 4",
+        "1 y 3",
+        "1 y 4",
+        "2 y 3"
+      ],
+      "correcta": 1,
+      "explicacion": "El oro, la plata y el petróleo son recursos no renovables porque existen en cantidades limitadas o requieren periodos geológicos para formarse.",
+      "numero": 27
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "28. Identifica la opción que muestra una causa y una consecuencia del efecto invernadero en la superficie de la Tierra.",
+      "opciones": [
+        "Baja concentración de CO₂ y sobrecalentamiento de la atmósfera",
+        "Alta concentración de CO₂ y sobrecalentamiento de la superficie terrestre",
+        "Alta concentración de hidrocarburos y sobrecalentamiento de la superficie terrestre",
+        "Baja concentración de hidrocarburos y sobrecalentamiento de la superficie terrestre"
+      ],
+      "correcta": 1,
+      "explicacion": "Una alta concentración de dióxido de carbono intensifica el efecto invernadero y contribuye al calentamiento de la superficie terrestre.",
+      "numero": 28
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Pregunta 29",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Revisa la información complementaria en tu Guia.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Pregunta 30",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Consultar en tu Guia. Este reactivo requiere un mapa conceptual que no está disponible en la presentación.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "32. Los problemas ambientales implican responsabilidades compartidas entre organismos, instituciones ambientalistas y ciudadanos. ¿Cuál enunciado explica mejor este concepto?",
+      "opciones": [
+        "La ciudadanía debe exigir que ya no se siga contaminando el medio ambiente",
+        "La contaminación debe ser resuelta únicamente por gobernantes y ecologistas",
+        "La población debe tomar conciencia de no seguir degradando el medio ambiente",
+        "La población en general es la responsable exclusiva de la degradación ambiental"
+      ],
+      "correcta": 2,
+      "explicacion": "La responsabilidad compartida implica que la población también debe participar y evitar acciones que deterioren el ambiente.",
+      "numero": 32
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Pregunta 35",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Revisa la información complementaria en tu Guia.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "36. La urbanización que ha ocurrido a las afueras de Ciudad Victoria por la construcción de nuevas colonias genera contaminantes de diversos tipos. ¿Cuál es el principal contaminante atmosférico relacionado con este factor de urbanización?",
+      "opciones": [
+        "Sulfato de amonio",
+        "Ozono",
+        "Dióxido de carbono",
+        "Fosfato de potasio"
+      ],
+      "correcta": 2,
+      "explicacion": "Las actividades de construcción y transporte asociadas a la expansión urbana generan emisiones de dióxido de carbono.",
+      "numero": 36
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 2",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Clase 2: Ciencias naturales y medio ambiente.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>En la siguiente clase revisaremos los contenidos de ciencias sociales y metodología de la investigación del Módulo 20.</p>"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

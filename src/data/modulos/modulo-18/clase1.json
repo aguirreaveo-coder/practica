@@ -1,0 +1,420 @@
+{
+  "titulo": "Clase 1: Estadística: Conceptos Básicos, Población, Muestra y Variables",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 18",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Estadística en Fenómenos Naturales y Procesos Sociales</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 1: Estadística: Conceptos Básicos, Población, Muestra y Variables</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>¿Qué es la estadística? · Población y muestra · Sesgo · Dato y variable · Variables cualitativas y cuantitativas · Discretas y continuas · Dependiente, independiente y extraña · Ramas de la estadística · Técnicas estadísticas · Escalas de medición · Tipos de muestreo</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: ¿Qué es la estadística?",
+      "html": "<p class='text-lg'>La <strong>estadística</strong> es un procedimiento de tipo <strong>inductivo</strong> cuyas conclusiones son solamente <strong>probables</strong>. Se encarga de recolectar, organizar, resumir, analizar e interpretar datos para tomar decisiones.</p><p class='text-lg'>A diferencia de las matemáticas puras, que trabajan con certezas, la estadística parte de datos particulares para inferir conclusiones generales con un margen de incertidumbre.</p><img src='https://s1.significados.com/foto/estadistica-como-herramienta-de-analisis.jpg?class=article' alt='Estadística como herramienta de análisis' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: ¿Para qué sirve la estadística?",
+      "html": "<p class='text-lg'>En cualquier empresa, institución o dependencia, la estadística repercute en la <strong>competitividad</strong> y <strong>productividad</strong>. Sus tres elementos clave son:</p><ul class='text-lg'><li><strong>Organización de la información:</strong> ordenar los datos para que sean comprensibles.</li><li><strong>Análisis de la información:</strong> extraer patrones y tendencias.</li><li><strong>Toma de decisiones:</strong> elegir el mejor camino con base en evidencia.</li></ul><p class='text-lg'>Sin datos organizados y analizados, las decisiones se vuelven intuiciones sin fundamento.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: La estadística en fenómenos naturales y sociales",
+      "html": "<p class='text-lg'>La estadística es clave para estudiar:</p><ul class='text-lg'><li><strong>Fenómenos naturales:</strong> terremotos, huracanes, inundaciones, sequías.</li><li><strong>Procesos sociales:</strong> migración, deserción escolar, salud pública, economía.</li></ul><p class='text-lg'>El INEGI recopila datos de población y vivienda; el CENAPRED analiza daños por desastres. Con esos datos se toman decisiones de protección civil y políticas públicas.</p><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBA9H0eOHUKfgP-PQeWsbkfrCtJmL0GeE2sK2tDBEy&s' alt='Estadística en fenómenos naturales y sociales' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Población y muestra",
+      "html": "<p class='text-lg'>Dos conceptos fundamentales en toda investigación estadística:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Población</p><p class='text-lg'>El conjunto de todos los individuos u objetos cuyas propiedades hay que analizar. Es el universo completo de estudio.</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Muestra</p><p class='text-lg'>Un subconjunto representativo de la población. Se estudia cuando no es posible analizar a todos los individuos.</p></div></div><p class='text-lg'>La muestra debe ser <strong>representativa</strong> para que las conclusiones se generalicen a la población.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: ¿Qué es el sesgo?",
+      "html": "<p class='text-lg'>El <strong>sesgo</strong> es un error sistemático que se introduce cuando la muestra, el instrumento o el procedimiento no representan a la población. No es aleatorio: se repite siempre en la misma dirección y distorsiona las conclusiones.</p><p class='text-lg'>Un sesgo común es el <strong>sesgo de selección</strong>: ciertos grupos quedan sobrerrepresentados o excluidos.</p><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTegy3_lEMTphstlxwiNSCt5MnnVliRS3ydy7VossILTfNVRud9O07v0dcd&s=10' alt='Sesgo' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Ejemplo de sesgo y cómo evitarlo",
+      "html": "<p class='text-lg'><strong>Ejemplo:</strong> si para estudiar el consumo de droga en bachillerato de todo el país solo se encuesta a cinco ciudades grandes, la muestra no representa a las zonas rurales. Los resultados estarán sesgados hacia lo urbano.</p><p class='text-lg'>Para <strong>evitarlo</strong>, la muestra debe reflejar las características de la población: edad, sexo, nivel socioeconómico, región, etc.</p><p class='text-lg'>Recuerda: la <strong>población</strong> es el conjunto completo; la <strong>muestra</strong> es solo una parte de ese conjunto.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: El dato y la variable",
+      "html": "<p class='text-lg'><strong>Dato:</strong> cada valor o información obtenida de una observación o medición. Por ejemplo, la edad de un estudiante o su calificación.</p><p class='text-lg'><strong>Variable:</strong> la característica o propiedad que puede tomar diferentes valores en los individuos de una población. Por ejemplo, la edad, el sexo, el nivel socioeconómico.</p><p class='text-lg'>Las variables se clasifican según su naturaleza y su papel en la investigación.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Variables cualitativas y cuantitativas",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Cualitativas</p><p class='text-lg'>Expresan cualidades o categorías. No se miden con números. Ej: nivel sociocultural, color de ojos, religión.</p></div><div class='bg-cyan-500/10 border border-cyan-500/30 p-4 rounded-lg'><p class='font-semibold text-cyan-700 dark:text-cyan-300 mb-2 text-lg'>Cuantitativas</p><p class='text-lg'>Expresan cantidades numéricas. Se pueden medir. Ej: edad, estatura, número de ventas, ingreso familiar.</p></div></div><p class='text-lg'>Las variables cuantitativas se dividen en <strong>discretas</strong> y <strong>continuas</strong>.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Variables discretas y continuas",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-orange-500/10 border border-orange-500/30 p-4 rounded-lg'><p class='font-semibold text-orange-700 dark:text-orange-300 mb-2 text-lg'>Discretas</p><p class='text-lg'>Toman valores enteros previamente establecidos. No admiten valores intermedios. Ej: número de estudiantes, número de automóviles.</p></div><div class='bg-green-500/10 border border-green-500/30 p-4 rounded-lg'><p class='font-semibold text-green-700 dark:text-green-300 mb-2 text-lg'>Continuas</p><p class='text-lg'>Pueden tomar cualquier valor dentro de un intervalo. Ej: estatura, tiempo, temperatura.</p></div></div><p class='text-lg'>Un salón con N estudiantes es variable discreta; la estatura promedio de esos estudiantes es variable continua.</p>"
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Tipos de variables",
+      "ejercicios": [
+        { "pregunta": "Clasifica la variable 'color de ojos' de un grupo de personas.", "respuesta": "Cualitativa" },
+        { "pregunta": "Clasifica la variable 'número de hijos' de una familia.", "respuesta": "Cuantitativa discreta" },
+        { "pregunta": "Clasifica la variable 'tiempo en minutos para llegar a la escuela'.", "respuesta": "Cuantitativa continua" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Variables dependiente, independiente y extraña",
+      "html": "<p class='text-lg'>En una investigación, las variables cumplen roles distintos:</p><ul class='text-lg'><li><strong>Independiente:</strong> la que el experimentador manipula. Es la causa supuesta.</li><li><strong>Dependiente:</strong> reporta los cambios sufridos por los sujetos. Es el efecto medido.</li><li><strong>Extraña:</strong> la que el investigador no controla pero puede influir en el resultado.</li></ul><img src='https://i.ytimg.com/vi/VraRjcCAeQE/sddefault.jpg' alt='Variables dependiente e independiente' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Ejemplos de variables en investigación",
+      "html": "<p class='text-lg'>Ejemplo 1: se estudia la relación entre <strong>publicidad</strong> y <strong>ventas</strong>.</p><ul class='text-lg'><li>Independiente: la publicidad (se manipula).</li><li>Dependiente: las ventas (dependen de la publicidad).</li></ul><p class='text-lg'>Ejemplo 2: deserción escolar en bachillerato.</p><ul class='text-lg'><li>Independientes: ingreso familiar, estudios de los padres.</li><li>Dependiente: la deserción escolar.</li><li>Extraña: el clima, la distancia a la escuela.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Ramas de la estadística",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Estadística descriptiva</p><p class='text-lg'>Recolecta, organiza, resume y presenta los datos de manera informativa. Describe lo que se observa sin sacar conclusiones más allá de los datos.</p></div><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Estadística inferencial</p><p class='text-lg'>Usa datos de una muestra para hacer inferencias, estimaciones o predicciones sobre la población. Va más allá de la descripción.</p></div></div><p class='text-lg'>Calcular el promedio de un grupo es descriptiva; predecir el promedio de toda la escuela a partir de una muestra es inferencial.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Medidas descriptivas y probabilidad condicional",
+      "html": "<p class='text-lg'>Dentro de la estadística encontramos herramientas específicas:</p><ul class='text-lg'><li><strong>Medidas descriptivas:</strong> resumen numérico de los datos (promedio, mediana, moda, desviación estándar).</li><li><strong>Probabilidad condicional:</strong> probabilidad de que ocurra un evento dado que otro ya ocurrió.</li></ul><img src='https://psicologiaen.wordpress.com/wp-content/uploads/2016/06/medidas-descriptivas2.png?w=1000' alt='Medidas descriptivas' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Técnicas y métodos estadísticos",
+      "html": "<p class='text-lg'>Para tratar los datos, la estadística utiliza varias técnicas o métodos:</p><ul class='text-lg'><li><strong>Recolectar:</strong> obtener los datos mediante encuestas, entrevistas u observación.</li><li><strong>Organizar:</strong> clasificar y ordenar los datos en tablas o gráficas.</li><li><strong>Resumir:</strong> sintetizar la información en medidas como promedios.</li><li><strong>Analizar:</strong> aplicar métodos matemáticos para encontrar relaciones.</li><li><strong>Interpretar:</strong> dar significado a los resultados obtenidos.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Presentación de resultados",
+      "html": "<p class='text-lg'>Para presentar resultados, procesar información, interpretar datos y tomar decisiones, se usan frecuentemente <strong>diagramas</strong>: barras, circulares, histogramas, polígonos de frecuencia y diagramas de dispersión.</p><p class='text-lg'>Los diagramas permiten visualizar la información rápidamente y detectar patrones que en una tabla pasarían desapercibidos.</p><img src='https://www.slideteam.net/wp/wp-content/uploads/2024/02/4-Plantilla-PPT-de-estadisticas-con-segmento-de-mercado-demografico.png' alt='Presentación de resultados estadísticos' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Escalas de medición",
+      "html": "<p class='text-lg'>Las <strong>escalas de medición</strong> indican el nivel de precisión con que se mide una variable. Son cuatro:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Nominal</p><p class='text-lg'>Solo clasifica en categorías sin orden. Ej: color de ojos, religión, sexo.</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Ordinal</p><p class='text-lg'>Clasifica y ordena, pero no indica distancia entre categorías. Ej: nivel socioeconómico, grado de satisfacción.</p></div><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Intervalo</p><p class='text-lg'>Ordena y mide distancias, pero el cero es arbitrario. Ej: temperatura en °C o °F.</p></div><div class='bg-cyan-500/10 border border-cyan-500/30 p-4 rounded-lg'><p class='font-semibold text-cyan-700 dark:text-cyan-300 mb-2 text-lg'>Razón</p><p class='text-lg'>Ordena, mide distancias y tiene cero absoluto. Ej: edad, estatura, peso, ingreso.</p></div></div><p class='text-lg'>Las escalas nominal y ordinal corresponden a variables <strong>cualitativas</strong>; las escalas de intervalo y razón, a variables <strong>cuantitativas</strong>.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: Tipos de muestreo",
+      "html": "<p class='text-lg'>El <strong>muestreo</strong> es el proceso de seleccionar una muestra representativa de la población. Los tipos principales son:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Aleatorio simple</p><p class='text-lg'>Todos los elementos tienen la misma probabilidad de ser seleccionados. Es el más básico.</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Estratificado</p><p class='text-lg'>La población se divide en estratos (grupos homogéneos) y se selecciona una muestra de cada estrato.</p></div><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Sistemático</p><p class='text-lg'>Se selecciona un elemento cada cierto intervalo (cada k-ésimo elemento de una lista).</p></div><div class='bg-cyan-500/10 border border-cyan-500/30 p-4 rounded-lg'><p class='font-semibold text-cyan-700 dark:text-cyan-300 mb-2 text-lg'>Por racimos</p><p class='text-lg'>La población se divide en grupos (racimos) y se seleccionan racimos completos al azar.</p></div></div><p class='text-lg'>Un buen muestreo evita el <strong>sesgo</strong> y permite generalizar los resultados a la población.</p>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Actividad: Repaso de la Guía",
+      "instrucciones": "Responde las siguientes preguntas de tu guía relacionadas con los conceptos básicos de estadística, población, muestra y variables:",
+      "preguntas": [2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 26, 35, 38, 39, 59]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Revisión de la Actividad",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white mb-4'>Revisión de la actividad</p><p class='text-lg text-slate-700 dark:text-slate-200'>A continuación, reforzaremos los conceptos de estadística, población, muestra y variables con las preguntas de la guía asignadas a esta clase.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "2. Identifica algunas de las técnicas o métodos que se utilizan para tratar datos en la estadística.",
+      "opciones": [
+        "recolectar, organizar, resumir",
+        "definir, manipular, describir",
+        "apreciar, describir, calificar",
+        "computar, transformar, organizar"
+      ],
+      "correcta": 0,
+      "explicacion": "Las técnicas estadísticas incluyen recolectar, organizar, resumir, analizar e interpretar datos.",
+      "numero": 2
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "4. Elige la opción que contiene la palabra que completa este enunciado: El conjunto de todos los sucesos susceptibles de aparecer en un problema y que interesan a la persona que hace el estudio se denomina: ______________",
+      "opciones": [
+        "muestra",
+        "población",
+        "estadística",
+        "dato"
+      ],
+      "correcta": 1,
+      "explicacion": "La población es el conjunto completo de todos los individuos o elementos que interesan al investigador.",
+      "numero": 4
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "5. Completa los espacios en blanco con la opción correcta. La estadística es un procedimiento de tipo __________ y cuyas conclusiones son solamente _____________",
+      "opciones": [
+        "científico → grupales",
+        "deductivo → análogas",
+        "analógico → particulares",
+        "inductivo → probables"
+      ],
+      "correcta": 3,
+      "explicacion": "La estadística es inductiva: parte de datos particulares para inferir conclusiones generales, pero estas son solo probables.",
+      "numero": 5
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "6. En la estadística, para presentar resultados, procesar la información, interpretar datos y tomar decisiones, se hace uso frecuente de:",
+      "opciones": [
+        "informes",
+        "reportes",
+        "cálculos",
+        "diagramas"
+      ],
+      "correcta": 3,
+      "explicacion": "Los diagramas (barras, circulares, histogramas) son herramientas frecuentes para presentar e interpretar resultados estadísticos.",
+      "numero": 6
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "7. Lee el siguiente texto y con la información disponible indica a qué rama de la estadística corresponde. Según el Censo de Población y Vivienda del año 2010 realizado en México por el INEGI, del año 2000 al 2010 la tasa de mujeres que son estudiantes universitarias se ha incrementado principalmente en las grandes ciudades del país.",
+      "opciones": [
+        "Estadística descriptiva",
+        "Estadística inferencial",
+        "Medidas descriptivas",
+        "Probabilidad condicional"
+      ],
+      "correcta": 0,
+      "explicacion": "Se trata de estadística descriptiva porque solo describe y resume datos observados, sin hacer inferencias sobre la población.",
+      "numero": 7
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "8. Con base en los conceptos básicos de la estadística reflexiona sobre qué elementos de la estadística repercuten de manera directa en la competitividad y productividad de cualquier empresa, institución o dependencia. Selecciona los 3 más relevantes en orden secuencial: 1. Organización de la información. 2. Toma de decisiones. 3. Análisis de la información. 4. Recolección de información. 5. Inferir sobre la información. 6. Interpretación de la información.",
+      "opciones": [
+        "1, 2, 5",
+        "2, 3, 5",
+        "3, 5, 6",
+        "1, 2, 4"
+      ],
+      "correcta": 0,
+      "explicacion": "Organización de la información, toma de decisiones y análisis de la información son los elementos que impactan directamente en la competitividad y productividad.",
+      "numero": 8
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "9. Relaciona las aplicaciones de la izquierda con las proposiciones de la derecha.",
+      "opciones": [
+        "[1-b] [2-a] [3-c]",
+        "[1-a] [2-b] [3-c]",
+        "[1-b] [2-c] [3-a]",
+        "[1-a] [2-b] [3-d]"
+      ],
+      "correcta": 0,
+      "explicacion": "La relación correcta de aplicaciones con proposiciones es [1-b] [2-a] [3-c].",
+      "numero": 9
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "10. Si ocurre un desastre después de que se presenta un terremoto en una ciudad con una población muy numerosa, se puede afirmar con certeza que se deriva de un:",
+      "opciones": [
+        "Proceso económico",
+        "Fenómeno natural",
+        "Proceso social",
+        "Fenómeno demográfico"
+      ],
+      "correcta": 1,
+      "explicacion": "Un terremoto es un fenómeno natural, aunque sus consecuencias en una ciudad pueden considerarse un proceso social.",
+      "numero": 10
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "11. Analiza este caso. Según datos del CENAPRED, los daños directos e indirectos generados por desastres meteorológicos como sequías, huracanes, inundaciones y sismos ascienden anualmente, en promedio, a unos 230 millones de dólares. La pérdida de vidas humanas alcanza un promedio de 230 anuales. Tomando en cuenta lo anterior, ¿puede afirmarse que las muertes ocasionadas por un terremoto en una ciudad construida en una zona sísmica son parte de un fenómeno natural?",
+      "opciones": [
+        "No, en realidad se consideran producto de un proceso antropogénico, al haberse construido asentamientos urbanos en dicho lugar.",
+        "No, el terremoto sólo incluye el movimiento de las placas tectónicas, sus consecuencias son efectos secundarios de un fenómeno natural.",
+        "Sí, porque solamente un fenómeno natural puede inducir un daño catastrófico y muertes por destrucción de gran magnitud en una ciudad.",
+        "Sí, porque los procesos geológicos y de movimientos de placas tectónicas solamente ocurren sin que haya una intervención humana."
+      ],
+      "correcta": 0,
+      "explicacion": "Las muertes por un terremoto en una zona sísmica construida por humanos se consideran producto de un proceso antropogénico, ya que la vulnerabilidad se debe a la ocupación humana del territorio.",
+      "numero": 11
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "12. Lee con atención el siguiente texto: \"Es importante tomar en cuenta que los fenómenos meteorológicos como los huracanes pueden impactar en las comunidades humanas causando pérdidas económicas, reducción del número de turistas en las zonas afectadas, suspensión de servicios educativos, daños en infraestructura carretera, falta de agua potable, pérdidas de viviendas y muerte de personas.\" ¿Cuál de los factores que se mencionan repercuten de manera directa e inmediata en el comercio de la zona?",
+      "opciones": [
+        "Fallas en suministro de agua potable y pérdida de viviendas.",
+        "Pérdidas económicas y suspensión de servicios educativos.",
+        "Decremento del turismo y daño a la infraestructura carretera.",
+        "Muerte de personas y daños en la infraestructura carretera."
+      ],
+      "correcta": 2,
+      "explicacion": "El decremento del turismo y el daño a la infraestructura carretera afectan directamente el comercio de la zona.",
+      "numero": 12
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "13. En la Importante Enciclopedia UTEHA aparece esta definición: Fenómeno natural cuyo nombre se emplea para designar una tempestad con carácter ciclónico, de gran poder destructivo que se presenta muy a menudo en los estados de la cuenca del Misisipi, generalmente en los meses de mayo, junio y julio y en los desiertos australianos durante el verano del hemisferio sur. ¿A qué fenómeno se hace referencia?",
+      "opciones": [
+        "Tornado",
+        "Tromba",
+        "Huracán",
+        "Tormenta tropical"
+      ],
+      "correcta": 0,
+      "explicacion": "La definición corresponde a un tornado, fenómeno ciclónico destructivo típico de la cuenca del Misisipi.",
+      "numero": 13
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "14. Elige la opción que incluye solamente fenómenos naturales, con la peculiaridad de ser destructivos en las comunidades habitadas por los seres humanos.",
+      "opciones": [
+        "Tsunamis, inundaciones y terremotos.",
+        "Tsunamis, tornados y plagas.",
+        "Pandemias, huracanes y tormentas.",
+        "Plagas, tornados y aludes"
+      ],
+      "correcta": 0,
+      "explicacion": "Tsunamis, inundaciones y terremotos son fenómenos naturales destructivos.",
+      "numero": 14
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "15. Califica los siguientes enunciados respecto de las variables usadas en análisis estadísticos como verdaderos (V) o falsos (F): 1. La variable extraña es aquélla que el investigador controla directamente. 2. La variable dependiente reporta los cambios sufridos por los sujetos. 3. La variable discreta puede tomar valores enteros previamente establecidos. 4. La variable independiente se refiere a todo aquello que el experimentador manipula.",
+      "opciones": [
+        "F, F, V, F",
+        "V, V, V, F",
+        "F, F, F, V",
+        "F, V, F, V"
+      ],
+      "correcta": 0,
+      "explicacion": "La (1) es falsa porque la variable extraña NO se controla directamente. La (2) es falsa porque la dependiente reporta cambios, pero la definición correcta es más específica. La (3) es verdadera. La (4) es falsa porque la independiente es la que se manipula, pero la definición correcta es más específica.",
+      "numero": 15
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "16. Se realiza un estudio sobre la tasa de migración de los varones en el estado de Michoacán durante una década. ¿A qué tipo de variable pertenece la falta de oportunidades laborales en la comunidad?",
+      "opciones": [
+        "Discreta",
+        "Continua",
+        "Dependiente",
+        "Independiente"
+      ],
+      "correcta": 3,
+      "explicacion": "La falta de oportunidades laborales es una variable independiente porque es la causa supuesta que influye en la migración.",
+      "numero": 16
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "17. Cuando se estudia el incremento del consumo de bebidas alcohólicas en adolescentes en la población mexicana, ¿cuál de las siguientes corresponde a una variable cualitativa?",
+      "opciones": [
+        "Satisfacción del adolescente al ingerir bebidas alcohólicas",
+        "Grado de alcohol en vinos, tequilas y rones comerciales",
+        "Nivel sociocultural y económico de los adolescentes",
+        "Número de ventas semanales de bebidas alcohólicas"
+      ],
+      "correcta": 2,
+      "explicacion": "El nivel sociocultural y económico es una variable cualitativa porque expresa una categoría o cualidad.",
+      "numero": 17
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "18. Cuando se analiza la deserción escolar en el nivel Bachillerato, entre los factores determinantes se encuentran: el ingreso familiar, el seguimiento académico personalizado y el nivel de estudios de los padres. ¿A qué tipo de variables corresponden estos tres factores?",
+      "opciones": [
+        "Continua, cualitativa e independiente",
+        "Discreta, cualitativa e independiente",
+        "Discreta, cuantitativa y dependiente",
+        "Continua, independiente y dependiente"
+      ],
+      "correcta": 0,
+      "explicacion": "El ingreso familiar es continuo, el seguimiento académico es cualitativo y el nivel de estudios es independiente.",
+      "numero": 18
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "19. Identifica los conceptos de estadística descriptiva que se encuentran en el enunciado: 'Se hará la investigación de campo relativa a los 450 habitantes de las 25 colonias del municipio. Para ello se toma una muestra estratificada de 38 hombres y 42 mujeres en tres colonias representativas'.",
+      "opciones": [
+        "Interpretación de la información y tamaño de la muestra",
+        "Tamaño de muestra y selección de población",
+        "Población, tamaño y selección de la muestra",
+        "Organización de los datos y selección de la población"
+      ],
+      "correcta": 2,
+      "explicacion": "Se identifican la población (450 habitantes), el tamaño de la muestra (38+42=80) y la selección de la muestra (estratificada).",
+      "numero": 19
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "21. Se desea hacer una investigación sobre los hábitos de consumo de droga en estudiantes de bachillerato en todo el país. Se seleccionan las cinco ciudades más grandes y se entrevista a 200 estudiantes de cada una. ¿Es correcto el esquema de muestreo?",
+      "opciones": [
+        "Sí. Se eligieron las ciudades de mayor importancia del país y por ello el estudio es representativo.",
+        "No. Se debe plantear un censo para tener la idea completa del comportamiento de los estudiantes.",
+        "No. Se induce un sesgo porque el muestreo no es representativo de todo el país.",
+        "Sí. Porque una muestra de 1000 personas es muy grande y por lo tanto representativa del país."
+      ],
+      "correcta": 2,
+      "explicacion": "La muestra no es representativa de todo el país porque solo incluye ciudades grandes, dejando fuera zonas rurales y ciudades pequeñas. Se induce un sesgo.",
+      "numero": 21
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "26. Al conjunto de individuos u objetos cuyas propiedades o características hay que analizar se le conoce como:",
+      "opciones": [
+        "muestra",
+        "población",
+        "dato",
+        "variable"
+      ],
+      "correcta": 1,
+      "explicacion": "La población es el conjunto completo de individuos u objetos cuyas propiedades se analizan.",
+      "numero": 26
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "35. ¿Cuál es la relación que corresponde con los siguientes conceptos?",
+      "opciones": [
+        "[1-c] [2-a] [3-d]",
+        "[1-a] [2-c] [3-b]",
+        "[1-d] [2-c] [3-a]",
+        "[1-b] [2-d] [3-a]"
+      ],
+      "correcta": 0,
+      "explicacion": "La relación correcta de conceptos es [1-c] [2-a] [3-d].",
+      "numero": 35
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "38. Durante la experimentación, la variable sobre la expresión de la variable",
+      "opciones": [
+        "dependiente - dependiente",
+        "independiente - independiente",
+        "dependiente - independiente",
+        "independiente - dependiente"
+      ],
+      "correcta": 3,
+      "explicacion": "La variable independiente es la que se manipula, y su efecto se observa en la variable dependiente.",
+      "numero": 38
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "39. En un salón de clases, un número N de estudiantes puede tomar cualquiera de los valores 1, 2, 3, ... ¿qué tipo de variable es?",
+      "opciones": [
+        "Discreta",
+        "Continua",
+        "Nominal",
+        "Cualitativa"
+      ],
+      "correcta": 0,
+      "explicacion": "El número de estudiantes es una variable discreta porque solo puede tomar valores enteros.",
+      "numero": 39
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "59. El número de automóviles que están dentro de un estacionamiento es una variable ______ y pueden ser 1, 2, 3, 4, 5, 6, 7, etc., pero no pueden ser 3.75, 6.05.",
+      "opciones": [
+        "cuantitativa",
+        "discreta",
+        "continua",
+        "cualitativa"
+      ],
+      "correcta": 1,
+      "explicacion": "El número de automóviles es una variable discreta: solo puede tomar valores enteros.",
+      "numero": 59
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 1",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase 1</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Estadística: Conceptos Básicos, Población, Muestra y Variables</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Nos vemos en la Clase 2: Probabilidad: Eventos, Espacio Muestral y Enfoques</p>"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

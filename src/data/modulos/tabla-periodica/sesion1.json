@@ -1,0 +1,219 @@
+{
+  "titulo": "Sesión 1: Introducción y estructura",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Tabla Periódica de los Elementos",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Sesión 1: Introducción y estructura</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Aprende cómo está organizada la tabla periódica</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>¿Qué es la tabla periódica? · Periodos y grupos · Número atómico y símbolo · Bloques s, p, d, f</p>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "¿Qué es la tabla periódica?",
+      "html": "<p>La <strong>tabla periódica</strong> es un arreglo ordenado de todos los elementos químicos conocidos, organizados según su <strong>número atómico</strong> (cantidad de protones) y sus propiedades químicas.</p><p>Fue propuesta por el químico ruso <strong>Dmitri Mendeléyev</strong> en 1869, quien ordenó los elementos por su masa atómica y predijo la existencia de elementos aún no descubiertos.</p><p>Hoy conocemos <strong>118 elementos</strong>, organizados en una tabla que facilita su estudio y comprensión.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "¿Por qué es tan importante?",
+      "html": "<p>La tabla periódica es la herramienta más importante de la química porque:</p><ul><li>Nos permite <strong>predecir propiedades</strong> de los elementos según su posición.</li><li>Organiza los elementos en <strong>familias con comportamientos similares</strong>.</li><li>Es la base para entender <strong>enlaces químicos</strong> y <strong>reacciones</strong>.</li><li>Ayuda a ubicar rápidamente cualquier elemento por su símbolo o número atómico.</li></ul>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Quién propuso la primera versión de la tabla periódica en 1869?",
+      "opciones": [
+        "Dmitri Mendeléyev",
+        "Isaac Newton",
+        "Marie Curie",
+        "Niels Bohr"
+      ],
+      "correcta": 0,
+      "explicacion": "Dmitri Mendeléyev propuso la tabla periódica en 1869, ordenando los elementos por masa atómica."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuántos elementos químicos se conocen actualmente?",
+      "opciones": [
+        "40",
+        "80",
+        "118",
+        "200"
+      ],
+      "correcta": 2,
+      "explicacion": "Actualmente se conocen 118 elementos químicos, organizados en la tabla periódica."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el criterio principal para ordenar los elementos en la tabla periódica actual?",
+      "opciones": [
+        "El color del elemento",
+        "Su número atómico (cantidad de protones)",
+        "El año de descubrimiento",
+        "Su masa en kilogramos"
+      ],
+      "correcta": 1,
+      "explicacion": "La tabla periódica moderna ordena los elementos por su número atómico (cantidad de protones)."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Periodos: las filas horizontales",
+      "html": "<p>La tabla periódica tiene <strong>7 periodos</strong> (filas horizontales), numerados del 1 al 7.</p><ul><li><strong>Periodo 1:</strong> solo 2 elementos (H y He).</li><li><strong>Periodo 2:</strong> 8 elementos (Li a Ne).</li><li><strong>Periodo 3:</strong> 8 elementos (Na a Ar).</li><li><strong>Periodo 4:</strong> 18 elementos (K a Kr).</li><li><strong>Periodo 5:</strong> 18 elementos (Rb a Xe).</li><li><strong>Periodo 6:</strong> 32 elementos (Cs a Rn).</li><li><strong>Periodo 7:</strong> 32 elementos (Fr a Og).</li></ul><p>El número del periodo indica el <strong>nivel de energía principal</strong> donde se ubican los electrones de valencia.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Grupos: las columnas verticales",
+      "html": "<p>La tabla periódica tiene <strong>18 grupos</strong> (columnas verticales), numerados del 1 al 18.</p><p>Los elementos de un mismo grupo comparten <strong>propiedades químicas similares</strong> porque tienen el <strong>mismo número de electrones en su última capa</strong>.</p><p>Algunos grupos tienen nombres especiales:</p><ul><li>Grupo 1: metales alcalinos</li><li>Grupo 2: metales alcalinotérreos</li><li>Grupos 3-12: metales de transición</li><li>Grupo 17: halógenos</li><li>Grupo 18: gases nobles</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Ejemplo: ubicando el oxígeno",
+      "html": "<p>Veamos cómo ubicar el <strong>oxígeno (O)</strong> en la tabla periódica:</p><ul><li><strong>Número atómico:</strong> 8 (tiene 8 protones).</li><li><strong>Periodo:</strong> 2 (segunda fila).</li><li><strong>Grupo:</strong> 16 (columna 16).</li><li><strong>Familia:</strong> no metales.</li><li><strong>Símbolo:</strong> O.</li></ul><p>Con estos datos podemos ubicar cualquier elemento de la tabla.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuántos periodos tiene la tabla periódica?",
+      "opciones": [
+        "3",
+        "5",
+        "7",
+        "18"
+      ],
+      "correcta": 2,
+      "explicacion": "La tabla periódica tiene 7 periodos (filas horizontales), numerados del 1 al 7."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuántos grupos (columnas) tiene la tabla periódica?",
+      "opciones": [
+        "7",
+        "12",
+        "18",
+        "20"
+      ],
+      "correcta": 2,
+      "explicacion": "La tabla periódica tiene 18 grupos (columnas verticales), numerados del 1 al 18."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "El oxígeno está en el periodo 2 y grupo 16. ¿Cuál es su número atómico?",
+      "opciones": [
+        "2",
+        "8",
+        "16",
+        "18"
+      ],
+      "correcta": 1,
+      "explicacion": "El oxígeno tiene número atómico 8 (8 protones en su núcleo)."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Número atómico (Z)",
+      "html": "<p>El <strong>número atómico (Z)</strong> es la cantidad de protones en el núcleo de un átomo. Es <strong>único</strong> para cada elemento y lo define.</p><p><strong>Regla clave:</strong> en un átomo neutro, el número atómico también indica la cantidad de electrones.</p><p><strong>Ejemplos:</strong></p><ul><li>Hidrógeno: Z = 1 → 1 protón y 1 electrón.</li><li>Carbono: Z = 6 → 6 protones y 6 electrones.</li><li>Oxígeno: Z = 8 → 8 protones y 8 electrones.</li><li>Oro: Z = 79 → 79 protones y 79 electrones.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Símbolo químico",
+      "html": "<p>El <strong>símbolo químico</strong> es una abreviatura de una o dos letras que identifica a cada elemento. Se escribe con <strong>primera letra mayúscula</strong> y, si tiene dos letras, <strong>la segunda en minúscula</strong>.</p><p><strong>Reglas:</strong></p><ul><li>Un elemento puede tener 1 o 2 letras: H, He, Li, C, Ca.</li><li>Algunos símbolos provienen del latín: Na (natrium = sodio), K (kalium = potasio), Fe (ferrum = hierro), Au (aurum = oro), Ag (argentum = plata).</li></ul><p><strong>Truco:</strong> memoriza los símbolos con nombres del latín porque son los más fáciles de confundir en el examen.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Qué significa el número atómico (Z) de un elemento?",
+      "opciones": [
+        "Su masa total",
+        "La cantidad de protones en el núcleo",
+        "El número de neutrones",
+        "Su peso en gramos"
+      ],
+      "correcta": 1,
+      "explicacion": "El número atómico es la cantidad de protones en el núcleo y es único para cada elemento."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el símbolo del sodio?",
+      "opciones": [
+        "So",
+        "S",
+        "Na",
+        "Sn"
+      ],
+      "correcta": 2,
+      "explicacion": "El sodio tiene el símbolo Na (del latín natrium). S es azufre, Sn es estaño."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "Un átomo neutro tiene 12 protones. ¿Cuántos electrones tiene?",
+      "opciones": [
+        "6",
+        "12",
+        "24",
+        "0"
+      ],
+      "correcta": 1,
+      "explicacion": "En un átomo neutro, el número de electrones es igual al número de protones. Si tiene 12 protones, tiene 12 electrones (magnesio)."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Los 4 bloques: s, p, d, f",
+      "html": "<p>La tabla periódica se divide en <strong>4 bloques</strong> según el tipo de subnivel donde se ubican los electrones de valencia:</p><ul><li><strong>Bloque s:</strong> grupos 1 y 2. Los electrones están en el subnivel <em>s</em>.</li><li><strong>Bloque p:</strong> grupos 13 al 18. Los electrones están en el subnivel <em>p</em>.</li><li><strong>Bloque d:</strong> grupos 3 al 12 (metales de transición). Los electrones están en el subnivel <em>d</em>.</li><li><strong>Bloque f:</strong> los actínidos y lantánidos. Los electrones están en el subnivel <em>f</em>.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Los bloques y los electrones",
+      "html": "<p>Recordemos los subniveles de energía:</p><ul><li><strong>s:</strong> máximo 2 electrones.</li><li><strong>p:</strong> máximo 6 electrones.</li><li><strong>d:</strong> máximo 10 electrones.</li><li><strong>f:</strong> máximo 14 electrones.</li></ul><p><strong>Ejemplos:</strong></p><ul><li>Hidrógeno (H): está en el bloque s (grupo 1, periodo 1).</li><li>Carbono (C): bloque p (grupo 14, periodo 2).</li><li>Hierro (Fe): bloque d (grupo 8, periodo 4).</li><li>Uranio (U): bloque f.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "¿Cómo usar los bloques?",
+      "html": "<p>Conocer los bloques nos ayuda a:</p><ul><li><strong>Predecir la configuración electrónica</strong> de un elemento.</li><li>Entender por qué los elementos de un bloque tienen propiedades similares.</li><li>Saber cuántos electrones de valencia tiene un elemento según su grupo.</li></ul><p><strong>Ejemplos prácticos:</strong></p><ul><li>Los metales alcalinos (grupo 1, bloque s) tienen <strong>1 electrón de valencia</strong>.</li><li>Los gases nobles (grupo 18, bloque p) tienen <strong>8 electrones de valencia</strong> (excepto He que tiene 2).</li></ul>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿En qué bloque se ubican los metales de transición?",
+      "opciones": [
+        "Bloque s",
+        "Bloque p",
+        "Bloque d",
+        "Bloque f"
+      ],
+      "correcta": 2,
+      "explicacion": "Los metales de transición (grupos 3-12) están en el bloque d."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuántos electrones puede alojar como máximo el subnivel p?",
+      "opciones": [
+        "2",
+        "6",
+        "10",
+        "14"
+      ],
+      "correcta": 1,
+      "explicacion": "El subnivel p puede alojar hasta 6 electrones. El s aloja 2, el d 10 y el f 14."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "Los gases nobles (grupo 18) están en el bloque:",
+      "opciones": [
+        "s",
+        "p",
+        "d",
+        "f"
+      ],
+      "correcta": 1,
+      "explicacion": "Los gases nobles están en el bloque p porque sus electrones de valencia ocupan ese subnivel."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Resumen de la Sesión 1",
+      "html": "<p>Repasemos lo más importante:</p><ul><li>La <strong>tabla periódica</strong> organiza los 118 elementos por número atómico.</li><li>Tiene <strong>7 periodos</strong> (filas) y <strong>18 grupos</strong> (columnas).</li><li>El <strong>número atómico (Z)</strong> = protones = define al elemento.</li><li>El <strong>símbolo químico</strong> identifica cada elemento (primera letra mayúscula).</li><li>Los <strong>4 bloques</strong> (s, p, d, f) agrupan a los elementos según su subnivel de energía.</li></ul><p>En la siguiente sesión veremos los <strong>grupos y familias</strong> con sus nombres y características.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Sesión 1",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Sesión 1</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Introducción y estructura</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Nos vemos en la Sesión 2: Grupos y familias</p>"
+    }
+  ]
+}

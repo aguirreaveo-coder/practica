@@ -1,0 +1,111 @@
+{
+  "titulo": "Clase Express: Transformaciones en el Mundo Contemporáneo",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 11",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Transformaciones en el Mundo Contemporáneo</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase Express — Síntesis de las Clases 1, 2 y 3</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Crisis económica · Guerra Fría · Revoluciones · Medio Oriente · Globalización · Medios y Tecnología</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Crisis económica y su impacto",
+      "html": "<p class='text-lg'>Una <strong>crisis económica</strong> es una fase de contracción profunda de la actividad económica. Se manifiesta con desempleo, inflación, caída de la producción y reducción del consumo.</p><p class='text-lg'>La crisis de <strong>2008</strong> en Estados Unidos estuvo vinculada a la compra de <strong>hipotecas subprime</strong>, préstamos de alto riesgo que desencadenaron un colapso financiero mundial.</p><p class='text-lg'>España fue una de las economías más afectadas por la caída de la construcción, las restricciones crediticias y el aumento del precio del petróleo.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Deuda y energía",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Deuda interna</p><p class='text-lg'>La contraen ciudadanos o instituciones del mismo país y se paga en moneda nacional.</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Deuda externa</p><p class='text-lg'>Se contrae con acreedores de otros países o instituciones internacionales.</p></div><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Deuda pública</p><p class='text-lg'>Es la deuda del Estado para financiar actividades y servicios.</p></div><div class='bg-cyan-500/10 border border-cyan-500/30 p-4 rounded-lg'><p class='font-semibold text-cyan-700 dark:text-cyan-300 mb-2 text-lg'>Deuda privada</p><p class='text-lg'>Lo contraen empresas o personas en los mercados financieros.</p></div></div><p class='text-lg'>La <strong>crisis energética</strong> ocurre cuando hay escasez de petróleo o gas y suben los precios, afectando la economía y la vida cotidiana.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Organismos internacionales",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-3 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>ONU</p><p class='text-lg'>Promueve la paz, la cooperación y la solución pacífica de conflictos.</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>OTAN</p><p class='text-lg'>Alianza militar que busca la seguridad colectiva y la estabilidad regional.</p></div><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>UE</p><p class='text-lg'>Integra políticamente y económicamente a los países europeos.</p></div></div><p class='text-lg'>También destacan la <strong>CEPAL</strong>, el <strong>BID</strong>, el <strong>FMI</strong> y la <strong>OEA</strong>, instituciones que apoyan el desarrollo, la cooperación y la organización regional.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: España y el régimen franquista",
+      "html": "<p class='text-lg'>Tras la <strong>Guerra Civil Española</strong>, Francisco Franco impuso un régimen dictatorial que se mantuvo desde <strong>1939</strong> hasta <strong>1975</strong>.</p><p class='text-lg'>El franquismo fue un régimen autoritario, con censura, partido único y represión política.</p><p class='text-lg'>Con la muerte de Franco comenzó la <strong>transición hacia la democracia</strong>, lo que abrió una nueva etapa en la historia del país.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Fuentes históricas y análisis",
+      "html": "<p class='text-lg'>El análisis de fuentes consiste en comparar documentos para identificar:</p><ul class='text-lg'><li><strong>Coincidencias:</strong> elementos que se repiten.</li><li><strong>Contradicciones:</strong> datos que se oponen entre sí.</li><li><strong>Incompatibilidades:</strong> hechos que no pueden ser verdaderos al mismo tiempo.</li></ul><p class='text-lg'>Esto sirve para valorar la confiabilidad de la información y para comprender mejor los procesos históricos.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: China y la Guerra Civil",
+      "html": "<p class='text-lg'>La <strong>Guerra Civil China</strong> enfrentó al <strong>Kuomintang</strong> y al <strong>Partido Comunista Chino</strong> entre <strong>1925 y 1949</strong>.</p><p class='text-lg'>Tras la victoria comunista, se proclamó la <strong>República Popular China</strong> el <strong>1 de octubre de 1949</strong>, bajo la dirección de <strong>Mao Zedong</strong>.</p><p class='text-lg'>El triunfo del comunismo en China modificó el equilibrio mundial y tuvo influencia en la Guerra Fría.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Revolución Cubana y EE. UU.",
+      "html": "<p class='text-lg'>La <strong>Revolución Cubana</strong> triunfó el <strong>1 de enero de 1959</strong> con la caída del régimen de <strong>Fulgencio Batista</strong>.</p><p class='text-lg'>La intervención de <strong>Estados Unidos</strong> en Cuba tuvo raíces históricas en la era de la expansión imperial y en la relación política con la isla.</p><p class='text-lg'>Cuba se convirtió en un eje central del conflicto ideológico de la Guerra Fría entre el capitalismo y el comunismo.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: Crisis de los misiles",
+      "html": "<p class='text-lg'>La <strong>crisis de los misiles</strong> fue una de las mayores tensiones de la Guerra Fría, cuando la URSS instaló misiles en Cuba.</p><p class='text-lg'>El conflicto casi derivó en una guerra nuclear, pero se resolvió mediante negociación diplomática.</p><p class='text-lg'>Este episodio demostró el riesgo que suponía la confrontación directo entre las dos superpotencias.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 9: Vietnam y Ho Chi Minh",
+      "html": "<p class='text-lg'><strong>Ho Chi Minh</strong> fue una figura central del nacionalismo vietnamita y de la lucha contra la dominación extranjera.</p><p class='text-lg'>La guerra de Vietnam se convirtió en un conflicto ideológico y militar en el marco de la Guerra Fría.</p><p class='text-lg'>Vietnam del Norte recibió apoyo soviético y vietnamita del Sur apoyo estadounidense, lo que llevó a una guerra prolongada y devastadora.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 10: Revolución Sandinista",
+      "html": "<p class='text-lg'>La <strong>Revolución Sandinista</strong> en Nicaragua fue una lucha contra la dictadura de la familia Somoza.</p><p class='text-lg'>El Frente Sandinista de Liberación Nacional tomó el poder y buscó transformar la política y la sociedad del país.</p><p class='text-lg'>Este movimiento refleja cómo la lucha revolucionaria y la tensión de la Guerra Fría influyeron en América Latina.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 11: Medio Oriente y líderes regionales",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-cyan-500/10 border border-cyan-500/30 p-4 rounded-lg'><p class='font-semibold text-cyan-700 dark:text-cyan-300 mb-2 text-lg'>Gamal Abdel Nasser</p><p class='text-lg'>Promovió la unidad y la independencia de los países árabes.</p></div><div class='bg-orange-500/10 border border-orange-500/30 p-4 rounded-lg'><p class='font-semibold text-orange-700 dark:text-orange-300 mb-2 text-lg'>Israel y Palestina</p><p class='text-lg'>Conflicto histórico de identidad, territorio y soberanía.</p></div></div><p class='text-lg'>La región sufrió guerras, tensiones diplomáticas y disputas territoriales que marcaron el equilibrio político del siglo XX.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 12: Guerra de los Seis Días y terrorismo",
+      "html": "<p class='text-lg'>La <strong>Guerra de los Seis Días</strong> comenzó el <strong>5 de junio de 1967</strong> cuando Israel atacó a Egipto, Jordania y Siria.</p><p class='text-lg'>El conflicto cambió el mapa político del Medio Oriente y reforzó la tensión entre naciones árabes e israelíes.</p><p class='text-lg'>El <strong>terrorismo</strong> también se relacionó con la violencia política, la rivalidad territorial y los conflictos de identidad nacional.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 13: Globalización y medios de comunicación",
+      "html": "<p class='text-lg'>La <strong>globalización</strong> aumentó la circulación de información, bienes, capitales y culturas entre países.</p><p class='text-lg'>Los <strong>medios de comunicación</strong> cumplen funciones de informar, interpretar y formar la opinión pública.</p><p class='text-lg'>En un mundo globalizado, la información se difunde con rapidez y se vuelve clave para la vida política, económica y social.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 14: World Wide Web y revolución informática",
+      "html": "<p class='text-lg'>La <strong>World Wide Web</strong> fue creada por <strong>Tim Berners-Lee</strong> y <strong>Robert Cailliau</strong> y transformó la forma de compartir información.</p><p class='text-lg'>La <strong>revolución informática</strong> representa el gran desarrollo tecnológico de finales del siglo XX, con internet, computadoras y medios digitales.</p><p class='text-lg'>Esto permitió la expansión de la educación, la comunicación y la búsqueda de información a escala mundial.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 15: Estado de Israel y el conflicto regional",
+      "html": "<p class='text-lg'>El Estado de Israel fue proclamado en <strong>1948</strong>, bajo la dirección de <strong>David Ben Gurión</strong>.</p><p class='text-lg'>Su creación tuvo consecuencias políticas, sociales y territoriales profundas para la región del Medio Oriente.</p><p class='text-lg'>El conflicto árabe-israelí se desarrolló con guerras, tratados, tensiones diplomáticas y disputas por la soberanía y la identidad.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 16: Consecuencias de la Revolución Cubana",
+      "html": "<p class='text-lg'>La victoria de los comunistas en Cuba tuvo consecuencias políticas relevantes para América Latina.</p><p class='text-lg'>Uno de sus efectos fue el <strong>incremento de movimientos revolucionarios comunistas</strong> en el continente.</p><p class='text-lg'>También reforzó la presencia política y militar de la Unión Soviética en la región y agudizó la rivalidad con Estados Unidos.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 17: Guerra preventiva y conflictos contemporáneos",
+      "html": "<p class='text-lg'>La <strong>guerra preventiva</strong> es una estrategia defensiva que se plantea antes de que ocurra un ataque, con base en una amenaza potencial.</p><p class='text-lg'>En el contexto contemporáneo, los conflictos se relacionan con la violencia política, la crisis económica, la desigualdad, la migración y el terrorismo.</p><p class='text-lg'>Estos problemas muestran que el mundo actual está marcado por tensiones territoriales, ideológicas y sociales.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 18: Migración e identidad",
+      "html": "<p class='text-lg'>La <strong>inmigración</strong> implica desplazamientos de personas que cambian de residencia por motivos económicos, políticos o sociales.</p><p class='text-lg'>La globalización y la crisis económica han impulsado nuevas corrientes migratorias y desafíos de integración.</p><p class='text-lg'>La diversidad cultural y la convivencia en la sociedad contemporánea tienen un fuerte impacto en la identidad colectiva.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Síntesis final",
+      "html": "<p class='text-lg'>Las transformaciones del mundo contemporáneo están marcadas por <strong>crisis económicas</strong>, <strong>guerra fría</strong>, <strong>revoluciones</strong>, <strong>conflictos regionales</strong>, <strong>globalización</strong> y <strong>tecnología</strong>.</p><p class='text-lg'>La historia reciente muestra cómo los cambios políticos, económicos y culturales se conectan entre sí y redefinen la vida humana en el siglo XX y XXI.</p><p class='text-lg'>Comprender estos procesos ayuda a interpretar el mundo actual con mayor análisis crítico y conciencia histórica.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase Express",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase Express</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Transformaciones en el Mundo Contemporáneo</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Hemos concluido la síntesis de las Clases 1, 2 y 3. Puedes continuar con el repaso final y el cuestionario del módulo.</p>"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

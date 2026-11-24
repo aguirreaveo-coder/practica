@@ -1,0 +1,426 @@
+{
+  "titulo": "Sesión 2: Biología",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Ciencias Experimentales",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Sesión 2: Biología</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-2'>4 horas · 8 temas en clase + 2 de estudio en casa</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Biomoléculas · Célula y organelos · Fotosíntesis y respiración · Mitosis y meiosis · Genética · Evolución · Relaciones interespecíficas · Ecosistemas</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: ¿Qué son las biomoléculas?",
+      "html": "<p class='text-lg'>Las <strong>biomoléculas</strong> son las moléculas que forman a los seres vivos. Se clasifican en cuatro grupos según su composición y función:</p><div class='mt-2 grid grid-cols-1 md:grid-cols-2 gap-2 my-4'><div class='mt-2 blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Carbohidratos</p><div class='text-base'>Fuente de energía inmediata. Ejemplos: glucosa, almidón y celulosa.</div></div><div class='mt-2 emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Lípidos</p><div class='text-base'>Reserva energética a largo plazo. Ejemplos: grasas, aceites y colesterol.</div></div><div class='mt-2 purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Proteínas</p><div class='text-base'>Forman estructuras y regulan procesos vitales. Ejemplos: enzimas y hemoglobina.</div></div><div class='mt-2 amber-500/10 border border-amber-500/30 p-4 rounded-lg'><p class='font-semibold text-amber-700 dark:text-amber-300 mb-2 text-lg'>Ácidos nucleicos</p><div class='text-base'>Almacenan y transmiten la información genética. Ejemplos: ADN y ARN.</div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Carbohidratos y lípidos",
+      "html": "<div class='mt-2 grid grid-cols-1 md:grid-cols-2 gap-2 my-4'><div class='mt-2 blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Carbohidratos</p><div class='text-base'>Son la fuente de <strong>energía inmediata</strong>. <ul class=\"mt-2 list-disc list-inside\"><li>Monosacáridos: glucosa y fructosa.</li><li>Polisacáridos: almidón, celulosa y glucógeno.</li></ul></div></div><div class='mt-2 emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Lípidos</p><div class='text-base'>Son la fuente de <strong>energía de reserva</strong>. Incluyen grasas, aceites y colesterol. El colesterol es un lípido, no un carbohidrato.</div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Proteínas y ácidos nucleicos",
+      "html": "<div class='mt-2 grid grid-cols-1 md:grid-cols-2 gap-2 my-4'><div class='mt-2 purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Proteínas</p><div class='text-base'>Forman estructuras celulares y dirigen procesos vitales. Ejemplos: enzimas, hemoglobina y queratina.</div></div><div class='mt-2 amber-500/10 border border-amber-500/30 p-4 rounded-lg'><p class='font-semibold text-amber-700 dark:text-amber-300 mb-2 text-lg'>Ácidos nucleicos</p><div class='text-base'>Almacenan y transmiten la <strong>información genética</strong>. Ejemplos: ADN y ARN.</div></div></div><div class='mt-2 p-4 rounded-lg bg-slate-500/10 border border-slate-500/30 text-lg'><strong>Resumen:</strong> carbohidratos = energía inmediata; lípidos = reserva; proteínas = construcción y regulación; ácidos nucleicos = herencia.</div>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Qué biomolécula es la fuente de energía inmediata para las células?",
+      "opciones": [
+        "Lípidos",
+        "Proteínas",
+        "Carbohidratos",
+        "Ácidos nucleicos"
+      ],
+      "correcta": 2,
+      "explicacion": "Los carbohidratos, especialmente la glucosa, son la fuente de energía inmediata que las células usan para sus funciones."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "El ADN y el ARN son ejemplos de:",
+      "opciones": [
+        "Lípidos",
+        "Carbohidratos",
+        "Proteínas",
+        "Ácidos nucleicos"
+      ],
+      "correcta": 3,
+      "explicacion": "El ADN y el ARN son ácidos nucleicos, encargados de almacenar y transmitir la información genética."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de los siguientes corresponde a un monosacárido?",
+      "opciones": [
+        "Almidón",
+        "Celulosa",
+        "Colesterol",
+        "Glucosa"
+      ],
+      "correcta": 3,
+      "explicacion": "La glucosa es un azúcar simple (monosacárido). El almidón y la celulosa son polisacáridos; el colesterol es un lípido."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: ¿Qué es la célula?",
+      "html": "<p class='text-lg'>La <strong>célula</strong> es la unidad básica de la vida. Todos los seres vivos están formados por células.</p><p class='text-lg'>Se dividen en dos grandes tipos:</p><ul class='text-lg'><li><strong>Procariotas:</strong> no tienen núcleo verdadero ni organelos membranosos. Ejemplo: bacterias.</li><li><strong>Eucariotas:</strong> tienen núcleo verdadero y organelos membranosos. Ejemplo: animales, plantas, hongos y protistas.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Organelos principales",
+      "html": "<table class='w-full text-lg text-left my-4 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-2'>Organelo</th><th class='py-2'>Función</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-2'>Membrana celular</td><td class='py-2'>Regula entrada y salida de sustancias</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Núcleo</td><td class='py-2'>Contiene el ADN. Centro de control</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Mitocondria</td><td class='py-2'>Respiración celular. Produce ATP (energía)</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Ribosoma</td><td class='py-2'>Síntesis de proteínas</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Cloroplasto</td><td class='py-2'>Fotosíntesis (SOLO células vegetales)</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Lisosoma</td><td class='py-2'>Digestión y degradación celular</td></tr><tr><td class='py-2'>Pared celular</td><td class='py-2'>Da rigidez (vegetales, hongos, bacterias)</td></tr></tbody></table>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Procariotas vs eucariotas",
+      "html": "<p class='text-lg'>La diferencia principal está en la presencia de un núcleo verdadero y de organelos membranosos.</p><div class='mt-2 grid grid-cols-1 md:grid-cols-2 gap-2 my-4'><div class='mt-2 blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Procariotas</p><div class='text-base'>No tienen núcleo verdadero ni organelos membranosos. Ejemplo: bacterias.</div></div><div class='mt-2 purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Eucariotas</p><div class='text-base'>Tienen núcleo verdadero y organelos membranosos. Ejemplos: animales, plantas, hongos y protistas.</div></div></div><div class='mt-2 p-4 rounded-lg bg-amber-500/10 border border-amber-500/30 text-lg'><strong>Truco:</strong> cloroplasto → verde → fotosíntesis; mitocondria → energía celular.</div>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de los siguientes organelos solo está presente en células vegetales?",
+      "opciones": [
+        "Mitocondria",
+        "Ribosoma",
+        "Cloroplasto",
+        "Núcleo"
+      ],
+      "correcta": 2,
+      "explicacion": "El cloroplasto solo está en células vegetales y realiza la fotosíntesis. La mitocondria, el ribosoma y el núcleo están en todas las células eucariotas."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿En qué organelo se realiza la respiración celular?",
+      "opciones": [
+        "Núcleo",
+        "Mitocondria",
+        "Cloroplasto",
+        "Ribosoma"
+      ],
+      "correcta": 1,
+      "explicacion": "La mitocondria es el organelo donde se realiza la respiración celular y se produce ATP, la energía de la célula."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "Una diferencia clave entre células procariotas y eucariotas es que las procariotas:",
+      "opciones": [
+        "Tienen núcleo verdadero",
+        "No tienen núcleo verdadero ni organelos membranosos",
+        "Solo existen en plantas",
+        "Son más grandes que las eucariotas"
+      ],
+      "correcta": 1,
+      "explicacion": "Las células procariotas (como las bacterias) NO tienen núcleo verdadero ni organelos membranosos. Las eucariotas sí los tienen."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Fotosíntesis vs respiración celular",
+      "html": "<p class='text-lg'>Son dos procesos complementarios pero <strong>opuestos</strong>. No los confundas:</p><table class='w-full text-lg text-left my-4 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-2'></th><th class='py-2'>Fotosíntesis</th><th class='py-2'>Respiración celular</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-2'><strong>Dónde</strong></td><td class='py-2'>Cloroplasto</td><td class='py-2'>Mitocondria</td></tr><tr class='border-b border-slate-600'><td class='py-2'><strong>Entrada</strong></td><td class='py-2'>CO₂ + H₂O + luz</td><td class='py-2'>Glucosa + O₂</td></tr><tr class='border-b border-slate-600'><td class='py-2'><strong>Salida</strong></td><td class='py-2'>Glucosa + O₂</td><td class='py-2'>CO₂ + H₂O + ATP</td></tr><tr><td class='py-2'><strong>Tipo</strong></td><td class='py-2'>Anabólica (construye)</td><td class='py-2'>Catabólica (degrada)</td></tr></tbody></table>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Fases de la fotosíntesis",
+      "html": "<p class='text-lg'>La fotosíntesis tiene dos fases:</p><ul class='text-lg'><li><strong>Fase luminosa:</strong> ocurre en los <strong>tilacoides</strong>. La clorofila absorbe luz. Se produce <strong>ATP, NADPH y se libera O₂</strong>.</li><li><strong>Fase oscura (Ciclo de Calvin):</strong> ocurre en el <strong>estroma</strong>. NO necesita luz directa. Usa ATP, NADPH y CO₂ para producir <strong>glucosa</strong>.</li></ul><p class='text-lg'><strong>Ecuación general:</strong></p><p class='font-mono text-center text-lg my-4 text-slate-800 dark:text-white'>6CO₂ + 6H₂O + luz → C₆H₁₂O₆ + 6O₂</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: ¿Quién hace qué?",
+      "html": "<div class='mt-2 grid grid-cols-1 md:grid-cols-2 gap-2 my-4'><div class='mt-2 emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Fotosíntesis</p><div class='text-base'>La realizan los organismos <strong>autótrofos</strong>. Transforman energía luminosa en energía química.</div></div><div class='mt-2 blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Respiración celular</p><div class='text-base'>La realizan <strong>todas las células</strong>. Transforman glucosa en energía utilizable (ATP).</div></div></div><div class='mt-2 p-4 rounded-lg bg-amber-500/10 border border-amber-500/30 text-lg'><strong>Truco:</strong> la fotosíntesis construye; la respiración degrada. Son procesos opuestos pero complementarios.</div>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "En la fase luminosa de la fotosíntesis se produce:",
+      "opciones": [
+        "Glucosa y CO₂",
+        "ATP, NADPH y O₂",
+        "ADN y proteínas",
+        "Grasas y aceites"
+      ],
+      "correcta": 1,
+      "explicacion": "En la fase luminosa, la clorofila absorbe luz y se producen ATP, NADPH y se libera O₂. La glucosa se produce en la fase oscura."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿En qué organelo se realiza la fotosíntesis?",
+      "opciones": [
+        "Mitocondria",
+        "Núcleo",
+        "Cloroplasto",
+        "Ribosoma"
+      ],
+      "correcta": 2,
+      "explicacion": "La fotosíntesis se realiza en el cloroplasto, que contiene clorofila y solo está presente en células vegetales y algas."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de las siguientes afirmaciones sobre la respiración celular es correcta?",
+      "opciones": [
+        "Ocurre en el cloroplasto",
+        "Produce glucosa y oxígeno",
+        "Ocurre en la mitocondria y produce ATP",
+        "Solo la realizan las plantas"
+      ],
+      "correcta": 2,
+      "explicacion": "La respiración celular ocurre en la mitocondria, usa glucosa y O₂, y produce CO₂, H₂O y ATP. La realizan todas las células."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Mitosis y meiosis",
+      "html": "<p class='text-lg'>Ambas son formas de <strong>división celular</strong> pero con funciones muy distintas:</p><table class='w-full text-lg text-left my-4 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-2'></th><th class='py-2'>Mitosis</th><th class='py-2'>Meiosis</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-2'><strong>Resultado</strong></td><td class='py-2'>2 células iguales</td><td class='py-2'>4 células diferentes</td></tr><tr class='border-b border-slate-600'><td class='py-2'><strong>Cromosomas</strong></td><td class='py-2'>Igual cantidad</td><td class='py-2'>La mitad (haploides)</td></tr><tr class='border-b border-slate-600'><td class='py-2'><strong>Función</strong></td><td class='py-2'>Crecimiento y reparación</td><td class='py-2'>Producción de gametos</td></tr><tr><td class='py-2'><strong>Dónde</strong></td><td class='py-2'>Células somáticas</td><td class='py-2'>Óvulos y espermatozoides</td></tr></tbody></table>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Las 4 fases de la mitosis (PMAT)",
+      "html": "<p class='text-lg'>La mitosis tiene 4 fases. Truco mnemotécnico: <strong>PMAT</strong> (Pedro Mata Al Toro).</p><ul class='text-lg'><li><strong>Profase:</strong> la cromatina se condensa en cromosomas visibles. Se desintegra la envoltura nuclear.</li><li><strong>Metafase:</strong> los cromosomas se alinean en el centro de la célula.</li><li><strong>Anafase:</strong> las cromátidas hermanas se separan y migran a polos opuestos.</li><li><strong>Telofase:</strong> se forman dos células hijas con la misma información genética.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Diferencias clave",
+      "html": "<div class='mt-2 grid grid-cols-1 md:grid-cols-2 gap-2 my-4'><div class='mt-2 blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Mitosis</p><div class='text-base'>Produce 2 células hijas genéticamente iguales. Interviene en crecimiento y reparación.</div></div><div class='mt-2 purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Meiosis</p><div class='text-base'>Produce 4 células diferentes con la mitad de cromosomas. Forma gametos.</div></div></div>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "La división celular que produce 4 células con la mitad de cromosomas se llama:",
+      "opciones": [
+        "Mitosis",
+        "Meiosis",
+        "Citocinesis",
+        "Cariocinesis"
+      ],
+      "correcta": 1,
+      "explicacion": "La meiosis produce 4 células haploides (con la mitad de cromosomas), que son los gametos: óvulos y espermatozoides."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el orden correcto de las fases de la mitosis?",
+      "opciones": [
+        "Anafase → Metafase → Profase → Telofase",
+        "Profase → Anafase → Telofase → Metafase",
+        "Profase → Metafase → Anafase → Telofase",
+        "Telofase → Anafase → Profase → Metafase"
+      ],
+      "correcta": 2,
+      "explicacion": "El orden de la mitosis es: Profase, Metafase, Anafase y Telofase. Truco: PMAT (Pedro Mata Al Toro)."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es la principal diferencia entre mitosis y meiosis?",
+      "opciones": [
+        "La mitosis produce 4 células; la meiosis, 2",
+        "La mitosis produce 2 células iguales; la meiosis, 4 diferentes con la mitad de cromosomas",
+        "La mitosis solo ocurre en plantas",
+        "No hay diferencia entre ellas"
+      ],
+      "correcta": 1,
+      "explicacion": "La mitosis produce 2 células idénticas a la original (crecimiento y reparación). La meiosis produce 4 células diferentes con la mitad de cromosomas (gametos)."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Genética: conceptos básicos",
+      "html": "<p class='text-lg'>La <strong>genética</strong> estudia la herencia de los caracteres de una generación a otra. Vocabulario clave:</p><ul class='text-lg'><li><strong>Genotipo:</strong> combinación de alelos (AA, Aa, aa).</li><li><strong>Fenotipo:</strong> lo que se ve (color verde o amarillo).</li><li><strong>Homocigoto:</strong> dos alelos iguales (AA, aa).</li><li><strong>Heterocigoto:</strong> dos alelos distintos (Aa).</li><li><strong>Alelo dominante:</strong> se expresa aunque haya solo uno (A).</li><li><strong>Alelo recesivo:</strong> solo se expresa si ambos están presentes (aa).</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: 1ª Ley de Mendel - Uniformidad",
+      "html": "<p class='text-lg'><strong>1ª Ley de Mendel: Ley de la uniformidad.</strong></p><p class='text-lg'>Cruce: <div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>AA × aa</span></div></p><p class='text-lg'>Resultado: <div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>Aa &nbsp; Aa &nbsp; Aa &nbsp; Aa</span></div></p><p class='text-lg'>El 100% de la primera generación son iguales (heterocigotos). Todos muestran el carácter dominante.</p><p class='text-lg'><strong>Ejemplo:</strong> cruzar una planta de guisante alta pura (AA) con una baja pura (aa) → todos los hijos son altos (Aa).</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: 2ª y 3ª Ley de Mendel",
+      "html": "<p class='text-lg'><strong>2ª Ley: Segregación.</strong> Cruce: <div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>Aa × Aa</span></div></p><p class='text-lg'>Resultado: <div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>AA &nbsp; Aa &nbsp; Aa &nbsp; aa</span></div> → proporción fenotípica <strong>3:1</strong> (3 dominantes, 1 recesivo).</p><p class='text-lg'><strong>3ª Ley: Independencia.</strong> Cada gen se hereda independientemente del otro. En un cruce dihíbrido la proporción es <strong>9:3:3:1</strong>.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 5: Cruce de plantas heterocigotas",
+      "enunciado": "Dos plantas heterocigotas se cruzan: Aa × Aa. ¿Cuál es la proporción fenotípica esperada?",
+      "datos": [
+        "Primer progenitor: Aa",
+        "Segundo progenitor: Aa",
+        "Fórmula: proporción fenotípica = dominantes : recesivos"
+      ]
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "Las características que un individuo realmente muestra (color de ojos, altura) se llaman:",
+      "opciones": [
+        "Genotipo",
+        "Fenotipo",
+        "Alelo",
+        "Gameto"
+      ],
+      "correcta": 1,
+      "explicacion": "El fenotipo es la manifestación observable del genotipo: lo que se ve (color, altura, forma). El genotipo es la combinación de alelos."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "La nomenclatura binomial, propuesta por Linneo, se utiliza para nombrar:",
+      "opciones": [
+        "Las células",
+        "Los organelos",
+        "Las especies",
+        "Los genes"
+      ],
+      "correcta": 2,
+      "explicacion": "La nomenclatura binomial (Género especie) se usa para nombrar a las especies. Ejemplo: Canis familiaris (perro)."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Teorías de la evolución",
+      "html": "<p class='text-lg'>A lo largo de la historia se han propuesto varias teorías para explicar cómo evolucionan las especies:</p><table class='w-full text-lg text-left my-4 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-2'>Teoría</th><th class='py-2'>Autor</th><th class='py-2'>Idea central</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-2'>Lamarckista</td><td class='py-2'>Lamarck</td><td class='py-2'>Uso y desuso de órganos · herencia de caracteres adquiridos</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Catastrofista</td><td class='py-2'>Cuvier</td><td class='py-2'>Catástrofes extinguen especies y aparecen otras nuevas</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Darwinista</td><td class='py-2'>Darwin</td><td class='py-2'>Selección natural · sobrevive el más apto</td></tr><tr><td class='py-2'>Sintética</td><td class='py-2'>Dobzhansky, Mayr</td><td class='py-2'>Combina Darwin + Mendel + genética de poblaciones</td></tr></tbody></table>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Darwin y la selección natural",
+      "html": "<p class='text-lg'><strong>Charles Darwin</strong> propuso la teoría de la <strong>selección natural</strong>. Sus ideas clave:</p><ul class='text-lg'><li>Los individuos de una especie presentan <strong>variaciones</strong> naturales.</li><li>Algunas variaciones son más favorables para sobrevivir en un ambiente dado.</li><li>Los individuos mejor adaptados sobreviven y se reproducen más.</li><li>Con el tiempo, esas variaciones favorables se hacen comunes en la población.</li></ul><p class='text-lg'>Darwin publicó su teoría en 1859 en <em>El origen de las especies</em>.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Lamarck vs Darwin",
+      "html": "<div class='mt-2 grid grid-cols-1 md:grid-cols-2 gap-2 my-4'><div class='mt-2 amber-500/10 border border-amber-500/30 p-4 rounded-lg'><p class='font-semibold text-amber-700 dark:text-amber-300 mb-2 text-lg'>Lamarck</p><div class='text-base'>Uso y desuso de órganos. Propuso la herencia de caracteres adquiridos.</div></div><div class='mt-2 emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Darwin</p><div class='text-base'>Variaciones naturales y selección natural: los individuos mejor adaptados sobreviven y se reproducen más.</div></div></div><div class='mt-2 p-4 rounded-lg bg-slate-500/10 border border-slate-500/30 text-lg'><strong>Comparación:</strong> Lamarck explicó el cambio por necesidad y uso; Darwin, por variación y selección natural.</div>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "La teoría evolutiva basada en la 'selección natural' fue propuesta por:",
+      "opciones": [
+        "Lamarck",
+        "Cuvier",
+        "Darwin",
+        "Mendel"
+      ],
+      "correcta": 2,
+      "explicacion": "Charles Darwin propuso la teoría de la selección natural: los individuos mejor adaptados sobreviven y se reproducen más, transmitiendo sus características favorables."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es la idea central de la teoría de Lamarck?",
+      "opciones": [
+        "La selección natural",
+        "El uso y desuso de los órganos y la herencia de caracteres adquiridos",
+        "Las catástrofes extinguen especies",
+        "La combinación de Darwin y Mendel"
+      ],
+      "correcta": 1,
+      "explicacion": "Lamarck sostenía que los órganos que se usan se desarrollan y los que no se atrofian, y que esos cambios adquiridos se heredan a los hijos."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "La teoría sintética de la evolución combina las ideas de:",
+      "opciones": [
+        "Solo Darwin",
+        "Solo Lamarck",
+        "Darwin + Mendel + genética de poblaciones",
+        "Solo Cuvier"
+      ],
+      "correcta": 2,
+      "explicacion": "La teoría sintética (o neodarwinismo) combina la selección natural de Darwin, las leyes de Mendel y la genética de poblaciones moderna."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Relaciones interespecíficas",
+      "html": "<p class='text-lg'>Son las interacciones entre individuos de <strong>diferentes especies</strong>. Se clasifican según el beneficio o perjuicio para cada una:</p><table class='w-full text-lg text-left my-4 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-2'>Relación</th><th class='py-2'>Especie A</th><th class='py-2'>Especie B</th><th class='py-2'>Ejemplo</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-2'>Mutualismo</td><td class='py-2'>+ gana</td><td class='py-2'>+ gana</td><td class='py-2'>Abeja y flor</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Comensalismo</td><td class='py-2'>+ gana</td><td class='py-2'>0 no se afecta</td><td class='py-2'>Orquídea sobre árbol</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Competencia</td><td class='py-2'>– pierde</td><td class='py-2'>– pierde</td><td class='py-2'>Leones por territorio</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Depredación</td><td class='py-2'>+ gana</td><td class='py-2'>– muere</td><td class='py-2'>Coyote y conejo</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Parasitismo</td><td class='py-2'>+ gana</td><td class='py-2'>– pierde (no muere rápido)</td><td class='py-2'>Pulga y perro</td></tr><tr><td class='py-2'>Amensalismo</td><td class='py-2'>– pierde</td><td class='py-2'>0 no se afecta</td><td class='py-2'>Nutria mata plantas con excremento</td></tr></tbody></table>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Trucos para no confundir",
+      "html": "<div class='mt-2 grid grid-cols-1 md:grid-cols-2 gap-2 my-4'><div class='mt-2 emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Mutualismo (+/+)</p><div class='text-base'>Ambos organismos ganan. Ejemplo: abeja y flor.</div></div><div class='mt-2 blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Comensalismo (+/0)</p><div class='text-base'>Uno gana y el otro no se afecta. Ejemplo: orquídea sobre un árbol.</div></div><div class='mt-2 amber-500/10 border border-amber-500/30 p-4 rounded-lg'><p class='font-semibold text-amber-700 dark:text-amber-300 mb-2 text-lg'>Parasitismo (+/−)</p><div class='text-base'>Uno gana y el otro pierde, sin morir rápidamente. Ejemplo: pulga y perro.</div></div><div class='mt-2 red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Depredación (+/−)</p><div class='text-base'>Uno gana y el otro muere. Ejemplo: coyote y conejo.</div></div></div><div class='mt-2 p-4 rounded-lg bg-slate-500/10 border border-slate-500/30 text-lg'><strong>Regla:</strong> si ambos ganan → mutualismo; si uno gana y el otro no se afecta → comensalismo.</div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Relaciones intraespecíficas",
+      "html": "<p class='text-lg'>Además de las relaciones entre especies distintas, existen las <strong>relaciones intraespecíficas</strong>: las que ocurren entre individuos de la <strong>misma especie</strong>.</p><ul class='text-lg'><li><strong>Cooperación:</strong> individuos que trabajan juntos (ej: hormigas en una colonia).</li><li><strong>Competencia intraespecífica:</strong> individuos de la misma especie compiten por recursos (ej: machos compitiendo por pareja).</li></ul>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "La relación entre el pez rémora y el tiburón, donde el rémora come restos y el tiburón no se afecta, es:",
+      "opciones": [
+        "Mutualismo",
+        "Comensalismo",
+        "Parasitismo",
+        "Depredación"
+      ],
+      "correcta": 1,
+      "explicacion": "En el comensalismo, uno se beneficia (el rémora come restos) y el otro no se afecta ni para bien ni para mal (el tiburón no pierde nada)."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es la diferencia entre mutualismo y comensalismo?",
+      "opciones": [
+        "En el mutualismo ambos ganan; en el comensalismo uno gana y el otro no se afecta",
+        "En el mutualismo uno gana; en el comensalismo ambos pierden",
+        "Son sinónimos",
+        "El comensalismo solo ocurre en plantas"
+      ],
+      "correcta": 0,
+      "explicacion": "En el mutualismo ambos organismos se benefician (+/+). En el comensalismo, uno se beneficia y el otro no se afecta (+/0)."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "La relación entre una pulga y un perro, donde la pulga se alimenta de la sangre del perro, es un ejemplo de:",
+      "opciones": [
+        "Mutualismo",
+        "Comensalismo",
+        "Parasitismo",
+        "Amensalismo"
+      ],
+      "correcta": 2,
+      "explicacion": "El parasitismo es una relación donde uno se beneficia (la pulga) y el otro pierde (el perro), pero el huésped no muere rápidamente."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: ¿Qué es un ecosistema?",
+      "html": "<div class='mt-2 grid grid-cols-1 md:grid-cols-2 gap-2 my-4'><div class='mt-2 emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Ecosistema</p><div class='text-base'>Conjunto de seres vivos (biocenosis) y medio físico (biotopo) que interactúan.</div></div><div class='mt-2 blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Flujo de energía</p><div class='text-base'>La energía fluye del Sol a productores y consumidores en una sola dirección.</div></div><div class='mt-2 amber-500/10 border border-amber-500/30 p-4 rounded-lg'><p class='font-semibold text-amber-700 dark:text-amber-300 mb-2 text-lg'>Ciclo de la materia</p><div class='text-base'>Los nutrientes se reciclan continuamente mediante ciclos biogeoquímicos.</div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: Cadenas y pirámides tróficas",
+      "html": "<div class='mt-2 p-4 rounded-lg bg-emerald-500/10 border border-emerald-500/30 text-lg text-center'><strong>Sol → Productores → Herbívoros → Carnívoros → Descomponedores</strong></div><div class='p-4 rounded-lg bg-amber-500/10 border border-amber-500/30 text-lg mt-2'><strong>Regla del 10%:</strong> solo el 10% de la energía pasa al siguiente nivel trófico; el resto se pierde principalmente como calor.</div><p class='text-lg mt-2'>Por eso la base de la pirámide, formada por productores, es la más grande.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: Ciclos biogeoquímicos",
+      "html": "<p class='text-lg'>La <strong>materia</strong> (a diferencia de la energía) <strong>se recicla</strong> en los ecosistemas. Los ciclos biogeoquímicos son:</p><ul class='text-lg'><li><strong>Ciclo del carbono</strong></li><li><strong>Ciclo del agua (hidrológico)</strong></li><li><strong>Ciclo del nitrógeno</strong></li><li><strong>Ciclo del azufre</strong></li><li><strong>Ciclo del fósforo</strong></li></ul><p class='text-lg'><strong>Trampa:</strong> el <em>ciclo solar</em> NO es un ciclo biogeoquímico; el sol no se recicla.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "En una pirámide trófica, ¿qué porcentaje de energía pasa de un nivel al siguiente?",
+      "opciones": [
+        "1%",
+        "10%",
+        "50%",
+        "90%"
+      ],
+      "correcta": 1,
+      "explicacion": "La regla del 10% (o del diezmo) indica que solo el 10% de la energía pasa de un nivel trófico al siguiente. El resto se pierde como calor."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de los siguientes NO es un ciclo biogeoquímico?",
+      "opciones": [
+        "Ciclo del carbono",
+        "Ciclo del agua",
+        "Ciclo del nitrógeno",
+        "Ciclo solar"
+      ],
+      "correcta": 3,
+      "explicacion": "El ciclo solar no existe como ciclo biogeoquímico. Los ciclos biogeoquímicos reciclan materia (carbono, agua, nitrógeno, azufre, fósforo), no energía solar."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "El número de individuos nuevos que entran en una población se mide con la:",
+      "opciones": [
+        "Mortalidad",
+        "Natalidad",
+        "Emigración",
+        "Densidad"
+      ],
+      "correcta": 1,
+      "explicacion": "La natalidad mide el número de nacimientos en una población durante un periodo determinado."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Actividad de Estudio en Casa",
+      "html": "<div class='text-center py-16'><p class='text-3xl font-bold text-slate-800 dark:text-white mb-4'>Teorías del origen de la vida</p><p class='text-3xl font-bold text-slate-800 dark:text-white mb-4'>Taxonomía y clasificación de los seres vivos</p><p class='text-3xl font-bold text-slate-800 dark:text-white'>Virus y enfermedades infecciosas</p></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Sesión 2",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Sesión 2</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-2'>Biología</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Nos vemos en la Sesión 3: Química</p>"
+    }
+  ]
+}

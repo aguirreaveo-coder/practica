@@ -1,0 +1,73 @@
+{
+  "titulo": "Clase 1: La Materia y su Clasificación",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 16",
+      "html": "<p class='text-2xl text-slate-100'>Hacia un Desarrollo Sustentable</p><p class='text-lg text-slate-200 mt-4'>Clase 1: La Materia y su Clasificación</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "¿Qué es la materia?",
+      "html": "<p>La <strong>materia</strong> es todo aquello que tiene masa y ocupa un lugar en el espacio. Está formada por partículas muy pequeñas llamadas átomos y moléculas.</p><p>Todo lo que nos rodea —el aire, el agua, tu cuerpo, este salón— está hecho de materia. Y como hay tantas formas distintas de materia, la ciencia necesita organizarla.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "¿Cómo clasificamos la materia?",
+      "html": "<p>La materia se clasifica según su <strong>composición</strong>, es decir, según los tipos de partículas que la forman y cómo están organizadas.</p><p>La primera gran división es:</p><ul><li><strong>Sustancias puras</strong> — tienen una sola clase de partícula.</li><li><strong>Mezclas</strong> — tienen dos o más sustancias diferentes combinadas.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Sustancias puras: elementos y compuestos",
+      "html": "<p>Una <strong>sustancia pura</strong> está formada por un solo tipo de componente. Tiene propiedades fijas y constantes.</p><p>Se divide en dos categorías:</p><ul><li><strong>Elemento:</strong> un solo tipo de átomo. No se puede descomponer químicamente. Ejemplos: Au, O₂, Cd, Na, C.</li><li><strong>Compuesto:</strong> dos o más elementos unidos químicamente en proporciones fijas. Se puede descomponer. Ejemplos: H₂O, H₂SO₄, CH₄, HCl.</li></ul><p>Los elementos se organizan en la <strong>Tabla Periódica</strong>.</p>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Clasifica en tu cuaderno",
+      "instrucciones": "En tu cuaderno, haz dos columnas: ELEMENTO y COMPUESTO. Clasifica las siguientes sustancias:\n\n1. Oro (Au)\n2. Sal de mesa (NaCl)\n3. Helio (He)\n4. Glucosa (C₆H₁₂O₆)\n5. Oxígeno (O₂)\n6. Amoniaco (NH₃)\n\nEscribe también una breve justificación de cada clasificación.",
+      "pista": "Recuerda: los elementos aparecen en la Tabla Periódica con un solo símbolo. Los compuestos combinan dos o más símbolos."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Mezclas: homogéneas y heterogéneas",
+      "html": "<p>Una <strong>mezcla</strong> es la combinación de dos o más sustancias que <strong>no se combinan químicamente</strong>. Cada componente conserva sus propiedades originales.</p><ul><li><strong>Mezclas homogéneas (disoluciones):</strong> componentes distribuidos uniformemente, no se distinguen a simple vista. Ejemplos: agua con sal, agua de mar, aire, gasolina, acero.</li><li><strong>Mezclas heterogéneas:</strong> componentes se distinguen a simple vista. Ejemplos: agua con aceite, cemento con arena, ensalada, granito.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Resumen: clasificación de la materia",
+      "html": "<p>Recapitulemos la clasificación completa:</p><ul><li><strong>Materia</strong><ul><li><strong>Sustancias puras</strong><ul><li>Elementos (un solo átomo): Au, O₂, Na</li><li>Compuestos (dos o más átomos): H₂O, H₂SO₄, CH₄</li></ul></li><li><strong>Mezclas</strong><ul><li>Homogéneas (uniformes): agua de mar, aire</li><li>Heterogéneas (se distinguen): agua con aceite, cemento con arena</li></ul></li></ul></li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Métodos de separación de mezclas",
+      "html": "<p>Como las mezclas no están unidas químicamente, sus componentes se pueden separar usando <strong>métodos físicos</strong>. Los principales son:</p><ul><li><strong>Filtración:</strong> separa un sólido insoluble de un líquido usando un medio poroso (papel filtro). Ej: separar arena del agua.</li><li><strong>Decantación:</strong> separa líquidos no miscibles (que no se mezclan) o un sólido depositado en el fondo. Ej: agua y aceite.</li><li><strong>Destilación:</strong> separa líquidos miscibles aprovechando sus diferentes puntos de ebullición. Ej: alcohol y agua, refinar petróleo.</li><li><strong>Evaporación:</strong> separa un sólido disuelto en un líquido. Ej: obtener sal del agua de mar.</li></ul>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Diseña un experimento",
+      "instrucciones": "En tu cuaderno, describe cómo separarías una mezcla de:\n\n• Arena\n• Limaduras de hierro\n• Sal\n• Agua\n\nEscribe el orden de los métodos que usarías y explica por qué elegiste cada uno.",
+      "pista": "Piensa: ¿qué método usarías primero para quitar lo más grande? ¿Y si algo se disuelve en agua? ¿Cómo recuperarías lo disuelto?"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Propiedades de sustancias puras y mezclas",
+      "html": "<p>Las <strong>sustancias puras</strong> tienen propiedades constantes y fijas: punto de fusión, punto de ebullición y densidad. El agua pura siempre hierve a 100 °C a nivel del mar.</p><p>Las <strong>mezclas</strong> tienen propiedades variables, porque dependen de las proporciones de sus componentes. Si el agua hierve a 102 °C, contiene impurezas disueltas.</p>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Reflexión: la materia en tu vida",
+      "instrucciones": "Responde en tu cuaderno:\n\nPiensa en 5 objetos o sustancias que uses en tu vida diaria y clasifícalos según lo que aprendiste:\n\n• ¿Es sustancia pura o mezcla?\n• Si es sustancia pura, ¿es elemento o compuesto?\n• Si es mezcla, ¿es homogénea o heterogénea?\n\nEscribe también una breve justificación de cada clasificación.",
+      "pista": "Ejemplos para inspirarte: la leche (mezcla heterogénea), el refresco (mezcla homogénea), un anillo de oro (elemento), el azúcar (compuesto)."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Cierre: la materia y sus divisiones",
+      "html": "<p>En esta clase vimos:</p><ul><li>Qué es la materia y cómo se clasifica.</li><li>Las <strong>sustancias puras</strong>: elementos y compuestos.</li><li>Las <strong>mezclas</strong>: homogéneas y heterogéneas.</li><li>Los principales <strong>métodos de separación</strong>.</li><li>La diferencia entre propiedades fijas y variables.</li></ul><p>En la siguiente clase estudiaremos las <strong>reacciones químicas y la estequiometría</strong>.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 1",
+      "html": "<p class='text-3xl text-slate-100 mt-8'>Fin de la Clase 1</p><p class='text-lg text-slate-200 mt-4'>La Materia y su Clasificación</p><p class='text-base text-slate-300 mt-8'>Nos vemos en la Clase 2: Estequiometría y Reacciones Químicas</p>"
+    }
+  ]
+}

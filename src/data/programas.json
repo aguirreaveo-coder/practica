@@ -1,0 +1,184 @@
+[
+  {
+    "id": "ciencias-experimentales",
+    "nombre": "Ciencias Experimentales",
+    "descripcion": "Geografía, Biología, Química y Física",
+    "caratula": "/caratulas/ciencias-experimentales.jpg",
+    "color": "#10b981",
+    "tipo": "programa",
+    "etiquetaSesion": "Sesión",
+    "sesiones": [
+      {
+        "num": 1,
+        "subtema": "Geografía"
+      },
+      {
+        "num": 2,
+        "subtema": "Biología"
+      },
+      {
+        "num": 3,
+        "subtema": "Química"
+      },
+      {
+        "num": 4,
+        "subtema": "Física"
+      }
+    ]
+  },
+  {
+    "id": "matematicas",
+    "nombre": "Matemáticas",
+    "descripcion": "Aritmética, Geometría, Cálculo y Estadística",
+    "caratula": "/caratulas/matematicas.jpg",
+    "color": "#3b82f6",
+    "tipo": "programa",
+    "etiquetaSesion": "Clase",
+    "sesiones": [
+      {
+        "num": 1,
+        "subtema": "Sesión 1 · Fundamentos de aritmética y álgebra",
+        "grupo": "Sesión 1"
+      },
+      {
+        "num": 2,
+        "subtema": "Sesión 1 · Factorización, ecuaciones y proporcionalidad",
+        "grupo": "Sesión 1"
+      },
+      {
+        "num": 3,
+        "subtema": "Sesión 2 · Geometría plana",
+        "grupo": "Sesión 2"
+      },
+      {
+        "num": 4,
+        "subtema": "Sesión 2 · Geometría espacial y trigonometría",
+        "grupo": "Sesión 2"
+      },
+      {
+        "num": 5,
+        "subtema": "Sesión 3 · Cálculo matemático",
+        "grupo": "Sesión 3"
+      },
+      {
+        "num": 6,
+        "subtema": "Sesión 4 · Estadística y probabilidad",
+        "grupo": "Sesión 4"
+      }
+    ],
+    "duracion": "2 horas"
+  },
+  {
+    "id": "repaso-matematicas",
+    "nombre": "Repaso de Matemáticas",
+    "descripcion": "Álgebra, geometría, trigonometría, estadística, probabilidad y cálculo",
+    "caratula": "/caratulas/matematicas.jpg",
+    "color": "#0ea5e9",
+    "tipo": "programa",
+    "etiquetaSesion": "Sesión",
+    "duracion": "3 horas",
+    "mostrarExpress": false,
+    "mostrarCuestionarioFinal": true,
+    "sesiones": [
+      {
+        "num": 1,
+        "subtema": "Álgebra"
+      },
+      {
+        "num": 2,
+        "subtema": "Geometría y trigonometría"
+      },
+      {
+        "num": 3,
+        "subtema": "Estadística, probabilidad y cálculo"
+      }
+    ]
+  },
+  {
+    "id": "curso-uabc",
+    "nombre": "Curso UABC",
+    "descripcion": "Preparación para la universidad",
+    "caratula": "/caratulas/curso-uabc.jpg",
+    "color": "#8b5cf6",
+    "tipo": "programa",
+    "etiquetaSesion": "Sesión",
+    "sesiones": [
+      {
+        "num": 1,
+        "subtema": "Sesión 1"
+      },
+      {
+        "num": 2,
+        "subtema": "Sesión 2"
+      },
+      {
+        "num": 3,
+        "subtema": "Sesión 3"
+      },
+      {
+        "num": 4,
+        "subtema": "Sesión 4"
+      },
+      {
+        "num": 5,
+        "subtema": "Sesión 5"
+      },
+      {
+        "num": 6,
+        "subtema": "Sesión 6"
+      },
+      {
+        "num": 7,
+        "subtema": "Sesión 7"
+      },
+      {
+        "num": 8,
+        "subtema": "Sesión 8"
+      },
+      {
+        "num": 9,
+        "subtema": "Sesión 9"
+      },
+      {
+        "num": 10,
+        "subtema": "Sesión 10"
+      },
+      {
+        "num": 11,
+        "subtema": "Sesión 11"
+      },
+      {
+        "num": 12,
+        "subtema": "Sesión 12"
+      }
+    ]
+  },
+  {
+    "id": "tabla-periodica",
+    "nombre": "Tabla Periódica de los Elementos",
+    "descripcion": "Aprende los elementos: número, símbolo, grupo y familia",
+    "caratula": "/caratulas/tabla-periodica.jpg",
+    "color": "#f59e0b",
+    "tipo": "programa",
+    "etiquetaSesion": "Sesión",
+    "tipoEspecial": "tabla-periodica",
+    "sesiones": [
+      {
+        "num": 1,
+        "subtema": "Introducción y estructura"
+      },
+      {
+        "num": 2,
+        "subtema": "Grupos y familias"
+      },
+      {
+        "num": 3,
+        "subtema": "Metales, no metales y metaloides"
+      },
+      {
+        "num": 4,
+        "subtema": "Elementos más comunes"
+      }
+    ]
+  }
+]

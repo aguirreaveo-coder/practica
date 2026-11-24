@@ -1,0 +1,165 @@
+{
+  "titulo": "Clase 3: Evolución de poblaciones, ciencia y sociedad",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 17",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Evolución y sus repercusiones sociales</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 3: Evolución de poblaciones, ciencia y sociedad</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Deriva genética, evolución humana, ADN, inmunología, trasplantes, derechos y sociedad.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Evolución de poblaciones",
+      "html": "<p class='text-lg'>La evolución ocurre en poblaciones. La <strong>deriva genética</strong> modifica al azar el acervo genético, especialmente en poblaciones pequeñas; el <strong>flujo génico</strong> ocurre cuando la migración lleva alelos de una población a otra.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">La deriva genética cambia alelos al azar, sobre todo en poblaciones pequeñas. El flujo génico desplaza alelos por migración. Ambos procesos actúan junto con selección y mutación.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Evolución humana y evidencias",
+      "html": "<p class='text-lg'>Los fósiles muestran cambios durante la hominización. La postura erecta y la marcha bípeda son rasgos importantes de la evolución humana.</p><p class='text-lg'>Los órganos homólogos comparten un origen ancestral, aunque puedan cumplir funciones distintas.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">Fósiles, herramientas, anatomía y ADN documentan la hominización. El bipedismo y los órganos homólogos aportan evidencias de ascendencia común.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: ADN y biología molecular",
+      "html": "<p class='text-lg'>La biología molecular estudia genes y moléculas. El ADN tiene doble hélice antiparalela, desoxirribosa, fosfato y las bases adenina, guanina, citosina y timina.</p><p class='text-lg'>La hibridología estudió la herencia mediante cruzas antes de consolidarse la genética.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">El ADN contiene nucleótidos con A, T, C y G. La complementariedad permite replicarlo y su información se expresa mediante ARN y proteínas. La hibridología estudió herencia mediante cruzas.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Salud, inmunidad y trasplantes",
+      "html": "<p class='text-lg'>El sistema inmunológico reconoce antígenos, neutraliza agentes infecciosos, destruye células infectadas y conserva memoria inmunológica.</p><p class='text-lg'>El rechazo de un órgano trasplantado ocurre principalmente por incompatibilidad entre donante y receptor.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">Los antígenos activan defensas; la inmunidad adaptativa produce anticuerpos y memoria. En trasplantes, la compatibilidad y los inmunosupresores reducen el rechazo, pero requieren vigilancia.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Ciencia, derechos y sociedad",
+      "html": "<p class='text-lg'>La ciencia y la tecnología deben aplicarse con responsabilidad, citando fuentes y respetando derechos. La salud es un derecho humano; el apartheid ejemplifica cómo las leyes pueden imponer desigualdad y discriminación.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">La tecnociencia une investigación y tecnología. La ciencia responsable cita fuentes y respeta derechos. El apartheid muestra que la biología nunca debe utilizarse para justificar superioridad o discriminación.</p>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Actividad: Repaso de la Guía",
+      "instrucciones": "Responde las preguntas asignadas de tu Guía y revisa las explicaciones al final.",
+      "preguntas": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Revisión de la actividad",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white mb-4'>Revisión de la actividad</p><p class='text-lg text-slate-700 dark:text-slate-200'>Compara tus respuestas con las explicaciones y relaciona cada concepto con el proceso estudiado.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 27,
+      "pregunta": "27. ¿Qué finalidad tiene la medicina preventiva?",
+      "opciones": [
+        "Reducir riesgos y evitar enfermedades",
+        "Modificar todas las especies",
+        "Eliminar la herencia",
+        "Sustituir la educación"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Reducir riesgos y evitar enfermedades». Esta respuesta se justifica con los conceptos de evolución, herencia, genética y sus aplicaciones revisados en el módulo."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 28,
+      "pregunta": "28. Entre las instituciones de salud se encuentran:",
+      "opciones": [
+        "INAH y SSA",
+        "SSA, ISSSTE e IMSS",
+        "INAH e IMSS",
+        "SSA e INAH"
+      ],
+      "correcta": 1,
+      "explicacion": "La respuesta correcta es «SSA, ISSSTE e IMSS». Esta respuesta se justifica con los conceptos de evolución, herencia, genética y sus aplicaciones revisados en el módulo."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 29,
+      "pregunta": "29. La salud es un derecho humano porque:",
+      "opciones": [
+        "Es una facultad inherente a toda persona",
+        "El Estado garantiza que nadie enferme",
+        "Se financia solo con recursos federales",
+        "El gobierno aumenta la cobertura"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Es una facultad inherente a toda persona». Esta respuesta se justifica con los conceptos de evolución, herencia, genética y sus aplicaciones revisados en el módulo."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 30,
+      "pregunta": "30. El desplazamiento de genes entre poblaciones por migraci?n se denomina:",
+      "opciones": [
+        "Adaptaci?n",
+        "Mutaci?n",
+        "Flujo g?nico",
+        "Variaci?n"
+      ],
+      "correcta": 2,
+      "explicacion": "La respuesta correcta es «Flujo g?nico». Esta respuesta se justifica con los conceptos de evolución, herencia, genética y sus aplicaciones revisados en el módulo."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 31,
+      "pregunta": "31. El apartheid consisti? en:",
+      "opciones": [
+        "Protestas contra Mandela",
+        "Levantamientos de liberaci?n",
+        "Rebeliones contra dirigentes africanos",
+        "Actos racistas respaldados por leyes"
+      ],
+      "correcta": 3,
+      "explicacion": "La respuesta correcta es «Actos racistas respaldados por leyes». Esta respuesta se justifica con los conceptos de evolución, herencia, genética y sus aplicaciones revisados en el módulo."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 32,
+      "pregunta": "32. Una limitaci?n impuesta por el apartheid fue:",
+      "opciones": [
+        "Acceso libre a playas y hospitales",
+        "Posibilidad de ocupar cargos p?blicos",
+        "Segregaci?n de espacios y prohibici?n de educaci?n superior",
+        "Propiedad plena para todas las personas"
+      ],
+      "correcta": 2,
+      "explicacion": "La respuesta correcta es «Segregaci?n de espacios y prohibici?n de educaci?n superior». Esta respuesta se justifica con los conceptos de evolución, herencia, genética y sus aplicaciones revisados en el módulo."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 33,
+      "pregunta": "33. La teor?a sint?tica considera que:",
+      "opciones": [
+        "La variaci?n genot?pica es gradual y la evoluci?n ocurre por mutaciones y recombinaciones",
+        "Los caracteres adquiridos se heredan siempre",
+        "Las variaciones favorables no son heredables",
+        "La evoluci?n no ocurre en las poblaciones"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «La variaci?n genot?pica es gradual y la evoluci?n ocurre por mutaciones y recombinaciones». Esta respuesta se justifica con los conceptos de evolución, herencia, genética y sus aplicaciones revisados en el módulo."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 34,
+      "pregunta": "34. Una mayor variabilidad gen?tica puede indicar que:",
+      "opciones": [
+        "Aumenta la cantidad de alelos",
+        "Aumenta autom?ticamente el n\bfamero de individuos",
+        "La evoluci?n se detiene",
+        "La selecci?n natural desaparece"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Aumenta la cantidad de alelos». Esta respuesta se justifica con los conceptos de evolución, herencia, genética y sus aplicaciones revisados en el módulo."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 3",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase 3</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Evolución y sus repercusiones sociales</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Continúa con la Clase 4: Cuestionario completo del Módulo 17.</p>"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

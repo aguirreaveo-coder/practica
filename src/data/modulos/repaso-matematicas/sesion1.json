@@ -1,0 +1,375 @@
+{
+  "titulo": "Sesión 1: Álgebra",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Repaso de Matemáticas - Sesión 1",
+      "html": "<p class=\"text-lg\"><strong>Álgebra</strong><br>3 horas · 8 temas · ejemplos y práctica </p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Jerarquía de operaciones",
+      "html": "<p class=\"text-lg\">Aplica el orden de operaciones: agrupadores, potencias, multiplicaciones y divisiones, y finalmente sumas y restas.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Jerarquía de operaciones",
+      "enunciado": "Selecciona la opción correcta: resuelve 5 + 3 × 2.",
+      "datos": ["A) 11", "B) 16", "C) 10", "D) 13"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Jerarquía de operaciones",
+      "enunciado": "Selecciona la opción correcta: resuelve (8 + 4) ÷ 3 + 2².",
+      "datos": ["A) 10", "B) 8", "C) 12", "D) 14"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Jerarquía de operaciones",
+      "enunciado": "Selecciona la opción correcta: resuelve 20 − 4 × 3 + 6 ÷ 2.",
+      "datos": ["A) 13", "B) 11", "C) 9", "D) 15"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Jerarquía de operaciones",
+      "enunciado": "Selecciona la opción correcta: resuelve 3 × (5 + 2) − 4² ÷ 8.",
+      "datos": ["A) 17", "B) 15", "C) 19", "D) 21"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 5: Jerarquía de operaciones",
+      "enunciado": "Selecciona la opción correcta: resuelve 6 + 2 × (10 − 3²) + 4.",
+      "datos": ["A) 16", "B) 12", "C) 14", "D) 10"]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Jerarquía de operaciones",
+      "ejercicios": [
+        { "pregunta": "Resuelve 8 + 2 × 5 − 6 ÷ 3.", "respuesta": "16" },
+        { "pregunta": "Resuelve (7 + 5) ÷ 4 + 3².", "respuesta": "12" },
+        { "pregunta": "Resuelve 15 − 3 × 2 + 8 ÷ 4.", "respuesta": "11" },
+        { "pregunta": "Resuelve 4 × (6 + 2) − 5² ÷ 5.", "respuesta": "27" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Productos notables",
+      "html": "<p class=\"text-lg\">Reconoce patrones de multiplicación para desarrollar binomios de manera rápida.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Productos notables",
+      "enunciado": "Selecciona la opción correcta: desarrolla (x + 5)².",
+      "datos": ["A) x² + 10x + 25", "B) x² + 5x + 25", "C) x² − 10x + 25", "D) 2x² + 25"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Productos notables",
+      "enunciado": "Selecciona la opción correcta: desarrolla (x − 7)².",
+      "datos": ["A) x² − 7x + 49", "B) x² + 14x + 49", "C) x² − 49", "D) x² − 14x + 49"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Productos notables",
+      "enunciado": "Selecciona la opción correcta: desarrolla (2x + 3)².",
+      "datos": ["A) 4x² + 12x + 9", "B) 4x² + 6x + 9", "C) 2x² + 12x + 9", "D) 4x² + 9"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Productos notables",
+      "enunciado": "Selecciona la opción correcta: desarrolla (x + 4)(x − 4).",
+      "datos": ["A) x² + 8x − 16", "B) x² + 16", "C) x² − 8x + 16", "D) x² − 16"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 5: Productos notables",
+      "enunciado": "Selecciona la opción correcta: desarrolla (3x − 2)(3x + 2).",
+      "datos": ["A) 9x² − 4", "B) 9x² + 4", "C) 3x² − 4", "D) 9x² − 12x + 4"]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Productos notables",
+      "ejercicios": [
+        { "pregunta": "Desarrolla (x + 6)².", "respuesta": "x² + 12x + 36" },
+        { "pregunta": "Desarrolla (x − 9)².", "respuesta": "x² − 18x + 81" },
+        { "pregunta": "Desarrolla (2x + 5)².", "respuesta": "4x² + 20x + 25" },
+        { "pregunta": "Desarrolla (x + 8)(x − 8).", "respuesta": "x² − 64" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Factorización",
+      "html": "<p class=\"text-lg\">Expresa polinomios como productos usando factor común, diferencia de cuadrados y trinomios.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Factorización",
+      "enunciado": "Selecciona la opción correcta: factoriza x² − 49.",
+      "datos": ["A) (x + 7)(x − 7)", "B) x(x + 7)", "C) (x − 7)²", "D) x² − 49"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Factorización",
+      "enunciado": "Selecciona la opción correcta: factoriza x² + 9x + 20.",
+      "datos": ["A) (x + 2)(x + 10)", "B) (x + 4)(x + 5)", "C) (x − 4)(x − 5)", "D) (x + 1)(x + 20)"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Factorización",
+      "enunciado": "Selecciona la opción correcta: factoriza 6x² + 12x.",
+      "datos": ["A) 6x(x + 12)", "B) 6(x² + 2x)", "C) 3x(2x + 2)", "D) 6x(x + 2)"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Factorización",
+      "enunciado": "Selecciona la opción correcta: factoriza x² − 10x + 25.",
+      "datos": ["A) (x − 5)²", "B) (x + 5)²", "C) (x − 5)(x + 5)", "D) x(x − 10) + 25"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 5: Factorización",
+      "enunciado": "Selecciona la opción correcta: factoriza 2x² + 7x + 3.",
+      "datos": ["A) (2x + 1)(x + 3)", "B) (2x + 3)(x + 1)", "C) (x + 1)(x + 3)", "D) (2x + 1)(x + 2)"]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Factorización",
+      "ejercicios": [
+        { "pregunta": "Factoriza x² − 81.", "respuesta": "(x + 9)(x − 9)" },
+        { "pregunta": "Factoriza x² + 7x + 12.", "respuesta": "(x + 3)(x + 4)" },
+        { "pregunta": "Factoriza 4x² + 8x.", "respuesta": "4x(x + 2)" },
+        { "pregunta": "Factoriza x² − 12x + 36.", "respuesta": "(x − 6)²" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Ecuaciones de primer grado",
+      "html": "<p class=\"text-lg\">Despeja la incógnita mediante operaciones equivalentes y comprueba el resultado.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Ecuaciones de primer grado",
+      "enunciado": "Selecciona la opción correcta: resuelve 2x + 3 = 11.",
+      "datos": ["A) x = 5", "B) x = 4", "C) x = 3", "D) x = 6"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Ecuaciones de primer grado",
+      "enunciado": "Selecciona la opción correcta: resuelve 5x − 7 = 18.",
+      "datos": ["A) x = 7", "B) x = 5", "C) x = 6", "D) x = 4"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Ecuaciones de primer grado",
+      "enunciado": "Selecciona la opción correcta: resuelve 3(x − 2) = 12.",
+      "datos": ["A) x = 4", "B) x = 5", "C) x = 6", "D) x = 7"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Ecuaciones de primer grado",
+      "enunciado": "Selecciona la opción correcta: resuelve 4x + 2 = 2x + 10.",
+      "datos": ["A) x = 3", "B) x = 4", "C) x = 5", "D) x = 6"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 5: Ecuaciones de primer grado",
+      "enunciado": "Selecciona la opción correcta: resuelve 7x − 4 = 3x + 12.",
+      "datos": ["A) x = 6", "B) x = 4", "C) x = 5", "D) x = 3"]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Ecuaciones de primer grado",
+      "ejercicios": [
+        { "pregunta": "Resuelve 3x + 5 = 20.", "respuesta": "x = 5" },
+        { "pregunta": "Resuelve 4x − 9 = 15.", "respuesta": "x = 6" },
+        { "pregunta": "Resuelve 2(x + 3) = 14.", "respuesta": "x = 4" },
+        { "pregunta": "Resuelve 6x − 10 = 2x + 18.", "respuesta": "x = 7" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Ecuaciones de segundo grado",
+      "html": "<p class=\"text-lg\">Resuelve ecuaciones cuadráticas por factorización o mediante la fórmula general.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Ecuaciones de segundo grado",
+      "enunciado": "Selecciona la opción correcta: resuelve x² − 5x + 6 = 0.",
+      "datos": ["A) x = 2, 3", "B) x = 1, 6", "C) x = −2, −3", "D) x = 0, 5"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Ecuaciones de segundo grado",
+      "enunciado": "Selecciona la opción correcta: resuelve x² − 7x + 10 = 0.",
+      "datos": ["A) x = -2, -5", "B) x = 1, 10", "C) x = 2, 5", "D) x = 3, 4"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Ecuaciones de segundo grado",
+      "enunciado": "Selecciona la opción correcta: resuelve x² − 9 = 0.",
+      "datos": ["A) x = 3, −3", "B) x = 9, −9", "C) x = 0, 9", "D) x = 1, −1"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Ecuaciones de segundo grado",
+      "enunciado": "Selecciona la opción correcta: encuentra el vértice de la parábola y = x² − 6x + 5.",
+      "datos": ["A) (3, −4)", "B) (−3, 4)", "C) (3, 4)", "D) (−3, −4)"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 5: Ecuaciones de segundo grado",
+      "enunciado": "Selecciona la opción correcta: encuentra el vértice de la parábola y = x² + 4x + 3.",
+      "datos": ["A) (2, 1)", "B) (-2, -1)", "C) (−2, 1)", "D) (2, −1)"]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Ecuaciones de segundo grado",
+      "ejercicios": [
+        { "pregunta": "Resuelve x² − 9x + 20 = 0.", "respuesta": "x = 4, 5" },
+        { "pregunta": "Resuelve x² − 25 = 0.", "respuesta": "x = 5, −5" },
+        { "pregunta": "Encuentra el vértice de la parábola y = x² − 8x + 12.", "respuesta": "(4, −4)" },
+        { "pregunta": "Encuentra el vértice de la parábola y = x² + 2x − 3.", "respuesta": "(−1, −4)" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Sistemas de ecuaciones",
+      "html": "<p class=\"text-lg\">Resuelve dos ecuaciones con dos incógnitas mediante sustitución, igualación o reducción.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Sistemas de ecuaciones",
+      "enunciado": "Selecciona la opción correcta: resuelve el sistema x + y = 10, x − y = 2.",
+      "datos": ["A) x = 6, y = 4", "B) x = 5, y = 5", "C) x = 7, y = 3", "D) x = 8, y = 2"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Sistemas de ecuaciones",
+      "enunciado": "Selecciona la opción correcta: resuelve el sistema 2x + y = 7, x − y = 2.",
+      "datos": ["A) x = 3, y = 1", "B) x = 2, y = 3", "C) x = 4, y = −1", "D) x = 5, y = −3"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Sistemas de ecuaciones",
+      "enunciado": "Selecciona la opción correcta: resuelve el sistema x + 2y = 8, x − y = 2.",
+      "datos": ["A) x = 2, y = 3", "B) x = 4, y = 2", "C) x = 6, y = 1", "D) x = 5, y = 1.5"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Sistemas de ecuaciones",
+      "enunciado": "Selecciona la opción correcta: resuelve el sistema 3x + y = 11, x + y = 5.",
+      "datos": ["A) x = 3, y = 2", "B) x = 2, y = 3", "C) x = 4, y = 1", "D) x = 5, y = 0"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 5: Sistemas de ecuaciones",
+      "enunciado": "Selecciona la opción correcta: resuelve el sistema 2x + 3y = 12, x − y = 1.",
+      "datos": ["A) x = 5, y = 4", "B) x = 2, y = 1", "C) x = 4, y = 1", "D) x = 3, y = 2"]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Sistemas de ecuaciones",
+      "ejercicios": [
+        { "pregunta": "Resuelve el sistema x + y = 12, x − y = 4.", "respuesta": "x = 8, y = 4" },
+        { "pregunta": "Resuelve el sistema 2x + y = 9, x − y = 3.", "respuesta": "x = 4, y = 1" },
+        { "pregunta": "Resuelve el sistema 3x + y = 14, x + 2y = 8.", "respuesta": "x = 4, y = 2" },
+        { "pregunta": "Resuelve el sistema 3x + 2y = 16, x + y = 7.", "respuesta": "x = 2, y = 5" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Desigualdades",
+      "html": "<p class=\"text-lg\">Resuelve como una ecuación, invirtiendo el signo cuando multiplicas o divides por un número negativo.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Desigualdades",
+      "enunciado": "Selecciona la opción correcta: resuelve 2x + 3 < 9.",
+      "datos": ["A) x < 3", "B) x > 3", "C) x ≤ 3", "D) x ≥ 3"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Desigualdades",
+      "enunciado": "Selecciona la opción correcta: resuelve −3x + 6 > 0.",
+      "datos": ["A) x < 2", "B) x > 2", "C) x ≤ 2", "D) x ≥ 2"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Desigualdades",
+      "enunciado": "Selecciona la opción correcta: resuelve 4x − 8 ≤ 0.",
+      "datos": ["A) x ≤ 2", "B) x ≥ 2", "C) x < 2", "D) x > 2"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Desigualdades",
+      "enunciado": "Selecciona la opción correcta: resuelve −2x + 5 ≥ 1.",
+      "datos": ["A) x ≤ 2", "B) x ≥ 2", "C) x < 2", "D) x > 2"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 5: Desigualdades",
+      "enunciado": "Selecciona la opción correcta: resuelve 5x + 2 < 3x + 10.",
+      "datos": ["A) x < 4", "B) x > 4", "C) x ≤ 4", "D) x ≥ 4"]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Desigualdades",
+      "ejercicios": [
+        { "pregunta": "Resuelve 4x + 1 < 13.", "respuesta": "x < 3" },
+        { "pregunta": "Resuelve −4x + 3 > 11.", "respuesta": "x < −2" },
+        { "pregunta": "Resuelve 2x − 5 ≤ 7.", "respuesta": "x ≤ 6" },
+        { "pregunta": "Resuelve −x + 8 ≥ 3.", "respuesta": "x ≤ 5" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: Problemas de aplicación mediante ecuaciones",
+      "html": "<p class=\"text-lg\">Define la incógnita, plantea una ecuación, resuelve y verifica la respuesta dentro del contexto.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Problemas de aplicación mediante ecuaciones",
+      "enunciado": "Selecciona la opción correcta: si al doble de un número se aumenta en 5, se obtiene 17. ¿cuál es el número?",
+      "datos": ["A) 6", "B) 5", "C) 4", "D) 7"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Problemas de aplicación mediante ecuaciones",
+      "enunciado": "Selecciona la opción correcta: la suma de tres números consecutivos es 18. ¿Cuál es el menor?",
+      "datos": ["A) 4", "B) 3", "C) 5", "D) 6"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Problemas de aplicación mediante ecuaciones",
+      "enunciado": "Selecciona la opción correcta: un rectángulo tiene perímetro 34 y largo 10. ¿Cuál es el ancho?",
+      "datos": ["A) 7", "B) 6", "C) 5", "D) 8"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Problemas de aplicación mediante ecuaciones",
+      "enunciado": "Selecciona la opción correcta: si a un número se le resta 3 y el resultado se multiplica por 4, se obtiene 20. ¿Cuál es el número?",
+      "datos": ["A) 9", "B) 7", "C) 8", "D) 6"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 5: Problemas de aplicación mediante ecuaciones",
+      "enunciado": "Selecciona la opción correcta: la edad de Ana es el triple de la de Luis. Si entre ambos suman 24 años, ¿cuántos años tiene Luis?",
+      "datos": ["A) 5", "B) 6", "C) 7", "D) 8"]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Problemas de aplicación mediante ecuaciones",
+      "ejercicios": [
+        { "pregunta": "El triple de un número, menos 4, es igual a 20. ¿Cuál es el número?", "respuesta": "8" },
+        { "pregunta": "La suma de dos números es 30 y uno es el cuádruple del otro. ¿Cuáles son los números?", "respuesta": "6 y 24" },
+        { "pregunta": "Un rectángulo tiene perímetro 40 y ancho 8. ¿Cuál es su largo?", "respuesta": "12" },
+        { "pregunta": "Si a un número se le suma 5 y el resultado se multiplica por 3, se obtiene 36. ¿Cuál es el número?", "respuesta": "7" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la sesión 1",
+      "html": "<p class=\"text-lg\">Has completado el repaso de Álgebra.</p>"
+    }
+  ]
+}

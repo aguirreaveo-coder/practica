@@ -1,0 +1,340 @@
+{
+  "titulo": "Clase 4: Cuestionario completo del Móulo 17",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 17",
+      "html": "<p class=\"text-lg text-slate-700 dark:text-slate-200\"><strong>Evolución y sus repercusiones sociales</strong> · Clase 4: Cuestionario completo</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">Responde las 25 preguntas y revisa las explicaciones. Este cuestionario integra genética, evolución, salud, bioética, ciencia y sociedad.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "1. Un polen que desencadena anticuerpos y respuesta inmunitaria es un:",
+      "opciones": [
+        "Antígeno",
+        "Anticuerpo",
+        "Autoantígeno",
+        "Aloantígeno"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Antígeno». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 1
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "2. La inmunidad transferida de la madre al bebé y de corta duración es:",
+      "opciones": [
+        "Humoral",
+        "Activa",
+        "Pasiva",
+        "Celular"
+      ],
+      "correcta": 2,
+      "explicacion": "La respuesta correcta es «Pasiva». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 2
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "3. El proceso que registra el flujo sanguóneo del corazón fetal es la:",
+      "opciones": [
+        "Tomografá",
+        "Radiografá",
+        "Ultrasonido",
+        "Ecocardiografá"
+      ],
+      "correcta": 3,
+      "explicacion": "La respuesta correcta es «Ecocardiografá». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 3
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "4. ¿Qué predicador difundió el concepto de raza aria en la Alemania nazi?",
+      "opciones": [
+        "Heinrich Himmler",
+        "Ernest Schäfer",
+        "Friedrich Stiegel",
+        "Adolfo Hitler"
+      ],
+      "correcta": 2,
+      "explicacion": "La respuesta correcta es «Friedrich Stiegel». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 4
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "5. La representación ordenada de los cromosomas humanos se llama:",
+      "opciones": [
+        "Mutación",
+        "Locus",
+        "Cariotipo",
+        "Recombinación"
+      ],
+      "correcta": 2,
+      "explicacion": "La respuesta correcta es «Cariotipo». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 5
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "6. ¿Cuál afirmación NO corresponde a Morgan?",
+      "opciones": [
+        "Cada gen reside en un cromosoma específico",
+        "Un carácter puede estar ligado al cromosoma X",
+        "Un carácter debe residir tanto en X como en Y",
+        "Los genes residen en los cromosomas"
+      ],
+      "correcta": 2,
+      "explicacion": "La respuesta correcta es «Un carácter debe residir tanto en X como en Y». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 6
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "7. Los caracteres genéicos se transmiten en organismos sexuales por:",
+      "opciones": [
+        "Segregación durante la meiosis",
+        "Duplicación durante la mitosis",
+        "Duplicación durante la meiosis",
+        "Segregación durante la mitosis"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Segregación durante la meiosis». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 7
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "8. Un efecto del uso arbitrario de transgúnicos es la:",
+      "opciones": [
+        "Explosión demográfica",
+        "Destrucción de la biodiversidad",
+        "Aumento de enfermedades contagiosas",
+        "Escasez de alimentos"
+      ],
+      "correcta": 1,
+      "explicacion": "La respuesta correcta es «Destrucción de la biodiversidad». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 8
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "9. La teoría sintéica explica que la evolución ocurre por pequeás:",
+      "opciones": [
+        "Especiaciones y adaptaciones",
+        "Mutaciones y recombinaciones",
+        "Especiaciones y recombinaciones",
+        "Mutaciones y adaptaciones"
+      ],
+      "correcta": 1,
+      "explicacion": "La respuesta correcta es «Mutaciones y recombinaciones». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 9
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "10. Las diferencias fóicas convertidas en supuesta superioridad o inferioridad sustentan:",
+      "opciones": [
+        "Complejo de superioridad",
+        "Prejuicio y discriminación",
+        "Pensamiento estereotipado",
+        "Maltrato y violencia"
+      ],
+      "correcta": 1,
+      "explicacion": "La respuesta correcta es «Prejuicio y discriminación». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 10
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "11. ¿Cuál NO es un objetivo de la eugenesia?",
+      "opciones": [
+        "Ahorro de recursos",
+        "Disminuir la explosión demográfica",
+        "Alivio del sufrimiento humano",
+        "Crear personas sanas e inteligentes"
+      ],
+      "correcta": 2,
+      "explicacion": "La respuesta correcta es «Alivio del sufrimiento humano». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 11
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "12. Las bases comunes del ADN y ARN son:",
+      "opciones": [
+        "Adenina, guanina y citosina",
+        "Timina, guanina y citosina",
+        "Timina, citosina y uracilo",
+        "Adenina, timina y uracilo"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Adenina, guanina y citosina». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 12
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "13. Si un espermatozoide de perro contiene 39 cromosomas, el néero haploide es:",
+      "opciones": [
+        "76",
+        "78",
+        "38",
+        "39"
+      ],
+      "correcta": 3,
+      "explicacion": "La respuesta correcta es «39». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 13
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "14. Una conducta no éica al elaborar un ensayo es:",
+      "opciones": [
+        "Entregarlo sin resolver las dudas",
+        "Buscar información adicional",
+        "Pedir ayuda a un compaéro",
+        "Consultar al asesor"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Entregarlo sin resolver las dudas». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 14
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "15. Los naturalistas asociados con adaptación y selección natural fueron:",
+      "opciones": [
+        "Lamarck y Darwin",
+        "Lyell y Lamarck",
+        "Darwin y Wallace",
+        "Wallace y Lyell"
+      ],
+      "correcta": 2,
+      "explicacion": "La respuesta correcta es «Darwin y Wallace». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 15
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "16. El concepto que designa el contexto social y tecnológico de la ciencia es:",
+      "opciones": [
+        "Conocimiento",
+        "Tecnologá",
+        "Ciencia",
+        "Tecnociencia"
+      ],
+      "correcta": 3,
+      "explicacion": "La respuesta correcta es «Tecnociencia». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 16
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "17. Una evidencia de la evolución humana son:",
+      "opciones": [
+        "Los fóiles y sus cambios durante la hominización",
+        "Los movimientos tectúnicos",
+        "Las pinturas rupestres únicamente",
+        "El descubrimiento del fuego"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Los fóiles y sus cambios durante la hominización». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 17
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "18. Una caracterótica distintiva del ser humano es:",
+      "opciones": [
+        "Un cerebro menor",
+        "La reducción de mandíbulas",
+        "Un tracto digestivo corto",
+        "La postura erecta y marcha bípeda"
+      ],
+      "correcta": 3,
+      "explicacion": "La respuesta correcta es «La postura erecta y marcha bípeda». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 18
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "19. Los antebrazos humanos y las alas de murciélago son órganos:",
+      "opciones": [
+        "Homélogos por derivar de un prototipo ancestral",
+        "Anélogos por origen distinto",
+        "Anélogos por cumplir la misma función",
+        "Homélogos sin función definida"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Homélogos por derivar de un prototipo ancestral». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 19
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "20. La teoría que propone que las especies cambian a lo largo del tiempo es la:",
+      "opciones": [
+        "Creacionista",
+        "Sintéica",
+        "Evolutiva",
+        "Panspermia"
+      ],
+      "correcta": 2,
+      "explicacion": "La respuesta correcta es «Evolutiva». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 20
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "21. El libro que dio a Darwin una perspectiva geológica fue:",
+      "opciones": [
+        "El origen de las especies – Cuvier",
+        "Principios de geologá – Cuvier",
+        "Principios de geologá – Charles Lyell",
+        "El origen de las especies – Lyell"
+      ],
+      "correcta": 2,
+      "explicacion": "La respuesta correcta es «Principios de geologá – Charles Lyell». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 21
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "22. En el cuadro de Punnett, las letras mayóculas representan:",
+      "opciones": [
+        "Primera generación filial",
+        "Caracteres dominantes",
+        "Caracteres recesivos",
+        "Segunda generación filial"
+      ],
+      "correcta": 1,
+      "explicacion": "La respuesta correcta es «Caracteres dominantes». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 22
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "23. Un medio propuesto por la eugenesia, excepto, es:",
+      "opciones": [
+        "Clonación",
+        "Ingenierá genética",
+        "Selección artificial",
+        "Diagnótico prenatal"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Clonación». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 23
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "24. La esterilización obligatoria de personas consideradas no aptas es una forma de:",
+      "opciones": [
+        "Hibridación",
+        "Ingenierá genética",
+        "Biotecnologá",
+        "Eugenesia"
+      ],
+      "correcta": 3,
+      "explicacion": "La respuesta correcta es «Eugenesia». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 24
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "25. La técnica que trata la esterilidad mediante manipulación de gametos es:",
+      "opciones": [
+        "Reproducción asistida",
+        "Clonación",
+        "Ovulación",
+        "Reproducción sexual"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Reproducción asistida». La explicación relaciona el concepto con los contenidos del módulo y muestra por qué las otras opciones no corresponden.",
+      "numero": 25
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 4"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

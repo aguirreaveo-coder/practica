@@ -1,0 +1,286 @@
+{
+  "titulo": "Clase 4: Ética, Moral y Problemas Contemporáneos",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 4",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Ser Social y Sociedad</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 4: Ética, Moral y Problemas Contemporáneos</p>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Ética y moral: ¿son lo mismo?",
+      "html": "<p class='text-lg'>Aunque suelen usarse como sinónimos, no lo son. Veamos la diferencia:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Moral</p><p class='text-base'>Conjunto de normas, valores y costumbres que rigen la conducta de un grupo social en un momento histórico. <strong>La moral se practica.</strong></p></div><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Ética</p><p class='text-base'>Reflexión filosófica sobre la moral. Análisis racional de por qué algo es bueno o malo. <strong>La ética se piensa.</strong></p></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Autonomía y heteronomía",
+      "html": "<p class='text-lg'>Dos conceptos clave en ética:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-green-500/10 border border-green-500/30 p-4 rounded-lg'><p class='font-semibold text-green-700 dark:text-green-300 mb-2 text-lg'>Autonomía</p><p class='text-base'>La persona actúa según su propia razón y voluntad, reflexionando sobre lo que considera correcto. La norma moral se funda en la propia naturaleza humana y en la libertad del sujeto.</p></div><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Heteronomía</p><p class='text-base'>La persona actúa por normas impuestas desde afuera: la familia, el Estado, la religión, las modas o la publicidad. La norma se funda en algo externo al sujeto.</p></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Valores y antivalores",
+      "html": "<p class='text-lg'>Los <strong>valores</strong> son principios que orientan nuestra conducta hacia el bien y la convivencia armónica. Los <strong>antivalores</strong> son su opuesto.</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-cyan-500/10 border border-cyan-500/30 p-4 rounded-lg'><p class='font-semibold text-cyan-700 dark:text-cyan-300 mb-2 text-lg'>Valores</p><ul class='text-base space-y-1'><li>Solidaridad</li><li>Justicia</li><li>Responsabilidad</li><li>Respeto</li><li>Honestidad</li></ul></div><div class='bg-orange-500/10 border border-orange-500/30 p-4 rounded-lg'><p class='font-semibold text-orange-700 dark:text-orange-300 mb-2 text-lg'>Antivalores</p><ul class='text-base space-y-1'><li>Egoísmo</li><li>Injusticia</li><li>Irresponsabilidad</li><li>Irrespeto</li><li>Deshonestidad</li></ul></div></div><p class='text-lg'>La <strong>solidaridad</strong> permite el entendimiento mutuo y el compartir ideales y fines comunes.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Responsabilidad moral",
+      "html": "<p class='text-lg'>La <strong>responsabilidad moral</strong> es la capacidad de responder por nuestros actos libres y conscientes.</p><p class='text-lg'>Para que exista responsabilidad moral se requiere:</p><ul class='text-lg'><li><strong>Libertad:</strong> actuar sin coacción externa.</li><li><strong>Conocimiento:</strong> saber qué estamos haciendo y sus consecuencias.</li><li><strong>Intención:</strong> querer realizar el acto.</li></ul><p class='text-lg'>Si falta alguno de estos elementos, la responsabilidad puede disminuir o anularse.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Derechos humanos",
+      "html": "<p class='text-lg'>Los <strong>derechos humanos</strong> son facultades inherentes a toda persona por el solo hecho de serlo. Son universales, inalienables e indivisibles.</p><p class='text-lg'>Incluyen derechos civiles, políticos, económicos, sociales y culturales. Su protección es obligación del Estado y su defensa compete a todos.</p><p class='text-lg'>Cuando un derecho humano es violado, debe ser perseguido por las autoridades correspondientes.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "La persona humana y la bioética",
+      "html": "<p class='text-lg'>Para <strong>Santo Tomás de Aquino</strong>, la persona humana se caracteriza por:</p><ul class='text-lg'><li><strong>Dignidad:</strong> vale por sí misma, no como medio para otro fin.</li><li><strong>Autonomía:</strong> capacidad de decidir libremente sobre su vida.</li><li><strong>Autoconciencia:</strong> capacidad de reflexionar sobre sí misma y sobre sus actos.</li></ul><p class='text-lg'>La <strong>bioética</strong> es el estudio sistemático de la conducta humana en el campo de las ciencias biológicas y la salud, a la luz de valores y principios morales.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Desarrollo sustentable",
+      "html": "<p class='text-lg'>El <strong>desarrollo sustentable</strong> es la satisfacción de las necesidades esenciales de la generación presente sin comprometer la capacidad de satisfacer las necesidades de las generaciones futuras.</p><p class='text-lg'>Integra tres dimensiones:</p><ul class='text-lg'><li><strong>Económica:</strong> crecimiento sin agotar recursos.</li><li><strong>Social:</strong> equidad y bienestar para todos.</li><li><strong>Ambiental:</strong> protección de los ecosistemas.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Empresa socialmente responsable",
+      "html": "<p class='text-lg'>Una <strong>empresa socialmente responsable</strong> es aquella que contribuye activa y voluntariamente al mejoramiento social, económico y ambiental, buscando un equilibrio entre sus intereses y los de la sociedad.</p><p class='text-lg'>Su desempeño se evalúa con el <strong>triple resultado</strong>:</p><ul class='text-lg'><li>Económico (rentabilidad)</li><li>Social (impacto en las personas)</li><li>Ambiental (cuidado del entorno)</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Biotecnología y tecnociencia",
+      "html": "<p class='text-lg'>La <strong>biotecnología</strong> es toda aplicación tecnológica que utilice sistemas biológicos, organismos vivos o sus derivados para crear o modificar productos o procesos con usos específicos.</p><p class='text-lg'>El término <strong>tecnociencia</strong> se refiere a la fusión entre ciencia y tecnología: el conocimiento científico se genera en función de sus aplicaciones tecnológicas.</p><p class='text-lg'>Ejemplo: Louis Pasteur y la vacuna antirrábica (tecnocientífico).</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Los sectores económicos",
+      "html": "<p class='text-lg'>Las actividades económicas se dividen en tres sectores:</p><ul class='text-lg'><li><strong>Sector primario:</strong> extracción de recursos naturales. Ej: agricultura, pesca, minería, ganadería.</li><li><strong>Sector secundario:</strong> transformación de materias primas en productos elaborados. Ej: industria metalmecánica, manufactura, construcción.</li><li><strong>Sector terciario:</strong> servicios que no producen bienes materiales pero favorecen a los otros sectores. Ej: comercio, transporte, comunicaciones, turismo, educación, salud.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Biodegradación",
+      "html": "<p class='text-lg'>Los productos o sustancias <strong>biodegradables</strong> pueden descomponerse en sus elementos químicos por la acción de agentes biológicos (plantas, animales, microorganismos, hongos) en condiciones naturales.</p><p class='text-lg'>Tiempos aproximados de degradación:</p><ul class='text-lg'><li>Tela de algodón: 1 a 5 meses</li><li>Cáscara de naranja: 6 meses</li><li>Estaca de madera: 2 a 3 años</li><li>Botella de vidrio: 4000 años o más</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "El método científico en las ciencias sociales",
+      "html": "<p class='text-lg'>Las ciencias sociales también aplican el <strong>método científico</strong>. Sus pasos principales son:</p><ol class='text-lg'><li><strong>Idea u observación:</strong> se detecta un fenómeno a estudiar.</li><li><strong>Planteamiento del problema:</strong> se formula la pregunta de investigación.</li><li><strong>Marco teórico:</strong> se revisa lo que ya se sabe del tema.</li><li><strong>Hipótesis:</strong> se propone una explicación tentativa.</li><li><strong>Muestra:</strong> se selecciona a quién o qué se estudiará.</li><li><strong>Recolección de datos:</strong> se aplican instrumentos (encuestas, entrevistas, observación).</li><li><strong>Análisis de datos:</strong> se procesa la información.</li><li><strong>Conclusiones:</strong> se valida o rechaza la hipótesis.</li></ol>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tipos de conocimiento",
+      "html": "<p class='text-lg'>Distinguimos varios tipos de conocimiento:</p><ul class='text-lg'><li><strong>Empírico:</strong> se adquiere por la experiencia y los sentidos, sin método.</li><li><strong>Científico:</strong> es sistemático, riguroso y verificable. Busca explicar la realidad natural y social.</li><li><strong>Filosófico:</strong> reflexiona sobre los fundamentos últimos de la realidad.</li></ul><p class='text-lg'>El conocimiento científico es la forma más compleja del pensamiento abstracto humano aplicada al estudio de la realidad.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "La Revolución Industrial",
+      "html": "<p class='text-lg'>La <strong>Revolución Industrial</strong> fue un proceso de cambio económico y técnico que se originó y desarrolló en <strong>Gran Bretaña entre 1780 y 1850</strong>.</p><p class='text-lg'>Transformaciones principales:</p><ul class='text-lg'><li>Máquinas reemplazan el trabajo manual.</li><li>Sistema fabril reemplaza al taller artesanal.</li><li>Producción en serie reduce costos y aumenta volumen.</li><li>Surgen nuevas clases sociales: burguesía industrial y proletariado.</li><li>Aparece la 'cuestión social': pobreza urbana, explotación laboral, explotación irracional de la tierra.</li></ul>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Repaso: preguntas de la clase",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white mb-4'>Repaso de la clase</p><p class='text-lg text-slate-700 dark:text-slate-200'>A continuación, una serie de preguntas para reforzar lo aprendido sobre ética, moral y problemas contemporáneos.</p>"
+    },
+  {
+  "tipo": "pregunta",
+  "pregunta": "¿Cuál es la diferencia principal entre moral y ética?",
+  "opciones": [
+    "La moral son normas vividas y la ética es la reflexión filosófica sobre ellas",
+    "La moral es reflexión filosófica y la ética son normas vividas en sociedad",
+    "La moral y la ética son sinónimos que se usan indistintamente",
+    "La moral se aplica solo en la ciencia y la ética solo en la religión"
+  ],
+  "correcta": 0,
+  "explicacion": "La moral es el conjunto de normas vividas por una sociedad; la ética es la reflexión racional y filosófica sobre esas normas."
+},
+{
+  "tipo": "pregunta",
+  "pregunta": "Cuando las normas morales se fundan en algo ajeno a la persona, hablamos de:",
+  "opciones": [
+    "Heteronomía, porque la norma viene desde fuera del sujeto",
+    "Autonomía, porque la persona se da sus propias normas",
+    "Obligatoriedad, porque la norma siempre es obligatoria",
+    "Obligación, porque la persona debe cumplir la norma"
+  ],
+  "correcta": 0,
+  "explicacion": "La heteronomía es cuando la norma moral proviene de fuera del sujeto (familia, Estado, sociedad), no de su propia razón."
+},
+{
+  "tipo": "pregunta",
+  "pregunta": "¿Qué valor permite el entendimiento mutuo y el compartir ideales y fines comunes?",
+  "opciones": [
+    "La solidaridad, que une a las personas y permite compartir metas",
+    "La humildad, que permite reconocer los errores propios",
+    "La esperanza, que impulsa a proyectarse hacia el futuro",
+    "La bondad, que se manifiesta en acciones desinteresadas"
+  ],
+  "correcta": 0,
+  "explicacion": "La solidaridad une a las personas, permitiendo comprender al otro y compartir metas comunes."
+},
+{
+  "tipo": "pregunta",
+  "pregunta": "¿Cuáles son los elementos necesarios para que exista responsabilidad moral?",
+  "opciones": [
+    "Libertad, conocimiento e intención, sin coacción externa",
+    "Fuerza, obediencia y temor a las consecuencias negativas",
+    "Riqueza, poder y estatus social reconocido por la comunidad",
+    "Tradición, costumbre y rutina que se sigue sin cuestionar"
+  ],
+  "correcta": 0,
+  "explicacion": "Para que exista responsabilidad moral se requiere libertad (sin coacción), conocimiento (saber qué se hace) e intención (querer hacerlo)."
+},
+{
+  "tipo": "pregunta",
+  "pregunta": "Una violación a los derechos humanos debe ser perseguida por:",
+  "opciones": [
+    "El sistema judicial y las autoridades competentes del Estado",
+    "Solamente las autoridades municipales de cada localidad",
+    "Solamente las organizaciones civiles que defienden derechos",
+    "Exclusivamente el ejército y las fuerzas armadas del país"
+  ],
+  "correcta": 0,
+  "explicacion": "El sistema judicial y las autoridades del Estado tienen la obligación de perseguir y sancionar las violaciones a los derechos humanos."
+},
+{
+  "tipo": "pregunta",
+  "pregunta": "Según Santo Tomás de Aquino, ¿cuáles son las tres características esenciales de la persona humana?",
+  "opciones": [
+    "Dignidad, autonomía y autoconciencia, que fundamentan el respeto",
+    "Honestidad, tolerancia y sinceridad, que guían la vida social",
+    "Simpatía, obediencia y amistad, que facilitan la convivencia",
+    "Belleza, heteronomía y valentía, que definen su actuar moral"
+  ],
+  "correcta": 0,
+  "explicacion": "Para Santo Tomás, la persona se distingue por su dignidad, su autonomía y su autoconciencia."
+},
+{
+  "tipo": "pregunta",
+  "pregunta": "El estudio sistemático de la conducta humana en ciencias biológicas y la salud, a la luz de valores morales, se llama:",
+  "opciones": [
+    "Bioética, que analiza dilemas como la eutanasia y el aborto",
+    "Biomedicina, que estudia las enfermedades de los seres vivos",
+    "Ética biológica, que aplica la biología a la vida moral",
+    "Ética aplicada, que resuelve problemas morales generales"
+  ],
+  "correcta": 0,
+  "explicacion": "La bioética analiza los dilemas éticos en biología y salud: eutanasia, aborto, manipulación genética, etc."
+},
+{
+  "tipo": "pregunta",
+  "pregunta": "¿Cuál de las siguientes definiciones corresponde al desarrollo sustentable?",
+  "opciones": [
+    "Satisfacer las necesidades actuales sin comprometer las de las generaciones futuras",
+    "Aumentar las opciones de todos los habitantes de una región en el presente",
+    "Crear riqueza aprovechando los recursos naturales sin importar su agotamiento",
+    "Explotar los recursos naturales al máximo para acelerar el crecimiento económico"
+  ],
+  "correcta": 0,
+  "explicacion": "El desarrollo sustentable busca satisfacer las necesidades actuales sin comprometer la capacidad de las generaciones futuras."
+},
+{
+  "tipo": "pregunta",
+  "pregunta": "Una empresa que contribuye voluntariamente al mejoramiento social, económico y ambiental se conoce como:",
+  "opciones": [
+    "Empresa socialmente responsable, evaluada con el triple resultado",
+    "Sociedad de responsabilidad limitada, que protege a sus socios",
+    "Empresa económicamente corporativa, enfocada solo en ganancias",
+    "Sociedad comercial de capital social, formada por accionistas"
+  ],
+  "correcta": 0,
+  "explicacion": "La empresa socialmente responsable integra en su operación el cuidado social y ambiental, evaluándose con el triple resultado."
+},
+{
+  "tipo": "pregunta",
+  "pregunta": "Toda aplicación tecnológica que utilice sistemas biológicos y organismos vivos para crear o modificar productos se denomina:",
+  "opciones": [
+    "Biotecnología, aplicada en medicina, agricultura e industria",
+    "Genética, que estudia la herencia de los caracteres biológicos",
+    "Bioquímica, que estudia las reacciones químicas de la vida",
+    "Microbiología, que estudia los microorganismos y sus efectos"
+  ],
+  "correcta": 0,
+  "explicacion": "La biotecnología utiliza sistemas biológicos y organismos vivos para desarrollar productos y procesos útiles."
+},
+{
+  "tipo": "pregunta",
+  "pregunta": "El sector económico primario está integrado por actividades que:",
+  "opciones": [
+    "Extraen bienes y recursos naturales, como la agricultura y la pesca",
+    "Transforman materias primas en productos elaborados y manufacturados",
+    "Ofrecen servicios como el turismo, la educación y la salud",
+    "Distribuyen productos terminados a través del comercio y transporte"
+  ],
+  "correcta": 0,
+  "explicacion": "El sector primario se basa en la extracción directa de recursos naturales: agricultura, pesca, minería, ganadería."
+},
+{
+  "tipo": "pregunta",
+  "pregunta": "¿Cuál de los siguientes productos tarda más tiempo en biodegradarse?",
+  "opciones": [
+    "La botella de vidrio, que puede tardar más de 4000 años",
+    "La tela de algodón, que tarda entre 1 y 5 meses en degradarse",
+    "La cáscara de naranja, que tarda alrededor de 6 meses en degradarse",
+    "La estaca de madera, que puede tardar entre 2 y 3 años en degradarse"
+  ],
+  "correcta": 0,
+  "explicacion": "El vidrio puede tardar alrededor de 4000 años en degradarse, mientras que el algodón tarda meses y la madera unos años."
+},
+{
+  "tipo": "pregunta",
+  "pregunta": "¿Cuál es el orden correcto de los pasos del método científico en ciencias sociales?",
+  "opciones": [
+    "Idea, planteamiento del problema, marco teórico, hipótesis, muestra, recolección, análisis y conclusiones",
+    "Planteamiento del problema, idea, muestra, marco teórico, recolección, hipótesis, análisis y conclusiones",
+    "Hipótesis, idea, marco teórico, muestra, planteamiento, recolección, análisis y conclusiones",
+    "Muestra, idea, hipótesis, marco teórico, planteamiento, recolección, análisis y conclusiones"
+  ],
+  "correcta": 0,
+  "explicacion": "El orden típico es: idea u observación, planteamiento del problema, marco teórico, hipótesis, muestra, recolección de datos, análisis y conclusiones."
+},
+{
+  "tipo": "pregunta",
+  "pregunta": "¿Qué es el conocimiento empírico?",
+  "opciones": [
+    "El que se adquiere por medio de los sentidos y la experiencia directa",
+    "El que resulta de operaciones abstractas de la lógica simbólica",
+    "El que se obtiene en laboratorios siguiendo un método riguroso",
+    "El que se deduce lógicamente de otro conocimiento previamente establecido"
+  ],
+  "correcta": 0,
+  "explicacion": "El conocimiento empírico se adquiere por la experiencia directa y los sentidos, sin necesidad de un método sistemático."
+},
+{
+  "tipo": "pregunta",
+  "pregunta": "¿A qué se le conoce con el nombre de Revolución Industrial?",
+  "opciones": [
+    "Al proceso de cambio económico y técnico iniciado en Gran Bretaña entre 1780 y 1850",
+    "Al movimiento político iniciado en Francia en 1789 contra la monarquía absoluta",
+    "Al movimiento independentista de las trece colonias inglesas de Norteamérica",
+    "A la revolución científica contra los dogmas religiosos de la Edad Media"
+  ],
+  "correcta": 0,
+  "explicacion": "La Revolución Industrial inició en Gran Bretaña y transformó la producción, la sociedad y la economía mundial."
+},
+
+    {
+      "tipo": "actividad",
+      "titulo": "Reflexión: bioética en tu entorno",
+      "instrucciones": "Responde en tu cuaderno:\n\nPiensa en una situación actual donde se debata un tema bioético (eutanasia, aborto, manipulación genética, uso de animales en experimentación, etc.).\n\nResponde:\n• ¿Cuál es el dilema central?\n• ¿Qué principios bioéticos entran en conflicto?\n• ¿Qué postura tomarías y por qué?\n\nEscribe tu reflexión con al menos un párrafo.",
+      "pista": "Ejemplo: en la eutanasia chocan la autonomía del paciente (decidir sobre su vida) y la no maleficencia del médico (no causar daño)."
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Reflexión: la tecnología y la sociedad",
+      "instrucciones": "Responde en tu cuaderno:\n\nReflexiona sobre el papel de la tecnología en la sociedad actual:\n\n1. Menciona 3 avances tecnológicos que hayan mejorado tu vida.\n2. Menciona 3 efectos negativos del uso de la tecnología.\n3. ¿Crees que la tecnología siempre beneficia a la sociedad? ¿Por qué?\n4. ¿Cómo se relaciona la tecnología con la ética?\n\nEscribe tu reflexión en al menos un párrafo.",
+      "pista": "La tecnología puede servir para el bien (medicina, comunicación) o para el mal (vigilancia, contaminación). La ética nos ayuda a decidir cómo usarla."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 4",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase 4</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Ética, Moral y Problemas Contemporáneos</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Fin del contenido del Módulo 4. ¡Excelente trabajo!</p>"
+    }
+  ]
+}

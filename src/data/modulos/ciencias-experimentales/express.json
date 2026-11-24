@@ -1,0 +1,411 @@
+{
+  "titulo": "Clase Express: Ciencias Experimentales",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Ciencias Experimentales",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Clase Express: Ciencias Experimentales</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Recorrido por los conceptos fundamentales de Geograf?a, Biolog?a, Qu?mica y F?sica.</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>La clase express re?ne los contenidos esenciales de las cuatro sesiones.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: ¿Qué es la geografía?",
+      "html": "<p class='text-lg'>La <strong>geografía</strong> es la ciencia que estudia la superficie terrestre, los fenómenos que ocurren en ella y la relación entre el ser humano y su entorno.</p><p class='text-lg'>Se divide en <strong>dos grandes ramas</strong>: la geografía física y la geografía humana.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Geografía física vs geografía humana",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Geografía física</p><div class='text-base'>Estudia elementos <em>naturales</em>: clima, relieve, cuerpos de agua, suelos y vegetación. Se apoya en meteorología, geología e hidrología.</div></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Geografía humana</p><div class='text-base'>Estudia la relación del ser humano con el espacio: población, cultura, economía, política y urbanización. Se apoya en sociología, economía y demografía.</div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: ¿Qué es un mapa?",
+      "html": "<p class='text-lg'>Un <strong>mapa</strong> es la representación gráfica y a escala de una porción de la superficie terrestre. Nos permite ubicar lugares, medir distancias y entender relaciones espaciales.</p><p class='text-lg'>Los mapas traducen la realidad tridimensional a un plano bidimensional de manera comprensible.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Los cuatro elementos obligatorios",
+      "html": "<p class='text-lg'>Todo mapa bien elaborado debe tener cuatro elementos:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Título</p><div class='text-base'>Indica qué representa el mapa y qué zona abarca.</div></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Escala</p><div class='text-base'>Relaciona las distancias del mapa con las distancias reales. Ejemplo: 1:50,000.</div></div><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Simbología</p><div class='text-base'>Explica el significado de cada color, línea o símbolo.</div></div><div class='bg-amber-500/10 border border-amber-500/30 p-4 rounded-lg'><p class='font-semibold text-amber-700 dark:text-amber-300 mb-2 text-lg'>Coordenadas</p><div class='text-base'>Usa latitud y longitud para ubicar cualquier punto.</div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Tipos de mapas",
+      "html": "<p class='text-lg'>Los mapas se clasifican según la información que representan. Los tres tipos principales son: <strong>político, físico y temático</strong>. Además existe el <strong>topográfico</strong>, que combina información de varios tipos.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Herramientas geográficas modernas",
+      "html": "<p class='text-lg'>La geografía moderna usa tecnología para estudiar el espacio con mayor precisión. Estas herramientas han transformado la manera en que analizamos el territorio.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: SIG y GPS",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>SIG</p><div class='text-base'>Integra mapas con bases de datos para hacer consultas y análisis espaciales interactivos.</div></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>GPS</p><div class='text-base'>Sistema de satélites que determina la posición exacta de un lugar. Es el que usa tu celular para ubicarte.</div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: ¿Qué es la erosión?",
+      "html": "<p class='text-lg'>La <strong>erosión</strong> es el desgaste y transporte de la superficie terrestre por agentes naturales como el viento, el agua o el hielo.</p><p class='text-lg'>Es un proceso <strong>externo</strong> que ocurre en la superficie del planeta, a diferencia de los procesos internos (tectonismo y vulcanismo) que <em>crean</em> relieve desde el interior.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Tipos de erosión",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Eólica</p><div class='text-base'>Causada por el viento. Forma dunas.</div></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Marina</p><div class='text-base'>Causada por el oleaje. Forma acantilados, playas y arcos naturales.</div></div><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Fluvial</p><div class='text-base'>Causada por ríos y arroyos. Forma valles, cañones y deltas.</div></div><div class='bg-amber-500/10 border border-amber-500/30 p-4 rounded-lg'><p class='font-semibold text-amber-700 dark:text-amber-300 mb-2 text-lg'>Glaciar</p><div class='text-base'>Causada por glaciares. Forma valles en U y circos.</div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: ¿Qué son los recursos naturales?",
+      "html": "<p class='text-lg'>Los <strong>recursos naturales</strong> son los elementos de la naturaleza que el ser humano aprovecha para satisfacer sus necesidades: alimentos, energía, materiales, agua.</p><p class='text-lg'>Se clasifican según su capacidad de regeneración en tres grandes grupos.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Clasificación de los recursos",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Inagotables</p><div class='text-base'>No se acaban con su uso. Ejemplos: Sol, viento y energía geotérmica.</div></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Renovables</p><div class='text-base'>Se regeneran si se usan con cuidado. Ejemplos: agua, flora, fauna y suelo.</div></div><div class='bg-amber-500/10 border border-amber-500/30 p-4 rounded-lg'><p class='font-semibold text-amber-700 dark:text-amber-300 mb-2 text-lg'>No renovables</p><div class='text-base'>Se agotan y no se regeneran rápidamente. Ejemplos: petróleo, gas, carbón y minerales.</div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Climas de México (Köppen)",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Primera letra: temperatura</p><div class='text-base'>A = tropical; B = seco; C = templado.</div></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Segunda letra: lluvias</p><div class='text-base'>f = todo el año; w = verano; s = invierno.</div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Climas principales de México",
+      "html": "<table class='w-full text-lg text-left my-4 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-2'>Código</th><th class='py-2'>Nombre</th><th class='py-2'>Dónde</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-2'>Af</td><td class='py-2'>Tropical lluvioso todo el año</td><td class='py-2'>Selva Lacandona, sur de Chiapas</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Aw</td><td class='py-2'>Tropical con lluvias en verano</td><td class='py-2'>Costa del Pacífico y Golfo</td></tr><tr class='border-b border-slate-600'><td class='py-2'>BS</td><td class='py-2'>Seco estepario</td><td class='py-2'>Norte de México, Sonora</td></tr><tr class='border-b border-slate-600'><td class='py-2'>BW</td><td class='py-2'>Seco desértico</td><td class='py-2'>Baja California, Chihuahua</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Cf</td><td class='py-2'>Templado lluvioso todo el año</td><td class='py-2'>Sierras altas</td></tr><tr><td class='py-2'>Cw</td><td class='py-2'>Templado con lluvias en verano</td><td class='py-2'>CDMX, Michoacán, Edo. de México</td></tr></tbody></table>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: Fenómenos naturales de riesgo",
+      "html": "<p class='text-lg'>Los <strong>fenómenos naturales</strong> son eventos de la naturaleza que pueden representar riesgos para la población. Se clasifican según el medio en el que ocurren.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: Clasificación de fenómenos",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Naturales</p><div class='text-base'>Geológicos, hidrometeorológicos y biológicos. No dependen directamente de una acción humana.</div></div><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Antropogénicos</p><div class='text-base'>Son causados por actividades humanas, como contaminación, incendios provocados o derrames.</div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 9: ¿Qué son los indicadores demográficos?",
+      "html": "<p class='text-lg'>Los <strong>indicadores demográficos</strong> son datos estadísticos que describen a una población: cómo crece, cómo se mueve, cuánto vive.</p><p class='text-lg'>Son fundamentales para planear políticas públicas, servicios de salud, educación y empleo.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 9: Indicadores principales",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Población</p><div class='text-base'>Natalidad, mortalidad, crecimiento y densidad.</div></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Movilidad</p><div class='text-base'>Inmigración, emigración y migración neta.</div></div><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Condiciones sociales</p><div class='text-base'>Esperanza de vida, morbilidad y acceso a servicios.</div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 9: El IDH (Índice de Desarrollo Humano)",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Salud</p><div class='text-base'>Esperanza de vida al nacer.</div></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Educación</p><div class='text-base'>Años promedio y esperados de escolaridad.</div></div><div class='bg-amber-500/10 border border-amber-500/30 p-4 rounded-lg'><p class='font-semibold text-amber-700 dark:text-amber-300 mb-2 text-lg'>Ingreso</p><div class='text-base'>Ingreso nacional bruto por persona.</div></div></div><p class='text-lg mt-2'>El IDH combina estos tres indicadores para comparar el desarrollo de los países.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: ¿Qué son las biomoléculas?",
+      "html": "<p class='text-lg'>Las <strong>biomoléculas</strong> son las moléculas que forman a los seres vivos. Se clasifican en cuatro grupos según su composición y función:</p><div class='mt-2 grid grid-cols-1 md:grid-cols-2 gap-2 my-4'><div class='mt-2 blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Carbohidratos</p><div class='text-base'>Fuente de energía inmediata. Ejemplos: glucosa, almidón y celulosa.</div></div><div class='mt-2 emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Lípidos</p><div class='text-base'>Reserva energética a largo plazo. Ejemplos: grasas, aceites y colesterol.</div></div><div class='mt-2 purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Proteínas</p><div class='text-base'>Forman estructuras y regulan procesos vitales. Ejemplos: enzimas y hemoglobina.</div></div><div class='mt-2 amber-500/10 border border-amber-500/30 p-4 rounded-lg'><p class='font-semibold text-amber-700 dark:text-amber-300 mb-2 text-lg'>Ácidos nucleicos</p><div class='text-base'>Almacenan y transmiten la información genética. Ejemplos: ADN y ARN.</div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Carbohidratos y lípidos",
+      "html": "<div class='mt-2 grid grid-cols-1 md:grid-cols-2 gap-2 my-4'><div class='mt-2 blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Carbohidratos</p><div class='text-base'>Son la fuente de <strong>energía inmediata</strong>. <ul class=\"mt-2 list-disc list-inside\"><li>Monosacáridos: glucosa y fructosa.</li><li>Polisacáridos: almidón, celulosa y glucógeno.</li></ul></div></div><div class='mt-2 emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Lípidos</p><div class='text-base'>Son la fuente de <strong>energía de reserva</strong>. Incluyen grasas, aceites y colesterol. El colesterol es un lípido, no un carbohidrato.</div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Proteínas y ácidos nucleicos",
+      "html": "<div class='mt-2 grid grid-cols-1 md:grid-cols-2 gap-2 my-4'><div class='mt-2 purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Proteínas</p><div class='text-base'>Forman estructuras celulares y dirigen procesos vitales. Ejemplos: enzimas, hemoglobina y queratina.</div></div><div class='mt-2 amber-500/10 border border-amber-500/30 p-4 rounded-lg'><p class='font-semibold text-amber-700 dark:text-amber-300 mb-2 text-lg'>Ácidos nucleicos</p><div class='text-base'>Almacenan y transmiten la <strong>información genética</strong>. Ejemplos: ADN y ARN.</div></div></div><div class='mt-2 p-4 rounded-lg bg-slate-500/10 border border-slate-500/30 text-lg'><strong>Resumen:</strong> carbohidratos = energía inmediata; lípidos = reserva; proteínas = construcción y regulación; ácidos nucleicos = herencia.</div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: ¿Qué es la célula?",
+      "html": "<p class='text-lg'>La <strong>célula</strong> es la unidad básica de la vida. Todos los seres vivos están formados por células.</p><p class='text-lg'>Se dividen en dos grandes tipos:</p><ul class='text-lg'><li><strong>Procariotas:</strong> no tienen núcleo verdadero ni organelos membranosos. Ejemplo: bacterias.</li><li><strong>Eucariotas:</strong> tienen núcleo verdadero y organelos membranosos. Ejemplo: animales, plantas, hongos y protistas.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Organelos principales",
+      "html": "<table class='w-full text-lg text-left my-4 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-2'>Organelo</th><th class='py-2'>Función</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-2'>Membrana celular</td><td class='py-2'>Regula entrada y salida de sustancias</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Núcleo</td><td class='py-2'>Contiene el ADN. Centro de control</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Mitocondria</td><td class='py-2'>Respiración celular. Produce ATP (energía)</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Ribosoma</td><td class='py-2'>Síntesis de proteínas</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Cloroplasto</td><td class='py-2'>Fotosíntesis (SOLO células vegetales)</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Lisosoma</td><td class='py-2'>Digestión y degradación celular</td></tr><tr><td class='py-2'>Pared celular</td><td class='py-2'>Da rigidez (vegetales, hongos, bacterias)</td></tr></tbody></table>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Procariotas vs eucariotas",
+      "html": "<p class='text-lg'>La diferencia principal está en la presencia de un núcleo verdadero y de organelos membranosos.</p><div class='mt-2 grid grid-cols-1 md:grid-cols-2 gap-2 my-4'><div class='mt-2 blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Procariotas</p><div class='text-base'>No tienen núcleo verdadero ni organelos membranosos. Ejemplo: bacterias.</div></div><div class='mt-2 purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Eucariotas</p><div class='text-base'>Tienen núcleo verdadero y organelos membranosos. Ejemplos: animales, plantas, hongos y protistas.</div></div></div><div class='mt-2 p-4 rounded-lg bg-amber-500/10 border border-amber-500/30 text-lg'><strong>Truco:</strong> cloroplasto → verde → fotosíntesis; mitocondria → energía celular.</div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Fotosíntesis vs respiración celular",
+      "html": "<p class='text-lg'>Son dos procesos complementarios pero <strong>opuestos</strong>. No los confundas:</p><table class='w-full text-lg text-left my-4 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-2'></th><th class='py-2'>Fotosíntesis</th><th class='py-2'>Respiración celular</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-2'><strong>Dónde</strong></td><td class='py-2'>Cloroplasto</td><td class='py-2'>Mitocondria</td></tr><tr class='border-b border-slate-600'><td class='py-2'><strong>Entrada</strong></td><td class='py-2'>CO₂ + H₂O + luz</td><td class='py-2'>Glucosa + O₂</td></tr><tr class='border-b border-slate-600'><td class='py-2'><strong>Salida</strong></td><td class='py-2'>Glucosa + O₂</td><td class='py-2'>CO₂ + H₂O + ATP</td></tr><tr><td class='py-2'><strong>Tipo</strong></td><td class='py-2'>Anabólica (construye)</td><td class='py-2'>Catabólica (degrada)</td></tr></tbody></table>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Fases de la fotosíntesis",
+      "html": "<p class='text-lg'>La fotosíntesis tiene dos fases:</p><ul class='text-lg'><li><strong>Fase luminosa:</strong> ocurre en los <strong>tilacoides</strong>. La clorofila absorbe luz. Se produce <strong>ATP, NADPH y se libera O₂</strong>.</li><li><strong>Fase oscura (Ciclo de Calvin):</strong> ocurre en el <strong>estroma</strong>. NO necesita luz directa. Usa ATP, NADPH y CO₂ para producir <strong>glucosa</strong>.</li></ul><p class='text-lg'><strong>Ecuación general:</strong></p><p class='font-mono text-center text-lg my-4 text-slate-800 dark:text-white'>6CO₂ + 6H₂O + luz → C₆H₁₂O₆ + 6O₂</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Mitosis y meiosis",
+      "html": "<p class='text-lg'>Ambas son formas de <strong>división celular</strong> pero con funciones muy distintas:</p><table class='w-full text-lg text-left my-4 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-2'></th><th class='py-2'>Mitosis</th><th class='py-2'>Meiosis</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-2'><strong>Resultado</strong></td><td class='py-2'>2 células iguales</td><td class='py-2'>4 células diferentes</td></tr><tr class='border-b border-slate-600'><td class='py-2'><strong>Cromosomas</strong></td><td class='py-2'>Igual cantidad</td><td class='py-2'>La mitad (haploides)</td></tr><tr class='border-b border-slate-600'><td class='py-2'><strong>Función</strong></td><td class='py-2'>Crecimiento y reparación</td><td class='py-2'>Producción de gametos</td></tr><tr><td class='py-2'><strong>Dónde</strong></td><td class='py-2'>Células somáticas</td><td class='py-2'>Óvulos y espermatozoides</td></tr></tbody></table>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Diferencias clave",
+      "html": "<div class='mt-2 grid grid-cols-1 md:grid-cols-2 gap-2 my-4'><div class='mt-2 blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Mitosis</p><div class='text-base'>Produce 2 células hijas genéticamente iguales. Interviene en crecimiento y reparación.</div></div><div class='mt-2 purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Meiosis</p><div class='text-base'>Produce 4 células diferentes con la mitad de cromosomas. Forma gametos.</div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Genética: conceptos básicos",
+      "html": "<p class='text-lg'>La <strong>genética</strong> estudia la herencia de los caracteres de una generación a otra. Vocabulario clave:</p><ul class='text-lg'><li><strong>Genotipo:</strong> combinación de alelos (AA, Aa, aa).</li><li><strong>Fenotipo:</strong> lo que se ve (color verde o amarillo).</li><li><strong>Homocigoto:</strong> dos alelos iguales (AA, aa).</li><li><strong>Heterocigoto:</strong> dos alelos distintos (Aa).</li><li><strong>Alelo dominante:</strong> se expresa aunque haya solo uno (A).</li><li><strong>Alelo recesivo:</strong> solo se expresa si ambos están presentes (aa).</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: 1ª Ley de Mendel - Uniformidad",
+      "html": "<p class='text-lg'><strong>1ª Ley de Mendel: Ley de la uniformidad.</strong></p><p class='text-lg'>Cruce: <div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>AA × aa</span></div></p><p class='text-lg'>Resultado: <div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>Aa &nbsp; Aa &nbsp; Aa &nbsp; Aa</span></div></p><p class='text-lg'>El 100% de la primera generación son iguales (heterocigotos). Todos muestran el carácter dominante.</p><p class='text-lg'><strong>Ejemplo:</strong> cruzar una planta de guisante alta pura (AA) con una baja pura (aa) → todos los hijos son altos (Aa).</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Teorías de la evolución",
+      "html": "<p class='text-lg'>A lo largo de la historia se han propuesto varias teorías para explicar cómo evolucionan las especies:</p><table class='w-full text-lg text-left my-4 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-2'>Teoría</th><th class='py-2'>Autor</th><th class='py-2'>Idea central</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-2'>Lamarckista</td><td class='py-2'>Lamarck</td><td class='py-2'>Uso y desuso de órganos · herencia de caracteres adquiridos</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Catastrofista</td><td class='py-2'>Cuvier</td><td class='py-2'>Catástrofes extinguen especies y aparecen otras nuevas</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Darwinista</td><td class='py-2'>Darwin</td><td class='py-2'>Selección natural · sobrevive el más apto</td></tr><tr><td class='py-2'>Sintética</td><td class='py-2'>Dobzhansky, Mayr</td><td class='py-2'>Combina Darwin + Mendel + genética de poblaciones</td></tr></tbody></table>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Darwin y la selección natural",
+      "html": "<p class='text-lg'><strong>Charles Darwin</strong> propuso la teoría de la <strong>selección natural</strong>. Sus ideas clave:</p><ul class='text-lg'><li>Los individuos de una especie presentan <strong>variaciones</strong> naturales.</li><li>Algunas variaciones son más favorables para sobrevivir en un ambiente dado.</li><li>Los individuos mejor adaptados sobreviven y se reproducen más.</li><li>Con el tiempo, esas variaciones favorables se hacen comunes en la población.</li></ul><p class='text-lg'>Darwin publicó su teoría en 1859 en <em>El origen de las especies</em>.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Relaciones interespecíficas",
+      "html": "<p class='text-lg'>Son las interacciones entre individuos de <strong>diferentes especies</strong>. Se clasifican según el beneficio o perjuicio para cada una:</p><table class='w-full text-lg text-left my-4 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-2'>Relación</th><th class='py-2'>Especie A</th><th class='py-2'>Especie B</th><th class='py-2'>Ejemplo</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-2'>Mutualismo</td><td class='py-2'>+ gana</td><td class='py-2'>+ gana</td><td class='py-2'>Abeja y flor</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Comensalismo</td><td class='py-2'>+ gana</td><td class='py-2'>0 no se afecta</td><td class='py-2'>Orquídea sobre árbol</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Competencia</td><td class='py-2'>– pierde</td><td class='py-2'>– pierde</td><td class='py-2'>Leones por territorio</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Depredación</td><td class='py-2'>+ gana</td><td class='py-2'>– muere</td><td class='py-2'>Coyote y conejo</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Parasitismo</td><td class='py-2'>+ gana</td><td class='py-2'>– pierde (no muere rápido)</td><td class='py-2'>Pulga y perro</td></tr><tr><td class='py-2'>Amensalismo</td><td class='py-2'>– pierde</td><td class='py-2'>0 no se afecta</td><td class='py-2'>Nutria mata plantas con excremento</td></tr></tbody></table>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: ¿Qué es un ecosistema?",
+      "html": "<div class='mt-2 grid grid-cols-1 md:grid-cols-2 gap-2 my-4'><div class='mt-2 emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Ecosistema</p><div class='text-base'>Conjunto de seres vivos (biocenosis) y medio físico (biotopo) que interactúan.</div></div><div class='mt-2 blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Flujo de energía</p><div class='text-base'>La energía fluye del Sol a productores y consumidores en una sola dirección.</div></div><div class='mt-2 amber-500/10 border border-amber-500/30 p-4 rounded-lg'><p class='font-semibold text-amber-700 dark:text-amber-300 mb-2 text-lg'>Ciclo de la materia</p><div class='text-base'>Los nutrientes se reciclan continuamente mediante ciclos biogeoquímicos.</div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: ¿Qué es el átomo?",
+      "html": "<p class='text-lg'>El <strong>átomo</strong> es la unidad más pequeña de un elemento químico que conserva sus propiedades. Está formado por <strong>tres partículas subatómicas</strong>:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Protón (p⁺)</p><p class='text-base'>Carga positiva. Se encuentra en el núcleo. Su número define al elemento.</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Electrón (e⁻)</p><p class='text-base'>Carga negativa. Se encuentra en los orbitales. Forma los enlaces químicos.</p></div></div><p class='text-lg'>El <strong>neutrón (n)</strong> no tiene carga y también se encuentra en el núcleo. Si varía su número, se forman isótopos.</p><img src='https://www.iaea.org/sites/default/files/2026-01/atomo-ciencia-nuclear-detalle-es.png' alt='Átomo' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Número atómico y número másico",
+      "html": "<p class='text-lg'>Dos conceptos fundamentales para identificar un átomo:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Número atómico (Z)</p><p class='text-base'>Número de protones en el núcleo. <strong>Define al elemento.</strong> Todos los átomos del mismo elemento tienen el mismo Z.</p></div><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Número másico (A)</p><p class='text-base'>Suma de protones + neutrones. Indica la masa total del núcleo. <span class='font-mono'>A = Z + n</span></p></div></div><img src='https://concepto.de/wp-content/uploads/2019/11/numero-atomico-e1573437025288.jpg' alt='Número atómico' class='my-4 rounded-lg max-h-72 mx-auto' />",
+      "modal": "tabla-periodica"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Isótopos",
+      "html": "<p class='text-lg'>Los <strong>isótopos</strong> son átomos del mismo elemento (mismo Z) pero con <strong>diferente número de neutrones</strong> (diferente A).</p><p class='text-lg'>Ejemplo: Carbono-12 (6 protones + 6 neutrones) y Carbono-14 (6 protones + 8 neutrones). Ambos son carbono, pero con diferente masa.</p><p class='text-lg'>Los isótopos tienen las mismas propiedades químicas pero diferente masa atómica.</p><img src='https://descargas.intef.es/cedec/proyectoedia/fisica_quimica/contenidos/secretos_atomo/Blausen_0530_HydrogenIsotopes-es.png' alt='Isótopos del hidrógeno' class='my-4 rounded-lg max-h-72 mx-auto' />",
+      "modal": "tabla-periodica"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: ¿Qué es la masa molecular?",
+      "html": "<p class='text-lg'>La <strong>masa molecular (M)</strong> es la suma de las masas atómicas de todos los átomos que forman una molécula o compuesto. Se expresa en <strong>g/mol</strong>.</p><p class='text-lg'>Se calcula multiplicando la masa atómica de cada elemento por la cantidad de átomos que tiene en la fórmula, y luego sumando todo.</p><img src='https://s1.dmcdn.net/v/E38BC1ep8qyTFZABJ/x480' alt='Masa molecular' class='my-4 rounded-lg max-h-72 mx-auto' />",
+      "modal": "tabla-periodica"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Cómo calcular la masa molecular",
+      "html": "<p class='text-lg'><strong>Paso 1:</strong> identifica los elementos y sus masas atómicas (de la tabla periódica).</p><p class='text-lg'><strong>Paso 2:</strong> multiplica cada masa por la cantidad de átomos en la fórmula.</p><p class='text-lg'><strong>Paso 3:</strong> suma todos los resultados.</p><p class='text-lg'><strong>Ejemplo: H₂O (agua)</strong></p><ul class='text-lg'><li>H: 1 g/mol × 2 = 2 g/mol</li><li>O: 16 g/mol × 1 = 16 g/mol</li><li>Total: <strong>18 g/mol</strong></li></ul>",
+      "modal": "tabla-periodica"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: El mol y el número de Avogadro",
+      "html": "<p class='text-lg'>Un <strong>mol</strong> es una unidad que representa una cantidad fija de partículas: <strong>6.022 × 10²³ partículas</strong>.</p><p class='text-lg'>Este número se conoce como <strong>número de Avogadro (Nₐ)</strong> y es una constante universal.</p><p class='text-lg'>Así como una docena son 12 unidades, un mol son 6.022 × 10²³ partículas (átomos, moléculas, iones, etc.).</p><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwHpeawIAWNtjXZRziZ4S4camOvgie5XNHRsjAhaJRRrZr_N0PFDdOEGiW&s=10' alt='Número de Avogadro' class='my-4 rounded-lg max-h-72 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Relación entre masa, mol y partículas",
+      "html": "<p class='text-lg'>La fórmula clave relaciona la masa de una sustancia con los moles:</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>n = m / M</span></div><p class='text-lg'>Donde:</p><ul class='text-lg'><li><strong>n</strong> = número de moles</li><li><strong>m</strong> = masa en gramos (g)</li><li><strong>M</strong> = masa molecular (g/mol)</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: ¿Qué son los modelos atómicos?",
+      "html": "<p class='text-lg'>Los <strong>modelos atómicos</strong> son representaciones que la ciencia ha construido para explicar cómo está formado el átomo. Cada modelo ha ido evolucionando conforme se descubría nueva información.</p><p class='text-lg'>Conocer el orden histórico y el aporte de cada uno es clave para el examen.</p><img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV3UHSUxc8EzaWbSzZJ8YTnpWbuW6GYGT6Ej_D_lpVn8ICNkB12IVMsYipR1NZqPauYT2mEI84Gr-gyAtmm1YIt95am4TwInEQHp1nppoC8oD0YCwT7209ONlP8zJ2lw8Iv6moS4b5-P95hH8qk9y4MwwbVPMXrB5FrsdTQ0Lps2AfZcpTYIviEiofGGt6/s500/modelos%20ato%CC%81micos.png' alt='Modelos atómicos' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Modelos atómicos en orden histórico",
+      "html": "<table class='w-full text-lg text-left my-3 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-2'>Modelo</th><th class='py-2'>Año</th><th class='py-2'>Aporte</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-2'>Dalton</td><td class='py-2'>1803</td><td class='py-2'>El átomo es una esfera indivisible.</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Thomson</td><td class='py-2'>1904</td><td class='py-2'>Pudín con pasas: electrones en masa positiva.</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Rutherford</td><td class='py-2'>1911</td><td class='py-2'>Núcleo denso con electrones girando alrededor.</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Bohr</td><td class='py-2'>1913</td><td class='py-2'>Electrones en niveles de energía definidos.</td></tr><tr><td class='py-2'>Mecánico cuántico</td><td class='py-2'>1926+</td><td class='py-2'>Electrones en orbitales (zonas de probabilidad).</td></tr></tbody></table>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: El modelo de Bohr",
+      "html": "<p class='text-lg'>En el <strong>modelo de Bohr</strong>, los electrones giran en <strong>niveles de energía definidos</strong>.</p><ul class='text-lg'><li>Si un electrón <strong>gana energía</strong> (absorbe fotones), <strong>sube</strong> a un nivel mayor.</li><li>Si <strong>libera energía</strong> (emite fotones), <strong>baja</strong> a un nivel menor y queda más cerca del núcleo.</li></ul><img src='https://upload.wikimedia.org/wikipedia/commons/d/d1/Modelo_de_Bohr.png' alt='Modelo de Bohr' class='my-4 rounded-lg max-h-72 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: La tabla periódica",
+      "html": "<p class='text-lg'>La <strong>tabla periódica</strong> organiza los elementos según su número atómico y propiedades. Los elementos se clasifican en:</p><ul class='text-lg'><li><strong>Metales:</strong> brillantes, conducen calor y electricidad, ceden electrones (forman cationes).</li><li><strong>No metales:</strong> opacos, no conducen, ganan electrones (forman aniones).</li><li><strong>Metaloides:</strong> propiedades intermedias (Si, Ge, As, Sb, Te, B).</li><li><strong>Gases nobles:</strong> grupo 18 (He, Ne, Ar, Kr, Xe, Rn). NO reaccionan.</li><li><strong>Metales de transición:</strong> grupos 3-12 (Fe, Cu, Zn, Ag, Au).</li></ul>",
+      "modal": "tabla-periodica"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Estados de la materia",
+      "html": "<p class='text-lg'>La materia se presenta en cuatro <strong>estados físicos</strong>:</p><ul class='text-lg'><li><strong>Sólido:</strong> forma y volumen fijos. Partículas muy juntas.</li><li><strong>Líquido:</strong> volumen fijo pero fluye. Partículas más separadas.</li><li><strong>Gas:</strong> se expande, ocupa todo el espacio. Partículas muy separadas.</li><li><strong>Plasma:</strong> gas ionizado. El estado más abundante del universo (estrellas).</li></ul><img src='https://cdn0.ecologiaverde.com/es/posts/3/8/1/estados_de_agregacion_de_la_materia_6183_1200.jpg' alt='Estados de la materia' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Cambios de estado",
+      "html": "<p class='text-lg'>Los cambios de estado se producen por variación de temperatura o presión:</p><table class='w-full text-lg text-left my-3 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-2'>Cambio</th><th class='py-2'>Proceso</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-2'>Fusión</td><td class='py-2'>Sólido → Líquido</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Ebullición</td><td class='py-2'>Líquido → Gas</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Condensación</td><td class='py-2'>Gas → Líquido</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Solidificación</td><td class='py-2'>Líquido → Sólido</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Sublimación</td><td class='py-2'>Sólido → Gas (directo)</td></tr><tr><td class='py-2'>Deposición</td><td class='py-2'>Gas → Sólido (directo)</td></tr></tbody></table><img src='https://auladigitalxxi.wordpress.com/wp-content/uploads/2020/07/sublimaciones.jpg?w=719' alt='Sublimaciones' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: Sustancias puras",
+      "html": "<p class='text-lg'>Una <strong>sustancia pura</strong> está formada por un solo tipo de partícula. Se divide en dos categorías:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Elemento</p><p class='text-base'>Un solo tipo de átomo. Ej: O₂, Fe, Au. <strong>NO</strong> se puede descomponer químicamente.</p></div><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Compuesto</p><p class='text-base'>Dos o más elementos unidos químicamente. Ej: H₂O, NaCl, CO₂. <strong>SÍ</strong> se puede descomponer por métodos químicos.</p></div></div><img src='https://s1.significados.com/foto/agua-y-sal-dos-sustancias-puras-compuestas.jpg?class=article' alt='Sustancias puras' class='my-4 rounded-lg max-h-80 mx-auto' />",
+      "modal": "tabla-periodica"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: Sustancias puras vs mezclas",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Sustancia pura</p><p class='text-base'>Un solo tipo de partícula. Composición fija y propiedades constantes. Ej: agua destilada, oro puro.</p></div><div class='bg-orange-500/10 border border-orange-500/30 p-4 rounded-lg'><p class='font-semibold text-orange-700 dark:text-orange-300 mb-2 text-lg'>Mezcla</p><p class='text-base'>Combinación física de varias sustancias. Cada una conserva sus propiedades. Ej: agua de mar, aire.</p></div></div><img src='https://cienciasparami.wordpress.com/wp-content/uploads/2020/11/clases-de-materia.jpg' alt='Clases de materia' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: Mezclas homogéneas y heterogéneas",
+      "html": "<p class='text-lg'>Las mezclas se clasifican según cómo se ve su composición:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-cyan-500/10 border border-cyan-500/30 p-4 rounded-lg'><p class='font-semibold text-cyan-700 dark:text-cyan-300 mb-2 text-lg'>Homogénea (disolución)</p><p class='text-base'>Se ve uniforme, no se distinguen sus componentes. Ej: agua de mar, aire, vinagre.</p></div><div class='bg-amber-500/10 border border-amber-500/30 p-4 rounded-lg'><p class='font-semibold text-amber-700 dark:text-amber-300 mb-2 text-lg'>Heterogénea</p><p class='text-base'>Se distinguen las partes a simple vista. Ej: agua con aceite, ensalada, granito.</p></div></div><img src='https://www.areaciencias.com/quimica/imagenes/que-es-una-sustancia.jpg' alt='Mezclas' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 9: Reacciones redox",
+      "html": "<p class='text-lg'>Las <strong>reacciones de óxido-reducción (redox)</strong> son aquellas donde hay transferencia de electrones entre sustancias.</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Oxidación</p><p class='text-base'>Una sustancia <strong>pierde electrones</strong>. Su número de oxidación <strong>aumenta</strong>.</p></div><div class='bg-green-500/10 border border-green-500/30 p-4 rounded-lg'><p class='font-semibold text-green-700 dark:text-green-300 mb-2 text-lg'>Reducción</p><p class='text-base'>Una sustancia <strong>gana electrones</strong>. Su número de oxidación <strong>disminuye</strong>.</p></div></div><img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5vvRpe30ywZLDmYMJtSXnZXP9UQ4WPiOiSYiNPEPH6sPEqzZUCZo_YCAKE8dxUMLxqS_hIC_TuJm5MIDxm_GAd1-9COYsJS2297e4k5jhBcrcKW2RXOCVlVrS6_o7nWOh9kVYLM0GhYg/s1600/reacciones-redox-1-638.jpg' alt='Reacciones redox' class='my-4 rounded-lg max-h-72 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 9: Agentes oxidante y reductor",
+      "html": "<ul class='text-lg'><li><strong>Agente reductor:</strong> la sustancia que se oxida (pierde electrones) y provoca la reducción de otra.</li><li><strong>Agente oxidante:</strong> la sustancia que se reduce (gana electrones) y provoca la oxidación de otra.</li></ul><p class='text-lg'><strong>Truco mnemotécnico:</strong> <strong>PEO</strong> = Pierde Electrones → se Oxida. <strong>GER</strong> = Gana Electrones → se Reduce.</p><img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5vvRpe30ywZLDmYMJtSXnZXP9UQ4WPiOiSYiNPEPH6sPEqzZUCZo_YCAKE8dxUMLxqS_hIC_TuJm5MIDxm_GAd1-9COYsJS2297e4k5jhBcrcKW2RXOCVlVrS6_o7nWOh9kVYLM0GhYg/s1600/reacciones-redox-1-638.jpg' alt='Reacciones redox' class='my-4 rounded-lg max-h-72 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 9: Números de oxidación",
+      "html": "<p class='text-lg'>El <strong>número de oxidación</strong> es un número que indica la carga eléctrica que tendría un átomo si los electrones se asignaran al átomo más electronegativo de la molécula. Es una forma de llevar la cuenta de los electrones en una reacción.</p><p class='text-lg'>Las <strong>reglas para asignarlos</strong> son:</p><ul class='text-lg'><li><strong>Elemento libre</strong> (sin combinarse): número de oxidación <strong>0</strong>. Ej: O₂, Fe, Cl₂.</li><li><strong>Hidrógeno</strong>: <strong>+1</strong> cuando está combinado con no metales (ej: H₂O). Es <strong>-1</strong> solo en hidruros metálicos (ej: NaH).</li><li><strong>Oxígeno</strong>: <strong>-2</strong> en la mayoría de sus compuestos (ej: H₂O). Es <strong>-1</strong> solo en peróxidos (ej: H₂O₂).</li><li><strong>Familia IA</strong> (alcalinos: Li, Na, K): <strong>+1</strong> en todos sus compuestos.</li><li><strong>Familia IIA</strong> (alcalinotérreos: Be, Mg, Ca): <strong>+2</strong> en todos sus compuestos.</li></ul><p class='text-lg'><strong>¿Para qué sirve?</strong> Para saber qué sustancia se oxida (aumenta su número de oxidación) y cuál se reduce (disminuye su número de oxidación) en una reacción redox.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 10: Ácidos y bases (Arrhenius)",
+      "html": "<p class='text-lg'>Existen varias definiciones de ácidos y bases. La primera fue la de <strong>Arrhenius</strong>:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Ácido</p><p class='text-base'>Sustancia que libera iones H⁺ (protones) en agua.</p></div><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Base</p><p class='text-base'>Sustancia que libera iones OH⁻ (hidróxido) en agua.</p></div></div><p class='text-lg'><strong>Neutralización:</strong> ácido + base → sal + agua. Ej: HCl + NaOH → NaCl + H₂O.</p><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz5ycV0yMTW-aBeDH_cQeuWB5gLHai5jbvtIwxD6e3DJTncl1BKviOKI0&s=10' alt='Arrhenius ácidos y bases' class='my-4 rounded-lg max-h-72 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 10: pH",
+      "html": "<p class='text-lg'>El <strong>pH</strong> mide la concentración de iones H⁺ en una disolución.</p><p class='text-lg'><strong>Escala:</strong> menor a 7 es ácido · 7 es neutro · mayor a 7 es básico.</p><img src='https://lab-ferrer.com/wp-content/uploads/2023/06/pH-alimentos.jpg' alt='Escala de pH' class='my-4 rounded-lg max-h-72 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 11: ¿Qué son los enlaces químicos?",
+      "html": "<p class='text-lg'>Los <strong>enlaces químicos</strong> son las fuerzas que mantienen unidos a los átomos en los compuestos. Se forman para que los átomos alcancen estabilidad (regla del octeto).</p><p class='text-lg'>Existen tres tipos principales: <strong>iónico, covalente y metálico</strong>.</p><div class='my-6 flex justify-center'><svg width='460' height='300' viewBox='0 0 460 300' class='max-w-full' role='img' aria-label='Dos átomos que comparten un par de electrones para formar un enlace covalente'><defs><radialGradient id='gA' cx='35%' cy='35%' r='70%'><stop offset='0%' stop-color='#93c5fd'/><stop offset='60%' stop-color='#3b82f6'/><stop offset='100%' stop-color='#1d4ed8'/></radialGradient><radialGradient id='gB' cx='35%' cy='35%' r='70%'><stop offset='0%' stop-color='#fca5a5'/><stop offset='60%' stop-color='#ef4444'/><stop offset='100%' stop-color='#b91c1c'/></radialGradient><radialGradient id='gE'><stop offset='0%' stop-color='#fef9c3'/><stop offset='60%' stop-color='#fbbf24'/><stop offset='100%' stop-color='#d97706'/></radialGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs><rect width='460' height='300' fill='#0f172a' rx='12'/><text x='230' y='26' text-anchor='middle' font-size='14' font-weight='700' fill='#e2e8f0' font-family='system-ui,sans-serif'>¿Qué es un enlace químico?</text><text x='230' y='44' text-anchor='middle' font-size='11' fill='#94a3b8' font-family='system-ui,sans-serif'>Los átomos comparten electrones para alcanzar estabilidad</text><ellipse cx='160' cy='150' rx='70' ry='60' fill='#3b82f6' opacity='.12'/><ellipse cx='300' cy='150' rx='70' ry='60' fill='#ef4444' opacity='.12'/><line x1='160' y1='150' x2='300' y2='150' stroke='#64748b' stroke-width='6' stroke-linecap='round' stroke-dasharray='10 8' opacity='.6'><animate attributeName='stroke-dashoffset' from='0' to='-36' dur='1.6s' repeatCount='indefinite'/></line><circle cx='160' cy='150' r='44' fill='url(#gA)' filter='url(#glow)'/><text x='160' y='148' text-anchor='middle' font-size='20' font-weight='800' fill='#fff' font-family='system-ui'>H</text><text x='160' y='164' text-anchor='middle' font-size='9' fill='#dbeafe' font-family='system-ui'>1 e⁻</text><circle cx='300' cy='150' r='44' fill='url(#gB)' filter='url(#glow)'/><text x='300' y='148' text-anchor='middle' font-size='20' font-weight='800' fill='#fff' font-family='system-ui'>H</text><text x='300' y='164' text-anchor='middle' font-size='9' fill='#fee2e2' font-family='system-ui'>1 e⁻</text><g><animateTransform attributeName='transform' type='rotate' from='0 160 150' to='360 160 150' dur='6s' repeatCount='indefinite'/><circle cx='160' cy='106' r='4' fill='url(#gE)'/></g><g><animateTransform attributeName='transform' type='rotate' from='180 300 150' to='540 300 150' dur='6s' repeatCount='indefinite'/><circle cx='300' cy='106' r='4' fill='url(#gE)'/></g><circle r='6' fill='#fde047' filter='url(#glow)'><animateMotion dur='3s' repeatCount='indefinite' path='M 160 150 Q 200 120 230 150 Q 260 180 300 150 Q 260 120 230 150 Q 200 180 160 150'/></circle><circle r='6' fill='#fde047' filter='url(#glow)'><animateMotion dur='3s' begin='1.5s' repeatCount='indefinite' path='M 300 150 Q 260 120 230 150 Q 200 180 160 150 Q 200 120 230 150 Q 260 180 300 150'/></circle><text x='230' y='150' text-anchor='middle' font-size='10' font-weight='700' fill='#fde047' font-family='system-ui'>e⁻ compartido</text><text x='230' y='100' text-anchor='middle' font-size='10' fill='#94a3b8' font-family='system-ui' font-style='italic'>zona de enlace</text><line x1='230' y1='108' x2='230' y2='128' stroke='#94a3b8' stroke-width='1' stroke-dasharray='2 2'/><text x='230' y='218' text-anchor='middle' font-size='11' fill='#cbd5e1' font-family='system-ui'>Los electrones se comparten y orbitan entre ambos átomos</text><g transform='translate(20,240)'><circle cx='8' cy='8' r='5' fill='url(#gE)'/><text x='20' y='12' font-size='10' fill='#94a3b8' font-family='system-ui'>Electrón (e⁻)</text></g><g transform='translate(180,240)'><line x1='0' y1='8' x2='20' y2='8' stroke='#64748b' stroke-width='4' stroke-dasharray='6 4'/><text x='26' y='12' font-size='10' fill='#94a3b8' font-family='system-ui'>Enlace covalente</text></g><text x='230' y='278' text-anchor='middle' font-size='10' font-style='italic' fill='#64748b' font-family='system-ui'>Regla del octeto: los átomos buscan 8 electrones en su última capa</text></svg></div><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPxRZdHby-WKj0R0OtZmhuq0V0sguwefnwx6VMWtTsQ&s=10' alt='Enlaces químicos' class='my-4 rounded-lg max-h-72 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Movimiento Rectilíneo Uniforme (MRU)",
+      "html": "<p class='text-lg'>El <strong>Movimiento Rectilíneo Uniforme (MRU)</strong> ocurre cuando un cuerpo se mueve en línea recta con <strong>velocidad constante</strong>: no acelera ni frena.</p><p class='text-lg'><strong>Fórmula principal:</strong></p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>v = d / t<br>d = v · t<br>t = d / v</span></div><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVXFS8pg3rFMq6tKbHvpuSkLZK6g75H9PU0dKyON59teGmug13frgZVwM&s=10' alt='Movimiento rectilíneo uniforme' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Variables y unidades",
+      "html": "<ul class='text-lg'><li><strong>v</strong> = velocidad, en metros por segundo (m/s)</li><li><strong>d</strong> = distancia, en metros (m)</li><li><strong>t</strong> = tiempo, en segundos (s)</li></ul><p class='text-lg'><strong>Conversiones críticas:</strong></p><ul class='text-lg'><li>km/h → m/s: <strong>dividir entre 3.6</strong></li><li>m/s → km/h: <strong>multiplicar por 3.6</strong></li></ul><p class='text-lg'><strong>Ejemplo:</strong> un auto a 72 km/h equivale a 72 ÷ 3.6 = <strong>20 m/s</strong>.</p><img src='https://image.slidesharecdn.com/sistemaunitarioconversiondeunidades-140720121812-phpapp02/75/Sistema-unitario-conversion-de-unidades-2-2048.jpg' alt='Conversión de unidades físicas' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Movimiento Uniformemente Acelerado (MUA)",
+      "html": "<p class='text-lg'>El <strong>Movimiento Uniformemente Acelerado (MUA)</strong> ocurre cuando la velocidad cambia de forma constante. Hay <strong>aceleración</strong>.</p><p class='text-lg'><strong>Fórmulas principales:</strong></p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>a = (vf − vi) / t</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>vf = vi + a · t</span></div><p class='text-lg'>Donde: a = aceleración (m/s²), vi = velocidad inicial, vf = velocidad final.</p><img src='https://cursoparalaunam.com/wp-content/uploads/2021/01/MOVIMIENTO-UNIFORMEMENTE-ACELERADO-1.gif' alt='Representación del movimiento uniformemente acelerado' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Caída libre",
+      "html": "<p class='text-lg'>La <strong>caída libre</strong> es un caso especial de MUA donde el único factor es la gravedad.</p><p class='text-lg'><strong>Aceleración de la gravedad:</strong></p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>g = 9.81 m/s²</span></div><p class='text-lg'>Si un objeto parte del reposo (vi = 0), su velocidad en cualquier momento es:</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>v = g · t</span></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Las 3 Leyes de Newton",
+      "html": "<p class='text-lg'>Isaac Newton formuló <strong>tres leyes</strong> que explican el movimiento de los cuerpos:</p><ul class='text-lg'><li><strong>1ª Ley - Inercia:</strong> Todo objeto se mantiene en movimiento hasta que una fuerza externa lo altera y viceversa.</li><li><strong>2ª Ley - Masa × Aceleración:</strong> F = m · a.</li><li><strong>3ª Ley - Acción y Reacción:</strong> por cada fuerza hay otra igual y opuesta.</li></ul><img src='https://ocw.bib.upct.es/pluginfile.php/7705/mod_imscp/content/1/MAQUINA.jpg' alt='Ilustración de las tres leyes de Newton' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Segunda Ley de Newton",
+      "html": "<p class='text-lg'>La <strong>segunda ley de Newton</strong> es la más usada en los problemas:</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>F = m · a</span></div><ul class='text-lg'><li><strong>F</strong> = fuerza neta (N, newtons)</li><li><strong>m</strong> = masa (kg)</li><li><strong>a</strong> = aceleración (m/s²)</li></ul><p class='text-lg'>Si te dan velocidad inicial y final, primero calcula la aceleración:</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>a = (vf − vi) / t</span></div><img src='https://s1.significados.com/foto/boliche.jpg?class=article' alt='Ejemplo de acción y reacción relacionado con la segunda ley de Newton' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Peso vs masa",
+      "html": "<ul class='text-lg'><li><strong>Masa (kg):</strong> cantidad de materia. NO cambia con la ubicación.</li><li><strong>Peso (N):</strong> fuerza con la que la gravedad atrae a un cuerpo.</li></ul><p class='text-lg'><strong>Fórmula del peso:</strong></p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>P = m · g</span></div><p class='text-lg'>Donde g = 9.81 m/s². La masa se mide en kg y el peso en newtons (N).</p><img src='https://www.areaciencias.com/fisica/imagenes/diferencia-entre-la-masa-y-el-peso.jpg' alt='Diferencia entre masa y peso' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Leyes de Kepler",
+      "html": "<p class='text-lg'>Johannes Kepler formuló <strong>tres leyes</strong> que describen el movimiento de los planetas alrededor del Sol:</p><ul class='text-lg'><li><strong>1ª Ley - Órbitas:</strong> los planetas se mueven en <strong>órbitas elípticas</strong>, con el Sol en uno de los focos.</li><li><strong>2ª Ley - Áreas:</strong> el radio vector barre <strong>áreas iguales en tiempos iguales</strong>.</li><li><strong>3ª Ley - Periodos:</strong> <div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>T² ∝ r³</span></div>.</li></ul><img src='https://lh3.googleusercontent.com/proxy/vzwS1_pIXYvTxi-Fc28PitCnfT0LyAEYVrNnJQjQuZ9BJmuv9ImTads68l2VFbpJ9ih9HICOA7K_R_Z2a6shtB22eb62UC40_LcBQiqiGgt18b1bhbPU' alt='Primera y segunda ley de Kepler' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Transferencia de calor",
+      "html": "<p class='text-lg'>El calor se transfiere de un cuerpo caliente a uno frío de <strong>tres formas</strong>:</p><ul class='text-lg'><li><strong>Conducción:</strong> por contacto directo entre partículas; es especialmente importante en <strong>sólidos</strong>, aunque también puede ocurrir en líquidos y gases.</li><li><strong>Convección:</strong> en <strong>líquidos y gases</strong>. Movimiento de masa.</li><li><strong>Radiación:</strong> viaja como <strong>ondas electromagnéticas</strong>, incluso en el vacío.</li></ul><img src='https://i.ytimg.com/vi/2Z4EREJs0IU/maxresdefault.jpg' alt='Transferencia de calor' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Calor vs temperatura",
+      "html": "<p class='text-lg'><strong>Calor ≠ Temperatura.</strong></p><ul class='text-lg'><li><strong>Temperatura:</strong> qué tan caliente está un cuerpo. Se mide en °C, °F o K.</li><li><strong>Calor:</strong> energía que se transfiere de un cuerpo caliente a uno frío. Se mide en joules (J) o calorías (cal).</li></ul><img src='https://i.ytimg.com/vi/b15tpzxq7Lw/maxresdefault.jpg' alt='Diferencia entre calor y temperatura' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Leyes de la Termodinámica",
+      "html": "<p class='text-lg'>La termodinámica estudia el calor y sus transformaciones. Tiene <strong>4 leyes</strong>:</p><ul class='text-lg'><li><strong>Ley cero:</strong> si A y B están en equilibrio térmico con C, entonces A y B también lo están.</li><li><strong>1ª ley:</strong> conservación de la energía. ΔU = Q − W.</li><li><strong>2ª ley:</strong> la entropía del universo siempre aumenta.</li><li><strong>3ª ley:</strong> para un cristal perfecto, la entropía tiende a cero cuando la temperatura se aproxima al cero absoluto (0 K).</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Tipos de sistemas",
+      "html": "<ul class='text-lg'><li><strong>Abierto:</strong> intercambia materia y energía. Ej: olla destapada.</li><li><strong>Cerrado:</strong> intercambia solo energía. Ej: botella sellada.</li><li><strong>Aislado:</strong> no intercambia materia ni energía. Ej: termo ideal.</li></ul><p class='text-lg'><strong>Nota:</strong> un sistema adiabático no intercambia calor, pero sí puede intercambiar trabajo; por eso no es necesariamente un sistema aislado.</p><img src='https://s1.significados.com/foto/sistemas-termodinamicos-tipos-cke.jpg?class=article' alt='Tipos de sistemas termodinámicos' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: La 1ª y 2ª ley",
+      "html": "<p class='text-lg'><strong>1ª ley de la termodinámica:</strong></p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>ΔU = Q − W</span></div><p class='text-lg'>El cambio en la energía interna es igual al calor que recibe menos el trabajo que realiza.</p><p class='text-lg'><strong>2ª ley:</strong> la entropía (desorden) del universo siempre aumenta.</p><img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnxDDRO7g6A3X4gRyBK483aVPaBazHetoFo0FTp3ozR52hrCdm8_RLwFJ1dn3W2zTEU1a6qgLQcsYJcWP6bU4nPTUfU8W-xqBo-PUNusfLGFVGFLL-_KuUyufM5Ea89HBdJwpGscw55Q/s1600/Termodin%25C3%25A1mica+2-A.png' alt='Primera y segunda ley de la termodinámica' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Leyes de los gases",
+      "html": "<table class='w-full text-left my-3 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-2'>Ley</th><th class='py-2'>Constante</th><th class='py-2'>Fórmula</th><th class='py-2'>Idea</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-2'>Boyle</td><td class='py-2'>T</td><td class='py-2'>P₁V₁ = P₂V₂</td><td class='py-2'>Si comprimes, V baja</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Charles</td><td class='py-2'>P</td><td class='py-2'>V₁/T₁ = V₂/T₂</td><td class='py-2'>Si calientas, V sube</td></tr><tr><td class='py-2'>Gay-Lussac</td><td class='py-2'>V</td><td class='py-2'>P₁/T₁ = P₂/T₂</td><td class='py-2'>Si calientas, P sube</td></tr></tbody></table><p class='text-lg'><strong>Ley general de los gases:</strong> relaciona presión, volumen y temperatura de una cantidad fija de gas.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>P₁V₁ / T₁ = P₂V₂ / T₂</span></div><p class='text-lg'><strong>Ley de los gases ideales:</strong> relaciona la presión, el volumen, la cantidad de sustancia y la temperatura absoluta de un gas.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>PV = nRT</span></div><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm_Aq50moTrL0EpicSR3rmMMxb5Lsg_HFsR_wxcxN-x_3Uu22uRTYybK0&s=10' alt='Leyes de los gases' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: La temperatura en Kelvin",
+      "html": "<p class='text-lg'>En TODAS las leyes de los gases, la <strong>temperatura debe estar en Kelvin (K)</strong>.</p><p class='text-lg'><strong>Conversión:</strong></p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>K = °C + 273</span></div><p class='text-lg'><strong>De Fahrenheit a Kelvin:</strong></p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>K = (°F − 32) × 5/9 + 273.15</span></div><p class='text-lg'>Ejemplos: 27 °C = 300 K · 0 °C = 273 K · 100 °C = 373 K</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Ley de Charles",
+      "html": "<p class='text-lg'>La Ley de Charles establece que, a presión constante, el volumen de un gas es directamente proporcional a su temperatura absoluta.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>V₁ / T₁ = V₂ / T₂</span></div><img src='https://i.ytimg.com/vi/1ZduXmVPe1I/maxresdefault.jpg' alt='Ley de Charles' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Ley de Gay-Lussac",
+      "html": "<p class='text-lg'>La Ley de Gay-Lussac establece que, a volumen constante, la presión de un gas es directamente proporcional a su temperatura absoluta.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>P₁ / T₁ = P₂ / T₂</span></div><img src='https://i.ytimg.com/vi/OJ9_mgkwZAk/maxresdefault.jpg' alt='Ley de Gay-Lussac' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: Ley de Hooke (resortes)",
+      "html": "<p class='text-lg'>La <strong>Ley de Hooke</strong> describe la fuerza que ejerce un resorte cuando se estira o comprime:</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>F = k · x</span></div><ul class='text-lg'><li><strong>F</strong> = fuerza aplicada (N)</li><li><strong>k</strong> = constante del resorte (N/m)</li><li><strong>x</strong> = deformación o estiramiento (m)</li></ul><img src='https://blogs.ugto.mx/rea/wp-content/uploads/sites/71/2022/07/Captura-de-Pantalla-2022-07-28-a-las-14.52.24.png' alt='Ley de Hooke y resortes' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 9: Principio de Pascal",
+      "html": "<p class='text-lg'>El <strong>Principio de Pascal</strong> establece que la presión aplicada a un líquido encerrado se transmite <strong>con la misma intensidad en todas las direcciones</strong>.</p><p class='text-lg'>Es el principio detrás de las <strong>prensas hidráulicas</strong>, los frenos de autos y los gatos hidráulicos.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>F₁ / A₁ = F₂ / A₂</span></div><img src='https://fisicabasica.org/wp-content/uploads/2022/03/principio-de-pascal-exp-a.png' alt='Principio de Pascal y prensa hidráulica' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 10: Principio de Arquímedes",
+      "html": "<p class='text-lg'>El <strong>Principio de Arquímedes</strong> establece que todo cuerpo sumergido en un fluido recibe un <strong>empuje vertical hacia arriba</strong> igual al peso del líquido desalojado.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>E = ρ · g · V</span></div><ul class='text-lg'><li><strong>E</strong> = empuje (N)</li><li><strong>ρ</strong> = densidad del fluido (kg/m³)</li><li><strong>g</strong> = 9.81 m/s²</li><li><strong>V</strong> = volumen sumergido (m³)</li></ul><img src='https://static.wixstatic.com/media/615fcd_d322c788a02742e79d75394f983f671c~mv2.png/v1/fill/w_361,h_518,al_c,q_85,enc_avif,quality_auto/615fcd_d322c788a02742e79d75394f983f671c~mv2.png' alt='Principio de Arquímedes' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 11: Ley de Ohm",
+      "html": "<p class='text-lg'>La <strong>Ley de Ohm</strong> relaciona el voltaje, la corriente y la resistencia en un circuito eléctrico:</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>V = I · R<br>I = V / R<br>R = V / I</span></div><img src='https://www.connectcp.org/wp-content/uploads/2025/06/ChatGPT-Image-4-jun-2025_-13_10_36_1_.jpg' alt='Ley de Ohm y circuito eléctrico' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 11: Variables y unidades",
+      "html": "<ul class='text-lg'><li><strong>V</strong> = voltaje o diferencia de potencial (volts, V)</li><li><strong>I</strong> = corriente eléctrica (amperes, A)</li><li><strong>R</strong> = resistencia (ohms, Ω)</li></ul><p class='text-lg'><strong>Truco visual:</strong> imagina un triángulo. V está arriba, I y R abajo. Para encontrar el valor que buscas, tapa la letra y mira qué operación queda.</p><img src='https://mialdeatdo.com/wp-content/uploads/2023/04/image-13.png' alt='Variables eléctricas de la Ley de Ohm' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase Express",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase Express</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Ciencias Experimentales</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Ahora puedes continuar con el cuestionario final del m?dulo.</p>"
+    }
+  ]
+}

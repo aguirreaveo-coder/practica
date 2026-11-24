@@ -1,0 +1,456 @@
+{
+  "titulo": "Cuestionario Final: Ser Social y Sociedad",
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál de las siguientes situaciones corresponde a una característica social y no biológica?",
+      "opciones": [
+        "Celebrar el Día de Muertos con ofrendas y tradiciones familiares",
+        "Dormir ocho horas diarias para recuperar energías",
+        "Respirar para obtener el oxígeno necesario para vivir",
+        "Comer cuando el cuerpo siente la necesidad de alimento"
+      ],
+      "correcta": 0,
+      "explicacion": "El Día de Muertos es una celebración cultural aprendida en sociedad. Dormir, respirar y comer son necesidades biológicas universales."
+    },
+    {
+      "pregunta": "¿Cuáles son los principales agentes de socialización en la vida de una persona?",
+      "opciones": [
+        "La familia y la escuela, que transmiten valores y normas sociales",
+        "El gobierno y los partidos políticos que dirigen el país entero",
+        "Los bancos y las empresas que ofrecen servicios financieros",
+        "Los hospitales y las farmacias que atienden la salud pública"
+      ],
+      "correcta": 0,
+      "explicacion": "La familia y la escuela son los agentes de socialización primordiales: en ellos se aprenden los primeros valores, normas y conocimientos."
+    },
+    {
+      "pregunta": "¿Cómo se le llama al conjunto de acciones cotidianas que realizamos siguiendo las normas y costumbres de nuestra cultura?",
+      "opciones": [
+        "Prácticas sociales, como saludar, celebrar y convivir con otros",
+        "Agentes sociales, que transmiten la cultura de generación en generación",
+        "Subcultura, que se distingue por sus costumbres propias dentro de otra mayor",
+        "Contexto cultural, que rodea al individuo en todo su desarrollo social"
+      ],
+      "correcta": 0,
+      "explicacion": "Las prácticas sociales son las acciones repetidas y compartidas que reflejan la cultura de un grupo: saludar, celebrar, convivir, etc."
+    },
+    {
+      "pregunta": "Cuando se estudia la forma de vida de una comunidad que se rige por sus propias costumbres dentro de la cultura dominante, se hace referencia a:",
+      "opciones": [
+        "Subcultura, que mantiene su identidad dentro de la cultura mayor",
+        "Aculturación, que implica adoptar elementos de otra cultura distinta",
+        "Transculturación, que fusiona dos culturas en una nueva expresión",
+        "Interculturalismo, que promueve el diálogo entre culturas distintas"
+      ],
+      "correcta": 0,
+      "explicacion": "Una subcultura es un grupo con costumbres propias que convive dentro de una cultura mayor sin dejar de pertenecer a ella."
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia principal entre multiculturalidad e interculturalidad?",
+      "opciones": [
+        "La multiculturalidad es coexistencia de culturas; la interculturalidad es interacción respetuosa entre ellas",
+        "La multiculturalidad implica convivencia activa; la interculturalidad es coexistencia pasiva de grupos",
+        "Ambos términos son sinónimos y se usan indistintamente en las ciencias sociales",
+        "La interculturalidad solo aplica en Europa, y la multiculturalidad solo en América"
+      ],
+      "correcta": 0,
+      "explicacion": "La multiculturalidad es la presencia simultánea de varias culturas. La interculturalidad es la relación activa, respetuosa y equitativa entre ellas."
+    },
+    {
+      "pregunta": "Durante la época colonial en México, los pueblos originarios adoptaron la lengua, la religión y costumbres españolas. ¿Qué fenómeno describe esto?",
+      "opciones": [
+        "Aculturación, porque un grupo adopta elementos de otra cultura dominante",
+        "Interculturalidad, porque las culturas dialogan y se enriquecen mutuamente",
+        "Multiculturalidad, porque varias culturas coexisten en el mismo territorio",
+        "Subcultura, porque un grupo mantiene sus costumbres dentro de otra cultura"
+      ],
+      "correcta": 0,
+      "explicacion": "La aculturación es el proceso por el cual un grupo adopta elementos de otra cultura, especialmente cuando existe una relación de dominación."
+    },
+    {
+      "pregunta": "Cuando una persona juzga otras culturas desde los valores de la suya propia, considerándola superior, está practicando:",
+      "opciones": [
+        "Etnocentrismo, que impide el diálogo respetuoso entre culturas distintas",
+        "Interculturalidad, que promueve el respeto entre culturas diferentes",
+        "Relativismo cultural, que comprende cada cultura en su propio contexto",
+        "Aculturación, que implica adoptar elementos de otra cultura dominante"
+      ],
+      "correcta": 0,
+      "explicacion": "El etnocentrismo es la tendencia a juzgar otras culturas con los criterios de la propia, considerándola superior."
+    },
+    {
+      "pregunta": "La integración económica, política y cultural a nivel mundial que ha acelerado el intercambio entre países se conoce como:",
+      "opciones": [
+        "Globalización, que acelera los intercambios culturales y económicos",
+        "Multiculturalismo, que reconoce la diversidad cultural de los grupos",
+        "Etnocentrismo, que juzga otras culturas desde la propia cultura",
+        "Subcultura, que mantiene costumbres propias dentro de otra cultura"
+      ],
+      "correcta": 0,
+      "explicacion": "La globalización es el proceso de integración mundial en múltiples dimensiones, incluyendo la cultural."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes es una institución social?",
+      "opciones": [
+        "La familia, que regula la reproducción y el cuidado de sus miembros",
+        "Un equipo deportivo informal que se reúne los fines de semana",
+        "Un grupo de amigos que comparte gustos y actividades recreativas",
+        "Una banda musical que se presenta en eventos locales de la comunidad"
+      ],
+      "correcta": 0,
+      "explicacion": "La familia es una institución social porque es una organización estable que regula aspectos fundamentales de la vida en sociedad."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes afirmaciones corresponde al Positivismo?",
+      "opciones": [
+        "La ciencia es la fuerza más poderosa para el progreso humano",
+        "La sociedad solo puede entenderse desde la fe religiosa profunda",
+        "El conocimiento verdadero proviene de la tradición oral antigua",
+        "La realidad social es incognoscible para el ser humano común"
+      ],
+      "correcta": 0,
+      "explicacion": "El positivismo de Auguste Comte sostiene que la ciencia y el método científico son la base del progreso social."
+    },
+    {
+      "pregunta": "Según el Materialismo Histórico, ¿qué determina la estructura de una sociedad?",
+      "opciones": [
+        "El modo de producción, que es la base material de la sociedad",
+        "La religión predominante, que guía las costumbres sociales",
+        "El clima y la geografía, que condicionan la vida de los pueblos",
+        "El nivel educativo, que determina el desarrollo cultural"
+      ],
+      "correcta": 0,
+      "explicacion": "Para Marx y Engels, la base material de la sociedad (el modo de producción) determina su estructura y sus instituciones."
+    },
+    {
+      "pregunta": "¿Cuáles son los principales exponentes del funcionalismo?",
+      "opciones": [
+        "Spencer y Durkheim, que conciben la sociedad como un sistema",
+        "Marx y Engels, que analizan la lucha de clases en la historia",
+        "Comte y Mill, que fundan la sociología como ciencia positiva",
+        "Weber y Habermas, que estudian los significados de la acción"
+      ],
+      "correcta": 0,
+      "explicacion": "Herbert Spencer y Emile Durkheim representan el funcionalismo, que concibe la sociedad como un sistema de partes que cumplen funciones."
+    },
+    {
+      "pregunta": "La teoría social que busca comprender los significados que las personas dan a sus acciones fue desarrollada por:",
+      "opciones": [
+        "Max Weber, con su teoría comprensiva de la acción social",
+        "Karl Marx, con su análisis del materialismo histórico",
+        "Auguste Comte, con su enfoque positivista de la ciencia",
+        "Herbert Spencer, con su visión organicista de la sociedad"
+      ],
+      "correcta": 0,
+      "explicacion": "La teoría comprensiva de Max Weber se enfoca en interpretar los motivos y significados que los actores dan a sus acciones."
+    },
+    {
+      "pregunta": "Según Giddens, la estructura social se define como:",
+      "opciones": [
+        "Un conjunto de reglas y recursos que se reproducen en la práctica",
+        "Un sistema fijo e inmutable que determina a los individuos",
+        "Una construcción religiosa que guía la conducta social humana",
+        "Un sistema exclusivamente económico de producción material"
+      ],
+      "correcta": 0,
+      "explicacion": "Para Giddens, la estructura social está formada por reglas y recursos que se organizan y reproducen en la práctica de los agentes."
+    },
+    {
+      "pregunta": "La Escuela de Frankfurt desarrolló la teoría crítica, cuyo objetivo principal es:",
+      "opciones": [
+        "Cuestionar el orden social y denunciar las formas de dominación",
+        "Describir neutralmente la sociedad sin emitir juicios de valor",
+        "Defender el statu quo y las instituciones establecidas",
+        "Explicar únicamente los fenómenos económicos de producción"
+      ],
+      "correcta": 0,
+      "explicacion": "La teoría crítica busca no solo describir, sino transformar la sociedad hacia la emancipación."
+    },
+    {
+      "pregunta": "¿Qué se entiende por rol social?",
+      "opciones": [
+        "El conjunto de comportamientos esperados según el estatus que se ocupa",
+        "La posición económica que ocupa una persona dentro de la sociedad",
+        "La cantidad de bienes materiales que posee una familia determinada",
+        "El nivel educativo alcanzado por un individuo a lo largo de su vida"
+      ],
+      "correcta": 0,
+      "explicacion": "El rol es lo que la sociedad espera de alguien según el estatus que ocupa (estudiante, madre, maestro, etc.)."
+    },
+    {
+      "pregunta": "¿Para qué sirve conocer las instituciones y estructuras que integran a la sociedad?",
+      "opciones": [
+        "Para analizar críticamente los problemas sociales y su impacto futuro",
+        "Solo para aprobar el módulo y cumplir con el plan de estudios",
+        "Para aumentar el acervo cultural sin ninguna aplicación práctica",
+        "Para memorizar nombres de teóricos y sus aportaciones históricas"
+      ],
+      "correcta": 0,
+      "explicacion": "Conocer las instituciones permite analizar la realidad social, entender las relaciones y anticipar consecuencias."
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes es un motor de cambio social?",
+      "opciones": [
+        "La innovación tecnológica, que transforma la vida cotidiana",
+        "La permanencia inmutable de las tradiciones culturales",
+        "El aislamiento de una comunidad respecto a otras regiones",
+        "La repetición constante de las mismas prácticas sociales"
+      ],
+      "correcta": 0,
+      "explicacion": "La innovación tecnológica transforma la producción, la comunicación y la vida cotidiana, siendo motor de cambio social."
+    },
+    {
+      "pregunta": "¿Cuál es la función principal de las instituciones sociales?",
+      "opciones": [
+        "Regulan aspectos fundamentales de la vida social y dan continuidad a la sociedad",
+        "Son organizaciones temporales sin influencia en la vida social",
+        "Se ocupan únicamente de los aspectos económicos de la producción",
+        "Existen solamente en las sociedades modernas industrializadas"
+      ],
+      "correcta": 0,
+      "explicacion": "Las instituciones sociales son patrones estables que regulan áreas clave de la vida (familia, educación, economía, política, religión)."
+    },
+    {
+      "pregunta": "¿En qué se basaba la cohesión de la comunidad primitiva?",
+      "opciones": [
+        "En la semejanza entre los individuos que formaban el grupo social",
+        "En la diferencia entre las personas según su papel en la producción",
+        "En los alimentos que lograba conseguir el grupo cada día para sobrevivir",
+        "En las particularidades individuales de cada uno de sus miembros"
+      ],
+      "correcta": 0,
+      "explicacion": "En la comunidad primitiva la cohesión se basaba en la igualdad y semejanza entre los individuos, sin propiedad privada ni clases."
+    },
+    {
+      "pregunta": "¿Qué forma de organización primitiva se caracteriza por tener territorio propio, lenguaje común y estructura política?",
+      "opciones": [
+        "La tribu, que agrupa varios clanes con territorio y lenguaje común",
+        "El gens, que agrupa familias con lazos paternos o maternos",
+        "El clan, que agrupa parientes con prohibición de matrimonio interno",
+        "La horda, que agrupa personas sin parentesco definido entre sí"
+      ],
+      "correcta": 0,
+      "explicacion": "La tribu agrupa varios clanes con territorio, lenguaje y cultura comunes, además de organización política."
+    },
+    {
+      "pregunta": "El modo esclavista de producción alcanzó su máximo desarrollo en:",
+      "opciones": [
+        "Grecia antigua y Roma clásica, donde el esclavo era base económica",
+        "Egipto y Mesopotamia, donde surgieron las primeras ciudades-estado",
+        "China imperial y Japón feudal, donde existía el servicio personal",
+        "Inglaterra y Francia, donde se desarrolló la industria textil moderna"
+      ],
+      "correcta": 0,
+      "explicacion": "El esclavismo floreció en Grecia y Roma, donde los esclavos eran la base de la economía."
+    },
+    {
+      "pregunta": "En el feudalismo, el trabajador que no es dueño de la tierra pero tampoco es esclavo se llama:",
+      "opciones": [
+        "Siervo, que está atado a la tierra del señor feudal y paga renta",
+        "Obrero, que vende su fuerza de trabajo a cambio de un salario",
+        "Proletario, que trabaja en las fábricas sin poseer los medios",
+        "Burgués, que es propietario de los medios de producción urbanos"
+      ],
+      "correcta": 0,
+      "explicacion": "El siervo está atado a la tierra del señor feudal y paga renta por trabajarla, pero no es propiedad del señor."
+    },
+    {
+      "pregunta": "¿Cuál es una diferencia esencial entre el feudalismo y el capitalismo?",
+      "opciones": [
+        "En el capitalismo el obrero es libre ante la ley; en el feudalismo el siervo estaba atado a la tierra",
+        "En el capitalismo el obrero es dueño de los medios de producción; en el feudalismo el siervo también lo era",
+        "En el feudalismo no existían clases sociales diferenciadas; en el capitalismo sí existen clases definidas",
+        "En el feudalismo la economía era industrial y urbana; en el capitalismo la economía era agrícola y rural"
+      ],
+      "correcta": 0,
+      "explicacion": "En el capitalismo el obrero vende libremente su fuerza de trabajo. En el feudalismo el siervo estaba sujeto a la tierra del señor."
+    },
+    {
+      "pregunta": "El conjunto de doctrinas que proponen una distribución más justa de la riqueza y condenan la propiedad privada de los medios de producción se conoce como:",
+      "opciones": [
+        "Socialismo, que busca la propiedad social de los medios de producción",
+        "Capitalismo, que defiende la propiedad privada de los medios de producción",
+        "Liberalismo, que promueve la libertad económica y la propiedad privada",
+        "Comunismo, que busca la eliminación del Estado y las clases sociales"
+      ],
+      "correcta": 0,
+      "explicacion": "El socialismo agrupa corrientes que buscan la propiedad social de los medios de producción y la distribución equitativa de la riqueza."
+    },
+    {
+      "pregunta": "¿Qué acontecimiento marca el inicio de la Edad Contemporánea?",
+      "opciones": [
+        "La Revolución Francesa de 1789, que transformó el orden político europeo",
+        "La caída del Imperio Romano de Occidente en el año 476 d.C.",
+        "El descubrimiento de América en el año 1492 por los españoles",
+        "La Revolución Industrial de 1750 iniciada en Gran Bretaña"
+      ],
+      "correcta": 0,
+      "explicacion": "La Revolución Francesa (1789) cierra la Edad Moderna e inaugura la Edad Contemporánea."
+    },
+    {
+      "pregunta": "¿Cuáles son las características principales del estado-nación?",
+      "opciones": [
+        "Territorio definido, gobierno con poder sobre toda la población y soberanía",
+        "Fronteras abiertas al comercio y gobierno centralizado en la república",
+        "Solamente lengua común y religión oficial compartida por la población",
+        "Fronteras definidas por tratados internacionales y gobierno por voto"
+      ],
+      "correcta": 0,
+      "explicacion": "El estado-nación se caracteriza por territorio claramente definido, gobierno con poder sobre toda la población y soberanía."
+    },
+    {
+      "pregunta": "¿Cuáles de los siguientes son rasgos característicos de Mesoamérica?",
+      "opciones": [
+        "Gran importancia al comercio, agricultura como base y organización por grupos de actividad",
+        "Uso de la pólvora, navegación transoceánica y cultivo del arroz como base económica",
+        "Poblaciones pequeñas sin organización política, economía basada en la pesca y petroglifos",
+        "Gobierno sin sacerdotes, ausencia de comercio y cultivo exclusivo de trigo y cebada"
+      ],
+      "correcta": 0,
+      "explicacion": "Mesoamérica se caracterizó por el comercio, la agricultura (maíz, frijol, calabaza) y la organización en grupos de actividad."
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia principal entre moral y ética?",
+      "opciones": [
+        "La moral son normas vividas y la ética es la reflexión filosófica sobre ellas",
+        "La moral es reflexión filosófica y la ética son normas vividas en sociedad",
+        "La moral y la ética son sinónimos que se usan indistintamente en filosofía",
+        "La moral se aplica solo en la ciencia y la ética solo en la religión"
+      ],
+      "correcta": 0,
+      "explicacion": "La moral es el conjunto de normas vividas por una sociedad; la ética es la reflexión racional y filosófica sobre esas normas."
+    },
+    {
+      "pregunta": "Cuando las normas morales se fundan en algo ajeno a la persona, hablamos de:",
+      "opciones": [
+        "Heteronomía, porque la norma viene desde fuera del sujeto humano",
+        "Autonomía, porque la persona se da sus propias normas morales",
+        "Obligatoriedad, porque la norma siempre es obligatoria para todos",
+        "Obligación, porque la persona debe cumplir la norma establecida"
+      ],
+      "correcta": 0,
+      "explicacion": "La heteronomía es cuando la norma moral proviene de fuera del sujeto (familia, Estado, sociedad), no de su propia razón."
+    },
+    {
+      "pregunta": "¿Qué valor permite el entendimiento mutuo y el compartir ideales y fines comunes?",
+      "opciones": [
+        "La solidaridad, que une a las personas y permite compartir metas",
+        "La humildad, que permite reconocer los errores propios cometidos",
+        "La esperanza, que impulsa a proyectarse hacia el futuro deseado",
+        "La bondad, que se manifiesta en acciones desinteresadas hacia otros"
+      ],
+      "correcta": 0,
+      "explicacion": "La solidaridad une a las personas, permitiendo comprender al otro y compartir metas comunes."
+    },
+    {
+      "pregunta": "¿Cuáles son los elementos necesarios para que exista responsabilidad moral?",
+      "opciones": [
+        "Libertad, conocimiento e intención, sin coacción externa alguna",
+        "Fuerza, obediencia y temor a las consecuencias negativas de los actos",
+        "Riqueza, poder y estatus social reconocido por la comunidad entera",
+        "Tradición, costumbre y rutina que se sigue sin cuestionar nada"
+      ],
+      "correcta": 0,
+      "explicacion": "Para que exista responsabilidad moral se requiere libertad (sin coacción), conocimiento (saber qué se hace) e intención (querer hacerlo)."
+    },
+    {
+      "pregunta": "Una violación a los derechos humanos debe ser perseguida por:",
+      "opciones": [
+        "El sistema judicial y las autoridades competentes del Estado",
+        "Solamente las autoridades municipales de cada localidad del país",
+        "Solamente las organizaciones civiles que defienden los derechos",
+        "Exclusivamente el ejército y las fuerzas armadas de la nación"
+      ],
+      "correcta": 0,
+      "explicacion": "El sistema judicial y las autoridades del Estado tienen la obligación de perseguir y sancionar las violaciones a los derechos humanos."
+    },
+    {
+      "pregunta": "Según Santo Tomás de Aquino, ¿cuáles son las tres características esenciales de la persona humana?",
+      "opciones": [
+        "Dignidad, autonomía y autoconciencia, que fundamentan el respeto",
+        "Honestidad, tolerancia y sinceridad, que guían la vida social",
+        "Simpatía, obediencia y amistad, que facilitan la convivencia",
+        "Belleza, heteronomía y valentía, que definen su actuar moral"
+      ],
+      "correcta": 0,
+      "explicacion": "Para Santo Tomás, la persona se distingue por su dignidad, su autonomía y su autoconciencia."
+    },
+    {
+      "pregunta": "El estudio sistemático de la conducta humana en ciencias biológicas y la salud, a la luz de valores morales, se llama:",
+      "opciones": [
+        "Bioética, que analiza dilemas como la eutanasia y el aborto",
+        "Biomedicina, que estudia las enfermedades de los seres vivos",
+        "Ética biológica, que aplica la biología a la vida moral humana",
+        "Ética aplicada, que resuelve problemas morales de toda índole"
+      ],
+      "correcta": 0,
+      "explicacion": "La bioética analiza los dilemas éticos en biología y salud: eutanasia, aborto, manipulación genética, etc."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes definiciones corresponde al desarrollo sustentable?",
+      "opciones": [
+        "Satisfacer las necesidades actuales sin comprometer las de las generaciones futuras",
+        "Aumentar las opciones de todos los habitantes de una región en el presente",
+        "Crear riqueza aprovechando los recursos naturales sin importar su agotamiento",
+        "Explotar los recursos naturales al máximo para acelerar el crecimiento económico"
+      ],
+      "correcta": 0,
+      "explicacion": "El desarrollo sustentable busca satisfacer las necesidades actuales sin comprometer la capacidad de las generaciones futuras."
+    },
+    {
+      "pregunta": "Una empresa que contribuye voluntariamente al mejoramiento social, económico y ambiental se conoce como:",
+      "opciones": [
+        "Empresa socialmente responsable, evaluada con el triple resultado",
+        "Sociedad de responsabilidad limitada, que protege a sus socios",
+        "Empresa económicamente corporativa, enfocada solo en ganancias",
+        "Sociedad comercial de capital social, formada por accionistas"
+      ],
+      "correcta": 0,
+      "explicacion": "La empresa socialmente responsable integra en su operación el cuidado social y ambiental, evaluándose con el triple resultado."
+    },
+    {
+      "pregunta": "Toda aplicación tecnológica que utilice sistemas biológicos y organismos vivos para crear o modificar productos se denomina:",
+      "opciones": [
+        "Biotecnología, aplicada en medicina, agricultura e industria",
+        "Genética, que estudia la herencia de los caracteres biológicos",
+        "Bioquímica, que estudia las reacciones químicas de la vida",
+        "Microbiología, que estudia los microorganismos y sus efectos"
+      ],
+      "correcta": 0,
+      "explicacion": "La biotecnología utiliza sistemas biológicos y organismos vivos para desarrollar productos y procesos útiles."
+    },
+    {
+      "pregunta": "El sector económico primario está integrado por actividades que:",
+      "opciones": [
+        "Extraen bienes y recursos naturales, como la agricultura y la pesca",
+        "Transforman materias primas en productos elaborados y manufacturados",
+        "Ofrecen servicios como el turismo, la educación y la salud pública",
+        "Distribuyen productos terminados a través del comercio y transporte"
+      ],
+      "correcta": 0,
+      "explicacion": "El sector primario se basa en la extracción directa de recursos naturales: agricultura, pesca, minería, ganadería."
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes productos tarda más tiempo en biodegradarse?",
+      "opciones": [
+        "La botella de vidrio, que puede tardar más de 4000 años en degradarse",
+        "La tela de algodón, que tarda entre 1 y 5 meses en degradarse",
+        "La cáscara de naranja, que tarda alrededor de 6 meses en degradarse",
+        "La estaca de madera, que puede tardar entre 2 y 3 años en degradarse"
+      ],
+      "correcta": 0,
+      "explicacion": "El vidrio puede tardar alrededor de 4000 años en degradarse, mientras que el algodón tarda meses y la madera unos años."
+    },
+    {
+      "pregunta": "¿Cuál es el orden correcto de los pasos del método científico en ciencias sociales?",
+      "opciones": [
+        "Idea, planteamiento del problema, marco teórico, hipótesis, muestra, recolección, análisis y conclusiones",
+        "Planteamiento del problema, idea, muestra, marco teórico, recolección, hipótesis, análisis y conclusiones",
+        "Hipótesis, idea, marco teórico, muestra, planteamiento, recolección, análisis y conclusiones finales",
+        "Muestra, idea, hipótesis, marco teórico, planteamiento, recolección, análisis y conclusiones finales"
+      ],
+      "correcta": 0,
+      "explicacion": "El orden típico es: idea u observación, planteamiento del problema, marco teórico, hipótesis, muestra, recolección de datos, análisis y conclusiones."
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "titulo": "Cuestionario Final: Transformaciones en el Mundo Contemporáneo",
+  "preguntas": [
+    {
+      "pregunta": "1. ¿En qué fecha se proclamó el triunfo de la República Popular China bajo la dirección del comandante Mao Zedong (o Mao Tse Tung)?",
+      "opciones": [
+        "31 de diciembre de 1911",
+        "7 de julio de 1937",
+        "5 de abril de 1975",
+        "1 de octubre de 1949"
+      ],
+      "correcta": 3,
+      "explicacion": "La República Popular China se proclamó el 1 de octubre de 1949, tras la victoria del Partido Comunista Chino liderado por Mao Zedong.",
+      "numero": 1
+    },
+    {
+      "pregunta": "2. ¿Quién era el líder de los vietnamitas del norte cuando se desarrollaba la guerra de Vietnam?",
+      "opciones": [
+        "Vgo Dinh Diem",
+        "Ho Chi Minh",
+        "Park Chung",
+        "Mao Zedong"
+      ],
+      "correcta": 1,
+      "explicacion": "Ho Chi Minh fue el líder del Viet Minh y una figura central del movimiento independentista y comunista en Vietnam del Norte.",
+      "numero": 2
+    },
+    {
+      "pregunta": "3. Revisa la información complementaria en tu Guia",
+      "opciones": [
+        "Sandinista y Sandino",
+        "Popular y Sandino",
+        "Sandinista y Somoza",
+        "Popular y Somoza"
+      ],
+      "correcta": 2,
+      "explicacion": "La Revolución Sandinista puso fin a la dictadura de la familia Somoza y abrió paso a un gobierno de izquierda en Nicaragua.",
+      "numero": 3
+    },
+    {
+      "pregunta": "4. ¿En qué consiste el militarismo japonés?",
+      "opciones": [
+        "Es una doctrina filosófica en la que la fuerza militar ejerce el poder pleno, preconiza la fuerza y la expansión militar, y somete la vida política, económica, cultural y educativa a la necesidad de la expansión armamentista y la agresión hacia el exterior. Necesariamente es aristocratizante y racista.",
+        "Es una forma de totalitarismo propia del siglo XX que pretendía la estricta reglamentación de la existencia del individuo de acuerdo con ideales nacionalistas y, a menudo, militaristas.",
+        "Fue una organización política que muestra fuertes puntos de contacto con el fascismo italiano, de ideología sindicalista, totalitarista, militarista, nacionalista e intervencionista, pero con la diferencia del respeto a la iglesia católica.",
+        "Como doctrina política, tenía muchos puntos en común con el fascismo; era ultranacionalista, autoritario, expansionista y racista."
+      ],
+      "correcta": 0,
+      "explicacion": "El militarismo japonés exaltaba la fuerza militar, la expansión territorial y el nacionalismo extremo, subordinando la vida política y social a la estrategia armamentista.",
+      "numero": 4
+    },
+    {
+      "pregunta": "5. ¿Cuál fue la principal causa para la victoria de los comunistas en Vietnam?",
+      "opciones": [
+        "La amenaza nuclear declarada por la Unión Soviética",
+        "La muerte del líder de Vietnam del Sur, Ngo Dinh Diem",
+        "La intervención militar de la URSS en 1974",
+        "La retirada de las tropas estadounidenses en 1973"
+      ],
+      "correcta": 3,
+      "explicacion": "La retirada de las tropas estadounidenses en 1973 debilitó al régimen del Sur y facilitó la victoria final del Norte comunista.",
+      "numero": 5
+    },
+    {
+      "pregunta": "6. ¿Cuál fue la causa por la que el Imperio alemán inició la Primera Guerra Mundial?",
+      "opciones": [
+        "Ideológica",
+        "Política",
+        "Militar",
+        "Territorial"
+      ],
+      "correcta": 3,
+      "explicacion": "El expansionismo y la rivalidad territorial fueron factores esenciales que impulsaron la Primera Guerra Mundial, especialmente en Europa.",
+      "numero": 6
+    },
+    {
+      "pregunta": "7. ¿Cuál fue uno de los eventos que se suscitó en la victoria de la Revolución Cubana?",
+      "opciones": [
+        "La invasión de Bahía de Cochinos",
+        "La crisis de los misiles con Estados Unidos",
+        "La instauración de la República Comunista",
+        "La muerte de Fulgencio Batista"
+      ],
+      "correcta": 3,
+      "explicacion": "La caída del régimen de Fulgencio Batista y su derrota política marcó la victoria de la Revolución Cubana en 1959.",
+      "numero": 7
+    },
+    {
+      "pregunta": "8. Relaciona a los presidentes de Polonia de la columna izquierda con el año en que entraron en funciones cada uno de ellos.",
+      "opciones": [
+        "[1-d] [2-a] [3-e] [4-c] [5-d]",
+        "[1-d] [2-g] [3-a] [4-c] [5-e]",
+        "[1-e] [2-d] [3-c] [4-f] [5-b]",
+        "[1-c] [2-g] [3-b] [4-f] [5-a]"
+      ],
+      "correcta": 3,
+      "explicacion": "Lech Wałęsa asumió en 1990, Bronisław Komorowski en 2010, Wojciech Jaruzelski en 1989, Aleksander Kwaśniewski en 1995 y Bolesław Bierut en 1947.",
+      "numero": 8
+    },
+    {
+      "pregunta": "9. ¿Cuáles de las siguientes doctrinas se catalogan como totalitarias?",
+      "opciones": [
+        "1, 2 y 4",
+        "2, 4 y 6",
+        "1, 2, 3 y 5",
+        "2, 4, 5 y 6"
+      ],
+      "correcta": 1,
+      "explicacion": "El militarismo japonés, el fascismo y el nazismo son doctrinas totalitarias por su carácter autoritario, expansionista y racista.",
+      "numero": 9
+    },
+    {
+      "pregunta": "10. Relaciona los personajes con sus características según corresponda cada caso.",
+      "opciones": [
+        "[2-c] [3-b] [4-d] [6-a]",
+        "[2-c] [3-a] [5-d] [6-d]",
+        "[1-d] [4-a] [5-b] [7-c]",
+        "[1-a] [4-b] [3-d] [7-c]"
+      ],
+      "correcta": 2,
+      "explicacion": "Mijaíl Gorbachov se asocia con la glasnost y la perestroika; Nikita Jrushchov con el inicio de la caída del estalinismo; José Antonio Primo de Rivera con la Falange; y Josip Broz Tito con la resistencia durante la ocupación nazi.",
+      "numero": 10
+    },
+    {
+      "pregunta": "11. ¿Quién descubrió los ácidos nucleicos?",
+      "opciones": [
+        "Alfred Hershey",
+        "Albrecht Kossel",
+        "Friedrich Miescher",
+        "Oswald Avery"
+      ],
+      "correcta": 2,
+      "explicacion": "Friedrich Miescher fue el científico que aisló por primera vez el ADN en 1869, descubriendo lo que entonces se llamaban ácidos nucleicos.",
+      "numero": 11
+    },
+    {
+      "pregunta": "12. ¿Cómo se le llama a la era del gran desarrollo científico y tecnológico alcanzado a finales del siglo XX?",
+      "opciones": [
+        "Primera Revolución Industrial",
+        "Revolución de la Información",
+        "Segunda Revolución Industrial",
+        "Revolución Tecnológica"
+      ],
+      "correcta": 1,
+      "explicacion": "La Revolución de la Información se refiere al auge de la informática, internet, la digitalización y la innovación tecnológica en la segunda mitad del siglo XX.",
+      "numero": 12
+    },
+    {
+      "pregunta": "13. Relaciona la columna que contiene una relación de los avances científicos con la columna izquierda que contiene una lista con los creadores de dichos avances.",
+      "opciones": [
+        "[1-a] [2-e] [3-d] [4-c]",
+        "[1-e] [2-a] [3-b] [4-d]",
+        "[1-c] [2-b] [3-a] [4-e]",
+        "[1-e] [2-d] [3-b] [4-a]"
+      ],
+      "correcta": 3,
+      "explicacion": "Thomas Edison desarrolló la bombilla eléctrica y el gramófono; Avery, MacLeod y McCarty demostraron la naturaleza del ADN; Christian Eijkman vinculó las vitaminas a la nutrición; y Frederick Banting descubrió la insulina.",
+      "numero": 13
+    },
+    {
+      "pregunta": "14. Los medios de comunicación social o de masas ayudan a que las personas se relacionen con el mundo y proporcionan información. La consecuencia directa de estas funciones es:",
+      "opciones": [
+        "Aislar a las personas del mundo exterior",
+        "Saber lo que pasa en todo tiempo y lugar",
+        "Conocer otras sociedades y otras culturas",
+        "Propiciar que la sociedad sea más global"
+      ],
+      "correcta": 1,
+      "explicacion": "Una de las funciones principales de los medios de comunicación es informar para que la sociedad conozca los acontecimientos del mundo en tiempo real.",
+      "numero": 14
+    },
+    {
+      "pregunta": "15. De las siguientes oraciones, identifica las características que en la época actual tiene la radio.",
+      "opciones": [
+        "1, 3, 4 y 6",
+        "2, 5, 6 y 7",
+        "1, 2, 3 y 5",
+        "2, 4, 5 y 7"
+      ],
+      "correcta": 0,
+      "explicacion": "La radio actual combina formatos digitales, facturación online, mejor divulgación y crecimiento del podcasting, sin perder su función informativa.",
+      "numero": 15
+    },
+    {
+      "pregunta": "16. Hablando sobre el avance de los medios de comunicación, un compañero expresa una postura que se contrapone a la tuya. ¿Qué haces?",
+      "opciones": [
+        "Prefieres quedarte callado porque consideras que hay que evitar la controversia",
+        "Tratas de imponer tu postura y opinión, pero te molestas si no lo consigues",
+        "Argumentas tu posición y respetas la de él a pesar de que no coincidan",
+        "Compites para ver qué postura es mejor y no dejas de contraargumentar"
+      ],
+      "correcta": 2,
+      "explicacion": "La convivencia democrática exige escuchar, argumentar y respetar puntos de vista distintos sin caer en la imposición ni en el conflicto inútil.",
+      "numero": 16
+    },
+    {
+      "pregunta": "17. ¿Cuál es el tipo de cambio cuya transacción consiste en la compra o venta de una cantidad de divisa al tipo actual de cotización, para entregarse en un plazo de dos días laborales?",
+      "opciones": [
+        "Real",
+        "Spot",
+        "Forward",
+        "Flexible"
+      ],
+      "correcta": 1,
+      "explicacion": "El tipo de cambio spot es el intercambio de divisas al precio vigente y con entrega en dos días hábiles.",
+      "numero": 17
+    },
+    {
+      "pregunta": "18. ¿Qué institución perteneciente al Banco Mundial se instauró para fomentar el progreso de las naciones con menor grado de desarrollo?",
+      "opciones": [
+        "AID",
+        "ALADI",
+        "ONUDI",
+        "PNDU"
+      ],
+      "correcta": 0,
+      "explicacion": "AID es la Agencia Internacional para el Desarrollo, creada para apoyar el desarrollo de países con menor desarrollo económico.",
+      "numero": 18
+    },
+    {
+      "pregunta": "19. Desde un punto de vista económico, ¿a cuál de los sistemas existentes hace referencia la máxima \"A cada cual de acuerdo con el trabajo realizado\"?",
+      "opciones": [
+        "Comunismo",
+        "Capitalismo",
+        "Socialismo",
+        "Economía mixta"
+      ],
+      "correcta": 2,
+      "explicacion": "La frase se vincula con principios socialistas: la distribución de bienes y oportunidades se relaciona con el esfuerzo y la contribución laboral.",
+      "numero": 19
+    },
+    {
+      "pregunta": "20. ¿Cuáles son las variables que pueden afectar directamente al tipo de cambio?",
+      "opciones": [
+        "2, 4 y 6",
+        "2, 3 y 6",
+        "1, 4 y 5",
+        "1, 3 y 5"
+      ],
+      "correcta": 2,
+      "explicacion": "Las tasas de inflación, la intervención del banco central y el comercio internacional influyen de manera directa en la demanda y oferta de la moneda.",
+      "numero": 20
+    },
+    {
+      "pregunta": "21. ¿Cuáles de los siguientes objetivos corresponden a los planteados en la Carta de la ONU de 1945 considerados como sus principales objetivos?",
+      "opciones": [
+        "1 y 3",
+        "1, 2 y 4",
+        "1, 2 y 5",
+        "3 y 5"
+      ],
+      "correcta": 3,
+      "explicacion": "La Carta de la ONU busca fomentar la amistad entre las naciones y servir como centro para armonizar esfuerzos comunes, entre otros objetivos.",
+      "numero": 21
+    },
+    {
+      "pregunta": "22. Relaciona las instituciones internacionales del lado izquierdo con sus respectivas características.",
+      "opciones": [
+        "[1-c] [3-b] [4-a] [5-d]",
+        "[1-b] [2-c] [5-a] [6-d]",
+        "[1-d] [2-b] [3-c] [6-a]",
+        "[1-a] [2-d] [4-b] [5-c]"
+      ],
+      "correcta": 3,
+      "explicacion": "CEPAL recopila información regional, BID apoya el desarrollo, OEA favorece la cooperación continental y FMI fomenta la cooperación monetaria internacional.",
+      "numero": 22
+    },
+    {
+      "pregunta": "23. ¿Cuál de los siguientes asuntos atiende el Instituto Nacional de Migración?",
+      "opciones": [
+        "Ninguno",
+        "Solo 1",
+        "Ambos",
+        "Solo 2"
+      ],
+      "correcta": 2,
+      "explicacion": "El Instituto Nacional de Migración atiende tanto a visitantes extranjeros en México como a mexicanos que desean relacionarse con extranjeros o residir en el país.",
+      "numero": 23
+    },
+    {
+      "pregunta": "24. Clasifica los siguientes enunciados como verdadero (V) o falso (F) según corresponda:",
+      "opciones": [
+        "V, F, F, F",
+        "F, V, F, V",
+        "V, F, V, F",
+        "F, V, V, V"
+      ],
+      "correcta": 3,
+      "explicacion": "Las leyes antinmigrantes en Estados Unidos, el aumento de la migración por transportes modernos y el papel de México como receptor de remesas son realidades verificables; la afirmación 1 es falsa.",
+      "numero": 24
+    },
+    {
+      "pregunta": "25. ¿Cómo actúas ante la participación de los demás?",
+      "opciones": [
+        "Indiferente",
+        "Ausente",
+        "Atento",
+        "Ansioso"
+      ],
+      "correcta": 2,
+      "explicacion": "La actitud atenta permite escuchar, respetar y valorar a cada interlocutor, favoreciendo un diálogo constructivo.",
+      "numero": 25
+    },
+    {
+      "pregunta": "26. ¿Cuál fue el detonante que causó la crisis de Estados Unidos en 2008?",
+      "opciones": [
+        "Precio de los alimentos",
+        "Precio del petróleo",
+        "Hipotecas subprime",
+        "Crisis europea"
+      ],
+      "correcta": 2,
+      "explicacion": "El colapso de las hipotecas subprime en Estados Unidos desencadenó la crisis financiera internacional de 2008.",
+      "numero": 26
+    },
+    {
+      "pregunta": "27. Los acontecimientos terroristas ocurridos en los Estados Unidos el 11 de septiembre de 2001 sucedieron en las ciudades de:",
+      "opciones": [
+        "Nueva York, Pennsylvania y Atlanta",
+        "Washington, D.C., Pennsylvania y Los Ángeles",
+        "Nueva York, Washington, D.C. y Detroit",
+        "Nueva York, Washington, D.C. y Pennsylvania"
+      ],
+      "correcta": 3,
+      "explicacion": "Los ataques del 11 de septiembre impactaron en Nueva York, Washington, D.C. y en Pennsylvania, donde cayó un vuelo secuestrado.",
+      "numero": 27
+    },
+    {
+      "pregunta": "28. ¿Qué fue la Perestroika?",
+      "opciones": [
+        "Concepto que designa el proceso de cambio de régimen en la Unión Soviética",
+        "Término que señala el triunfo de la Revolución Rusa ante la debacle del socialismo",
+        "Proceso de reforma de la Unión Soviética basado en la reestructuración de la economía",
+        "Período histórico de la historia soviética en donde se formó el estado federal plurinacional"
+      ],
+      "correcta": 2,
+      "explicacion": "La perestroika fue una serie de reformas económicas y políticas impulsadas por Mijaíl Gorbachov para modernizar la Unión Soviética.",
+      "numero": 28
+    },
+    {
+      "pregunta": "29. Relaciona los países considerados dentro del término BRIC, con sus características que se encuentran en la columna derecha.",
+      "opciones": [
+        "[1-d] [2-c] [3-a] [4-b]",
+        "[1-b] [2-c] [3-a] [4-d]",
+        "[1-a] [2-c] [3-b] [4-d]",
+        "[1-c] [2-d] [3-b] [4-a]"
+      ],
+      "correcta": 1,
+      "explicacion": "Brasil es el principal proveedor de alimentos y materiales; Rusia cuenta con una potente industria de armamentos; China es la segunda economía mundial; e India es una potencia emergente con fuerte potencial tecnológico.",
+      "numero": 29
+    },
+    {
+      "pregunta": "30. ¿Cuáles de las siguientes características tienen los países denominados BRIC, que hace que en conjunto constituyan un bloque económico de gran importancia para el mundo?",
+      "opciones": [
+        "1, 4 y 5",
+        "1, 2 y 5",
+        "3 y 4",
+        "2 y 3"
+      ],
+      "correcta": 3,
+      "explicacion": "Los BRIC representan un conjunto de países con gran población y peso en el comercio mundial; además son relevantes por su integración a la Organización Mundial del Comercio y su proporción de población.",
+      "numero": 30
+    },
+    {
+      "pregunta": "31. De los siguientes factores que se enumeran, ¿cuáles han incidido en la crisis económica que actualmente vive España?",
+      "opciones": [
+        "2 y 5",
+        "1, 2 y 5",
+        "3 y 4",
+        "1, 3 y 4"
+      ],
+      "correcta": 3,
+      "explicacion": "El ajuste en la construcción, las restricciones crediticias y la escalada en el precio del petróleo fueron factores determinantes de la crisis económica en España.",
+      "numero": 31
+    },
+    {
+      "pregunta": "32. ¿Cuáles de los siguientes actos terroristas fueron perpetuados por el grupo terrorista Al Qaeda?",
+      "opciones": [
+        "1 y 3",
+        "2 y 4",
+        "2 y 3",
+        "1 y 4"
+      ],
+      "correcta": 0,
+      "explicacion": "Los atentados a las embajadas de Estados Unidos en Nairobi y los ataques en Madrid son actos asociados con redes de Al Qaeda o con células relacionadas con la organización.",
+      "numero": 32
+    },
+    {
+      "pregunta": "33. Clasifica los siguientes enunciados como verdadero (V) o falso (F) según corresponda a cada caso.",
+      "opciones": [
+        "V, F, V, F",
+        "F, V, F, V",
+        "F, V, V, F",
+        "V, F, F, V"
+      ],
+      "correcta": 0,
+      "explicacion": "La migración judía masiva a Palestina se desencadenó por el Holocausto; la Guerra de los Seis Días fue en 1967, la primera guerra árabe-israelí comenzó en 1948 y la OLP no surge en Israel como fuerza política local.",
+      "numero": 33
+    },
+    {
+      "pregunta": "34. ¿Qué haces si repruebas este examen?",
+      "opciones": [
+        "Nada, porque no se podría cambiar la calificación y sabes que es un módulo que se te dificulta",
+        "Identificas tus errores para tratar de corregirlos en una próxima oportunidad",
+        "Buscas argumentos para convencer al asesor o a alguna autoridad para que te aprueben",
+        "Pides al maestro que te deje presentar un trabajo u otra actividad para pasar el módulo"
+      ],
+      "correcta": 1,
+      "explicacion": "Reprobar un examen debe servir como diagnóstico: identificar errores y mejorar la preparación es la respuesta más madura y eficaz.",
+      "numero": 34
+    }
+  ]
+}

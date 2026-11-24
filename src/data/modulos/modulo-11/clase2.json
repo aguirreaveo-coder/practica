@@ -1,0 +1,222 @@
+{
+  "titulo": "Clase 2: Guerras y Revoluciones del Siglo XX",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 11",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Transformaciones en el Mundo Contemporáneo</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 2: Guerras y Revoluciones del Siglo XX</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>China · Guerra Civil China · Revolución Cubana · Crisis de los Misiles · Vietnam · Ho Chi Minh · Medio Oriente · Israel y Palestina · Guerra de los Seis Días · Terrorismo</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: China y la Revolución de 1949",
+      "html": "<p class='text-lg'>La <strong>República Popular China</strong> se proclamó el <strong>1 de octubre de 1949</strong> bajo la dirección de <strong>Mao Zedong</strong>, tras la victoria del Partido Comunista sobre el Kuomintang.</p><p class='text-lg'>Este triunfo cambió la geopolítica mundial y sentó las bases del régimen comunista en China.</p><p class='text-lg'>La revolución china fue también una consecuencia de la guerra civil, la crisis política interna y la fuerte desigualdad social.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Guerra Civil China",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Periodo</p><p class='text-lg'>Se desarrolló principalmente entre <strong>1925 y 1949</strong>.</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Actores principales</p><p class='text-lg'>El <strong>Kuomintang</strong> y el <strong>Partido Comunista Chino</strong>, liderado por Mao Zedong.</p></div></div><p class='text-lg'>La guerra civil china fue decisiva para la formación del Estado comunista y para la reorganización del poder político y social del país.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Revolución Cubana y EE. UU.",
+      "html": "<p class='text-lg'>La <strong>Revolución Cubana</strong> culminó el <strong>1 de enero de 1959</strong> con la derrota del régimen de Fulgencio Batista.</p><p class='text-lg'>La intervención militar estadounidense en Cuba comenzó en <strong>1898</strong> y marcó la relación posterior entre la isla y EE. UU.</p><p class='text-lg'>A lo largo del siglo XX, Cuba se convirtió en un punto clave en la Guerra Fría y en la confrontación entre el bloque capitalista y el comunista.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Crisis de los misiles",
+      "html": "<p class='text-lg'>La <strong>crisis de los misiles</strong> fue una de las mayores tensiones de la Guerra Fría.</p><p class='text-lg'>La <strong>URSS instaló misiles en Cuba</strong> como respuesta a la presión militar de EE. UU., y este hecho llevó a una grave crisis internacional.</p><p class='text-lg'>La tensión se resolvió con un acuerdo diplomático, pero dejó un legado de miedo, vigilancia y conflicto global.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Vietnam y Ho Chi Minh",
+      "html": "<p class='text-lg'><strong>Ho Chi Minh</strong> fue una figura central en la historia de Vietnam. Se relaciona con la independencia nacional y la lucha contra el dominio extranjero.</p><p class='text-lg'>El conflicto vietnamita se convirtió en una guerra internacional por la división ideológica entre el bloque comunista y el occidental.</p><p class='text-lg'>Vietnam del Norte recibió apoyo soviético, mientras Vietnam del Sur contó con apoyo estadounidense.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Medio Oriente en conflicto",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-cyan-500/10 border border-cyan-500/30 p-4 rounded-lg'><p class='font-semibold text-cyan-700 dark:text-cyan-300 mb-2 text-lg'>Gamal Abdel Nasser</p><p class='text-lg'>Líder egipcio que impulsó la unidad y la independencia árabes.</p></div><div class='bg-orange-500/10 border border-orange-500/30 p-4 rounded-lg'><p class='font-semibold text-orange-700 dark:text-orange-300 mb-2 text-lg'>Israel y Palestina</p><p class='text-lg'>Conflicto histórico con consecuencias políticas, territoriales y sociales.</p></div></div><p class='text-lg'>La región sufrió guerras, tensiones diplomáticas y procesos de paz que cambiaron su estructura geopolítica.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Guerra de los Seis Días y terrorismo",
+      "html": "<p class='text-lg'>La <strong>Guerra de los Seis Días</strong> comenzó el <strong>5 de junio de 1967</strong>, cuando Israel atacó a Egipto, Jordania y Siria.</p><p class='text-lg'>El conflicto tuvo consecuencias profundas en la regionalización del conflicto árabe-israelí y en la estructura política del Medio Oriente.</p><p class='text-lg'>El <strong>terrorismo</strong> en la región se relaciona con la violencia política, la rivalidad territorial y la disputa por la identidad nacional.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Revolución Sandinista (Nicaragua)",
+      "html": "<p class='text-lg'>La <strong>Revolución Sandinista</strong> en Nicaragua, liderada por el Frente Sandinista de Liberación Nacional, fue una de las expresiones más importantes de la lucha revolucionaria de América Latina.</p><p class='text-lg'>Su triunfo mostró la oposición a regímenes autoritarios y la búsqueda de transformaciones políticas y sociales en la región.</p><p class='text-lg'>El movimiento sandinista ilustra cómo la revolución y la política se mezclaron en un mundo marcado por la Guerra Fría.</p>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Actividad: Repaso de la Guía",
+      "instrucciones": "Responde las siguientes preguntas de tu guía relacionadas con las guerras, revoluciones y conflictos del siglo XX:",
+      "preguntas": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        20,
+        23,
+        24,
+        25,
+        28,
+        33
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Revisión de la actividad",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white mb-4'>Revisión de la actividad</p><p class='text-lg text-slate-700 dark:text-slate-200'>En esta clase repasamos los conflictos ideológicos, militares y políticos que marcaron la segunda mitad del siglo XX en China, Cuba, Vietnam y Medio Oriente.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "1. El conflicto iniciado el 5 de junio de 1967 a iniciativa de Israel para destruir la aviación y las Fuerzas Armadas de Egipto. Jordania y Siria, se conoce como la Guerra _______________",
+      "opciones": [
+        "de Yom Kippur",
+        "de los Seis Días",
+        "Cuarta Arabe-Israelí",
+        "de Suez"
+      ],
+      "correcta": 1,
+      "explicacion": "La Guerra de los Seis Días fue un conflicto armado que comenzó en 1967 entre Israel y sus vecinos árabes.",
+      "numero": 1
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "2. ¿En qué fecha se proclama el triunfo de la República Popular China bajo la dirección del comandante Mao Zedong (o Mao Tse Tung)?",
+      "opciones": [
+        "31 de diciembre de 1911",
+        "7 de julio de 1937",
+        "1 de octubre de 1949",
+        "5 de abril de 1975"
+      ],
+      "correcta": 2,
+      "explicacion": "La República Popular China se proclamó el 1 de octubre de 1949, tras la victoria del Partido Comunista de China bajo Mao Zedong.",
+      "numero": 2
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "3. ¿En qué fecha se logró el triunfo de la Revolución Cubana?",
+      "opciones": [
+        "26 de julio de 1953",
+        "1 de enero de 1959",
+        "10 de marzo de 1952",
+        "25 de noviembre de 1956"
+      ],
+      "correcta": 1,
+      "explicacion": "La Revolución Cubana triunfó el 1 de enero de 1959, con la caída del régimen de Fulgencio Batista.",
+      "numero": 3
+    },
+        {
+      "tipo": "pregunta",
+      "pregunta": "4. ¿Cuál es el compuesto que contiene información genética de cada persona y forma parte de las células?",
+      "opciones": [
+        "ADN (ácido desoxirribonucleico)",
+        "ARN (ácido ribonucleico) ",
+        "Adeina (Base nitrogenada)",
+        "Timina (Base nitrogenada)"
+      ],
+      "correcta": 1,
+      "explicacion": "La Revolución Cubana triunfó el 1 de enero de 1959, con la caída del régimen de Fulgencio Batista.",
+      "numero": 3
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "6. ¿En qué consistió la crisis cubana de los misiles?",
+      "opciones": [
+        "Cuba instaló misiles en Angola y Mozambique, lo que generó la oposición de EE. UU. y África del Sur.",
+        "EE. UU. instaló una base militar y de misiles en Guantánamo ante la oposición de la Unión Soviética.",
+        "La URSS proveyó de material nuclear a Cuba ante la oposición de EE. UU., que reaccionó con un bloqueo de la isla.",
+        "La eliminación de los misiles en el Caribe como resultado de un acuerdo entre EE. UU. y la URSS."
+      ],
+      "correcta": 2,
+      "explicacion": "La crisis de los misiles se originó porque la URSS instaló armas nucleares en Cuba, y EE. UU. respondió con un bloqueo y una gran tensión diplomática.",
+      "numero": 6
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "20. ¿En qué año se inició la intervención militar estadounidense en la Cuba ya liberada de los españoles?",
+      "opciones": [
+        "1898",
+        "1896",
+        "1868",
+        "1879"
+      ],
+      "correcta": 0,
+      "explicacion": "La intervención militar estadounidense en Cuba comenzó en 1898, tras la guerra hispano-cubana y la posterior guerra contra España.",
+      "numero": 20
+    },
+        {
+      "tipo": "pregunta",
+      "pregunta": "23. ¿Qué implicaciones políticas tuvo en el continente americano la victoria de los comunistas en Cuba?",
+      "opciones": [
+        "El inicio y expansión de movimientos revolucionarios comunistas en Latinoamérica",
+        "La expulsión definitiva de Cuba de la Organización de Estados Americanos (OEA)",
+        "La influencia soviética por primera vez tenía una consolidación estatal formal en América",
+        "La influencia de las ideas comunistas en todo el continente americano"
+      ],
+      "correcta": 0,
+      "explicacion": "La intervención militar estadounidense en Cuba comenzó en 1898, tras la guerra hispano-cubana y la posterior guerra contra España.",
+      "numero": 23
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "24. Identifica un suceso que se relaciona con Ho Chi Minh.",
+      "opciones": [
+        "Partidario del bloque occidental.",
+        "Fundador del Kuomintang.",
+        "Presidente de Vietnam del Sur.",
+        "Presidente de Vietnam del Norte."
+      ],
+      "correcta": 3,
+      "explicacion": "Ho Chi Minh es reconocido como figura central del Vietnam del Norte y del proceso de independencia nacional del país.",
+      "numero": 24
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "25. Selecciona la opción que cita el periodo que abarcó la Guerra Civil China:",
+      "opciones": [
+        "1914 a 1918",
+        "1910 a 1949",
+        "1925 a 1949",
+        "1938 a 1945"
+      ],
+      "correcta": 2,
+      "explicacion": "La Guerra Civil China se desarrolló fundamentalmente entre 1925 y 1949, y tuvo un impacto decisivo en la formación de la República Popular China.",
+      "numero": 25
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "28. Gamal Abdel Nasser se propuso impulsar la unidad e independencia árabes y liberar a Palestina de los judíos. ¿De dónde era este gobernante?",
+      "opciones": [
+        "Israel",
+        "Palestina",
+        "Egipto",
+        "Irak"
+      ],
+      "correcta": 2,
+      "explicacion": "Gamal Abdel Nasser era egipcio y fue un líder clave del nacionalismo árabe y del movimiento de independencia del mundo árabe.",
+      "numero": 28
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "33. Clasifica los siguientes enunciados como verdaderos (V) o falsos (F) según corresponda a cada caso:",
+      "opciones": [
+        "V, F, V, F",
+        "V, V, F, F",
+        "F, F, V, V",
+        "F, V, F, V"
+      ],
+      "correcta": 3,
+      "explicacion": "La IRA en Irlanda del Norte era un grupo que buscaba la independencia de Irlanda y no tenía como objetivo la eliminación religiosa de los protestantes. El 11 de septiembre de 2001 fue un ataque perpetrado por Al Qaeda, no en el año 2000. La OLP buscaba la liberación de Palestina y no estaba controlada por Egipto. Los Acuerdos de Oslo fueron negociados entre Israel y la OLP en 1993.",
+      "numero": 33
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 2",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase 2</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Guerras y Revoluciones del Siglo XX</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Nos vemos en la Clase 3: Globalización, Medios y Conflictos Contemporáneos</p>"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

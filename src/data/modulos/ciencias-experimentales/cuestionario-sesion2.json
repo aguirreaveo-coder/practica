@@ -1,0 +1,203 @@
+{
+  "titulo": "Cuestionario Sesión 2: Biología",
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál de las siguientes biomoléculas almacena la información genética?",
+      "opciones": [
+        "Ácidos nucleicos",
+        "Carbohidratos",
+        "Lípidos",
+        "Proteínas"
+      ],
+      "correcta": 0,
+      "explicacion": "Los ácidos nucleicos (ADN y ARN) almacenan y transmiten la información genética de los seres vivos."
+    },
+    {
+      "pregunta": "¿Cuál es la función principal de los lípidos en el organismo?",
+      "opciones": [
+        "Almacenar información genética",
+        "Servir como reserva de energía a largo plazo",
+        "Acelerar reacciones químicas",
+        "Transportar oxígeno"
+      ],
+      "correcta": 1,
+      "explicacion": "Los lípidos (grasas, aceites, colesterol) son la principal reserva de energía a largo plazo del organismo."
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes NO es un polisacárido?",
+      "opciones": [
+        "Almidón",
+        "Celulosa",
+        "Fructosa",
+        "Glucógeno"
+      ],
+      "correcta": 2,
+      "explicacion": "La fructosa es un monosacárido (azúcar simple), no un polisacárido. El almidón, la celulosa y el glucógeno son polisacáridos."
+    },
+    {
+      "pregunta": "En la clasificación taxonómica, ¿cuál es la categoría inmediatamente superior a la especie?",
+      "opciones": [
+        "Familia",
+        "Orden",
+        "Reino",
+        "Género"
+      ],
+      "correcta": 3,
+      "explicacion": "El orden jerárquico es: Dominio > Reino > Phylum > Clase > Orden > Familia > Género > Especie. La categoría superior a la especie es el género."
+    },
+    {
+      "pregunta": "¿Qué característica distingue a las células eucariotas de las procariotas?",
+      "opciones": [
+        "Las eucariotas tienen núcleo verdadero y organelos membranosos",
+        "Las eucariotas son siempre más pequeñas",
+        "Las eucariotas no tienen membrana celular",
+        "Las eucariotas solo existen en bacterias"
+      ],
+      "correcta": 0,
+      "explicacion": "Las células eucariotas (animales, plantas, hongos, protistas) tienen núcleo verdadero y organelos membranosos. Las procariotas (bacterias) no."
+    },
+    {
+      "pregunta": "¿Qué organelo se encarga de la síntesis de proteínas?",
+      "opciones": [
+        "Mitocondria",
+        "Ribosoma",
+        "Cloroplasto",
+        "Lisosoma"
+      ],
+      "correcta": 1,
+      "explicacion": "El ribosoma es el organelo encargado de la síntesis de proteínas, un proceso fundamental para la célula."
+    },
+    {
+      "pregunta": "La fotosíntesis se lleva a cabo en:",
+      "opciones": [
+        "La mitocondria",
+        "El núcleo",
+        "El cloroplasto",
+        "El ribosoma"
+      ],
+      "correcta": 2,
+      "explicacion": "La fotosíntesis ocurre en el cloroplasto, que contiene clorofila y solo está en células vegetales y algas."
+    },
+    {
+      "pregunta": "¿Cuál es el producto final de la respiración celular?",
+      "opciones": [
+        "Glucosa y oxígeno",
+        "Clorofila y luz",
+        "ADN y ARN",
+        "CO₂, H₂O y ATP"
+      ],
+      "correcta": 3,
+      "explicacion": "La respiración celular usa glucosa y oxígeno, y produce dióxido de carbono, agua y ATP (energía)."
+    },
+    {
+      "pregunta": "¿En qué orden ocurren las fases de la mitosis?",
+      "opciones": [
+        "Profase → Metafase → Anafase → Telofase",
+        "Metafase → Profase → Telofase → Anafase",
+        "Anafase → Telofase → Profase → Metafase",
+        "Telofase → Anafase → Metafase → Profase"
+      ],
+      "correcta": 0,
+      "explicacion": "El orden es Profase, Metafase, Anafase y Telofase. Truco mnemotécnico: PMAT (Pedro Mata Al Toro)."
+    },
+    {
+      "pregunta": "¿Cuál es la principal diferencia entre mitosis y meiosis?",
+      "opciones": [
+        "La mitosis produce 4 células; la meiosis, 2",
+        "La mitosis produce 2 células idénticas; la meiosis, 4 células con la mitad de cromosomas",
+        "La mitosis solo ocurre en plantas",
+        "No hay diferencia entre ellas"
+      ],
+      "correcta": 1,
+      "explicacion": "La mitosis produce 2 células idénticas para crecimiento y reparación. La meiosis produce 4 células haploides para la reproducción sexual."
+    },
+    {
+      "pregunta": "Si una planta heterocigota (Aa) se cruza con otra heterocigota (Aa), ¿qué porcentaje de la descendencia será homocigota recesiva (aa)?",
+      "opciones": [
+        "0%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "correcta": 1,
+      "explicacion": "En un cruce Aa × Aa, la descendencia es 25% AA, 50% Aa y 25% aa. El 25% es homocigota recesiva."
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes es un ejemplo de genotipo?",
+      "opciones": [
+        "Color de ojos café",
+        "Altura de 1.75 m",
+        "Cabello rubio",
+        "Aa"
+      ],
+      "correcta": 3,
+      "explicacion": "El genotipo es la combinación de alelos (AA, Aa, aa). El fenotipo es lo observable (color de ojos, altura, cabello)."
+    },
+    {
+      "pregunta": "La teoría de la evolución por selección natural fue propuesta por:",
+      "opciones": [
+        "Darwin",
+        "Lamarck",
+        "Cuvier",
+        "Mendel"
+      ],
+      "correcta": 0,
+      "explicacion": "Charles Darwin propuso la teoría de la selección natural: los individuos mejor adaptados sobreviven y se reproducen más."
+    },
+    {
+      "pregunta": "En la relación entre una abeja y una flor, ambas especies se benefician. Esta relación se llama:",
+      "opciones": [
+        "Comensalismo",
+        "Mutualismo",
+        "Parasitismo",
+        "Competencia"
+      ],
+      "correcta": 1,
+      "explicacion": "El mutualismo es una relación donde ambas especies se benefician (+/+). La abeja obtiene néctar y la flor es polinizada."
+    },
+    {
+      "pregunta": "En una cadena trófica, el 90% de la energía se pierde porque:",
+      "opciones": [
+        "Los productores la devuelven al sol",
+        "Se destruye completamente",
+        "Se disipa como calor en el metabolismo de los organismos",
+        "Se transfiere toda al siguiente nivel"
+      ],
+      "correcta": 2,
+      "explicacion": "Solo el 10% de la energía pasa al siguiente nivel trófico. El 90% restante se disipa como calor durante el metabolismo."
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes NO es un ciclo biogeoquímico?",
+      "opciones": [
+        "Ciclo del carbono",
+        "Ciclo del agua",
+        "Ciclo del nitrógeno",
+        "Ciclo solar"
+      ],
+      "correcta": 3,
+      "explicacion": "El ciclo solar no existe como ciclo biogeoquímico. Los ciclos biogeoquímicos reciclan materia: carbono, agua, nitrógeno, azufre, fósforo."
+    },
+    {
+      "pregunta": "¿Qué teoría del origen de la vida sostiene que los primeros seres vivos surgieron de moléculas inorgánicas en la 'sopa primigenia'?",
+      "opciones": [
+        "Panspermia",
+        "Síntesis abiótica",
+        "Biogénesis",
+        "Generación espontánea"
+      ],
+      "correcta": 1,
+      "explicacion": "La síntesis abiótica (Oparin y Haldane) propone que la vida surgió de moléculas inorgánicas que se combinaron en la 'sopa primigenia'."
+    },
+    {
+      "pregunta": "En la nomenclatura binomial, el nombre científico del perro es Canis familiaris. ¿Qué representa 'Canis'?",
+      "opciones": [
+        "La especie",
+        "La familia",
+        "El género",
+        "El reino"
+      ],
+      "correcta": 2,
+      "explicacion": "En la nomenclatura binomial, la primera palabra (con mayúscula) es el género y la segunda (con minúscula) es la especie."
+    }
+  ]
+}

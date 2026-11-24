@@ -1,0 +1,200 @@
+{
+  "titulo": "Clase Express: Ciencias Experimentales",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Ciencias Experimentales",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Clase Express</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Versión comprimida · 4 áreas en 1 sesión</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Geografía · Biología · Química · Física</p>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Geografía 1: Ramas de la geografía",
+      "html": "<p><strong>Geografía física:</strong> estudia los elementos naturales (clima, relieve, agua, suelo, vegetación).</p><p><strong>Geografía humana:</strong> estudia la relación del ser humano con el espacio (población, migración, economía, cultura).</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Geografía 2: Elementos de un mapa",
+      "html": "<p><strong>Mapa:</strong> representación gráfica a escala de la superficie terrestre.</p><p><strong>4 elementos obligatorios:</strong> título, escala, simbología, coordenadas.</p><p><strong>Escala 1:50,000:</strong> 1 cm en el mapa = 50,000 cm (500 m) reales.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Geografía 3: Tipos de mapas",
+      "html": "<ul><li><strong>Político:</strong> fronteras, países, estados.</li><li><strong>Físico:</strong> relieve (montañas, ríos, lagos).</li><li><strong>Temático:</strong> un tema específico (clima, población).</li><li><strong>Topográfico:</strong> muy detallado, con curvas de nivel.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Geografía 4: Herramientas geográficas",
+      "html": "<ul><li><strong>SIG:</strong> software que combina mapas con bases de datos (Google Maps, ArcGIS).</li><li><strong>GPS:</strong> satélites que dan posición exacta.</li><li><strong>Carta topográfica:</strong> mapa muy detallado con curvas de nivel.</li><li><strong>Croquis:</strong> dibujo simple a mano, sin escala precisa.</li><li><strong>Imagen satelital:</strong> foto desde el espacio.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Geografía 5: Erosión y relieve",
+      "html": "<p><strong>Erosión</strong> = desgaste externo por agentes naturales:</p><ul><li><strong>Eólica:</strong> viento (dunas).</li><li><strong>Marina:</strong> olas (acantilados).</li><li><strong>Fluvial:</strong> ríos (cañones, valles).</li><li><strong>Glaciar:</strong> hielo (valles en U).</li></ul><p><strong>NO existe</strong> erosión tectónica ni volcánica.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Geografía 6: Recursos naturales",
+      "html": "<ul><li><strong>Inagotables:</strong> no se acaban (sol, viento).</li><li><strong>Renovables:</strong> se regeneran si se cuidan (agua, flora, fauna, suelo).</li><li><strong>No renovables:</strong> se agotan (petróleo, gas, carbón, minerales, metales).</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Geografía 7: Climas de México (Köppen)",
+      "html": "<p><strong>Primera letra:</strong> A = tropical · B = seco · C = templado.</p><p><strong>Segunda letra:</strong> f = lluvias todo el año · w = verano · s = invierno.</p><p><strong>Ejemplos:</strong> Af (Selva Lacandona), BW (Baja California), Cw (CDMX).</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Geografía 8: Fenómenos naturales de riesgo",
+      "html": "<ul><li><strong>Geológicos:</strong> sismos, volcanes, tsunamis.</li><li><strong>Meteorológicos:</strong> huracanes, tornados, sequías.</li><li><strong>Hidrológicos:</strong> inundaciones, oleajes.</li><li><strong>Antropogénicos:</strong> derrames, fugas tóxicas. NO son naturales.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Geografía 9: Indicadores demográficos e IDH",
+      "html": "<p><strong>Indicadores:</strong> natalidad, mortalidad, fecundidad, migración, esperanza de vida.</p><p><strong>IDH:</strong> combina esperanza de vida + educación + ingreso per cápita.</p><p><strong>Trampa:</strong> morbilidad NO es indicador demográfico (es epidemiológico).</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Geografía 10: Zonas marítimas de México",
+      "html": "<ul><li><strong>Mar territorial:</strong> 12 millas náuticas (22 km) desde la costa. Soberanía plena.</li><li><strong>ZEE (Zona Económica Exclusiva):</strong> 200 millas náuticas (370 km). Derechos de explotación, pero no soberanía total.</li></ul>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Biología 1: Biomoléculas",
+      "html": "<ul><li><strong>Carbohidratos:</strong> energía inmediata (glucosa, almidón, celulosa).</li><li><strong>Lípidos:</strong> reserva de energía (grasas, aceites, colesterol).</li><li><strong>Proteínas:</strong> estructura y funciones vitales (enzimas, hemoglobina).</li><li><strong>Ácidos nucleicos:</strong> información genética (ADN, ARN).</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Biología 2: Célula y organelos",
+      "html": "<p><strong>Procariota:</strong> sin núcleo (bacterias). <strong>Eucariota:</strong> con núcleo.</p><ul><li><strong>Mitocondria:</strong> respiración celular, produce ATP.</li><li><strong>Cloroplasto:</strong> fotosíntesis (solo vegetales).</li><li><strong>Núcleo:</strong> contiene ADN.</li><li><strong>Ribosoma:</strong> síntesis de proteínas.</li><li><strong>Lisosoma:</strong> digestión.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Biología 3: Fotosíntesis vs respiración",
+      "html": "<p><strong>Fotosíntesis</strong> (cloroplasto, anabólica):</p><p class='font-mono text-center my-2 text-slate-800 dark:text-white'>6CO₂ + 6H₂O + luz → C₆H₁₂O₆ + 6O₂</p><p><strong>Respiración celular</strong> (mitocondria, catabólica):</p><p class='font-mono text-center my-2 text-slate-800 dark:text-white'>C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + ATP</p><p><strong>Fase luminosa</strong> (tilacoides): ATP, NADPH, O₂. <strong>Fase oscura</strong> (estroma): glucosa.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Biología 4: Mitosis y meiosis",
+      "html": "<p><strong>Mitosis:</strong> 2 células idénticas, mismas cromosomas. Crecimiento y reparación. Fases: PMAT (Profase, Metafase, Anafase, Telofase).</p><p><strong>Meiosis:</strong> 4 células con la mitad de cromosomas. Produce gametos (óvulos y espermatozoides).</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Biología 5: Genética mendeliana",
+      "html": "<p><strong>Genotipo</strong> (alelos) ≠ <strong>Fenotipo</strong> (visible).</p><p><strong>Homocigoto:</strong> AA o aa. <strong>Heterocigoto:</strong> Aa.</p><p><strong>1ª Ley</strong> (uniformidad): AA × aa → 100% Aa.</p><p><strong>2ª Ley</strong> (segregación): Aa × Aa → 3:1.</p><p><strong>3ª Ley</strong> (independencia): 9:3:3:1 en dihíbrido.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Biología 6: Evolución",
+      "html": "<ul><li><strong>Lamarck:</strong> uso y desuso + herencia de caracteres adquiridos.</li><li><strong>Cuvier:</strong> catastrofismo.</li><li><strong>Darwin:</strong> selección natural (el más apto sobrevive).</li><li><strong>Teoría sintética:</strong> Darwin + Mendel + genética de poblaciones.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Biología 7: Relaciones interespecíficas",
+      "html": "<ul><li><strong>Mutualismo (+/+):</strong> abeja y flor.</li><li><strong>Comensalismo (+/0):</strong> orquídea sobre árbol.</li><li><strong>Competencia (–/–):</strong> leones por territorio.</li><li><strong>Depredación (+/– muere):</strong> coyote y conejo.</li><li><strong>Parasitismo (+/– no muere):</strong> pulga y perro.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Biología 8: Ecosistemas",
+      "html": "<p><strong>Flujo de energía:</strong> regla del 10% (solo el 10% pasa al siguiente nivel trófico).</p><p><strong>Cadenas tróficas:</strong> productores → consumidores → descomponedores.</p><p><strong>Ciclos biogeoquímicos:</strong> carbono, agua, nitrógeno, azufre, fósforo. El ciclo solar NO existe.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Biología 9: Teorías del origen de la vida",
+      "html": "<ul><li><strong>Generación espontánea:</strong> vida de materia inerte.</li><li><strong>Biogénesis</strong> (Pasteur): todo ser vivo proviene de otro ser vivo.</li><li><strong>Panspermia</strong> (Arrhenius): vida del espacio.</li><li><strong>Síntesis abiótica</strong> (Oparin, Haldane): moléculas inorgánicas en la sopa primigenia.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Biología 10: Taxonomía",
+      "html": "<p><strong>8 categorías</strong> (de general a específica): Dominio → Reino → Phylum → Clase → Orden → Familia → Género → Especie.</p><p><strong>Nomenclatura binomial</strong> (Linneo): Género (mayúscula) + especie (minúscula), en cursiva. Ej: Canis familiaris.</p><p><strong>Dominios:</strong> Eukarya, Bacteria, Archaea.</p>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Química 1: Átomo y número atómico",
+      "html": "<p><strong>Átomo:</strong> protón (+ núcleo, define elemento), neutrón (núcleo, isótopos), electrón (− orbitales, forma enlaces).</p><p><strong>Número atómico (Z):</strong> número de protones. Define al elemento.</p><p><strong>Número másico (A):</strong> protones + neutrones.</p><p><strong>Isótopos:</strong> mismo elemento, diferente número de neutrones.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Química 2: Masa molecular y mol",
+      "html": "<p><strong>Masa molecular (M):</strong> suma de masas atómicas. Se mide en g/mol.</p><p class='font-mono text-center my-2 text-slate-800 dark:text-white'>H₂O: 2(1) + 16 = 18 g/mol</p><p><strong>Mol:</strong> 6.022 × 10²³ partículas (número de Avogadro).</p><p class='font-mono text-center my-2 text-slate-800 dark:text-white'>n = m / M</p><p>n = moles · m = masa (g) · M = masa molecular (g/mol)</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Química 3: Modelos atómicos y tabla periódica",
+      "html": "<p><strong>Modelos:</strong> Dalton (esfera) → Thomson (pudín) → Rutherford (núcleo) → Bohr (niveles) → Mecánico cuántico (orbitales).</p><p><strong>Tabla periódica:</strong></p><ul><li><strong>Metales:</strong> ceden e⁻ (cationes).</li><li><strong>No metales:</strong> ganan e⁻ (aniones).</li><li><strong>Metaloides:</strong> intermedios (Si, Ge, As).</li><li><strong>Gases nobles</strong> (grupo 18): He, Ne, Ar, Kr, Xe, Rn.</li><li><strong>Metales de transición:</strong> grupos 3-12.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Química 4: Estados, mezclas, redox, ácidos y enlaces",
+      "html": "<p><strong>Estados:</strong> sólido, líquido, gas, plasma. Cambios: fusión (S→L), ebullición (L→G), condensación (G→L), sublimación (S→G).</p><p><strong>Sustancias puras:</strong> elemento o compuesto. <strong>Mezclas:</strong> homogéneas (disoluciones) o heterogéneas.</p><p><strong>Redox:</strong> oxidación = pierde e⁻ (PEO); reducción = gana e⁻ (GER).</p><p><strong>Ácidos y bases:</strong> Arrhenius (H⁺ / OH⁻), Brønsted-Lowry (dona / acepta protones). <strong>pH:</strong> < 7 ácido, = 7 neutro, > 7 básico.</p><p><strong>Enlaces:</strong> iónico (metal + no metal), covalente (no metal + no metal), metálico (metal + metal).</p>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Física 1: Movimiento Rectilíneo Uniforme (MRU)",
+      "html": "<p><strong>MRU:</strong> velocidad constante.</p><p class='font-mono text-center text-xl my-3 text-slate-800 dark:text-white'>v = d / t</p><p>v (m/s), d (m), t (s).</p><p><strong>Conversión:</strong> km/h → m/s ÷ 3.6. m/s → km/h × 3.6.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Física 2: Movimiento Uniformemente Acelerado (MUA)",
+      "html": "<p class='font-mono text-center text-lg my-3 text-slate-800 dark:text-white'>a = (vf − vi) / t</p><p class='font-mono text-center text-lg my-3 text-slate-800 dark:text-white'>vf = vi + a · t</p><p><strong>Caída libre:</strong> a = g = 9.81 m/s². Si parte del reposo: v = g·t.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Física 3: Leyes de Newton",
+      "html": "<ul><li><strong>1ª - Inercia:</strong> ΣF = 0 (reposo o velocidad constante).</li><li><strong>2ª - Fuerza:</strong> F = m · a.</li><li><strong>3ª - Acción-reacción:</strong> F<sub>AB</sub> = −F<sub>BA</sub>.</li></ul><p><strong>Peso:</strong> P = m·g (en newtons). Masa (kg) ≠ Peso (N).</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Física 4: Leyes de Kepler",
+      "html": "<ul><li><strong>1ª - Órbitas:</strong> los planetas se mueven en órbitas elípticas con el Sol en un foco.</li><li><strong>2ª - Áreas:</strong> el radio vector barre áreas iguales en tiempos iguales (más rápido cerca del Sol).</li><li><strong>3ª - Periodos:</strong> T² ∝ r³.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Física 5: Transferencia de calor",
+      "html": "<ul><li><strong>Conducción:</strong> solo en sólidos (choque molecular).</li><li><strong>Convección:</strong> en líquidos y gases (movimiento de masa).</li><li><strong>Radiación:</strong> ondas electromagnéticas, viaja en vacío.</li></ul><p><strong>Calor ≠ Temperatura.</strong> Calor = energía transferida. Temperatura = qué tan caliente está.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Física 6: Leyes de la termodinámica",
+      "html": "<ul><li><strong>Ley cero:</strong> equilibrio térmico (si A=C y B=C, entonces A=B).</li><li><strong>1ª ley:</strong> ΔU = Q − W (conservación de la energía).</li><li><strong>2ª ley:</strong> la entropía siempre aumenta. Calor fluye de caliente a frío.</li><li><strong>3ª ley:</strong> cero absoluto (0 K = −273.15 °C), entropía mínima.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Física 7: Leyes de los gases",
+      "html": "<ul><li><strong>Boyle</strong> (T cte): P₁V₁ = P₂V₂</li><li><strong>Charles</strong> (P cte): V₁/T₁ = V₂/T₂</li><li><strong>Gay-Lussac</strong> (V cte): P₁/T₁ = P₂/T₂</li></ul><p><strong>Temperatura SIEMPRE en Kelvin:</strong> K = °C + 273.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Física 8: Ley de Hooke",
+      "html": "<p class='font-mono text-center text-xl my-3 text-slate-800 dark:text-white'>F = k · x</p><p>F = fuerza (N) · k = constante del resorte (N/m) · x = deformación (m).</p><p>Si te dan masa: primero calcula su peso con F = m·g.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Física 9: Principio de Pascal",
+      "html": "<p class='font-mono text-center text-xl my-3 text-slate-800 dark:text-white'>F₁ / A₁ = F₂ / A₂</p><p>La presión se transmite igual en todo el líquido encerrado. Base de las prensas hidráulicas.</p><p><strong>Truco:</strong> si el área aumenta 20 veces, la fuerza aumenta 20 veces.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Física 10: Principio de Arquímedes",
+      "html": "<p class='font-mono text-center text-xl my-3 text-slate-800 dark:text-white'>E = ρ · g · V</p><p>E = empuje (N) · ρ = densidad del fluido (kg/m³) · g = 9.81 m/s² · V = volumen sumergido (m³).</p><p><strong>Flota:</strong> si la densidad del objeto es menor que la del fluido.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Física 11: Ley de Ohm",
+      "html": "<p class='font-mono text-center text-xl my-3 text-slate-800 dark:text-white'>V = I · R</p><p>V = voltaje (V) · I = corriente (A) · R = resistencia (Ω).</p><p><strong>Despejes:</strong> I = V/R &nbsp;&nbsp; R = V/I.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Física 12: Ley de Snell",
+      "html": "<p class='font-mono text-center text-xl my-3 text-slate-800 dark:text-white'>n₁ · sen(θ₁) = n₂ · sen(θ₂)</p><p>n = índice de refracción. Describe cómo cambia la dirección de la luz al pasar entre medios (aire→agua, aire→vidrio).</p><p>Si el examen da los senos calculados, solo sustituyes.</p>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase Express",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase Express</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Ciencias Experimentales</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Ahora puedes practicar con el Cuestionario Final del programa.</p>"
+    }
+  ]
+}

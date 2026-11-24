@@ -1,0 +1,93 @@
+{
+  "titulo": "Clase 4: Sustentabilidad, Problemas Ambientales y Bioética",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 16",
+      "html": "<p class='text-2xl text-slate-100'>Hacia un Desarrollo Sustentable</p><p class='text-lg text-slate-200 mt-4'>Clase 4: Sustentabilidad, Problemas Ambientales y Bioética</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "¿Qué es el desarrollo sustentable?",
+      "html": "<p>El <strong>desarrollo sustentable</strong> se define como:</p><p class='italic text-slate-100 my-4'>\"Satisfacer las necesidades de las generaciones presentes, sin comprometer las posibilidades de las generaciones futuras para atender sus propias necesidades.\"</p><p>Integra tres dimensiones:</p><ul><li><strong>Ambiental:</strong> conservar los recursos naturales. Ej: transporte eléctrico.</li><li><strong>Económica:</strong> generar riqueza sin agotar recursos.</li><li><strong>Social:</strong> garantizar bienestar y equidad.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Justicia distributiva",
+      "html": "<p>La <strong>justicia distributiva</strong> es el tipo de justicia que regula el <strong>reparto equitativo de bienes y cargas</strong> en la sociedad.</p><p>Va del todo a las partes: no mira a las personas individualmente, sino a cómo se distribuyen los recursos, oportunidades y responsabilidades entre todos.</p><p>Aplicada al ambiente, busca el <strong>uso racional de los recursos naturales</strong> para mejorar la relación hombre-ambiente-sociedad y erradicar la pobreza.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Calentamiento global y cambio climático",
+      "html": "<p>El <strong>calentamiento global</strong> es el aumento de la temperatura promedio del planeta, causado por la acumulación de <strong>gases de efecto invernadero (GEI)</strong>.</p><p>El <strong>cambio climático antropogénico</strong> es el cambio del clima provocado por actividades humanas: quema de combustibles fósiles, deforestación, industria.</p><p>Es distinto de la <strong>variabilidad natural</strong> del clima (erupciones volcánicas, ciclos solares).</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Efecto invernadero y GEI",
+      "html": "<p>El <strong>efecto invernadero</strong> es un fenómeno natural que retiene parte del calor del sol en la atmósfera, permitiendo la vida. El problema surge cuando se intensifica por el exceso de <strong>GEI</strong>:</p><ul><li><strong>CO₂:</strong> ~85% de las emisiones (principal responsable).</li><li><strong>Metano (CH₄):</strong> ~8%.</li><li><strong>Óxido de nitrógeno (N₂O):</strong> ~5%.</li><li><strong>Gases fluorados (HFC, PFC, SF₆):</strong> ~2%.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Capa de ozono y lluvia ácida",
+      "html": "<p><strong>Capa de ozono:</strong> franja de la estratósfera rica en ozono (O₃). Protege a los seres vivos de las radiaciones ultravioleta (UV). Los <strong>clorofluorocarbonos (CFC)</strong> la dañan.</p><p><strong>Lluvia ácida:</strong> formada cuando los óxidos de azufre (SO₂) y de nitrógeno (NOₓ) reaccionan con el vapor de agua atmosférico. Se forman ácidos como el sulfúrico (H₂SO₄) y el nítrico (HNO₃). Daña plantas, acidifica lagos y corroe edificios.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Eutroficación y biomagnificación",
+      "html": "<p><strong>Eutroficación:</strong> enriquecimiento excesivo de nutrientes (nitrógeno y fósforo) en un cuerpo de agua. La versión <em>cultural</em> se acelera por descargas residuales y puede ocurrir en meses.</p><p><strong>Biomagnificación:</strong> aumento progresivo de la concentración de sustancias tóxicas (como el DDT) a lo largo de una cadena alimenticia. Los depredadores finales acumulan las concentraciones más altas.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Recursos naturales y servicios ecosistémicos",
+      "html": "<p><strong>Recursos naturales:</strong></p><ul><li><strong>Renovables:</strong> madera, maíz, agua, vegetales.</li><li><strong>No renovables:</strong> petróleo, gas natural, minerales.</li><li><strong>Inagotables:</strong> energía solar, eólica.</li></ul><p><strong>Servicios ecosistémicos:</strong></p><ul><li><strong>Aprovisionamiento:</strong> alimentos, agua, madera.</li><li><strong>Regulación:</strong> clima, purificación.</li><li><strong>Culturales:</strong> paisajes, recreación.</li><li><strong>De soporte:</strong> formación de suelo.</li></ul>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Reflexión: tu huella ecológica",
+      "instrucciones": "Responde en tu cuaderno:\n\nReflexiona sobre tus hábitos diarios:\n\n• ¿Qué haces que aumente tu huella ecológica? (usar auto, desperdiciar agua, no reciclar)\n• ¿Qué podrías cambiar para reducirla?\n• ¿Por qué es importante que cada persona actúe?\n\nEscribe una lista de al menos 3 acciones concretas que puedas llevar a cabo esta semana.",
+      "pista": "Pequeños cambios suman: apagar luces, usar menos plástico, caminar en trayectos cortos, separar la basura."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Cumbres internacionales",
+      "html": "<p>Las <strong>conferencias de Naciones Unidas</strong> sobre medio ambiente y desarrollo han sido clave para la cooperación global:</p><ul><li><strong>Estocolmo, Suecia (1972):</strong> primera cumbre ambiental global.</li><li><strong>Río de Janeiro, Brasil (1992):</strong> Cumbre de la Tierra. Se firmó la Agenda 21.</li><li><strong>Johannesburgo, Sudáfrica (2002):</strong> Cumbre Mundial sobre Desarrollo Sustentable.</li><li><strong>Protocolo de Kioto (1997):</strong> acuerdo para reducir emisiones de GEI.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Normas ambientales y contaminantes",
+      "html": "<p>En México, la <strong>SEMARNAT</strong> emite las <strong>Normas Oficiales Mexicanas (NOM)</strong>:</p><ul><li><strong>NOM-036-ECOL-1993:</strong> medición de SO₂.</li><li><strong>NOM-037-ECOL-1993:</strong> medición de NO₂.</li><li><strong>NOM-038-ECOL-1993:</strong> medición de O₃.</li></ul><p>El <strong>INE</strong> clasifica los contaminantes en:</p><ul><li><strong>Primarios:</strong> emitidos directamente. Ej: CO, SO₂, NO₂.</li><li><strong>Secundarios:</strong> formados por reacciones atmosféricas. Ej: O₃, peroxiacetilnitrato (PAN).</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Bioética: definición y principios",
+      "html": "<p>La <strong>bioética</strong> es la disciplina que estudia las implicaciones éticas de las decisiones humanas sobre la vida, la salud y el ambiente.</p><p>Cuatro principios fundamentales:</p><ul><li><strong>Autonomía:</strong> respetar la decisión libre de la persona.</li><li><strong>Beneficencia:</strong> buscar el bien.</li><li><strong>No maleficencia:</strong> no causar daño.</li><li><strong>Justicia:</strong> tratar con equidad.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Dilemas bioéticos: eutanasia e ingeniería genética",
+      "html": "<p><strong>Eutanasia (definición bioética):</strong> todo acto u omisión, realizado generalmente por personal médico, que ocasiona la muerte de un ser humano con el fin de evitarle sufrimientos insoportables.</p><p><strong>Ingeniería genética:</strong> práctica biotecnológica basada en la manipulación del ADN. Permite modificar organismos para obtener beneficios en salud, agricultura e industria (ejemplo: organismos transgénicos).</p>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Reflexión: bioética en tu entorno",
+      "instrucciones": "Responde en tu cuaderno:\n\nPiensa en una situación actual donde se debata un tema bioético (eutanasia, aborto, manipulación genética, uso de animales en experimentación, etc.).\n\nResponde:\n• ¿Cuál es el dilema central?\n• ¿Qué principios bioéticos entran en conflicto?\n• ¿Qué postura tomarías y por qué?\n\nEscribe tu reflexión con al menos un párrafo.",
+      "pista": "Ejemplo: en la eutanasia chocan la autonomía del paciente (decidir sobre su vida) y la no maleficencia del médico (no causar daño)."
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Analiza acciones sustentables",
+      "instrucciones": "Responde en tu cuaderno:\n\nLee las siguientes situaciones y clasifícalas como 'sustentable' o 'no sustentable'. Justifica cada una.\n\n1. Una fábrica que instala paneles solares para cubrir su consumo eléctrico.\n2. Una empresa que tala un bosque entero para construir un centro comercial.\n3. Una ciudad que separa residuos y hace composta con la basura orgánica.\n4. Un agricultor que usa pesticidas sin control y riega con agua de río sin tratamiento.",
+      "pista": "Piensa: ¿la acción permite que el recurso se siga usando en el futuro? ¿Genera más problemas ambientales de los que resuelve?"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Cierre: sustentabilidad y ética",
+      "html": "<p>En esta clase vimos:</p><ul><li>El <strong>desarrollo sustentable</strong> y sus tres dimensiones.</li><li>La <strong>justicia distributiva</strong> aplicada al ambiente.</li><li>Los principales <strong>problemas ambientales</strong>: calentamiento global, lluvia ácida, eutroficación, biomagnificación.</li><li>Los <strong>gases de efecto invernadero</strong>.</li><li>Las <strong>cumbres internacionales</strong> y el Protocolo de Kioto.</li><li>Las <strong>normas ambientales</strong> en México.</li><li>Los <strong>principios de la bioética</strong>.</li><li>Los <strong>servicios ecosistémicos</strong>.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 4",
+      "html": "<p class='text-3xl text-slate-100 mt-8'>Fin de la Clase 4</p><p class='text-lg text-slate-200 mt-4'>Sustentabilidad, Problemas Ambientales y Bioética</p><p class='text-base text-slate-300 mt-8'>Fin del contenido del Módulo 16. ¡Excelente trabajo!</p>"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+
+{
+  "titulo": "Clase 2: Desarrollo y modelado de sistemas",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 22: Informática",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Desarrollo y modelado de sistemas</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 2: Ingeniería de software y bases de datos</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Sistemas de información · Ciclo de vida · Planificación · Modelos de desarrollo · Diagramas · Bases de datos · Mantenimiento</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Sistemas de información",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Un <b>sistema de información</b> es un conjunto de elementos relacionados que recopilan, procesan, almacenan y distribuyen información.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Su propósito es facilitar las actividades de una organización y apoyar la toma de decisiones.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Ejemplo: un sistema de biblioteca permite registrar libros, controlar inventarios y administrar préstamos.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Ciclo de vida del software",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>El <b>ciclo de vida del software</b> comprende las etapas necesarias para desarrollar, implementar y mantener un programa o sistema.</p><ul class='text-lg text-slate-700 dark:text-slate-200'><li><b>Planificación:</b> establece objetivos, recursos y tiempos.</li><li><b>Análisis:</b> identifica necesidades y requisitos.</li><li><b>Diseño:</b> define la estructura y funcionamiento.</li><li><b>Implementación:</b> construye y pone en funcionamiento el sistema.</li><li><b>Pruebas:</b> comprueba su funcionamiento.</li><li><b>Mantenimiento:</b> corrige y mejora el sistema.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Planificación y análisis de riesgos",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>La planificación organiza las actividades necesarias para realizar un proyecto.</p><ul class='text-lg text-slate-700 dark:text-slate-200'><li><b>Estudio de viabilidad:</b> determina si el proyecto es posible y conveniente.</li><li><b>Estimación:</b> calcula los recursos, tiempos y costos necesarios.</li><li><b>Asignación de recursos:</b> distribuye personal, herramientas y materiales.</li><li><b>Análisis de riesgos:</b> identifica situaciones que podrían afectar el desarrollo del proyecto.</li></ul><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>El análisis de riesgos permite anticipar problemas y establecer medidas para reducir sus efectos.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Modelos de desarrollo de software",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Los modelos de desarrollo describen la manera en que se organiza la construcción de un sistema.</p><ul class='text-lg text-slate-700 dark:text-slate-200'><li><b>Estructurales:</b> representan la organización y los componentes de un sistema.</li><li><b>De comportamiento:</b> describen las respuestas y cambios del sistema ante determinados eventos.</li><li><b>Evolutivos:</b> permiten desarrollar y mejorar el software progresivamente.</li><li><b>Iterativos:</b> repiten ciclos de trabajo para perfeccionar el producto.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Modelo en espiral",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>El <b>modelo en espiral</b> es un modelo de desarrollo que combina ciclos iterativos con una evaluación constante de los riesgos.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Sus características principales son:</p><ul class='text-lg text-slate-700 dark:text-slate-200'><li>Divide el desarrollo en iteraciones.</li><li>Permite identificar y reducir riesgos.</li><li>Incorpora objetivos de calidad.</li><li>Facilita la evaluación y mejora progresiva.</li></ul><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Requiere experiencia para identificar y administrar los riesgos correctamente.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Diagramas estructurales",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Los diagramas estructurales representan cómo se organiza un sistema y cómo se relacionan sus elementos.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'><b>Diagrama de componentes:</b> muestra la división de un sistema en componentes o agrupaciones lógicas y sus dependencias.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'><b>Diagrama de flujo:</b> representa gráficamente la secuencia de pasos necesarios para realizar un proceso.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Un diagrama de flujo utiliza símbolos conectados mediante flechas.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Diagramas de comportamiento",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Los diagramas de comportamiento describen cómo actúa un sistema y cómo responde ante diferentes situaciones.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>El <b>diagrama de estados</b> representa los diferentes estados por los que pasa un objeto durante su vida y los cambios que ocurren como respuesta a eventos.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Ejemplo: un préstamo de biblioteca puede pasar por los estados disponible, prestado y devuelto.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Bases de datos",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Una <b>base de datos</b> es un conjunto organizado de información que permite almacenar, consultar, modificar y administrar datos.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Su diseño comienza identificando los recursos de información y las necesidades de los usuarios.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>El diseño de una base de datos comprende tres niveles: conceptual, lógico y físico.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Niveles de diseño de bases de datos",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>El diseño de una base de datos se divide en tres niveles:</p><ul class='text-lg text-slate-700 dark:text-slate-200'><li><b>Conceptual:</b> representa los recursos de información de una organización independientemente de los usuarios o aplicaciones.</li><li><b>Lógico:</b> organiza los datos de acuerdo con un modelo de base de datos.</li><li><b>Físico:</b> establece cómo se almacenarán los datos en el equipo o sistema.</li></ul><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>El diseño conceptual ofrece una visión general de la información que necesita la organización.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Mantenimiento del software",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>El <b>mantenimiento de software</b> comprende las modificaciones realizadas después de implementar un sistema para corregir errores o mejorar su funcionamiento.</p><ul class='text-lg text-slate-700 dark:text-slate-200'><li><b>Correctivo:</b> soluciona errores y fallas.</li><li><b>Adaptativo:</b> modifica el software para ajustarlo a cambios del entorno.</li><li><b>Perfectivo:</b> mejora el rendimiento, las funciones o las características del programa.</li></ul>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Actividad: Repaso de la Guía",
+      "instrucciones": "Resuelve las siguientes preguntas del Módulo 22 correspondientes a esta clase. Identifica las características de los modelos de desarrollo, las etapas del software y los niveles de diseño de bases de datos.",
+      "preguntas": [
+        5,
+        13,
+        14,
+        16,
+        21,
+        23,
+        26,
+        33,
+        34
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Revisión de la Actividad",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Compara tus respuestas con los conceptos revisados durante la clase.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Recuerda diferenciar los modelos estructurales de los modelos de comportamiento, así como los niveles conceptual, lógico y físico de una base de datos.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>La pregunta 14 requiere un esquema visual de las etapas del ciclo de vida de un sistema. Consulta el reactivo completo en tu guía.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 2",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Desarrollo de sistemas</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>En esta clase estudiamos el ciclo de vida del software, los modelos de desarrollo, los diagramas y el diseño de bases de datos.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>En la siguiente clase estudiaremos HTML, CSS y los procedimientos para publicar páginas web.</p>"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

@@ -1,0 +1,671 @@
+{
+  "titulo": "Sesión 2: Geometría y Trigonometría",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Repaso de Matemáticas - Sesión 2",
+      "html": "<p class=\"text-lg\"><strong>Geometría y Trigonometría</strong><br>3 horas · 8 temas · ejemplos y práctica"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Perímetros, áreas y volúmenes",
+      "html": "<p class=\"text-lg\">Distingue el contorno, la superficie y el espacio que ocupa una figura, y utiliza sus unidades correspondientes.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Perímetros, áreas y volúmenes",
+      "enunciado": "Selecciona la opción correcta: para un rectángulo de base 8 cm y altura 5 cm, calcula su área y su perímetro.",
+      "datos": [
+        "A) A=26 cm², P=40 cm",
+        "B) A=40 cm², P=26 cm",
+        "C) A=13 cm², P=26 cm",
+        "D) A=40 cm², P=13 cm"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Perímetros, áreas y volúmenes",
+      "enunciado": "Selecciona la opción correcta: para un triángulo de base 10 cm y altura 6 cm con lados 10 cm, 8 cm y 6 cm, calcula su área y su perímetro.",
+      "datos": [
+        "A) A=60 cm², P=24 cm",
+        "B) A=30 cm², P=18 cm",
+        "C) A=30 cm², P=24 cm",
+        "D) A=24 cm², P=30 cm"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Perímetros, áreas y volúmenes",
+      "enunciado": "Selecciona la opción correcta: para un círculo de radio 4 cm (usa π ≈ 3.14), calcula su área y su perímetro (circunferencia).",
+      "datos": [
+        "A) A=25.12 cm², P=50.24 cm",
+        "B) A=12.56 cm², P=25.12 cm",
+        "C) A=50.24 cm², P=12.56 cm",
+        "D) A=50.24 cm², P=25.12 cm"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Perímetros, áreas y volúmenes",
+      "enunciado": "Selecciona la opción correcta: calcula el volumen de un cubo de arista 3 cm.",
+      "datos": [
+        "A) 27 cm³",
+        "B) 9 cm³",
+        "C) 18 cm³",
+        "D) 81 cm³"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 5: Perímetros, áreas y volúmenes",
+      "enunciado": "Selecciona la opción correcta: calcula el volumen de un cilindro de radio 2 cm y altura 5 cm (usa π ≈ 3.14).",
+      "datos": [
+        "A) 31.4 cm³",
+        "B) 62.8 cm³",
+        "C) 20 cm³",
+        "D) 125.6 cm³"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Perímetros, áreas y volúmenes",
+      "ejercicios": [
+        {
+          "pregunta": "Calcula el área y el perímetro de un rectángulo de base 10 cm y altura 4 cm.",
+          "respuesta": "A=40 cm², P=28 cm"
+        },
+        {
+          "pregunta": "Calcula el área y el perímetro de un triángulo de base 12 cm y altura 7 cm con lados 12 cm, 9 cm y 8 cm.",
+          "respuesta": "A=42 cm², P=29 cm"
+        },
+        {
+          "pregunta": "Calcula el volumen de un cubo de arista 4 cm.",
+          "respuesta": "64 cm³"
+        },
+        {
+          "pregunta": "Calcula el volumen de un cilindro de radio 3 cm y altura 10 cm (usa π ≈ 3.14).",
+          "respuesta": "282.6 cm³"
+        }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Teorema de Pitágoras",
+      "html": "<p class=\"text-lg\">En un triángulo rectángulo, la suma de los cuadrados de los catetos es igual al cuadrado de la hipotenusa.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Teorema de Pitágoras",
+      "enunciado": "Selecciona la opción correcta: si los catetos miden 3 y 4, ¿cuánto mide la hipotenusa?",
+      "datos": [
+        "A) 6",
+        "B) 7",
+        "C) 5",
+        "D) 25"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Teorema de Pitágoras",
+      "enunciado": "Selecciona la opción correcta: si los catetos miden 6 y 8, ¿cuánto mide la hipotenusa?",
+      "datos": [
+        "A) 12",
+        "B) 14",
+        "C) 100",
+        "D) 10"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Teorema de Pitágoras",
+      "enunciado": "Selecciona la opción correcta: si un cateto mide 9 y la hipotenusa 15, ¿cuánto mide el otro cateto?",
+      "datos": [
+        "A) 12",
+        "B) 10",
+        "C) 8",
+        "D) 6"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Teorema de Pitágoras",
+      "enunciado": "Selecciona la opción correcta: si un cateto mide 5 y la hipotenusa 13, ¿cuánto mide el otro cateto?",
+      "datos": [
+        "A) 8",
+        "B) 12",
+        "C) 10",
+        "D) 14"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 5: Teorema de Pitágoras",
+      "enunciado": "Selecciona la opción correcta: si los catetos miden 7 y 24, ¿cuánto mide la hipotenusa?",
+      "datos": [
+        "A) 31",
+        "B) 26",
+        "C) 25",
+        "D) 30"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Teorema de Pitágoras",
+      "ejercicios": [
+        {
+          "pregunta": "Si los catetos miden 6 y 8, ¿cuánto mide la hipotenusa?",
+          "respuesta": "10"
+        },
+        {
+          "pregunta": "Si un cateto mide 5 y la hipotenusa 13, ¿cuánto mide el otro cateto?",
+          "respuesta": "12"
+        },
+        {
+          "pregunta": "Si los catetos miden 9 y 12, ¿cuánto mide la hipotenusa?",
+          "respuesta": "15"
+        },
+        {
+          "pregunta": "Si un cateto mide 8 y la hipotenusa 17, ¿cuánto mide el otro cateto?",
+          "respuesta": "15"
+        }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Semejanza de triángulos",
+      "html": "<p class=\"text-lg\">Los lados correspondientes de triángulos semejantes mantienen una razón constante y sus ángulos correspondientes son iguales. Se denota ABC ~ DEF.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Semejanza de triángulos",
+      "enunciado": "Selecciona la opción correcta: si ABC ~ DEF, AB=3, BC=4, AC=5 y DE=9, ¿cuánto mide EF?",
+      "datos": [
+        "A) 8",
+        "B) 15",
+        "C) 10",
+        "D) 12"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Semejanza de triángulos",
+      "enunciado": "Selecciona la opción correcta: si ABC ~ DEF, AB=5, BC=12, AC=13 y DE=10, ¿cuánto mide EF?",
+      "datos": [
+        "A) 24",
+        "B) 20",
+        "C) 18",
+        "D) 26"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Semejanza de triángulos",
+      "enunciado": "Selecciona la opción correcta: si ABC ~ DEF, AB=4, BC=6, AC=8 y DE=6, ¿cuánto mide DF?",
+      "datos": [
+        "A) 10",
+        "B) 12",
+        "C) 14",
+        "D) 16"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Semejanza de triángulos",
+      "enunciado": "Selecciona la opción correcta: si ABC ~ DEF, AB=7, BC=24, AC=25 y DE=14, ¿cuánto mide EF?",
+      "datos": [
+        "A) 42",
+        "B) 36",
+        "C) 48",
+        "D) 50"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 5: Semejanza de triángulos",
+      "enunciado": "Selecciona la opción correcta: si ABC ~ DEF, AB=9, BC=12, AC=15 y DE=3, ¿cuánto mide DF?",
+      "datos": [
+        "A) 6",
+        "B) 4",
+        "C) 8",
+        "D) 5"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Semejanza de triángulos",
+      "ejercicios": [
+        {
+          "pregunta": "Si ABC ~ DEF, AB=3, BC=4, AC=5 y DE=6, ¿cuánto mide EF?",
+          "respuesta": "8"
+        },
+        {
+          "pregunta": "Si ABC ~ DEF, AB=6, BC=8, AC=10 y DE=3, ¿cuánto mide DF?",
+          "respuesta": "5"
+        },
+        {
+          "pregunta": "Si ABC ~ DEF, AB=5, BC=12, AC=13 y DE=15, ¿cuánto mide EF?",
+          "respuesta": "36"
+        },
+        {
+          "pregunta": "Si ABC ~ DEF, AB=8, BC=15, AC=17 y DE=16, ¿cuánto mide EF?",
+          "respuesta": "30"
+        }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Distancia entre dos puntos",
+      "html": "<p class=\"text-lg\">Calcula la distancia horizontal y vertical entre los puntos y aplica el teorema de Pitágoras.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Distancia entre dos puntos",
+      "enunciado": "Selecciona la opción correcta: calcula la distancia entre los puntos (0,0) y (3,4).",
+      "datos": [
+        "A) 5",
+        "B) 7",
+        "C) 6",
+        "D) 25"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Distancia entre dos puntos",
+      "enunciado": "Selecciona la opción correcta: calcula la distancia entre los puntos (1,2) y (4,6).",
+      "datos": [
+        "A) 7",
+        "B) 5",
+        "C) 6",
+        "D) 25"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Distancia entre dos puntos",
+      "enunciado": "Selecciona la opción correcta: calcula la distancia entre los puntos (-2,1) y (2,4).",
+      "datos": [
+        "A) 6",
+        "B) 7",
+        "C) 5",
+        "D) 25"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Distancia entre dos puntos",
+      "enunciado": "Selecciona la opción correcta: calcula la distancia entre los puntos (0,0) y (6,8).",
+      "datos": [
+        "A) 14",
+        "B) 12",
+        "C) 100",
+        "D) 10"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 5: Distancia entre dos puntos",
+      "enunciado": "Selecciona la opción correcta: calcula la distancia entre los puntos (2,3) y (5,7).",
+      "datos": [
+        "A) 5",
+        "B) 6",
+        "C) 7",
+        "D) 25"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Distancia entre dos puntos",
+      "ejercicios": [
+        {
+          "pregunta": "Calcula la distancia entre (0,0) y (5,12).",
+          "respuesta": "13"
+        },
+        {
+          "pregunta": "Calcula la distancia entre (1,1) y (4,5).",
+          "respuesta": "5"
+        },
+        {
+          "pregunta": "Calcula la distancia entre (-3,2) y (1,5).",
+          "respuesta": "5"
+        },
+        {
+          "pregunta": "Calcula la distancia entre (2,1) y (8,9).",
+          "respuesta": "10"
+        }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Punto medio",
+      "html": "<p class=\"text-lg\">Obtén el promedio de las coordenadas correspondientes para encontrar el punto que divide un segmento en dos partes iguales.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Punto medio",
+      "enunciado": "Selecciona la opción correcta: encuentra el punto medio entre (2,4) y (6,8).",
+      "datos": [
+        "A) (2,4)",
+        "B) (4,6)",
+        "C) (8,12)",
+        "D) (3,5)"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Punto medio",
+      "enunciado": "Selecciona la opción correcta: encuentra el punto medio entre (0,0) y (10,6).",
+      "datos": [
+        "A) (10,6)",
+        "B) (0,0)",
+        "C) (5,3)",
+        "D) (5,6)"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Punto medio",
+      "enunciado": "Selecciona la opción correcta: encuentra el punto medio entre (-4,2) y (2,8).",
+      "datos": [
+        "A) (1,5)",
+        "B) (-2,4)",
+        "C) (0,5)",
+        "D) (-1,5)"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Punto medio",
+      "enunciado": "Selecciona la opción correcta: encuentra el punto medio entre (3,-2) y (7,6).",
+      "datos": [
+        "A) (5,2)",
+        "B) (4,4)",
+        "C) (10,4)",
+        "D) (2,5)"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 5: Punto medio",
+      "enunciado": "Selecciona la opción correcta: encuentra el punto medio entre (-6,-3) y (2,5).",
+      "datos": [
+        "A) (2,-1)",
+        "B) (-2,1)",
+        "C) (-4,1)",
+        "D) (-2,2)"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Punto medio",
+      "ejercicios": [
+        {
+          "pregunta": "Encuentra el punto medio entre (2,6) y (8,10).",
+          "respuesta": "(5,8)"
+        },
+        {
+          "pregunta": "Encuentra el punto medio entre (1,3) y (7,5).",
+          "respuesta": "(4,4)"
+        },
+        {
+          "pregunta": "Encuentra el punto medio entre (-2,4) y (6,-2).",
+          "respuesta": "(2,1)"
+        },
+        {
+          "pregunta": "Encuentra el punto medio entre (-5,-1) y (3,7).",
+          "respuesta": "(-1,3)"
+        }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Pendiente y ecuación de la recta",
+      "html": "<p class=\"text-lg\">La pendiente es el cambio vertical entre el cambio horizontal y una recta puede escribirse como y = mx + b.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Pendiente y ecuación de la recta",
+      "enunciado": "Selecciona la opción correcta: calcula la pendiente de la recta que pasa por (1,2) y (3,6).",
+      "datos": [
+        "A) 1",
+        "B) 3",
+        "C) 2",
+        "D) 4"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Pendiente y ecuación de la recta",
+      "enunciado": "Selecciona la opción correcta: calcula la pendiente de la recta que pasa por (2,5) y (4,1).",
+      "datos": [
+        "A) 2",
+        "B) -1",
+        "C) 1",
+        "D) -2"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Pendiente y ecuación de la recta",
+      "enunciado": "Selecciona la opción correcta: encuentra la ecuación de la recta con pendiente 3 y ordenada al origen 2.",
+      "datos": [
+        "A) y = 3x + 2",
+        "B) y = 2x + 3",
+        "C) y = 3x - 2",
+        "D) y = -3x + 2"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Pendiente y ecuación de la recta",
+      "enunciado": "Selecciona la opción correcta: encuentra la ecuación de la recta con pendiente -1 y ordenada al origen 5.",
+      "datos": [
+        "A) y = x + 5",
+        "B) y = -x + 5",
+        "C) y = -x - 5",
+        "D) y = 5x - 1"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 5: Pendiente y ecuación de la recta",
+      "enunciado": "Selecciona la opción correcta: encuentra la ecuación de la recta que pasa por (0,4) y tiene pendiente 2.",
+      "datos": [
+        "A) y = 4x + 2",
+        "B) y = 2x - 4",
+        "C) y = 2x + 4",
+        "D) y = -2x + 4"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Pendiente y ecuación de la recta",
+      "ejercicios": [
+        {
+          "pregunta": "Calcula la pendiente de la recta que pasa por (1,1) y (4,7).",
+          "respuesta": "m = 2"
+        },
+        {
+          "pregunta": "Calcula la pendiente de la recta que pasa por (2,8) y (5,2).",
+          "respuesta": "m = -2"
+        },
+        {
+          "pregunta": "Encuentra la ecuación de la recta con pendiente 4 y ordenada al origen -1.",
+          "respuesta": "y = 4x - 1"
+        },
+        {
+          "pregunta": "Encuentra la ecuación de la recta que pasa por (0,3) y tiene pendiente -2.",
+          "respuesta": "y = -2x + 3"
+        }
+      ]
+    },
+{
+  "tipo": "contenido",
+  "titulo": "Tema: Secciones cónicas",
+  "html": "<p>Las secciones cónicas son curvas que se obtienen al intersectar un cono con un plano.</p><img src=\"https://i.ytimg.com/vi/zKqWkL5F5Go/maxresdefault.jpg\" alt=\"Representación de las secciones cónicas\" style=\"max-width:100%; height:auto; display:block; margin:1rem auto;\" />"
+},
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Secciones cónicas",
+      "enunciado": "Selecciona la opción correcta: identifica la cónica cuya ecuación es y = x² - 4x + 3.",
+      "datos": [
+        "A) Circunferencia",
+        "B) Hipérbola",
+        "C) Elipse",
+        "D) Parábola"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Secciones cónicas",
+      "enunciado": "Selecciona la opción correcta: encuentra la ecuación de la circunferencia con centro en (0,0) y radio 3.",
+      "datos": [
+        "A) x² + y² = 9",
+        "B) x² + y² = 3",
+        "C) x² + y² = 6",
+        "D) x² + y² = 12"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Secciones cónicas",
+      "enunciado": "Selecciona la opción correcta: identifica la cónica cuya ecuación es x²/9 - y²/4 = 1.",
+      "datos": [
+        "A) Parábola",
+        "B) Hipérbola",
+        "C) Circunferencia",
+        "D) Elipse"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Secciones cónicas",
+      "enunciado": "Selecciona la opción correcta: identifica la cónica cuya ecuación es x²/25 + y²/16 = 1.",
+      "datos": [
+        "A) Parábola",
+        "B) Circunferencia",
+        "C) Elipse",
+        "D) Hipérbola"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 5: Secciones cónicas",
+      "enunciado": "Selecciona la opción correcta: identifica la cónica cuya ecuación es x² + y² = 16.",
+      "datos": [
+        "A) Parábola",
+        "B) Hipérbola",
+        "C) Elipse",
+        "D) Circunferencia"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Secciones cónicas",
+      "ejercicios": [
+        {
+          "pregunta": "Identifica la cónica cuya ecuación es y = x² + 2x + 1.",
+          "respuesta": "Parábola"
+        },
+        {
+          "pregunta": "Encuentra la ecuación de la circunferencia con centro en (2,-1) y radio 4.",
+          "respuesta": "(x−2)² + (y+1)² = 16"
+        },
+        {
+          "pregunta": "Identifica la cónica cuya ecuación es x²/16 - y²/9 = 1.",
+          "respuesta": "Hipérbola"
+        },
+        {
+          "pregunta": "Identifica la cónica cuya ecuación es x²/36 + y²/25 = 1.",
+          "respuesta": "Elipse"
+        }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: Razones trigonométricas",
+      "html": "<p class=\"text-lg\">Relaciona seno, coseno y tangente con los lados opuesto, adyacente e hipotenusa.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Razones trigonométricas",
+      "enunciado": "Selecciona la opción correcta: en un triángulo rectángulo, el cateto opuesto mide 3 y la hipotenusa 5. ¿Cuál es el seno del ángulo?",
+      "datos": [
+        "A) 0.6",
+        "B) 0.8",
+        "C) 0.75",
+        "D) 1.25"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Razones trigonométricas",
+      "enunciado": "Selecciona la opción correcta: en un triángulo rectángulo, el cateto adyacente mide 4 y la hipotenusa 5. ¿Cuál es el coseno del ángulo?",
+      "datos": [
+        "A) 0.6",
+        "B) 0.8",
+        "C) 0.75",
+        "D) 1.25"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Razones trigonométricas",
+      "enunciado": "Selecciona la opción correcta: en un triángulo rectángulo, el cateto opuesto mide 3 y el adyacente 4. ¿Cuál es la tangente del ángulo?",
+      "datos": [
+        "A) 0.6",
+        "B) 0.8",
+        "C) 0.75",
+        "D) 1.33"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Razones trigonométricas",
+      "enunciado": "Selecciona la opción correcta: si sen θ = 0.5, ¿cuál es el valor de θ?",
+      "datos": [
+        "A) 45°",
+        "B) 60°",
+        "C) 90°",
+        "D) 30°"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 5: Razones trigonométricas",
+      "enunciado": "Selecciona la opción correcta: si cos θ = 0.5, ¿cuál es el valor de θ?",
+      "datos": [
+        "A) 60°",
+        "B) 30°",
+        "C) 45°",
+        "D) 90°"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Razones trigonométricas",
+      "ejercicios": [
+        {
+          "pregunta": "En un triángulo rectángulo, el cateto opuesto mide 6 y la hipotenusa 10. ¿Cuál es el seno del ángulo?",
+          "respuesta": "sen = 0.6"
+        },
+        {
+          "pregunta": "En un triángulo rectángulo, el cateto adyacente mide 8 y la hipotenusa 10. ¿Cuál es el coseno del ángulo?",
+          "respuesta": "cos = 0.8"
+        },
+        {
+          "pregunta": "En un triángulo rectángulo, el cateto opuesto mide 5 y el adyacente 12. ¿Cuál es la tangente del ángulo?",
+          "respuesta": "tan = 5/12"
+        },
+        {
+          "pregunta": "Si tan θ = 1, ¿cuál es el valor de θ?",
+          "respuesta": "45°"
+        }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la sesión 2",
+      "html": "<p class=\"text-lg\">Has completado el repaso de Geometría y Trigonometría.</p>"
+    }
+  ]
+}

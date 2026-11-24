@@ -1,0 +1,653 @@
+{
+  "titulo": "Sesión 4: Física",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Ciencias Experimentales",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Sesión 4: Física</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>4 horas · 11 temas en clase + 1 de estudio en casa</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>MRU · MUA · Leyes de Newton · Leyes de Kepler · Calor · Termodinámica · Gases · Hooke · Pascal · Arquímedes · Ley de Ohm</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Movimiento Rectilíneo Uniforme (MRU)",
+      "html": "<p class='text-lg'>El <strong>Movimiento Rectilíneo Uniforme (MRU)</strong> ocurre cuando un cuerpo se mueve en línea recta con <strong>velocidad constante</strong>: no acelera ni frena.</p><p class='text-lg'><strong>Fórmula principal:</strong></p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>v = d / t<br>d = v · t<br>t = d / v</span></div><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVXFS8pg3rFMq6tKbHvpuSkLZK6g75H9PU0dKyON59teGmug13frgZVwM&s=10' alt='Movimiento rectilíneo uniforme' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Variables y unidades",
+      "html": "<ul class='text-lg'><li><strong>v</strong> = velocidad, en metros por segundo (m/s)</li><li><strong>d</strong> = distancia, en metros (m)</li><li><strong>t</strong> = tiempo, en segundos (s)</li></ul><p class='text-lg'><strong>Conversiones críticas:</strong></p><ul class='text-lg'><li>km/h → m/s: <strong>dividir entre 3.6</strong></li><li>m/s → km/h: <strong>multiplicar por 3.6</strong></li></ul><p class='text-lg'><strong>Ejemplo:</strong> un auto a 72 km/h equivale a 72 ÷ 3.6 = <strong>20 m/s</strong>.</p><img src='https://image.slidesharecdn.com/sistemaunitarioconversiondeunidades-140720121812-phpapp02/75/Sistema-unitario-conversion-de-unidades-2-2048.jpg' alt='Conversión de unidades físicas' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 1: MRU: velocidad",
+      "enunciado": "¿Cuál es la velocidad de una pelota si después de 5.0 s está a 35.0 m de distancia?",
+      "datos": [
+        "d = 35.0 m",
+        "t = 5.0 s"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 1: MRU: conversión",
+      "enunciado": "Un auto viaja a 90 km/h. ¿Cuál es su velocidad en m/s?",
+      "datos": [
+        "v = 90 km/h",
+        "Conversión: 1 km/h = 1/3.6 m/s"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 1: MRU: distancia",
+      "enunciado": "¿Cuántos metros recorre un auto a 20 m/s en 15 segundos?",
+      "datos": [
+        "v = 20 m/s",
+        "t = 15 s"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: MRU",
+      "ejercicios": [
+        {
+          "pregunta": "Un ciclista recorre 180 m en 12 s. ¿Cuál es su velocidad?\nFórmula: v = d / t",
+          "respuesta": "15 m/s"
+        },
+        {
+          "pregunta": "Un tren viaja a 144 km/h. ¿Cuál es su velocidad en m/s?\nFórmula: v = d / t",
+          "respuesta": "40 m/s"
+        },
+        {
+          "pregunta": "Una persona camina a 1.5 m/s durante 40 s. ¿Qué distancia recorre?\nFórmula: v = d / t",
+          "respuesta": "60 m"
+        }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Movimiento Uniformemente Acelerado (MUA)",
+      "html": "<p class='text-lg'>El <strong>Movimiento Uniformemente Acelerado (MUA)</strong> ocurre cuando la velocidad cambia de forma constante. Hay <strong>aceleración</strong>.</p><p class='text-lg'><strong>Fórmulas principales:</strong></p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>a = (vf − vi) / t</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>vf = vi + a · t</span></div><p class='text-lg'>Donde: a = aceleración (m/s²), vi = velocidad inicial, vf = velocidad final.</p><img src='https://cursoparalaunam.com/wp-content/uploads/2021/01/MOVIMIENTO-UNIFORMEMENTE-ACELERADO-1.gif' alt='Representación del movimiento uniformemente acelerado' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Caída libre",
+      "html": "<p class='text-lg'>La <strong>caída libre</strong> es un caso especial de MUA donde el único factor es la gravedad.</p><p class='text-lg'><strong>Aceleración de la gravedad:</strong></p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>g = 9.81 m/s²</span></div><p class='text-lg'>Si un objeto parte del reposo (vi = 0), su velocidad en cualquier momento es:</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>v = g · t</span></div>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 2: MUA: aceleración",
+      "enunciado": "¿Cuál es la aceleración de una moto que pasa de 25 m/s a 35 m/s en 10 s?",
+      "datos": [
+        "vi = 25 m/s",
+        "vf = 35 m/s",
+        "t = 10 s"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 2: MUA: velocidad final",
+      "enunciado": "Un auto parte del reposo con aceleración de 3 m/s². ¿Qué velocidad tendrá a los 6 segundos?",
+      "datos": [
+        "vi = 0 m/s",
+        "a = 3 m/s²",
+        "t = 6 s"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 2: Caída libre",
+      "enunciado": "¿Qué velocidad alcanza un objeto que parte del reposo después de 3 s? (g = 9.81 m/s²)",
+      "datos": [
+        "vi = 0 m/s",
+        "g = 9.81 m/s²",
+        "t = 3 s"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: MUA y caída libre",
+      "ejercicios": [
+        {
+          "pregunta": "Un avión parte del reposo y alcanza 80 m/s en 20 s. ¿Cuál es su aceleración?\nFórmula: a = (vf − vi) / t; vf = vi + a · t",
+          "respuesta": "4 m/s²"
+        },
+        {
+          "pregunta": "Un objeto cae durante 3 s. ¿Qué velocidad alcanza? (g = 9.81 m/s²)\nFórmula: a = (vf − vi) / t; vf = vi + a · t",
+          "respuesta": "29.43 m/s"
+        },
+        {
+          "pregunta": "Un auto aumenta de 10 a 30 m/s en 5 s. ¿Cuál es su aceleración?\nFórmula: a = (vf − vi) / t; vf = vi + a · t",
+          "respuesta": "4 m/s²"
+        }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Las 3 Leyes de Newton",
+      "html": "<p class='text-lg'>Isaac Newton formuló <strong>tres leyes</strong> que explican el movimiento de los cuerpos:</p><ul class='text-lg'><li><strong>1ª Ley - Inercia:</strong> Todo objeto se mantiene en movimiento hasta que una fuerza externa lo altera y viceversa.</li><li><strong>2ª Ley - Masa × Aceleración:</strong> F = m · a.</li><li><strong>3ª Ley - Acción y Reacción:</strong> por cada fuerza hay otra igual y opuesta.</li></ul><img src='https://ocw.bib.upct.es/pluginfile.php/7705/mod_imscp/content/1/MAQUINA.jpg' alt='Ilustración de las tres leyes de Newton' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Segunda Ley de Newton",
+      "html": "<p class='text-lg'>La <strong>segunda ley de Newton</strong> es la más usada en los problemas:</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>F = m · a</span></div><ul class='text-lg'><li><strong>F</strong> = fuerza neta (N, newtons)</li><li><strong>m</strong> = masa (kg)</li><li><strong>a</strong> = aceleración (m/s²)</li></ul><p class='text-lg'>Si te dan velocidad inicial y final, primero calcula la aceleración:</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>a = (vf − vi) / t</span></div><img src='https://s1.significados.com/foto/boliche.jpg?class=article' alt='Ejemplo de acción y reacción relacionado con la segunda ley de Newton' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Peso vs masa",
+      "html": "<ul class='text-lg'><li><strong>Masa (kg):</strong> cantidad de materia. NO cambia con la ubicación.</li><li><strong>Peso (N):</strong> fuerza con la que la gravedad atrae a un cuerpo.</li></ul><p class='text-lg'><strong>Fórmula del peso:</strong></p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>P = m · g</span></div><p class='text-lg'>Donde g = 9.81 m/s². La masa se mide en kg y el peso en newtons (N).</p><img src='https://www.areaciencias.com/fisica/imagenes/diferencia-entre-la-masa-y-el-peso.jpg' alt='Diferencia entre masa y peso' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 3: Newton: fuerza neta",
+      "enunciado": "Un cuerpo de 50 kg pasa de 15 m/s a 35 m/s en 5 s. ¿Cuál es la fuerza neta aplicada?",
+      "datos": [
+        "m = 50 kg",
+        "vi = 15 m/s",
+        "vf = 35 m/s",
+        "t = 5 s"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 3: Newton: masa y peso",
+      "enunciado": "¿Cuál es la masa de un cuerpo cuyo peso es de 1,800 N? (g = 9.81 m/s²)",
+      "datos": [
+        "P = 1,800 N",
+        "g = 9.81 m/s²"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 3: Newton: peso",
+      "enunciado": "¿Cuál es el peso de una persona de 60 kg? (g = 9.81 m/s²)",
+      "datos": [
+        "m = 60 kg",
+        "g = 9.81 m/s²"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Leyes de Newton",
+      "ejercicios": [
+        {
+          "pregunta": "Una fuerza de 120 N actúa sobre una masa de 20 kg. ¿Cuál es su aceleración?\nFórmula: F = m · a; P = m · g",
+          "respuesta": "6 m/s²"
+        },
+        {
+          "pregunta": "Una persona de 70 kg está en la Tierra. ¿Cuál es su peso? (g = 9.81 m/s²)\nFórmula: F = m · a; P = m · g",
+          "respuesta": "686.7 N"
+        },
+        {
+          "pregunta": "Un cuerpo de 10 kg acelera a 2 m/s². ¿Qué fuerza neta actúa?\nFórmula: F = m · a; P = m · g",
+          "respuesta": "20 N"
+        }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Leyes de Kepler",
+      "html": "<p class='text-lg'>Johannes Kepler formuló <strong>tres leyes</strong> que describen el movimiento de los planetas alrededor del Sol:</p><ul class='text-lg'><li><strong>1ª Ley - Órbitas:</strong> los planetas se mueven en <strong>órbitas elípticas</strong>, con el Sol en uno de los focos.</li><li><strong>2ª Ley - Áreas:</strong> el radio vector barre <strong>áreas iguales en tiempos iguales</strong>.</li><li><strong>3ª Ley - Periodos:</strong> <div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>T² ∝ r³</span></div>.</li></ul><img src='https://lh3.googleusercontent.com/proxy/vzwS1_pIXYvTxi-Fc28PitCnfT0LyAEYVrNnJQjQuZ9BJmuv9ImTads68l2VFbpJ9ih9HICOA7K_R_Z2a6shtB22eb62UC40_LcBQiqiGgt18b1bhbPU' alt='Primera y segunda ley de Kepler' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: La 2ª Ley de Kepler",
+      "html": "<p class='text-lg'>La <strong>segunda ley de Kepler</strong> (ley de las áreas) explica por qué los planetas no se mueven a velocidad constante:</p><ul class='text-lg'><li>Cuando están <strong>cerca del Sol</strong> (perihelio), se mueven <strong>más rápido</strong>.</li><li>Cuando están <strong>lejos del Sol</strong> (afelio), se mueven <strong>más lento</strong>.</li></ul><img src='https://www.areaciencias.com/wp-content/uploads/2021/12/kepler-segunda-ley.jpg' alt='Segunda ley de Kepler y áreas orbitales' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Ejemplos cotidianos",
+      "html": "<p class='text-lg'>Estas leyes no solo aplican a los planetas:</p><ul class='text-lg'><li><strong>Satélites artificiales:</strong> orbitan la Tierra siguiendo las mismas leyes.</li><li><strong>La Luna:</strong> orbita la Tierra en una elipse.</li><li><strong>Cometas:</strong> tienen órbitas muy elípticas.</li></ul>"
+    },
+    {
+      "tipo": "pregunta",
+      "titulo": "Pregunta: Tema 4",
+      "pregunta": "Cuando decimos que los planetas siguen órbitas elípticas, nos referimos a la ley de Kepler de:",
+      "opciones": [
+        "La primera ley orbital",
+        "La segunda ley orbital",
+        "La tercera ley orbital",
+        "La ley de gravitación universal"
+      ],
+      "correcta": 0,
+      "explicacion": "La primera ley de Kepler establece que las órbitas planetarias son elípticas."
+    },
+    {
+      "tipo": "pregunta",
+      "titulo": "Pregunta: Tema 4",
+      "pregunta": "Según la 2ª ley de Kepler, cuando un planeta está más cerca del Sol:",
+      "opciones": [
+        "Se mueve con menor rapidez orbital",
+        "Se mueve con mayor rapidez orbital",
+        "Permanece detenido durante la órbita",
+        "Mantiene exactamente la misma rapidez"
+      ],
+      "correcta": 1,
+      "explicacion": "La segunda ley de Kepler indica que el planeta se mueve más rápido al estar más cerca del Sol."
+    },
+    {
+      "tipo": "pregunta",
+      "titulo": "Pregunta: Tema 4",
+      "pregunta": "La 3ª ley de Kepler establece que:",
+      "opciones": [
+        "El periodo se relaciona con el radio orbital",
+        "Los planetas siguen círculos completamente perfectos",
+        "El Sol ocupa el centro exacto de toda órbita",
+        "Las áreas recorridas cambian en cada periodo"
+      ],
+      "correcta": 0,
+      "explicacion": "La tercera ley relaciona el periodo orbital y el radio medio: T² es proporcional a r³."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Transferencia de calor",
+      "html": "<p class='text-lg'>El calor se transfiere de un cuerpo caliente a uno frío de <strong>tres formas</strong>:</p><ul class='text-lg'><li><strong>Conducción:</strong> por contacto directo entre partículas; es especialmente importante en <strong>sólidos</strong>, aunque también puede ocurrir en líquidos y gases.</li><li><strong>Convección:</strong> en <strong>líquidos y gases</strong>. Movimiento de masa.</li><li><strong>Radiación:</strong> viaja como <strong>ondas electromagnéticas</strong>, incluso en el vacío.</li></ul><img src='https://i.ytimg.com/vi/2Z4EREJs0IU/maxresdefault.jpg' alt='Transferencia de calor' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Calor vs temperatura",
+      "html": "<p class='text-lg'><strong>Calor ≠ Temperatura.</strong></p><ul class='text-lg'><li><strong>Temperatura:</strong> qué tan caliente está un cuerpo. Se mide en °C, °F o K.</li><li><strong>Calor:</strong> energía que se transfiere de un cuerpo caliente a uno frío. Se mide en joules (J) o calorías (cal).</li></ul><img src='https://i.ytimg.com/vi/b15tpzxq7Lw/maxresdefault.jpg' alt='Diferencia entre calor y temperatura' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "pregunta",
+      "titulo": "Pregunta: Tema 5",
+      "pregunta": "Al interior de un cuerpo sólido, la única forma de transferencia de calor es por:",
+      "opciones": [
+        "Conducción entre partículas cercanas",
+        "Convección mediante corrientes internas",
+        "Radiación mediante ondas electromagnéticas",
+        "Propagación de energía sin interacción"
+      ],
+      "correcta": 0,
+      "explicacion": "En los sólidos predomina la conducción por contacto directo entre partículas, aunque la afirmación de que es la única forma debe entenderse en el modelo introductorio."
+    },
+    {
+      "tipo": "pregunta",
+      "titulo": "Pregunta: Tema 5",
+      "pregunta": "El Sol calienta la Tierra sin necesidad de un medio material. Esta forma de transferencia se llama:",
+      "opciones": [
+        "Conducción por contacto directo",
+        "Convección mediante movimiento de masa",
+        "Radiación mediante ondas electromagnéticas",
+        "Convección forzada mediante un fluido"
+      ],
+      "correcta": 2,
+      "explicacion": "La radiación se transmite mediante ondas electromagnéticas y puede viajar por el vacío."
+    },
+    {
+      "tipo": "pregunta",
+      "titulo": "Pregunta: Tema 5",
+      "pregunta": "¿Cuál es la diferencia entre calor y temperatura?",
+      "opciones": [
+        "Son conceptos físicos completamente equivalentes",
+        "El calor se mide en °C y la temperatura en J",
+        "La temperatura describe el estado; el calor se transfiere",
+        "El calor únicamente puede existir dentro de sólidos"
+      ],
+      "correcta": 2,
+      "explicacion": "La temperatura describe el estado térmico; el calor es energía que se transfiere entre cuerpos."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Leyes de la Termodinámica",
+      "html": "<p class='text-lg'>La termodinámica estudia el calor y sus transformaciones. Tiene <strong>4 leyes</strong>:</p><ul class='text-lg'><li><strong>Ley cero:</strong> si A y B están en equilibrio térmico con C, entonces A y B también lo están.</li><li><strong>1ª ley:</strong> conservación de la energía. ΔU = Q − W.</li><li><strong>2ª ley:</strong> la entropía del universo siempre aumenta.</li><li><strong>3ª ley:</strong> para un cristal perfecto, la entropía tiende a cero cuando la temperatura se aproxima al cero absoluto (0 K).</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Tipos de sistemas",
+      "html": "<ul class='text-lg'><li><strong>Abierto:</strong> intercambia materia y energía. Ej: olla destapada.</li><li><strong>Cerrado:</strong> intercambia solo energía. Ej: botella sellada.</li><li><strong>Aislado:</strong> no intercambia materia ni energía. Ej: termo ideal.</li></ul><p class='text-lg'><strong>Nota:</strong> un sistema adiabático no intercambia calor, pero sí puede intercambiar trabajo; por eso no es necesariamente un sistema aislado.</p><img src='https://s1.significados.com/foto/sistemas-termodinamicos-tipos-cke.jpg?class=article' alt='Tipos de sistemas termodinámicos' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: La 1ª y 2ª ley",
+      "html": "<p class='text-lg'><strong>1ª ley de la termodinámica:</strong></p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>ΔU = Q − W</span></div><p class='text-lg'>El cambio en la energía interna es igual al calor que recibe menos el trabajo que realiza.</p><p class='text-lg'><strong>2ª ley:</strong> la entropía (desorden) del universo siempre aumenta.</p><img src='https://juan0590.wordpress.com/wp-content/uploads/2015/05/clausius-02.png' alt='Diagrama de Clausius sobre la segunda ley de la termodinámica' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "pregunta",
+      "titulo": "Pregunta: Tema 6",
+      "pregunta": "Un sistema termodinámico que NO intercambia materia ni energía con su entorno es:",
+      "opciones": [
+        "Un sistema abierto sin intercambio alguno",
+        "Un sistema cerrado que intercambia materia",
+        "Un sistema aislado sin intercambios externos",
+        "Un sistema adiabático sin transferencia de calor"
+      ],
+      "correcta": 2,
+      "explicacion": "Un sistema aislado no intercambia materia ni energía con el entorno."
+    },
+    {
+      "tipo": "pregunta",
+      "titulo": "Pregunta: Tema 6",
+      "pregunta": "La energía no se crea ni se destruye, solo se transforma. Esto es la:",
+      "opciones": [
+        "La ley cero del equilibrio térmico",
+        "La primera ley de la termodinámica",
+        "La segunda ley de la termodinámica",
+        "La tercera ley de la termodinámica"
+      ],
+      "correcta": 1,
+      "explicacion": "La primera ley expresa la conservación de la energía."
+    },
+    {
+      "tipo": "pregunta",
+      "titulo": "Pregunta: Tema 6",
+      "pregunta": "¿Cuál es la diferencia entre un sistema abierto y uno cerrado?",
+      "opciones": [
+        "El abierto no intercambia; el cerrado intercambia todo",
+        "El abierto intercambia materia y energía; el cerrado energía",
+        "El cerrado únicamente existe en condiciones espaciales",
+        "No existe diferencia entre ambos tipos de sistemas"
+      ],
+      "correcta": 1,
+      "explicacion": "El sistema abierto intercambia materia y energía; el cerrado intercambia energía, pero no materia."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Leyes de los gases",
+      "html": "<table class='w-full text-left my-3 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-2'>Ley</th><th class='py-2'>Constante</th><th class='py-2'>Fórmula</th><th class='py-2'>Idea</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-2'>Boyle</td><td class='py-2'>T</td><td class='py-2'>P₁V₁ = P₂V₂</td><td class='py-2'>Si comprimes, V baja</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Charles</td><td class='py-2'>P</td><td class='py-2'>V₁/T₁ = V₂/T₂</td><td class='py-2'>Si calientas, V sube</td></tr><tr><td class='py-2'>Gay-Lussac</td><td class='py-2'>V</td><td class='py-2'>P₁/T₁ = P₂/T₂</td><td class='py-2'>Si calientas, P sube</td></tr></tbody></table><p class='text-lg'><strong>Ley general de los gases:</strong> relaciona presión, volumen y temperatura de una cantidad fija de gas.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>P₁V₁ / T₁ = P₂V₂ / T₂</span></div><p class='text-lg'><strong>Ley de los gases ideales:</strong> relaciona la presión, el volumen, la cantidad de sustancia y la temperatura absoluta de un gas.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>PV = nRT</span></div><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm_Aq50moTrL0EpicSR3rmMMxb5Lsg_HFsR_wxcxN-x_3Uu22uRTYybK0&s=10' alt='Leyes de los gases' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: La temperatura en Kelvin",
+      "html": "<p class='text-lg'>En TODAS las leyes de los gases, la <strong>temperatura debe estar en Kelvin (K)</strong>.</p><p class='text-lg'><strong>Conversión:</strong></p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>K = °C + 273</span></div><p class='text-lg'><strong>De Fahrenheit a Kelvin:</strong></p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>K = (°F − 32) × 5/9 + 273.15</span></div><p class='text-lg'>Ejemplos: 27 °C = 300 K · 0 °C = 273 K · 100 °C = 373 K</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Ley de Charles",
+      "html": "<p class='text-lg'>La Ley de Charles establece que, a presión constante, el volumen de un gas es directamente proporcional a su temperatura absoluta.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>V₁ / T₁ = V₂ / T₂</span></div><img src='https://i.ytimg.com/vi/1ZduXmVPe1I/maxresdefault.jpg' alt='Ley de Charles' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Ley de Gay-Lussac",
+      "html": "<p class='text-lg'>La Ley de Gay-Lussac establece que, a volumen constante, la presión de un gas es directamente proporcional a su temperatura absoluta.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>P₁ / T₁ = P₂ / T₂</span></div><img src='https://i.ytimg.com/vi/OJ9_mgkwZAk/maxresdefault.jpg' alt='Ley de Gay-Lussac' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Ley de Boyle (ejemplo)",
+      "html": "<img src='https://i.ytimg.com/vi/vq3-tk1xDo0/maxresdefault.jpg' alt='Ley de Boyle' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 7: Boyle",
+      "enunciado": "Un gas ocupa 175 cm³ a 7 atm. ¿Cuál será su volumen si la presión aumenta a 9 atm?",
+      "datos": [
+        "V1 = 175 cm³",
+        "P1 = 7 atm",
+        "P2 = 9 atm",
+        "Temperatura constante"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 7: Charles",
+      "enunciado": "Una muestra de helio ocupa 500 mL a 300 K. ¿A qué temperatura ocupará 700 mL?",
+      "datos": [
+        "V1 = 500 mL",
+        "T1 = 300 K",
+        "V2 = 700 mL",
+        "Presión constante"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 7: Gay-Lussac",
+      "enunciado": "Un gas está a 2 atm y 300 K. ¿Qué presión tendrá a 450 K si el volumen no cambia?",
+      "datos": [
+        "P1 = 2 atm",
+        "T1 = 300 K",
+        "T2 = 450 K",
+        "Volumen constante"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Leyes de los gases",
+      "ejercicios": [
+        {
+          "pregunta": "Un gas ocupa 100 cm³ a 2 atm. ¿Qué volumen tendrá a 4 atm?\nFórmula: P1V1 = P2V2; V1/T1 = V2/T2; P1/T1 = P2/T2",
+          "respuesta": "50 cm³"
+        },
+        {
+          "pregunta": "Un gas ocupa 300 mL a 250 K. ¿Qué volumen tendrá a 500 K?\nFórmula: P1V1 = P2V2; V1/T1 = V2/T2; P1/T1 = P2/T2",
+          "respuesta": "600 mL"
+        },
+        {
+          "pregunta": "Un gas está a 1 atm y 300 K. ¿Qué presión tendrá a 600 K?\nFórmula: P1V1 = P2V2; V1/T1 = V2/T2; P1/T1 = P2/T2",
+          "respuesta": "2 atm"
+        }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: Ley de Hooke (resortes)",
+      "html": "<p class='text-lg'>La <strong>Ley de Hooke</strong> describe la fuerza que ejerce un resorte cuando se estira o comprime:</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>F = k · x</span></div><ul class='text-lg'><li><strong>F</strong> = fuerza aplicada (N)</li><li><strong>k</strong> = constante del resorte (N/m)</li><li><strong>x</strong> = deformación o estiramiento (m)</li></ul><img src='https://blogs.ugto.mx/rea/wp-content/uploads/sites/71/2022/07/Captura-de-Pantalla-2022-07-28-a-las-14.52.24.png' alt='Ley de Hooke y resortes' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: Cuando te dan una masa",
+      "html": "<p class='text-lg'>Si en el problema te dan una <strong>masa</strong> en lugar de una fuerza, primero calcula su peso:</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>F = m · g</span></div><p class='text-lg'>Donde g = 9.81 m/s². La fuerza que aplica una masa colgada es su peso.</p><img src='https://www.lopezmontes.es/aula/svg/ley-Hooke.svg' alt='Ley de Hooke' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 8: Hooke: constante",
+      "enunciado": "Si a un resorte le cuelgas 5 kg y se deforma 0.70 m, calcula su constante k (g = 9.81 m/s²).",
+      "datos": [
+        "m = 5 kg",
+        "x = 0.70 m",
+        "g = 9.81 m/s²"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 8: Hooke: fuerza",
+      "enunciado": "Si la constante de un resorte es 100 N/m y se estira 0.5 m, ¿qué fuerza se aplicó?",
+      "datos": [
+        "k = 100 N/m",
+        "x = 0.5 m"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 8: Hooke: deformación",
+      "enunciado": "Un resorte de k = 200 N/m recibe una fuerza de 30 N. ¿Cuánto se deforma?",
+      "datos": [
+        "k = 200 N/m",
+        "F = 30 N"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Ley de Hooke",
+      "ejercicios": [
+        {
+          "pregunta": "Un resorte se estira 0.4 m con una fuerza de 20 N. ¿Cuál es k?\nFórmula: F = k · x",
+          "respuesta": "50 N/m"
+        },
+        {
+          "pregunta": "Un resorte de k = 80 N/m se estira 0.3 m. ¿Qué fuerza recibe?\nFórmula: F = k · x",
+          "respuesta": "24 N"
+        },
+        {
+          "pregunta": "Una fuerza de 15 N actúa sobre un resorte de k = 50 N/m. ¿Cuál es su deformación?\nFórmula: F = k · x",
+          "respuesta": "0.3 m"
+        }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 9: Principio de Pascal",
+      "html": "<p class='text-lg'>El <strong>Principio de Pascal</strong> establece que la presión aplicada a un líquido encerrado se transmite <strong>con la misma intensidad en todas las direcciones</strong>.</p><p class='text-lg'>Es el principio detrás de las <strong>prensas hidráulicas</strong>, los frenos de autos y los gatos hidráulicos.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>F₁ / A₁ = F₂ / A₂</span></div><img src='https://fisicabasica.org/wp-content/uploads/2022/03/principio-de-pascal-exp-a.png' alt='Principio de Pascal y prensa hidráulica' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 9: Cómo usar la fórmula",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>F₁ / A₁ = F₂ / A₂</span></div><ul class='text-lg'><li><strong>F₁</strong> = fuerza en el émbolo pequeño</li><li><strong>A₁</strong> = área del émbolo pequeño</li><li><strong>F₂</strong> = fuerza en el émbolo grande</li><li><strong>A₂</strong> = área del émbolo grande</li></ul><p class='text-lg'>Si el área aumenta, la fuerza también aumenta proporcionalmente.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 9: Pascal: fuerza",
+      "enunciado": "En una prensa hidráulica, el émbolo pequeño tiene 10 cm² y el grande 200 cm². Si aplicas 50 N al pequeño, ¿qué fuerza ejerce el grande?",
+      "datos": [
+        "A1 = 10 cm²",
+        "A2 = 200 cm²",
+        "F1 = 50 N"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 9: Pascal: proporción",
+      "enunciado": "Si el área del émbolo grande es 5 veces la del pequeño y aplicas 40 N, ¿qué fuerza produce?",
+      "datos": [
+        "A2/A1 = 5",
+        "F1 = 40 N"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 9: Pascal: área",
+      "enunciado": "Una prensa multiplica una fuerza de 80 N por 4. ¿Cuál es la fuerza de salida?",
+      "datos": [
+        "F1 = 80 N",
+        "A2/A1 = 4"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Principio de Pascal",
+      "ejercicios": [
+        {
+          "pregunta": "Si el área grande es 10 veces la pequeña y aplicas 15 N, ¿qué fuerza obtienes?\nFórmula: F1 / A1 = F2 / A2",
+          "respuesta": "150 N"
+        },
+        {
+          "pregunta": "Una prensa tiene A1 = 5 cm² y A2 = 100 cm². Si aplicas 20 N, ¿qué fuerza produce?\nFórmula: F1 / A1 = F2 / A2",
+          "respuesta": "400 N"
+        },
+        {
+          "pregunta": "Una prensa recibe 30 N en un área pequeña y multiplica por 6. ¿Cuál es la fuerza grande?\nFórmula: F1 / A1 = F2 / A2",
+          "respuesta": "180 N"
+        }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 10: Principio de Arquímedes",
+      "html": "<p class='text-lg'>El <strong>Principio de Arquímedes</strong> establece que todo cuerpo sumergido en un fluido recibe un <strong>empuje vertical hacia arriba</strong> igual al peso del líquido desalojado.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>E = ρ · g · V</span></div><ul class='text-lg'><li><strong>E</strong> = empuje (N)</li><li><strong>ρ</strong> = densidad del fluido (kg/m³)</li><li><strong>g</strong> = 9.81 m/s²</li><li><strong>V</strong> = volumen sumergido (m³)</li></ul><img src='https://static.wixstatic.com/media/615fcd_d322c788a02742e79d75394f983f671c~mv2.png/v1/fill/w_361,h_518,al_c,q_85,enc_avif,quality_auto/615fcd_d322c788a02742e79d75394f983f671c~mv2.png' alt='Principio de Arquímedes' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 10: Flotación",
+      "html": "<p class='text-lg'>Un objeto <strong>flota</strong> cuando el empuje es mayor o igual a su peso. Se <strong>hunde</strong> cuando el empuje es menor.</p><ul class='text-lg'><li>Si la densidad del objeto es <strong>menor</strong> que la del fluido → flota.</li><li>Si la densidad del objeto es <strong>mayor</strong> → se hunde.</li><li>Si son <strong>iguales</strong> → queda suspendido.</li></ul><p class='text-lg'>Para el agua: ρ = 1000 kg/m³.</p><img src='https://fisymat.com/wp-content/uploads/2022/10/Empuje.webp' alt='Empuje y flotación' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 10: Arquímedes: empuje",
+      "enunciado": "Un cuerpo sumergido desplaza 3 m³ de agua. ¿Cuál es el empuje?",
+      "datos": [
+        "rho = 1000 kg/m³",
+        "g = 9.81 m/s²",
+        "V = 3 m³"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 10: Arquímedes: empuje menor",
+      "enunciado": "Un objeto desplaza 0.5 m³ de agua. ¿Cuál es el empuje?",
+      "datos": [
+        "rho = 1000 kg/m³",
+        "g = 9.81 m/s²",
+        "V = 0.5 m³"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 10: Arquímedes: empuje mayor",
+      "enunciado": "Un objeto desplaza 2 m³ de agua. ¿Cuál es el empuje?",
+      "datos": [
+        "rho = 1000 kg/m³",
+        "g = 9.81 m/s²",
+        "V = 2 m³"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Principio de Arquímedes",
+      "ejercicios": [
+        {
+          "pregunta": "Un objeto desplaza 0.5 m³ de agua. ¿Cuál es el empuje? (ρ = 1000 kg/m³, g = 9.81 m/s²)\nFórmula: E = ρ · g · V",
+          "respuesta": "4,905 N"
+        },
+        {
+          "pregunta": "Un cuerpo desplaza 2 m³ de agua. ¿Cuál es el empuje? (ρ = 1000 kg/m³, g = 9.81 m/s²)\nFórmula: E = ρ · g · V",
+          "respuesta": "19,620 N"
+        },
+        {
+          "pregunta": "Un cuerpo desplaza 1.2 m³ de agua. ¿Cuál es el empuje? (ρ = 1000 kg/m³, g = 9.81 m/s²)\nFórmula: E = ρ · g · V",
+          "respuesta": "11,772 N"
+        }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 11: Ley de Ohm",
+      "html": "<p class='text-lg'>La <strong>Ley de Ohm</strong> relaciona el voltaje, la corriente y la resistencia en un circuito eléctrico:</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>V = I · R<br>I = V / R<br>R = V / I</span></div><img src='https://www.connectcp.org/wp-content/uploads/2025/06/ChatGPT-Image-4-jun-2025_-13_10_36_1_.jpg' alt='Ley de Ohm y circuito eléctrico' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 11: Variables y unidades",
+      "html": "<ul class='text-lg'><li><strong>V</strong> = voltaje o diferencia de potencial (volts, V)</li><li><strong>I</strong> = corriente eléctrica (amperes, A)</li><li><strong>R</strong> = resistencia (ohms, Ω)</li></ul><p class='text-lg'><strong>Truco visual:</strong> imagina un triángulo. V está arriba, I y R abajo. Para encontrar el valor que buscas, tapa la letra y mira qué operación queda.</p><img src='https://mialdeatdo.com/wp-content/uploads/2023/04/image-13.png' alt='Variables eléctricas de la Ley de Ohm' class='my-4 rounded-lg max-h-80 mx-auto'>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 11: Ohm: corriente",
+      "enunciado": "Un aparato tiene una resistencia de 60 Ω. ¿Cuál será la corriente al conectarlo a 120 V?",
+      "datos": [
+        "R = 60 Ω",
+        "V = 120 V"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 11: Ohm: voltaje",
+      "enunciado": "Determine el voltaje de una resistencia de 2,000 Ω por la que circulan 1.5 A.",
+      "datos": [
+        "R = 2,000 Ω",
+        "I = 1.5 A"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: Tema 11: Ohm: resistencia",
+      "enunciado": "Una corriente de 5 A circula con un voltaje de 100 V. ¿Cuál es la resistencia?",
+      "datos": [
+        "V = 100 V",
+        "I = 5 A"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Ley de Ohm",
+      "ejercicios": [
+        {
+          "pregunta": "Una resistencia de 40 Ω se conecta a 220 V. ¿Cuál es la corriente?\nFórmula: V = I · R",
+          "respuesta": "5.5 A"
+        },
+        {
+          "pregunta": "Si por una resistencia de 300 Ω circula 0.5 A, ¿cuál es el voltaje?\nFórmula: V = I · R",
+          "respuesta": "150 V"
+        },
+        {
+          "pregunta": "Un circuito tiene 12 V y una corriente de 2 A. ¿Cuál es su resistencia?\nFórmula: V = I · R",
+          "respuesta": "6 Ω"
+        }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Actividad de Estudio en Casa",
+      "html": "<div class='text-center py-16'><p class='text-3xl font-bold text-slate-800 dark:text-white mb-4'>Óptica: reflexión y refracción de la luz</p><p class='text-3xl font-bold text-slate-800 dark:text-white mb-4'>Ondas, sonido y frecuencia</p><p class='text-3xl font-bold text-slate-800 dark:text-white'>Circuitos eléctricos en serie y paralelo</p></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Sesión 4",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Sesión 4</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Física</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Fin del programa Ciencias Experimentales. ¡Excelente trabajo!</p>"
+    }
+  ]
+}

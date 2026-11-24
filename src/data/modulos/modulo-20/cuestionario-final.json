@@ -1,0 +1,357 @@
+{
+  "titulo": "Cuestionario Final: Módulo 20.2 - Optimización en Sistemas Naturales y Sociales",
+  "preguntas": [
+    {
+      "pregunta": "La existencia de fábricas que usan o desechan de forma no controlada productos químicos sólidos y efluentes líquidos puede clasificarse dentro de los factores de ______ cuando se trata de actividades humanas ______ que producen residuos industriales que contaminan principalmente ______.",
+      "opciones": [
+        "Desastre ecológico → legales → las áreas rurales",
+        "Desastre ecológico → autorizadas legalmente → la atmósfera",
+        "Vulnerabilidad → sin normatividad → las zonas urbanas",
+        "Vulnerabilidad → fuera de normatividad → suelos y aguas"
+      ],
+      "correcta": 3,
+      "explicacion": "Las actividades industriales que operan fuera de la normatividad y manejan inadecuadamente sus residuos generan condiciones de vulnerabilidad y contaminación del suelo y del agua."
+    },
+    {
+      "pregunta": "El objetivo de balancear una ecuación química es encontrar los ______ de los compuestos químicos en ambos miembros de la ecuación.",
+      "opciones": [
+        "Productos",
+        "Subíndices",
+        "Exponentes",
+        "Coeficientes"
+      ],
+      "correcta": 3,
+      "explicacion": "Los coeficientes permiten igualar la cantidad de átomos de cada elemento en los reactivos y productos, respetando la ley de conservación de la materia."
+    },
+    {
+      "pregunta": "¿Cuál es el proceso del ciclo del agua que se observa en la siguiente imagen?",
+      "opciones": [
+        "Precipitación",
+        "Evaporación",
+        "Infiltración",
+        "Condensación"
+      ],
+      "correcta": null,
+      "explicacion": "Consultar en tu Guia. Es necesario observar la imagen para identificar el proceso del ciclo del agua."
+    },
+    {
+      "pregunta": "¿Cómo se define el punto de inflexión de una función derivable en todo el conjunto de los números reales?",
+      "opciones": [
+        "Es el punto de la gráfica de la función donde tiene una asíntota vertical.",
+        "Es el punto de la gráfica de la función donde cambia su comportamiento de decreciente a creciente.",
+        "Es el punto de la gráfica de la función donde cambia su comportamiento de creciente a decreciente.",
+        "Es el punto de la gráfica de la función en la que cambia su concavidad."
+      ],
+      "correcta": 3,
+      "explicacion": "Un punto de inflexión es aquel donde la función cambia de concavidad, pasando de cóncava hacia arriba a cóncava hacia abajo, o viceversa."
+    },
+    {
+      "pregunta": "¿Cuál de los puntos de la gráfica pueden clasificarse como puntos de inflexión?",
+      "opciones": [
+        "P, S, V",
+        "R, S, T",
+        "P, V",
+        "Q, U"
+      ],
+      "correcta": null,
+      "explicacion": "Consultar en tu Guia. Se necesita observar la gráfica para identificar los puntos donde cambia la concavidad."
+    },
+    {
+      "pregunta": "En la Minera Santa Mónica se utilizan grandes cantidades de calor para separar y purificar metales. Los productos de desecho gaseosos son eliminados por la chimenea de la fábrica, lo cual es un tipo de contaminación ______. Por otra parte, los gases emitidos han producido lluvia ácida en la localidad, lo que corresponde a un tipo de contaminación ______.",
+      "opciones": [
+        "Difusa → puntual",
+        "Lineal → difusa",
+        "Puntual → lineal",
+        "Puntual → difusa"
+      ],
+      "correcta": 3,
+      "explicacion": "La chimenea es una fuente puntual porque concentra las emisiones en un lugar específico. La lluvia ácida es una manifestación de contaminación difusa debido a la dispersión de los contaminantes."
+    },
+    {
+      "pregunta": "La contaminación del agua puede asociarse con diversas fuentes. ¿Cuál requiere acciones inmediatas para mitigar sus efectos negativos en el ecosistema?",
+      "opciones": [
+        "Sedimentos, porque son partículas de arcilla, arena y otros materiales que indican una deficiente potabilización.",
+        "Organismos patógenos, porque se asocian con la presencia de materia fecal en el agua y representan un riesgo para la salud.",
+        "Fertilizantes, porque contienen altas concentraciones de nitratos y fosfatos que afectan la salud y no deberían estar presentes en el agua potable.",
+        "Aguas negras tratadas, cuando afectan los mantos freáticos o se reutilizan como agua potable sin potabilización."
+      ],
+      "correcta": 1,
+      "explicacion": "Los organismos patógenos pueden provocar enfermedades y representan un riesgo sanitario inmediato cuando contaminan el agua."
+    },
+    {
+      "pregunta": "Un explorador utiliza una lámpara de baterías para alumbrarse durante la noche. ¿Cuáles son las transformaciones de energía que se presentan desde que se acciona el interruptor hasta que se enciende el foco?",
+      "opciones": [
+        "Eléctrica → calorífica → cinética → lumínica",
+        "Química → eléctrica → calorífica → lumínica",
+        "Cinética → química → eléctrica → lumínica → calorífica",
+        "Potencial → calorífica → lumínica → química → eléctrica"
+      ],
+      "correcta": 1,
+      "explicacion": "La energía química almacenada en la batería se transforma en energía eléctrica, que posteriormente produce energía luminosa y calorífica en el foco."
+    },
+    {
+      "pregunta": "Un investigador sube una montaña hasta alcanzar 2000 m de altura. Si tiene una masa aproximada de 70 kg, ¿de qué orden de magnitud debe ser su energía potencial gravitatoria al llegar a ese punto?",
+      "opciones": [
+        "1,400,000 J",
+        "14,000 J",
+        "285 J",
+        "140,000 J"
+      ],
+      "correcta": 0,
+      "explicacion": "La energía potencial se calcula con Ep = mgh. Sustituyendo: Ep = 70 × 9.8 × 2000 = 1,372,000 J, aproximadamente 1,400,000 J."
+    },
+    {
+      "pregunta": "Algunos de los compuestos químicos contaminantes producidos por el ser humano en las áreas urbanas y que se acumulan en la atmósfera terrestre son:",
+      "opciones": [
+        "Óxido y dióxido de carbono.",
+        "Compuestos de plomo y cadmio.",
+        "Polvo y hollín con carbono.",
+        "Compuestos de radón y estroncio."
+      ],
+      "correcta": 0,
+      "explicacion": "Los óxidos de carbono, especialmente el dióxido de carbono, son contaminantes atmosféricos relacionados con actividades humanas como la combustión de combustibles fósiles."
+    },
+    {
+      "pregunta": "Al reaccionar el ácido clorhídrico con el hidróxido de amonio, ¿qué sustancias se obtienen?",
+      "opciones": [
+        "Amoniaco más sal.",
+        "Cloruro de amonio y agua.",
+        "Agua más amoniaco.",
+        "Ácido nítrico más agua."
+      ],
+      "correcta": 1,
+      "explicacion": "Es una reacción de neutralización: HCl + NH₄OH → NH₄Cl + H₂O. Se producen cloruro de amonio y agua."
+    },
+    {
+      "pregunta": "¿Cómo actúas cuando platicas con alguien acerca de las acciones realizadas por el gobierno para evitar el efecto invernadero y el calentamiento global?",
+      "opciones": [
+        "No comentas sobre el tema porque piensas que los demás no son tolerantes con las diferencias.",
+        "Puedes platicar, pero si hay diferencias prefieres dejar el tema para evitar problemas.",
+        "Expresas tus opiniones y respetas las de los demás, aun cuando no coincidan.",
+        "Buscas todo tipo de argumentos para convencer a los demás de tu postura."
+      ],
+      "correcta": 2,
+      "explicacion": "El diálogo respetuoso implica expresar las propias opiniones y escuchar las de los demás, incluso cuando existen diferencias."
+    },
+    {
+      "pregunta": "¿Qué haces si recibes el resultado de un examen sobre la aplicación del punto de inflexión de una curva en relación con el efecto invernadero y tus resultados no son los que esperabas?",
+      "opciones": [
+        "Revisas por tu cuenta en qué te equivocaste para identificar la respuesta correcta.",
+        "Si apruebas el examen no haces nada, aunque no identifiques qué te faltó para mejorar.",
+        "Aceptas la calificación porque consideras que ya no hay forma de modificarla.",
+        "Solicitas una revisión de examen para que el asesor te señale tus errores."
+      ],
+      "correcta": 0,
+      "explicacion": "Revisar los errores permite reconocer las dificultades, comprender los contenidos y mejorar el aprendizaje."
+    },
+    {
+      "pregunta": "La población ______ está formada por las personas de 12 años o más que realizan trabajos por los cuales reciben una remuneración.",
+      "opciones": [
+        "Económicamente activa",
+        "Rural",
+        "Urbana",
+        "Económicamente inactiva"
+      ],
+      "correcta": 0,
+      "explicacion": "La población económicamente activa comprende a las personas que participan en el mercado laboral, ya sea trabajando o buscando empleo."
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo principal del Protocolo de Montreal firmado por los países participantes?",
+      "opciones": [
+        "Restaurar la capa de ozono en el planeta.",
+        "Disminuir la producción de armas nucleares.",
+        "Incrementar la ayuda alimenticia a países pobres.",
+        "Aumentar la ayuda económica a los países miembros."
+      ],
+      "correcta": 0,
+      "explicacion": "El Protocolo de Montreal busca proteger la capa de ozono mediante la eliminación gradual de sustancias que la destruyen."
+    },
+    {
+      "pregunta": "Dentro de los acuerdos contenidos en el Protocolo de Montreal se tiene la:",
+      "opciones": [
+        "Desalinización de los mares y océanos.",
+        "Medición del nivel de CO₂ atmosférico.",
+        "Destrucción de los residuos sólidos.",
+        "Evaluación permanente de emisores."
+      ],
+      "correcta": 3,
+      "explicacion": "El protocolo contempla el seguimiento y la evaluación de las sustancias y emisiones relacionadas con el agotamiento de la capa de ozono."
+    },
+    {
+      "pregunta": "Se presenta una gráfica con los países que tienen los más altos PIB per cápita del mundo. ¿Cuáles de las siguientes aseveraciones son correctas? 1. Los países con mayor PIB per cápita son los países nórdicos. 2. Dinamarca tiene un PIB per cápita del orden del 50 % del PIB per cápita de Luxemburgo. 3. La diferencia entre el más bajo y el más alto del PIB per cápita de los países representados es del orden de 10,000 dólares. 4. Puede afirmarse que Luxemburgo debe ser el país menos poblado, mientras que Dinamarca y Noruega son los más poblados.",
+      "opciones": [
+        "Sólo 2",
+        "Sólo 3",
+        "2 y 3",
+        "1 y 4"
+      ],
+      "correcta": null,
+      "explicacion": "Consultar en tu Guia. Es necesario observar la gráfica para comprobar los valores y evaluar las afirmaciones."
+    },
+    {
+      "pregunta": "Diego y su familia se mudaron de la Ciudad de México a Villahermosa para evitar las zonas sísmicas, pero ahora enfrentan inundaciones por vivir cerca del río Carrizal. Consideran mudarse a Acapulco, aunque temen a los huracanes. ¿Qué tipo de migración muestra este caso?",
+      "opciones": [
+        "Económicas",
+        "Humanas",
+        "Personales",
+        "Naturales"
+      ],
+      "correcta": 3,
+      "explicacion": "La familia cambia su lugar de residencia para evitar fenómenos naturales como terremotos, inundaciones y huracanes."
+    },
+    {
+      "pregunta": "La compañía constructora ITA, S.A. utiliza residuos de talleres de cantera rosa que tienen forma de guijarros, arena y trozos con baja humedad, poca materia orgánica y que no requieren cuidados especiales. Los reutiliza como relleno, material para concreto y ornato. ¿Qué clasificación tiene este residuo y a qué norma se hace referencia?",
+      "opciones": [
+        "Especiales. ISO 14001",
+        "Asimilables. ISO 9000",
+        "Tóxicos. ISO 9000",
+        "Inertes. ISO 14001"
+      ],
+      "correcta": 3,
+      "explicacion": "Los residuos descritos son inertes porque no presentan características de peligrosidad ni requieren un manejo especial. La ISO 14001 establece lineamientos para sistemas de gestión ambiental."
+    },
+    {
+      "pregunta": "¿Cómo realizas una crítica al tema de la sobreexplotación de los recursos maderables como práctica que sustenta las actividades primarias en algunas regiones de México?",
+      "opciones": [
+        "Analizas los elementos principales y expresas tu opinión de manera enfática, aunque no tengas referencias.",
+        "Empleas las críticas de otros autores reconocidos para garantizar su aprobación.",
+        "Buscas la opinión de otros autores antes de leer el documento para tener una visión previa.",
+        "Analizas los elementos que integran el tema y después emites tu opinión, sustentándola con argumentos propios y los de otros autores."
+      ],
+      "correcta": 3,
+      "explicacion": "Una crítica fundamentada requiere analizar el tema, desarrollar argumentos propios y apoyarse en fuentes y opiniones de otros autores."
+    },
+    {
+      "pregunta": "Para el desarrollo de una investigación se pueden clasificar los métodos utilizados como muestra el esquema. ¿Cuáles son los métodos de los bloques 1, 2 y 3?",
+      "opciones": [
+        "[1 - experimental] [2 - deductivo] [3 - inductivo]",
+        "[1 - inductivo / deductivo] [2 - inductivo] [3 - experimental]",
+        "[1 - deductivo] [2 - inductivo] [3 - dialéctico]",
+        "[1 - inductivo] [2 - experimental / deductivo] [3 - dialéctico]"
+      ],
+      "correcta": null,
+      "explicacion": "Consultar en tu Guia. Se necesita observar el esquema de clasificación de los métodos de investigación."
+    },
+    {
+      "pregunta": "En la novela Cuatro manos se plantea una tesis que compara las biografías de narcotraficantes mexicanos con las de empresarios que hicieron grandes fortunas mediante alianzas con gobiernos. ¿Cuáles criterios deben realizarse para justificar este estudio en ciencias sociales? 1. Importancia: magnitud y trascendencia social del problema. 2. Factibilidad de realizar el estudio. 3. Vulnerabilidad: estar orientado a resolver un problema social. 4. Originalidad de la investigación.",
+      "opciones": [
+        "1, 2",
+        "2, 3, 4",
+        "1, 4",
+        "1, 2, 4"
+      ],
+      "correcta": 3,
+      "explicacion": "La justificación de una investigación considera su importancia, la posibilidad real de llevarla a cabo y su originalidad."
+    },
+    {
+      "pregunta": "Mario Bunge clasifica la ciencia en función del enfoque del conocimiento científico sobre los procesos naturales y sociales, distinguiendo entre ciencia factual y formal. ¿Cuáles características corresponden al conocimiento factual? 1. Trabaja con objetos reales que ocupan un espacio y tiempo. 2. Se basa en hechos, experimentación y aspectos materiales. 3. Trabaja con formas y objetos ideales creados por el ser humano. 4. Necesita observación y experimentación para adecuar una hipótesis.",
+      "opciones": [
+        "2, 3, 4",
+        "2, 3",
+        "1, 2, 4",
+        "1, 4"
+      ],
+      "correcta": 2,
+      "explicacion": "Las ciencias factuales estudian hechos y fenómenos reales mediante observación y experimentación. La característica 3 corresponde a las ciencias formales."
+    },
+    {
+      "pregunta": "El grupo ecologista Verde Rana convoca a una manifestación para protestar por la contaminación atmosférica producida por las emisiones de vehículos. Sus pancartas muestran consecuencias relacionadas con este tipo de contaminación, EXCEPTO UNA. Identifica la pancarta incorrecta.",
+      "opciones": [
+        "Consultar en tu Guia",
+        "Consultar en tu Guia",
+        "Consultar en tu Guia",
+        "Consultar en tu Guia"
+      ],
+      "correcta": null,
+      "explicacion": "Consultar en tu Guia. Es necesario observar las pancartas para identificar cuál no representa una consecuencia de las emisiones vehiculares."
+    },
+    {
+      "pregunta": "Encuentra el punto de inflexión de la función F(x) = x³ - 12x.",
+      "opciones": [
+        "(6, 6)",
+        "(0, 0)",
+        "(6, 0)",
+        "(0, 6)"
+      ],
+      "correcta": 1,
+      "explicacion": "La segunda derivada es F''(x) = 6x. Al igualarla a cero se obtiene x = 0. Como F(0) = 0 y cambia la concavidad, el punto de inflexión es (0, 0)."
+    },
+    {
+      "pregunta": "Pamela inició una campaña para promover hábitos de consumo responsable del agua. ¿Cuáles de las siguientes medidas complementan sus propuestas? 1. Utilizar el agua residual del lavado de ropa en el WC. 2. Lavarse los dientes utilizando solo un vaso con agua. 3. Verter los residuos de aceite en la tarja o fregadero. 4. Recolectar en una cubeta el agua de la regadera mientras espera que se caliente. 5. Instalar recolectores pluviales.",
+      "opciones": [
+        "1, 2, 4, 5",
+        "2, 3, 4, 5",
+        "1, 2, 4",
+        "2, 3, 5"
+      ],
+      "correcta": 0,
+      "explicacion": "Reutilizar el agua de lavado, cerrar el consumo innecesario, recolectar el agua fría de la regadera e instalar recolectores pluviales favorece el ahorro. El aceite no debe verterse en el drenaje."
+    },
+    {
+      "pregunta": "Identifica el proceso ecológico-ambiental de actualidad que se visualiza a partir de la siguiente figura.",
+      "opciones": [
+        "Adaptación de las especies animales ante el calentamiento global.",
+        "Vulnerabilidad de los glaciares polares ante el efecto invernadero.",
+        "Adaptación de las especies animales ante el efecto invernadero.",
+        "Vulnerabilidad de las especies animales ante el calentamiento global."
+      ],
+      "correcta": null,
+      "explicacion": "Consultar en tu Guia. Se necesita observar la figura para identificar el proceso ecológico-ambiental representado."
+    },
+    {
+      "pregunta": "Las secretarías de Salud y de Ecología convocan a comunidades de las sierras de Durango y Chihuahua para evitar el uso de anafres de carbón dentro de sus casas y prevenir la inhalación de monóxido de carbono. Desde el punto de vista ecológico, ¿en qué inciden estas medidas y qué problema atienden?",
+      "opciones": [
+        "Sustentabilidad - destrucción del ecosistema en la sierra",
+        "Mitigación - incendios en casa habitación",
+        "Sustentabilidad - consumo de combustibles fósiles",
+        "Mitigación - muerte producida por asfixia"
+      ],
+      "correcta": 3,
+      "explicacion": "La medida busca mitigar los efectos de la contaminación por monóxido de carbono en espacios cerrados, evitando intoxicaciones y muertes por asfixia."
+    },
+    {
+      "pregunta": "¿Cuál es la energía que se produce cuando las sustancias reaccionan entre sí alterando su constitución íntima, como ocurre con los explosivos o las baterías de automóvil?",
+      "opciones": [
+        "Energía cinética",
+        "Energía química",
+        "Energía potencial",
+        "Energía eléctrica"
+      ],
+      "correcta": 1,
+      "explicacion": "La energía química está almacenada en los enlaces de las sustancias y puede liberarse o absorberse durante una reacción química."
+    },
+    {
+      "pregunta": "¿Cómo se denomina a los recursos naturales que potencialmente pueden regenerarse, siempre y cuando no exista un proceso humano que acelere su daño irreversible?",
+      "opciones": [
+        "Nacionales",
+        "No renovables",
+        "Renovables",
+        "Diversidad biológica"
+      ],
+      "correcta": 2,
+      "explicacion": "Los recursos renovables pueden regenerarse mediante procesos naturales, siempre que su aprovechamiento no supere su capacidad de recuperación."
+    },
+    {
+      "pregunta": "Completa la idea: Se llaman actividades productivas ______ por su aparición histórica y porque tienen una relación directa con la naturaleza.",
+      "opciones": [
+        "Primarias",
+        "Secundarias",
+        "Productivas",
+        "Terciarias"
+      ],
+      "correcta": 0,
+      "explicacion": "Las actividades primarias, como la agricultura, ganadería, pesca y explotación forestal, obtienen recursos directamente de la naturaleza."
+    },
+    {
+      "pregunta": "El crecimiento desordenado y acelerado de las ciudades, así como el uso inadecuado del suelo urbano y de los recursos naturales, desencadenan graves problemas ambientales. ¿Cuál es el problema de mayor impacto para la salud humana en especial?",
+      "opciones": [
+        "Ocupación incontrolada de terrenos",
+        "Contaminación del agua y del aire",
+        "Calentamiento global",
+        "Deterioro de la capa de ozono"
+      ],
+      "correcta": 1,
+      "explicacion": "La contaminación del agua y del aire afecta directamente la salud humana y puede provocar enfermedades respiratorias, gastrointestinales y otros problemas."
+    }
+  ]
+}

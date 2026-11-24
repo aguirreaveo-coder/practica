@@ -1,0 +1,119 @@
+{
+  "titulo": "Clase 4: Termodinámica",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 8",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Matemáticas y representaciones del sistema natural</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 4: Termodinámica</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Dilatación térmica · Calor específico · Leyes de la termodinámica · Procesos termodinámicos · Transferencia de calor</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: ¿Qué es la dilatación térmica?",
+      "html": "<p class='text-lg'>La <strong>dilatación térmica</strong> es el aumento de las dimensiones de un cuerpo cuando su temperatura aumenta. Se debe al incremento en la energía cinética de las partículas, que se separan ligeramente.</p><p class='text-lg'>Se clasifica en:</p><ul class='text-lg'><li><strong>Dilatación lineal:</strong> varía la longitud de un cuerpo.</li><li><strong>Dilatación superficial:</strong> varía el área de un cuerpo.</li><li><strong>Dilatación volumétrica:</strong> varía el volumen de un cuerpo.</li></ul><p class='text-lg'>Cada tipo tiene su propia fórmula: lineal (ΔL = L₀ · α · ΔT), superficial (ΔA = A₀ · 2α · ΔT) y volumétrica (ΔV = V₀ · 3α · ΔT), donde <strong>α</strong> es el coeficiente de dilatación lineal y <strong>ΔT</strong> el cambio de temperatura.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Calor específico",
+      "html": "<p class='text-lg'>El <strong>calor específico (c)</strong> es la cantidad de calor necesaria para elevar en 1 °C la temperatura de 1 gramo (o 1 kg) de una sustancia.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>Q = m · c · ΔT</span></div><p class='text-lg'>Donde <strong>Q</strong> es el calor (J o cal), <strong>m</strong> la masa (g o kg), <strong>c</strong> el calor específico y <strong>ΔT</strong> el cambio de temperatura.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Calor específico",
+      "enunciado": "¿Cuánto calor se necesita para elevar la temperatura de 500 g de agua de 20 °C a 80 °C? (c del agua = 1 cal/g·°C)",
+      "datos": [
+        "Masa (m) = 500 g",
+        "Calor específico (c) = 1 cal/g·°C",
+        "Cambio de temperatura (ΔT) = 80 − 20 = 60 °C",
+        "Fórmula: Q = m · c · ΔT"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Calor específico",
+      "ejercicios": [
+        { "pregunta": "¿Cuánto calor se necesita para calentar 200 g de agua de 15 °C a 45 °C? (c = 1 cal/g·°C)", "respuesta": "6000 cal" },
+        { "pregunta": "¿Cuánto calor se necesita para calentar 1 kg de hierro de 25 °C a 100 °C? (c = 0.113 cal/g·°C)", "respuesta": "8475 cal" },
+        { "pregunta": "¿Qué masa de agua se puede calentar de 20 °C a 60 °C con 2000 cal?", "respuesta": "50 g" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Ley cero de la termodinámica",
+      "html": "<p class='text-lg'>La <strong>ley cero</strong> (o principio cero) establece que si dos cuerpos están en equilibrio térmico con un tercero, entonces los tres están en equilibrio térmico entre sí.</p><p class='text-lg'>Esta ley fundamenta el uso del <strong>termómetro</strong>: el instrumento se pone en contacto con un cuerpo, alcanza el equilibrio térmico y entonces su temperatura es la misma que la del cuerpo.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Primera ley de la termodinámica",
+      "html": "<p class='text-lg'>La <strong>primera ley de la termodinámica</strong> es una forma de la ley de conservación de la energía: la energía no se crea ni se destruye, solo se transforma.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>ΔU = Q − W</span></div><p class='text-lg'>Donde <strong>ΔU</strong> es el cambio de energía interna, <strong>Q</strong> el calor absorbido y <strong>W</strong> el trabajo realizado por el sistema.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Segunda ley de la termodinámica",
+      "html": "<p class='text-lg'>La <strong>segunda ley de la termodinámica</strong> establece que el calor fluye espontáneamente de un cuerpo de mayor temperatura a uno de menor temperatura, y que la entropía de un sistema aislado siempre aumenta.</p><p class='text-lg'>Ningún proceso natural puede convertir toda la energía térmica en trabajo sin perder parte de ella. Esto explica por qué las máquinas térmicas nunca tienen 100% de eficiencia.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Tercera ley de la termodinámica",
+      "html": "<p class='text-lg'>La <strong>tercera ley de la termodinámica</strong> establece que es imposible alcanzar el <strong>cero absoluto</strong> (0 K = −273.15 °C) mediante un número finito de procesos.</p><p class='text-lg'>A medida que la temperatura se aproxima a 0 K, la entropía de un sistema tiende a un valor mínimo constante. Esta ley es una meta teórica que no puede alcanzarse en la práctica.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Procesos termodinámicos",
+      "html": "<p class='text-lg'>Un <strong>proceso termodinámico</strong> es cualquier cambio en el estado de un sistema (presión, volumen, temperatura y energía interna).</p><p class='text-lg'>Los principales procesos son:</p><ul class='text-lg'><li><strong>Isotérmico:</strong> temperatura constante (ΔT = 0).</li><li><strong>Isobárico:</strong> presión constante (ΔP = 0).</li><li><strong>Isocórico:</strong> volumen constante (ΔV = 0).</li><li><strong>Adiabático:</strong> no hay intercambio de calor (Q = 0).</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Procesos en detalle",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Isotérmico</p><p class='text-lg'>La temperatura no cambia. El calor que entra se convierte íntegramente en trabajo. Ej: compresión lenta de un gas en contacto con un baño térmico.</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Isobárico</p><p class='text-lg'>La presión no cambia. El calor puede cambiar la temperatura y realizar trabajo. Ej: calentar un gas en un cilindro con pistón libre.</p></div><div class='bg-amber-500/10 border border-amber-500/30 p-4 rounded-lg'><p class='font-semibold text-amber-700 dark:text-amber-300 mb-2 text-lg'>Isocórico</p><p class='text-lg'>El volumen no cambia. No se realiza trabajo, todo el calor cambia la energía interna. Ej: calentar un gas en un recipiente rígido.</p></div><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Adiabático</p><p class='text-lg'>No hay intercambio de calor con el entorno. El trabajo se hace a expensas de la energía interna. Ej: compresión rápida de un gas.</p></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Gráfica presión-volumen",
+      "html": "<p class='text-lg'>Los procesos termodinámicos se representan en una <strong>gráfica presión-volumen (P-V)</strong>. El área bajo la curva representa el <strong>trabajo</strong> realizado por el sistema.</p><p class='text-lg'>Cada proceso tiene una forma característica en la gráfica:</p><ul class='text-lg'><li><strong>Isotérmico:</strong> hipérbola.</li><li><strong>Isobárico:</strong> línea horizontal.</li><li><strong>Isocórico:</strong> línea vertical.</li><li><strong>Adiabático:</strong> curva más pronunciada que la isoterma.</li></ul>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Actividad: Preguntas de la guía",
+      "instrucciones": "Responde las siguientes preguntas de tu Guía 1:",
+      "preguntas": [20, 23]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Revisión de la actividad",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>A continuación, revisaremos las preguntas de la guía que resolviste como actividad, reforzando los conceptos de dilatación térmica y actitud ante retos.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 20,
+      "pregunta": "20. En un edificio en construcción se requiere instalar cristales con forma cuadrada. El área del cuadro que forma la base es de 100 m² y los cristales estarán expuestos a una variación de 60 °C en la temperatura. El coeficiente de dilatación del vidrio es α = 9.0 × 10⁻⁶ /°C. Elige los pasos que permiten determinar el espacio mínimo que deberá dejarse entre el cristal y la base donde será colocado cada cristal.",
+      "opciones": [
+        "Q2 – L1 ; espacio = 2.6 mm",
+        "Q2 – L3 ; espacio = 2.6 mm",
+        "Q1 – L1 ; espacio = 5.4 mm",
+        "Q1 – L1 ; espacio = 5.4 mm"
+      ],
+      "correcta": 2,
+      "explicacion": "Se aplica dilatación superficial (Q1 – L1): ΔA = A₀ · 2α · ΔT = 100 · 2 · 9×10⁻⁶ · 60 = 0.108 m². El espacio por lado es de 5.4 mm."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 23,
+      "pregunta": "23. Se está organizando la fiesta de graduación y te piden que te hagas cargo de la distribución de las mesas y los lugares de los invitados, ¿cómo te sentirías con esta responsabilidad?",
+      "opciones": [
+        "Tenso ante el compromiso, no tienes idea de qué hacer ante esta responsabilidad y preferirías no aceptar.",
+        "Preocupado por la complicación de distribuir tantas mesas y personas y poder trazar esa información en papel.",
+        "Tranquilo, eres capaz de realizar la comisión porque tienes facilidad para trazar planos y ubicar puntos.",
+        "Inseguro, tienes noción de cómo hacerlo, pero necesitarías ayuda de alguien que sepa ubicar y trazar planos."
+      ],
+      "correcta": 2,
+      "explicacion": "Esta es una pregunta de actitud. Sentirse tranquilo y capaz refleja autoconfianza en las propias habilidades para resolver tareas de organización espacial."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 4",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase 4</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Termodinámica</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Fin del contenido del Módulo 8. ¡Excelente trabajo!</p>"
+    }
+  ],
+
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

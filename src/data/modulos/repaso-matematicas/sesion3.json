@@ -1,0 +1,336 @@
+{
+  "titulo": "Sesión 3: Estadística, Probabilidad y Cálculo",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Repaso de Matemáticas - Sesión 3",
+      "html": "<p class=\"text-lg\"><strong>Estadística, Probabilidad y Cálculo</strong><br>3 horas · 8 temas · ejemplos y práctica"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Media, mediana y moda",
+      "html": "<p class=\"text-lg\">La media es el promedio, la mediana es el valor central y la moda es el valor con mayor frecuencia.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Media, mediana y moda",
+      "enunciado": "Selecciona la opción correcta: para los datos 2, 4, 4, 6, 9, calcula la media, la mediana y la moda.",
+      "datos": ["A) media=4, mediana=5, moda=4", "B) media=5, mediana=4, moda=4", "C) media=5, mediana=5, moda=6", "D) media=6, mediana=4, moda=9"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Media, mediana y moda",
+      "enunciado": "Selecciona la opción correcta: para los datos 3, 5, 7, 9, 11, calcula la media, la mediana y la moda.",
+      "datos": ["A) media=7, mediana=9, moda=7", "B) media=7, mediana=7, moda=no hay", "C) media=5, mediana=7, moda=11", "D) media=9, mediana=5, moda=3"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Media, mediana y moda",
+      "enunciado": "Selecciona la opción correcta: para los datos 1, 2, 2, 3, 4, 4, 4, 5, calcula la media, la mediana y la moda.",
+      "datos": ["A) media=3, mediana=3.125, moda=2", "B) media=3.125, mediana=3, moda=4", "C) media=4, mediana=4, moda=4", "D) media=3.5, mediana=3.5, moda=5"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Media, mediana y moda",
+      "enunciado": "Selecciona la opción correcta: para los datos 5, 5, 6, 7, 8, 9, calcula la media, la mediana y la moda.",
+      "datos": ["A) media=6.67, mediana=6.5, moda=5", "B) media=6, mediana=6.5, moda=5", "C) media=7, mediana=6, moda=5", "D) media=6.5, mediana=7, moda=9"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 5: Media, mediana y moda",
+      "enunciado": "Selecciona la opción correcta: para los datos 10, 12, 12, 14, 16, 18, calcula la media, la mediana y la moda.",
+      "datos": ["A) media=12, mediana=13.67, moda=14", "B) media=13, mediana=13, moda=12", "C) media=13.67, mediana=13, moda=12", "D) media=14, mediana=12, moda=18"]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Media, mediana y moda",
+      "ejercicios": [
+        { "pregunta": "Para los datos 3, 5, 7, 9, 11, calcula la media, la mediana y la moda.", "respuesta": "media=7, mediana=7, moda=no hay" },
+        { "pregunta": "Para los datos 2, 4, 6, 8, 10, calcula la media, la mediana y la moda.", "respuesta": "media=6, mediana=6, moda=no hay" },
+        { "pregunta": "Para los datos 1, 2, 2, 3, 4, 4, 4, 5, calcula la media, la mediana y la moda.", "respuesta": "media=3.125, mediana=3.5, moda=4" },
+        { "pregunta": "Para los datos 5, 10, 15, 20, calcula la media, la mediana y la moda.", "respuesta": "media=12.5, mediana=12.5, moda=no hay" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Medidas de dispersión",
+      "html": "<p class=\"text-lg\">El rango, la varianza y la desviación estándar describen qué tan separados están los datos respecto a su centro.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Medidas de dispersión",
+      "enunciado": "Selecciona la opción correcta: para los datos 4, 8, 6, 10, 12, calcula el rango, la varianza y la desviación estándar.",
+      "datos": ["A) rango=6, varianza=8, desviación≈2.83", "B) rango=8, varianza=8, desviación≈2.83", "C) rango=8, varianza=4, desviación=2", "D) rango=10, varianza=8, desviación≈2.83"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Medidas de dispersión",
+      "enunciado": "Selecciona la opción correcta: para los datos 15, 20, 25, 30, 35, calcula el rango, la varianza y la desviación estándar.",
+      "datos": ["A) rango=15, varianza=50, desviación≈7.07", "B) rango=20, varianza=50, desviación≈7.07", "C) rango=20, varianza=25, desviación=5", "D) rango=25, varianza=50, desviación≈7.07"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Medidas de dispersión",
+      "enunciado": "Selecciona la opción correcta: para los datos 2, 4, 6, 8, calcula el rango, la varianza y la desviación estándar.",
+      "datos": ["A) rango=4, varianza=5, desviación≈2.24", "B) rango=6, varianza=5, desviación≈2.24", "C) rango=6, varianza=4, desviación=2", "D) rango=8, varianza=5, desviación≈2.24"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Medidas de dispersión",
+      "enunciado": "Selecciona la opción correcta: para los datos 3, 7, 11, 15, calcula el rango, la varianza y la desviación estándar.",
+      "datos": ["A) rango=10, varianza=20, desviación≈4.47", "B) rango=12, varianza=20, desviación≈4.47", "C) rango=12, varianza=10, desviación≈3.16", "D) rango=15, varianza=20, desviación≈4.47"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 5: Medidas de dispersión",
+      "enunciado": "Selecciona la opción correcta: para los datos 10, 15, 20, 25, calcula el rango, la varianza y la desviación estándar.",
+      "datos": ["A) rango=10, varianza=31.25, desviación≈5.59", "B) rango=15, varianza=31.25, desviación≈5.59", "C) rango=15, varianza=25, desviación=5", "D) rango=20, varianza=31.25, desviación≈5.59"]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Medidas de dispersión",
+      "ejercicios": [
+        { "pregunta": "Para los datos 5, 9, 13, 17, 21, calcula el rango, la varianza y la desviación estándar.", "respuesta": "rango=16, varianza=32, desviación≈5.66" },
+        { "pregunta": "Para los datos 10, 15, 20, 25, calcula el rango, la varianza y la desviación estándar.", "respuesta": "rango=15, varianza=31.25, desviación≈5.59" },
+        { "pregunta": "Para los datos 1, 3, 5, 7, calcula el rango, la varianza y la desviación estándar.", "respuesta": "rango=6, varianza=5, desviación≈2.24" },
+        { "pregunta": "Para los datos 2, 4, 6, 8, calcula el rango, la varianza y la desviación estándar.", "respuesta": "rango=6, varianza=5, desviación≈2.24" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Probabilidad simple",
+      "html": "<p class=\"text-lg\">En resultados equiprobables, divide los casos favorables entre los casos posibles. Con espacios muestrales grandes, primero cuenta el total de resultados y luego los favorables.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Probabilidad simple",
+      "enunciado": "Selecciona la opción correcta: se lanzan dos dados de seis caras. ¿Cuál es la probabilidad de que la suma de los resultados sea 8?",
+      "datos": ["A) 5/36", "B) 1/6", "C) 1/9", "D) 1/12"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Probabilidad simple",
+      "enunciado": "Selecciona la opción correcta: se lanzan dos monedas. ¿Cuál es la probabilidad de obtener exactamente una cara?",
+      "datos": ["A) 1/4", "B) 1/3", "C) 1/2", "D) 3/4"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Probabilidad simple",
+      "enunciado": "Selecciona la opción correcta: de una baraja estándar de 52 cartas se extrae una carta al azar. ¿Cuál es la probabilidad de que sea una figura (J, Q o K)?",
+      "datos": ["A) 1/13", "B) 3/13", "C) 4/13", "D) 1/4"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Probabilidad simple",
+      "enunciado": "Selecciona la opción correcta: en una urna hay 4 bolas rojas, 6 azules y 5 verdes. Se extrae una bola al azar. ¿Cuál es la probabilidad de que NO sea azul?",
+      "datos": ["A) 2/5", "B) 3/5", "C) 1/3", "D) 2/3"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 5: Probabilidad simple",
+      "enunciado": "Selecciona la opción correcta: se elige al azar un número entero del 1 al 30. ¿Cuál es la probabilidad de que sea múltiplo de 3 o de 5?",
+      "datos": ["A) 1/3", "B) 7/15", "C) 1/2", "D) 8/15"]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Probabilidad simple",
+      "ejercicios": [
+        { "pregunta": "Se lanzan dos dados de seis caras. ¿Cuál es la probabilidad de que la suma sea mayor que 9?", "respuesta": "6/36 = 1/6" },
+        { "pregunta": "Se lanzan tres monedas. ¿Cuál es la probabilidad de obtener exactamente dos caras?", "respuesta": "3/8" },
+        { "pregunta": "De una baraja de 52 cartas se extrae una al azar. ¿Cuál es la probabilidad de que sea de corazones o un as?", "respuesta": "16/52 = 4/13" },
+        { "pregunta": "En una urna hay 5 bolas rojas, 4 blancas y 6 negras. Se extrae una bola. ¿Cuál es la probabilidad de que sea roja o blanca?", "respuesta": "9/15 = 3/5" },
+        { "pregunta": "Se elige al azar un número del 1 al 50. ¿Cuál es la probabilidad de que sea divisible entre 4?", "respuesta": "12/50 = 6/25" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Probabilidad de eventos",
+      "html": "<p class=\"text-lg\">Multiplica probabilidades de eventos independientes, suma eventos excluyentes y usa el complemento cuando corresponda.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Probabilidad de eventos",
+      "enunciado": "Selecciona la opción correcta: si P(A) = 0.3, ¿cuál es la probabilidad del complemento P(no A)?",
+      "datos": ["A) 0.3", "B) 0.5", "C) 0.7", "D) 1.0"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Probabilidad de eventos",
+      "enunciado": "Selecciona la opción correcta: si P(A) = 0.25 y P(B) = 0.25, y son eventos independientes, ¿cuál es P(A y B)?",
+      "datos": ["A) 0.25", "B) 0.0625", "C) 0.5", "D) 0.75"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Probabilidad de eventos",
+      "enunciado": "Selecciona la opción correcta: si P(A) = 0.4 y P(B) = 0.3, y son eventos mutuamente excluyentes, ¿cuál es P(A o B)?",
+      "datos": ["A) 0.1", "B) 0.7", "C) 0.12", "D) 0.5"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Probabilidad de eventos",
+      "enunciado": "Selecciona la opción correcta: si P(A) = 0.6, ¿cuál es la probabilidad del complemento P(no A)?",
+      "datos": ["A) 0.3", "B) 0.4", "C) 0.6", "D) 1.0"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 5: Probabilidad de eventos",
+      "enunciado": "Selecciona la opción correcta: si P(A) = 0.5 y P(B) = 0.2, y son eventos independientes, ¿cuál es P(A y B)?",
+      "datos": ["A) 0.25", "B) 0.1", "C) 0.5", "D) 0.7"]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Probabilidad de eventos",
+      "ejercicios": [
+        { "pregunta": "Si P(A) = 0.8, ¿cuál es P(no A)?", "respuesta": "0.2" },
+        { "pregunta": "Si P(A) = 0.3 y P(B) = 0.3, y son independientes, ¿cuál es P(A y B)?", "respuesta": "0.09" },
+        { "pregunta": "Si P(A) = 0.5 y P(B) = 0.2, y son mutuamente excluyentes, ¿cuál es P(A o B)?", "respuesta": "0.7" },
+        { "pregunta": "Si P(A) = 0.4 y P(B) = 0.5, y son independientes, ¿cuál es P(A y B)?", "respuesta": "0.2" }
+      ]
+    },
+{
+      "tipo": "contenido",
+      "titulo": "Tema 5: Evaluación de funciones",
+      "html": "<p class=\"text-lg\">Evalúa una función sustituyendo el valor indicado. Con trinomios, sustituye cada aparición de x y opera con cuidado.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Evaluación de funciones",
+      "enunciado": "Selecciona la opción correcta: si f(x) = 2x² + 3x - 5, ¿cuál es f(4)?",
+      "datos": ["A) 32", "B) 39", "C) 43", "D) 45"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Evaluación de funciones",
+      "enunciado": "Selecciona la opción correcta: si f(x) = x² - 4x + 7, ¿cuál es f(3)?",
+      "datos": ["A) 2", "B) 4", "C) 6", "D) 10"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Evaluación de funciones",
+      "enunciado": "Selecciona la opción correcta: si f(x) = 3x² - 2x + 1, ¿cuál es f(5)?",
+      "datos": ["A) 56", "B) 66", "C) 76", "D) 86"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Evaluación de funciones",
+      "enunciado": "Selecciona la opción correcta: si f(x) = x³ - 2x² + x, ¿cuál es f(2)?",
+      "datos": ["A) 2", "B) 4", "C) 6", "D) 8"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 5: Evaluación de funciones",
+      "enunciado": "Selecciona la opción correcta: si f(x) = 4x² + 5x - 2, ¿cuál es f(3)?",
+      "datos": ["A) 39", "B) 45", "C) 49", "D) 55"]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Evaluación de funciones",
+      "ejercicios": [
+        { "pregunta": "Si f(x) = 2x² + 5x - 3, ¿cuál es f(4)?", "respuesta": "49" },
+        { "pregunta": "Si f(x) = x² - 6x + 9, ¿cuál es f(5)?", "respuesta": "4" },
+        { "pregunta": "Si f(x) = 3x² + 2x - 1, ¿cuál es f(3)?", "respuesta": "32" },
+        { "pregunta": "Si f(x) = x³ - 3x² + 2x, ¿cuál es f(4)?", "respuesta": "24" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Derivadas directas",
+      "html": "<p class=\"text-lg\">La derivada de un polinomio se obtiene aplicando la regla de la potencia: d/dx (xⁿ) = n·xⁿ⁻¹. La derivada de una constante es 0.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Derivadas directas",
+      "enunciado": "Selecciona la opción correcta: calcula la derivada de f(x) = 3x² + 5x - 2.",
+      "datos": ["A) 6x + 5", "B) 3x + 5", "C) 6x - 2", "D) 6x² + 5"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Derivadas directas",
+      "enunciado": "Selecciona la opción correcta: calcula la derivada de f(x) = x³ - 4x² + 2x.",
+      "datos": ["A) 3x² - 8x + 2", "B) 3x² - 4x + 2", "C) x² - 8x + 2", "D) 3x³ - 8x² + 2x"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Derivadas directas",
+      "enunciado": "Selecciona la opción correcta: calcula la derivada de f(x) = 5x⁴ - 2x³ + 7x - 1.",
+      "datos": ["A) 20x³ - 6x² + 7", "B) 5x³ - 6x² + 7", "C) 20x³ - 2x² + 7", "D) 20x⁴ - 6x³ + 7x"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Derivadas directas",
+      "enunciado": "Selecciona la opción correcta: calcula la derivada de f(x) = 2x² - 6x + 4.",
+      "datos": ["A) 4x - 6", "B) 2x - 6", "C) 4x + 4", "D) 4x² - 6"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 5: Derivadas directas",
+      "enunciado": "Selecciona la opción correcta: calcula la derivada de f(x) = x³ + 3x² - 5x + 2.",
+      "datos": ["A) 3x² + 6x - 5", "B) 3x² + 3x - 5", "C) x² + 6x - 5", "D) 3x³ + 6x² - 5x"]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Derivadas directas",
+      "ejercicios": [
+        { "pregunta": "Deriva f(x) = 4x² + 3x - 1.", "respuesta": "8x + 3" },
+        { "pregunta": "Deriva f(x) = x³ - 2x² + 5x.", "respuesta": "3x² - 4x + 5" },
+        { "pregunta": "Deriva f(x) = 2x⁴ + x² - 7.", "respuesta": "8x³ + 2x" },
+        { "pregunta": "Deriva f(x) = 6x³ - 3x + 2.", "respuesta": "18x² - 3" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Integrales directas",
+      "html": "<p class=\"text-lg\">La integral de un polinomio se obtiene con la regla de la potencia: ∫ xⁿ dx = xⁿ⁺¹/(n+1) + C. No olvides la constante de integración.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Integrales directas",
+      "enunciado": "Selecciona la opción correcta: calcula ∫ (2x + 3) dx.",
+      "datos": ["A) x² + 3x + C", "B) 2x² + 3x + C", "C) x² + 3 + C", "D) 2x + C"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Integrales directas",
+      "enunciado": "Selecciona la opción correcta: calcula ∫ (3x² - 4x + 1) dx.",
+      "datos": ["A) x³ - 2x² + x + C", "B) 3x³ - 2x² + x + C", "C) x³ - 4x² + x + C", "D) x³ - 2x² + C"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Integrales directas",
+      "enunciado": "Selecciona la opción correcta: calcula ∫ (4x³ + 2x) dx.",
+      "datos": ["A) x⁴ + x² + C", "B) 4x⁴ + x² + C", "C) x⁴ + 2x² + C", "D) 12x² + 2 + C"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Integrales directas",
+      "enunciado": "Selecciona la opción correcta: calcula ∫ (6x² - 2) dx.",
+      "datos": ["A) 2x³ - 2x + C", "B) 6x³ - 2x + C", "C) 2x³ - 2 + C", "D) 12x + C"]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 5: Integrales directas",
+      "enunciado": "Selecciona la opción correcta: calcula ∫ (x³ + 3x² - 5) dx.",
+      "datos": ["A) x⁴/4 + x³ - 5x + C", "B) x⁴ + x³ - 5x + C", "C) x⁴/4 + 3x³ - 5x + C", "D) 3x² + 6x + C"]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Integrales directas",
+      "ejercicios": [
+        { "pregunta": "Calcula ∫ (2x + 5) dx.", "respuesta": "x² + 5x + C" },
+        { "pregunta": "Calcula ∫ (3x² + 4x) dx.", "respuesta": "x³ + 2x² + C" },
+        { "pregunta": "Calcula ∫ (4x³ - 6x + 1) dx.", "respuesta": "x⁴ - 3x² + x + C" },
+        { "pregunta": "Calcula ∫ (5x⁴ + 2x) dx.", "respuesta": "x⁵ + x² + C" }
+      ]
+    },
+{
+  "tipo": "contenido",
+  "titulo": "Resumen general del repaso",
+  "html": "<div class='grid gap-1 my-2' style='grid-template-columns: repeat(6, minmax(0, 1fr)); grid-template-rows: repeat(4, auto);'><div class='bg-red-500/10 border border-red-500/30 px-1 py-0.5 rounded text-center flex flex-col items-center justify-center'><p class='font-semibold text-red-700 dark:text-red-300 text-[10px] leading-none'>Jerarquía de operaciones</p><p class='text-red-600 dark:text-red-400 text-[9px] font-bold leading-none mt-0.5'>~3</p></div><div class='bg-red-500/10 border border-red-500/30 px-1 py-0.5 rounded text-center flex flex-col items-center justify-center'><p class='font-semibold text-red-700 dark:text-red-300 text-[10px] leading-none'>Productos notables</p><p class='text-red-600 dark:text-red-400 text-[9px] font-bold leading-none mt-0.5'>~3</p></div><div class='bg-red-500/10 border border-red-500/30 px-1 py-0.5 rounded text-center flex flex-col items-center justify-center'><p class='font-semibold text-red-700 dark:text-red-300 text-[10px] leading-none'>Factorización</p><p class='text-red-600 dark:text-red-400 text-[9px] font-bold leading-none mt-0.5'>~3</p></div><div class='bg-red-500/10 border border-red-500/30 px-1 py-0.5 rounded text-center flex flex-col items-center justify-center'><p class='font-semibold text-red-700 dark:text-red-300 text-[10px] leading-none'>Ecuaciones de primer grado</p><p class='text-red-600 dark:text-red-400 text-[9px] font-bold leading-none mt-0.5'>~3</p></div><div class='bg-red-500/10 border border-red-500/30 px-1 py-0.5 rounded text-center flex flex-col items-center justify-center'><p class='font-semibold text-red-700 dark:text-red-300 text-[10px] leading-none'>Ecuaciones de segundo grado</p><p class='text-red-600 dark:text-red-400 text-[9px] font-bold leading-none mt-0.5'>~3</p></div><div class='bg-red-500/10 border border-red-500/30 px-1 py-0.5 rounded text-center flex flex-col items-center justify-center'><p class='font-semibold text-red-700 dark:text-red-300 text-[10px] leading-none'>Sistemas de ecuaciones</p><p class='text-red-600 dark:text-red-400 text-[9px] font-bold leading-none mt-0.5'>~3</p></div><div class='bg-red-500/10 border border-red-500/30 px-1 py-0.5 rounded text-center flex flex-col items-center justify-center'><p class='font-semibold text-red-700 dark:text-red-300 text-[10px] leading-none'>Desigualdades</p><p class='text-red-600 dark:text-red-400 text-[9px] font-bold leading-none mt-0.5'>~3</p></div><div class='bg-red-500/10 border border-red-500/30 px-1 py-0.5 rounded text-center flex flex-col items-center justify-center'><p class='font-semibold text-red-700 dark:text-red-300 text-[10px] leading-none'>Problemas de aplicación</p><p class='text-red-600 dark:text-red-400 text-[9px] font-bold leading-none mt-0.5'>~3</p></div><div class='bg-red-500/10 border border-red-500/30 px-1 py-0.5 rounded text-center flex flex-col items-center justify-center'><p class='font-semibold text-red-700 dark:text-red-300 text-[10px] leading-none'>Derivadas directas</p><p class='text-red-600 dark:text-red-400 text-[9px] font-bold leading-none mt-0.5'>~2</p></div><div class='bg-red-500/10 border border-red-500/30 px-1 py-0.5 rounded text-center flex flex-col items-center justify-center'><p class='font-semibold text-red-700 dark:text-red-300 text-[10px] leading-none'>Integrales directas</p><p class='text-red-600 dark:text-red-400 text-[9px] font-bold leading-none mt-0.5'>~2</p></div><div class='bg-red-500/10 border border-red-500/30 px-1 py-0.5 rounded text-center flex flex-col items-center justify-center'><p class='font-semibold text-red-700 dark:text-red-300 text-[10px] leading-none'>Límites</p><p class='text-red-600 dark:text-red-400 text-[9px] font-bold leading-none mt-0.5'>~2</p></div><div class='bg-amber-500/10 border border-amber-500/30 px-1 py-0.5 rounded text-center flex flex-col items-center justify-center'><p class='font-semibold text-amber-700 dark:text-amber-300 text-[10px] leading-none'>Perímetros, áreas y volúmenes</p><p class='text-amber-600 dark:text-amber-400 text-[9px] font-bold leading-none mt-0.5'>~3</p></div><div class='bg-amber-500/10 border border-amber-500/30 px-1 py-0.5 rounded text-center flex flex-col items-center justify-center'><p class='font-semibold text-amber-700 dark:text-amber-300 text-[10px] leading-none'>Teorema de Pitágoras</p><p class='text-amber-600 dark:text-amber-400 text-[9px] font-bold leading-none mt-0.5'>~3</p></div><div class='bg-amber-500/10 border border-amber-500/30 px-1 py-0.5 rounded text-center flex flex-col items-center justify-center'><p class='font-semibold text-amber-700 dark:text-amber-300 text-[10px] leading-none'>Semejanza de triángulos</p><p class='text-amber-600 dark:text-amber-400 text-[9px] font-bold leading-none mt-0.5'>~2</p></div><div class='bg-amber-500/10 border border-amber-500/30 px-1 py-0.5 rounded text-center flex flex-col items-center justify-center'><p class='font-semibold text-amber-700 dark:text-amber-300 text-[10px] leading-none'>Distancia entre dos puntos</p><p class='text-amber-600 dark:text-amber-400 text-[9px] font-bold leading-none mt-0.5'>~2</p></div><div class='bg-amber-500/10 border border-amber-500/30 px-1 py-0.5 rounded text-center flex flex-col items-center justify-center'><p class='font-semibold text-amber-700 dark:text-amber-300 text-[10px] leading-none'>Punto medio</p><p class='text-amber-600 dark:text-amber-400 text-[9px] font-bold leading-none mt-0.5'>~2</p></div><div class='bg-amber-500/10 border border-amber-500/30 px-1 py-0.5 rounded text-center flex flex-col items-center justify-center'><p class='font-semibold text-amber-700 dark:text-amber-300 text-[10px] leading-none'>Pendiente y ecuación de la recta</p><p class='text-amber-600 dark:text-amber-400 text-[9px] font-bold leading-none mt-0.5'>~3</p></div><div class='bg-amber-500/10 border border-amber-500/30 px-1 py-0.5 rounded text-center flex flex-col items-center justify-center'><p class='font-semibold text-amber-700 dark:text-amber-300 text-[10px] leading-none'>Secciones cónicas</p><p class='text-amber-600 dark:text-amber-400 text-[9px] font-bold leading-none mt-0.5'>~2</p></div><div class='bg-amber-500/10 border border-amber-500/30 px-1 py-0.5 rounded text-center flex flex-col items-center justify-center'><p class='font-semibold text-amber-700 dark:text-amber-300 text-[10px] leading-none'>Razones trigonométricas</p><p class='text-amber-600 dark:text-amber-400 text-[9px] font-bold leading-none mt-0.5'>~3</p></div><div class='bg-amber-500/10 border border-amber-500/30 px-1 py-0.5 rounded text-center flex flex-col items-center justify-center'><p class='font-semibold text-amber-700 dark:text-amber-300 text-[10px] leading-none'>Media, mediana y moda</p><p class='text-amber-600 dark:text-amber-400 text-[9px] font-bold leading-none mt-0.5'>~2</p></div><div class='bg-amber-500/10 border border-amber-500/30 px-1 py-0.5 rounded text-center flex flex-col items-center justify-center'><p class='font-semibold text-amber-700 dark:text-amber-300 text-[10px] leading-none'>Medidas de dispersión</p><p class='text-amber-600 dark:text-amber-400 text-[9px] font-bold leading-none mt-0.5'>~2</p></div><div class='bg-amber-500/10 border border-amber-500/30 px-1 py-0.5 rounded text-center flex flex-col items-center justify-center'><p class='font-semibold text-amber-700 dark:text-amber-300 text-[10px] leading-none'>Probabilidad simple</p><p class='text-amber-600 dark:text-amber-400 text-[9px] font-bold leading-none mt-0.5'>~2</p></div><div class='bg-amber-500/10 border border-amber-500/30 px-1 py-0.5 rounded text-center flex flex-col items-center justify-center'><p class='font-semibold text-amber-700 dark:text-amber-300 text-[10px] leading-none'>Probabilidad de eventos</p><p class='text-amber-600 dark:text-amber-400 text-[9px] font-bold leading-none mt-0.5'>~2</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 px-1 py-0.5 rounded text-center flex flex-col items-center justify-center'><p class='font-semibold text-emerald-700 dark:text-emerald-300 text-[10px] leading-none'>Evaluación de funciones</p><p class='text-emerald-600 dark:text-emerald-400 text-[9px] font-bold leading-none mt-0.5'>~1</p></div></div>"
+},
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la sesión 3",
+      "html": "<p class=\"text-lg\">Has completado el repaso de Estadística, Probabilidad y Cálculo.</p>"
+    }
+  ]
+}

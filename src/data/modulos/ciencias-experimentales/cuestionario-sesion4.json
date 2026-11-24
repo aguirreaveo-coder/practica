@@ -1,0 +1,313 @@
+{
+  "titulo": "Cuestionario Sesión 4: Física",
+  "preguntas": [
+    {
+      "pregunta": "Un ciclista recorre 180 metros en 12 segundos a velocidad constante. ¿Cuál es su velocidad?",
+      "opciones": [
+        "15 m/s",
+        "12 m/s",
+        "18 m/s",
+        "20 m/s"
+      ],
+      "correcta": 0,
+      "explicacion": "v = d/t = 180/12 = 15 m/s. Es una división directa del MRU."
+    },
+    {
+      "pregunta": "Si un tren viaja a 144 km/h, ¿cuál es su velocidad en m/s?",
+      "opciones": [
+        "14.4 m/s",
+        "40 m/s",
+        "144 m/s",
+        "518.4 m/s"
+      ],
+      "correcta": 1,
+      "explicacion": "Para convertir km/h a m/s, se divide entre 3.6. 144 ÷ 3.6 = 40 m/s."
+    },
+    {
+      "pregunta": "¿Qué distancia recorre un corredor a 8 m/s durante 25 segundos?",
+      "opciones": [
+        "3.125 m",
+        "33 m",
+        "200 m",
+        "250 m"
+      ],
+      "correcta": 2,
+      "explicacion": "d = v·t = 8 × 25 = 200 m. Multiplicación directa del MRU."
+    },
+    {
+      "pregunta": "Un avión despega del reposo y alcanza 80 m/s en 20 segundos. ¿Cuál es su aceleración?",
+      "opciones": [
+        "2 m/s²",
+        "3 m/s²",
+        "5 m/s²",
+        "4 m/s²"
+      ],
+      "correcta": 3,
+      "explicacion": "a = (vf − vi)/t = (80 − 0)/20 = 4 m/s². El avión parte del reposo."
+    },
+    {
+      "pregunta": "Un objeto se deja caer desde un edificio. ¿Qué velocidad tiene a los 3 segundos? (g = 9.81 m/s²)",
+      "opciones": [
+        "29.43 m/s",
+        "9.81 m/s",
+        "3.27 m/s",
+        "19.62 m/s"
+      ],
+      "correcta": 0,
+      "explicacion": "En caída libre desde el reposo: v = g·t = 9.81 × 3 = 29.43 m/s."
+    },
+    {
+      "pregunta": "Un auto aumenta su velocidad de 10 m/s a 30 m/s en 8 segundos. ¿Cuál es su aceleración?",
+      "opciones": [
+        "2.5 m/s²",
+        "2 m/s²",
+        "5 m/s²",
+        "10 m/s²"
+      ],
+      "correcta": 0,
+      "explicacion": "a = (vf − vi)/t = (30 − 10)/8 = 20/8 = 2.5 m/s²."
+    },
+    {
+      "pregunta": "La 1ª ley de Newton también se conoce como ley de:",
+      "opciones": [
+        "Acción y reacción",
+        "Fuerza y aceleración",
+        "Inercia",
+        "Gravitación universal"
+      ],
+      "correcta": 2,
+      "explicacion": "La 1ª ley de Newton es la ley de la inercia: si la fuerza neta es cero, el cuerpo sigue en reposo o en movimiento uniforme."
+    },
+    {
+      "pregunta": "Una fuerza de 250 N actúa sobre un objeto de 50 kg. ¿Cuál es su aceleración?",
+      "opciones": [
+        "0.2 m/s²",
+        "2.5 m/s²",
+        "12.5 m/s²",
+        "5 m/s²"
+      ],
+      "correcta": 3,
+      "explicacion": "F = m·a → a = F/m = 250/50 = 5 m/s²."
+    },
+    {
+      "pregunta": "¿Qué aceleración tendrá una persona de 90 kg si recibe un empuje de 18 N?",
+      "opciones": [
+        "0.2 m/s²",
+        "1.8 m/s²",
+        "5.9 m/s²",
+        "7.2 m/s²"
+      ],
+      "correcta": 0,
+      "explicacion": "a = F/m = 18/90 = 0.2 m/s²."
+    },
+    {
+      "pregunta": "La masa de un objeto es de 15 kg. ¿Cuál es su peso en la Tierra? (g = 9.81 m/s²)",
+      "opciones": [
+        "1.53 N",
+        "147.15 N",
+        "15 N",
+        "98.1 N"
+      ],
+      "correcta": 1,
+      "explicacion": "P = m·g = 15 × 9.81 = 147.15 N. El peso es una fuerza que se mide en newtons."
+    },
+    {
+      "pregunta": "Un cuerpo de 8 kg se mueve con aceleración de 6 m/s². ¿Cuál es la fuerza aplicada?",
+      "opciones": [
+        "0.75 N",
+        "14 N",
+        "48 N",
+        "1.33 N"
+      ],
+      "correcta": 2,
+      "explicacion": "F = m·a = 8 × 6 = 48 N. Sustitución directa en la 2ª ley de Newton."
+    },
+    {
+      "pregunta": "Un satélite orbita la Tierra en una trayectoria elíptica. Cuando está más cerca del planeta, ¿qué ocurre según la 2ª ley de Kepler?",
+      "opciones": [
+        "Se mueve más lento",
+        "Mantiene velocidad constante",
+        "Se detiene",
+        "Se mueve más rápido"
+      ],
+      "correcta": 3,
+      "explicacion": "Según la 2ª ley de Kepler (ley de las áreas), un cuerpo se mueve más rápido cuando está más cerca del objeto que orbita (perihelio)."
+    },
+    {
+      "pregunta": "La 3ª ley de Kepler establece la relación entre:",
+      "opciones": [
+        "El cuadrado del periodo y el cubo del radio orbital",
+        "La fuerza y la aceleración",
+        "La masa y la distancia",
+        "La velocidad y el tiempo"
+      ],
+      "correcta": 0,
+      "explicacion": "La 3ª ley de Kepler dice que T² ∝ r³: el cuadrado del periodo orbital es proporcional al cubo del radio promedio."
+    },
+    {
+      "pregunta": "El calor que se transfiere por el movimiento de masas de líquidos o gases se llama:",
+      "opciones": [
+        "Conducción",
+        "Convección",
+        "Radiación",
+        "Evaporación"
+      ],
+      "correcta": 1,
+      "explicacion": "La convección es la transferencia de calor por el movimiento de masas en fluidos (líquidos o gases). Ejemplo: el agua hirviendo."
+    },
+    {
+      "pregunta": "Si dos sistemas A y B están en equilibrio térmico con un tercer sistema C, entonces A y B están en equilibrio entre sí. Esto corresponde a:",
+      "opciones": [
+        "La 1ª ley de la termodinámica",
+        "La 2ª ley de la termodinámica",
+        "La ley cero de la termodinámica",
+        "La 3ª ley de la termodinámica"
+      ],
+      "correcta": 2,
+      "explicacion": "La ley cero de la termodinámica establece la transitividad del equilibrio térmico: si A=C y B=C, entonces A=B."
+    },
+    {
+      "pregunta": "La 2ª ley de la termodinámica establece que:",
+      "opciones": [
+        "La energía se conserva",
+        "En el cero absoluto la entropía es mínima",
+        "La entropía del universo siempre aumenta",
+        "El calor fluye de frío a caliente"
+      ],
+      "correcta": 2,
+      "explicacion": "La 2ª ley dice que la entropía (desorden) del universo siempre aumenta. El calor fluye naturalmente de caliente a frío, nunca al revés sin trabajo externo."
+    },
+    {
+      "pregunta": "La 1ª ley de la termodinámica se expresa como:",
+      "opciones": [
+        "ΔU = Q − W",
+        "F = m·a",
+        "P·V = n·R·T",
+        "E = ρ·g·V"
+      ],
+      "correcta": 0,
+      "explicacion": "La 1ª ley de la termodinámica es la conservación de la energía: ΔU = Q − W. El cambio en la energía interna es igual al calor menos el trabajo."
+    },
+    {
+      "pregunta": "La ley de los gases que dice 'a temperatura constante, la presión y el volumen son inversamente proporcionales' es la Ley de:",
+      "opciones": [
+        "Charles",
+        "Boyle",
+        "Gay-Lussac",
+        "Avogadro"
+      ],
+      "correcta": 1,
+      "explicacion": "La Ley de Boyle establece P₁V₁ = P₂V₂ a temperatura constante. Si la presión sube, el volumen baja."
+    },
+    {
+      "pregunta": "Un gas ocupa 200 mL a 400 K. Si la temperatura se reduce a 200 K (presión constante), el volumen será:",
+      "opciones": [
+        "800 mL",
+        "400 mL",
+        "200 mL",
+        "100 mL"
+      ],
+      "correcta": 3,
+      "explicacion": "Ley de Charles: V₁/T₁ = V₂/T₂ → 200/400 = V₂/200 → V₂ = 100 mL. Al bajar la temperatura, el volumen baja."
+    },
+    {
+      "pregunta": "Un resorte se estira 0.4 m cuando se le aplica una fuerza de 20 N. ¿Cuál es su constante elástica?",
+      "opciones": [
+        "8 N/m",
+        "0.02 N/m",
+        "50 N/m",
+        "80 N/m"
+      ],
+      "correcta": 2,
+      "explicacion": "Ley de Hooke: F = k·x → k = F/x = 20/0.4 = 50 N/m."
+    },
+    {
+      "pregunta": "En una prensa hidráulica, si el área del émbolo grande es 10 veces la del pequeño, ¿qué ocurre con la fuerza?",
+      "opciones": [
+        "Aumenta 10 veces",
+        "Disminuye 10 veces",
+        "No cambia",
+        "Aumenta 100 veces"
+      ],
+      "correcta": 0,
+      "explicacion": "Según el Principio de Pascal: F₁/A₁ = F₂/A₂. Si A₂ = 10·A₁, entonces F₂ = 10·F₁. La fuerza se multiplica por 10."
+    },
+    {
+      "pregunta": "Un objeto desplaza 0.5 m³ de agua. ¿Cuál es el empuje que recibe? (ρ = 1000 kg/m³, g = 9.81 m/s²)",
+      "opciones": [
+        "490.5 N",
+        "1,962 N",
+        "4,905 N",
+        "9,810 N"
+      ],
+      "correcta": 2,
+      "explicacion": "E = ρ·g·V = 1000 × 9.81 × 0.5 = 4,905 N. Sustitución directa en el Principio de Arquímedes."
+    },
+    {
+      "pregunta": "Una resistencia de 40 Ω se conecta a 220 V. ¿Cuál es la corriente que circula?",
+      "opciones": [
+        "5.5 A",
+        "4.5 A",
+        "8.8 A",
+        "10 A"
+      ],
+      "correcta": 0,
+      "explicacion": "I = V/R = 220/40 = 5.5 A. Sustitución directa en la Ley de Ohm."
+    },
+    {
+      "pregunta": "Si por una resistencia de 300 Ω circula una corriente de 0.5 A, ¿cuál es el voltaje aplicado?",
+      "opciones": [
+        "600 V",
+        "150 V",
+        "60 V",
+        "30 V"
+      ],
+      "correcta": 1,
+      "explicacion": "V = I·R = 0.5 × 300 = 150 V. Sustitución directa en la Ley de Ohm."
+    },
+    {
+      "pregunta": "¿Cuál es la corriente que circula por una resistencia de 25 Ω conectada a 100 V?",
+      "opciones": [
+        "0.25 A",
+        "2.5 A",
+        "4 A",
+        "25 A"
+      ],
+      "correcta": 2,
+      "explicacion": "I = V/R = 100/25 = 4 A. Ley de Ohm."
+    },
+    {
+      "pregunta": "En la Ley de Snell (n₁·sen θ₁ = n₂·sen θ₂), si la luz pasa del aire (n=1) al vidrio (n=1.5), el ángulo de refracción:",
+      "opciones": [
+        "Es mayor que el incidente",
+        "Es igual al incidente",
+        "Es 90°",
+        "Es menor que el incidente"
+      ],
+      "correcta": 3,
+      "explicacion": "Al pasar de un medio menos denso (aire) a uno más denso (vidrio), la luz se acerca a la normal. El ángulo de refracción es menor que el ángulo de incidencia."
+    },
+    {
+      "pregunta": "La Ley de Snell relaciona:",
+      "opciones": [
+        "Fuerza y aceleración",
+        "Presión y volumen",
+        "Los ángulos de incidencia y refracción con los índices de refracción de dos medios",
+        "Voltaje y resistencia"
+      ],
+      "correcta": 2,
+      "explicacion": "La Ley de Snell describe cómo cambia la dirección de la luz al pasar de un medio a otro: n₁·sen θ₁ = n₂·sen θ₂."
+    },
+    {
+      "pregunta": "¿Cuál es la unidad de fuerza en el Sistema Internacional?",
+      "opciones": [
+        "Joule",
+        "Watt",
+        "Newton",
+        "Pascal"
+      ],
+      "correcta": 2,
+      "explicacion": "La unidad de fuerza en el SI es el newton (N), en honor a Isaac Newton. El joule mide energía, el watt potencia y el pascal presión."
+    }
+  ]
+}

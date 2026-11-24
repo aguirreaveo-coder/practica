@@ -1,0 +1,66 @@
+{
+  "titulo": "Clase Express: Fenómenos sociales y modelos económicos",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 14",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Fenómenos sociales y modelos económicos</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase Express: Síntesis del Módulo 14</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Población · Migración · Finanzas personales · Desarrollo · Modelos matemáticos</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Demografía",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Nacimientos, defunciones e intercambios migratorios explican los cambios de población.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Migración",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>La inmigración es llegada; la emigración, salida. Las causas suelen combinar factores económicos, sociales y políticos.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Desarrollo",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>El IDH integra salud, educación e ingreso; el PIB mide producción final en un periodo.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Presupuesto",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Ingresos menos egresos muestran el saldo para pagos, ahorro y metas.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Ahorro e inversión",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>El ahorro reserva recursos; la inversión busca rendimientos y asume riesgos.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Interés",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>El interés simple usa el capital inicial; el compuesto incorpora los intereses acumulados.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Crédito",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>CAT, tasa, comisiones, plazo y frecuencia permiten comparar el costo del financiamiento.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Riesgos",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Mercado, crédito, liquidez, interés y volatilidad son riesgos distintos.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Modelos",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Los modelos exponenciales representan cambios proporcionales; los logísticos incluyen una capacidad límite.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Logaritmos",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Los logaritmos permiten despejar exponentes y transformar productos en sumas.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase Express",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Síntesis del Módulo 14.</p>"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

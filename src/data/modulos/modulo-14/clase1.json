@@ -1,0 +1,297 @@
+{
+  "titulo": "Clase 1: Población, demografía y migración",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 14",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Fenómenos sociales y modelos económicos</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 1: Población, demografía y migración</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Demografía · Pirámides poblacionales · Migración · Distribución territorial</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Población dinámica",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>La población es el conjunto de personas que habita un territorio en un momento dado. Su tamaño y composición cambian por nacimientos, defunciones y migraciones. Para describirla se consideran, entre otros rasgos, la edad, el sexo y la ubicación de quienes la integran.</p><img src='https://www.abc.com.py/resizer/v2/https%3A%2F%2Farc-anglerfish-arc2-prod-abccolor.s3.amazonaws.com%2Fpublic%2FAMK6X657PRHCVE5Z5WC5HHJNLI.jpg?auth=3aea2e1b457eb6da685b9e5002534b3d7f874857e6119fd942873cf14424356c&width=1920&smart=true' alt='Cambios de la población a través del tiempo' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Natalidad y mortalidad",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>La natalidad registra los nacimientos ocurridos durante un periodo; la mortalidad, las defunciones. Ambas suelen expresarse en relación con el tamaño de la población y el tiempo observado. Su diferencia permite estimar el crecimiento natural, sin incluir inmigración ni emigración.</p><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ1_Lfj9AeHPPNSN7p1-_9uDuJjnGQkrJk_3FLcokixTxLUbP_0kkO93ge&s=10' alt='Natalidad y mortalidad' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Pirámides poblacionales",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Una pirámide poblacional representa la distribución por grupos de edad y sexo. Habitualmente, muestra a los hombres a un lado y a las mujeres al otro; cada barra indica la cantidad o proporción de personas de ese grupo.</p><p class='text-lg text-slate-700 dark:text-slate-200'>Una base ancha señala mayor peso de edades jóvenes; una parte media amplia, de edades adultas; una cúspide ancha, de personas mayores. Comparar años permite ver cambios, aunque la gráfica por sí sola no explica sus causas.</p><img src='https://www.researchgate.net/profile/Vanina-Pagotto/publication/364374294/figure/fig1/AS:11431281092509867@1666882681728/Piramides-poblacionales-Se-observan-las-piramides-de-distintas-poblaciones-Afiliados-al.png' alt='Ejemplos de pirámides poblacionales' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Esperanza de vida",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>La esperanza de vida al nacer estima cuántos años viviría una persona si se mantuvieran las condiciones de mortalidad del periodo estudiado. No predice la vida de cada individuo ni señala una edad máxima.</p><p class='text-lg text-slate-700 dark:text-slate-200'>Se usa para comparar condiciones de salud entre poblaciones y épocas. La atención médica, alimentación y saneamiento pueden influir en ella; conviene interpretarla junto con otros indicadores sociales.</p><img src='https://elordenmundial.com/wp-content/uploads/2025/01/esperanza-vida-america-latina-movil.png' alt='Esperanza de vida en América Latina' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Migración",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>La migración es el desplazamiento que implica cambiar de residencia, temporal o permanentemente. Es interna si ocurre dentro de un país e internacional si cruza una frontera. El cambio de residencia la distingue de un viaje cotidiano.</p><img src='https://apps1.semarnat.gob.mx:8443/dgeia/informe18/tema/imagenes/01_Poblacion/recuadro1_4a_mapa.jpg' alt='Mapa relacionado con la migración' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Inmigración, emigración y distribución",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Inmigrar es llegar a un territorio para residir; emigrar es salir del lugar de origen para establecerse en otro. Son dos perspectivas del mismo movimiento: quien emigra de un sitio puede ser inmigrante en el destino.</p><p class='text-lg text-slate-700 dark:text-slate-200'>La población se distribuye de manera desigual. El relieve, clima, agua, empleo, servicios, infraestructura y seguridad influyen en los asentamientos; estos factores interactúan y cambian con el tiempo.</p><img src='https://elordenmundial.com/wp-content/uploads/2021/10/Panorama-migracio%CC%81n-mundo.png' alt='Panorama de la inmigración y emigración en el mundo' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Motivos para migrar",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Las personas pueden migrar para buscar empleo o educación, reunirse con familiares o escapar de violencia, persecución, conflictos y desastres. Las razones suelen combinarse; ninguna explica por sí sola todos los desplazamientos.</p><p class='text-lg text-slate-700 dark:text-slate-200'>Algunas condiciones impulsan a salir del origen y otras atraen hacia un destino. Las oportunidades y obstáculos varían entre personas y lugares.</p><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ0h_2cMKmQfL_09NUlJM7uAesVsCnEoWY4M1o4QTPz-MbIsyJ_KtyBT2M&s=10' alt='Motivos que impulsan a las personas a migrar' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Efectos sociales",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>La migración transforma comunidades de origen y destino. Puede aportar trabajo, conocimientos, diversidad cultural y redes familiares; también elevar la demanda de vivienda, escuelas, transporte y salud si los servicios no crecen al mismo ritmo.</p><p class='text-lg text-slate-700 dark:text-slate-200'>En el destino puede haber integración, asimilación o exclusión. La integración permite participar conservando elementos de identidad; la asimilación supone adoptar prácticas dominantes; la exclusión limita derechos y oportunidades.</p><img src='https://nemdigitalstorage.blob.core.windows.net/nem-main/images/2023/01/02/9973a5f9-21b2-427f-8074-90a1631bdcaa.jpg' alt='Efectos sociales de la migración' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Crecimiento demográfico",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>El cambio poblacional depende del balance entre nacimientos, defunciones, inmigración y emigración. La diferencia entre natalidad y mortalidad describe el crecimiento natural; al incluir la migración se obtiene el cambio total.</p><p class='text-lg text-slate-700 dark:text-slate-200'>Un crecimiento rápido puede aumentar la demanda de vivienda, agua, salud, educación y transporte. Sus efectos dependen de la edad, distribución, recursos y planeación de cada comunidad.</p><img src='https://apps1.semarnat.gob.mx:8443/dgeia/informe_resumen/01_poblacion/imagenes/pob_1b.gif' alt='Crecimiento demográfico' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Actividad: Repaso de la Guía",
+      "instrucciones": "Responde las preguntas del Cuestionario 1 asignadas a esta clase.",
+      "preguntas": [
+        2,
+        3,
+        4,
+        9,
+        10,
+        11,
+        12,
+        17,
+        18,
+        19,
+        23,
+        24,
+        33,
+        34,
+        37,
+        38
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Revisión de la Actividad",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Compara tus respuestas con la guía e identifica el concepto o procedimiento que justifica cada una.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "2. De manera general, ¿qué diferencias presentan las gráficas de INEGI?",
+      "opciones": [
+        "1, 4, 5",
+        "2, 3",
+        "1, 5",
+        "2, 3, 6"
+      ],
+      "correcta": 2,
+      "explicacion": "Disminuyó el porcentaje de los grupos de menor edad y aumentó gradualmente a partir del rango de 20-25 años.",
+      "numero": 2
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "3. ¿Cuál es el grupo de edad que muestra una mayor diferencia en sus porcentajes en las gráficas de INEGI?",
+      "opciones": [
+        "10-14",
+        "0-4",
+        "5-9",
+        "20-25"
+      ],
+      "correcta": 1,
+      "explicacion": "El grupo de 0 a 4 años presenta la mayor diferencia relativa entre las dos pirámides.",
+      "numero": 3
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "4. ¿Qué variables afectan la distribución de las gráficas de INEGI? 1. Distribución territorial. 2. Fecundidad. 3. Heterogeneidad. 4. Mortalidad. 5. Migraciones.",
+      "opciones": [
+        "1, 3",
+        "2, 4",
+        "2, 4, 5",
+        "1, 2, 3"
+      ],
+      "correcta": 2,
+      "explicacion": "La fecundidad, la mortalidad y las migraciones modifican la distribución por edades y el tamaño de la población.",
+      "numero": 4
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "9. Se dice que la esperanza de vida en México aumentó de 33.9 en 1939 a 75.7 en 2012. ¿Qué significado tienen estos números?",
+      "opciones": [
+        "Promedio de años de vida que podría alcanzar una persona, estimados al nacer.",
+        "Porcentaje anual de nacimientos en el país en el año que se toma como referencia.",
+        "Prevalencia de mortalidad que puede alcanzar un grupo de personas al nacer.",
+        "Porcentaje anual de mortalidad en los años considerados como referencia."
+      ],
+      "correcta": 0,
+      "explicacion": "La esperanza de vida al nacer estima el promedio de años que viviría una persona bajo las condiciones de mortalidad observadas.",
+      "numero": 9
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "10. Identifica los criterios que se consideran en los tres índices que integran el Índice de Desarrollo Humano (IDH).",
+      "opciones": [
+        "[1-b] [2-d] [3-f]",
+        "[1-a] [2-d] [3-e]",
+        "[1-a] [2-c] [3-e]",
+        "[1-b] [2-c] [3-1]"
+      ],
+      "correcta": 0,
+      "explicacion": "El IDH relaciona salud, educación e ingreso, según la correspondencia indicada en la guía.",
+      "numero": 10
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "11. Analiza la siguiente información y contesta las preguntas 9 y 10. La tabla presenta datos actuales sobre países y habitantes. Japón tiene 127 millones y México, que ocupa la posición 11, tiene 103 millones. ¿Cuál es el porcentaje de diferencia entre la población de Japón y la de México?",
+      "opciones": [
+        "36%",
+        "20%",
+        "28%",
+        "19%"
+      ],
+      "correcta": 3,
+      "explicacion": "La diferencia entre 127 y 103 millones, tomando la población de Japón como base, es aproximadamente 19%.",
+      "numero": 11
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "12. ¿Cuál o cuáles de las siguientes conclusiones se pueden emitir de la información analizada? 1. México se ubica entre los países más poblados del continente americano. 2. Brasil tiene mayor población que Estados Unidos. 3. La población de México es menor que la de Estados Unidos.",
+      "opciones": [
+        "Sólo 3",
+        "Sólo 1",
+        "1 y 3",
+        "2 y 3"
+      ],
+      "correcta": 0,
+      "explicacion": "La información indica que México tiene menos población que Estados Unidos, por lo que la conclusión correcta es la número 3.",
+      "numero": 12
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "17. La población es un hecho dinámico que se encuentra en movimiento constante. Relaciona los dos tipos de movimiento poblacional: 1. Natural; 2. Social. Características: a. Nacimientos; b. Desempleo; c. Enfermedades; d. Emigraciones; e. Defunciones; f. Producción de alimentos; g. Desastres naturales; h. Inmigraciones.",
+      "opciones": [
+        "[1-a, e) [2-d, h]",
+        "[1-b, d, e] [2-c, f, g]",
+        "[1-b, d, g] [2-a, c, e]",
+        "[1-c, f] [2-b, g]"
+      ],
+      "correcta": 0,
+      "explicacion": "El movimiento natural se compone de nacimientos y defunciones; el social, de emigración e inmigración.",
+      "numero": 17
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "18. Selecciona los fenómenos que se han suscitado a consecuencia del crecimiento demográfico: 1. Incremento en la delincuencia. 2. Marginación. 3. Crecimiento económico. 4. Contaminación. 5. Agotamiento de recursos naturales.",
+      "opciones": [
+        "1, 3, 5",
+        "1, 2, 3, 5",
+        "2, 3, 4",
+        "1, 2, 4, 5"
+      ],
+      "correcta": 3,
+      "explicacion": "El crecimiento demográfico puede intensificar delincuencia, marginación, contaminación y agotamiento de recursos.",
+      "numero": 18
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "19. Analiza el siguiente texto tomado del material de \"Variación de procesos sociales\". ¿Qué factores están implícitos en la generación de este fenómeno? 1. La crisis económica y el desempleo. 2. La reducción de créditos bancarios. 3. Los impuestos a los depósitos en efectivo. 4. Cobros bancarios por manejo de cuenta.",
+      "opciones": [
+        "1, 3",
+        "1, 2, 3",
+        "1, 2, 3, 4",
+        "2, 4"
+      ],
+      "correcta": 0,
+      "explicacion": "El texto relaciona el fenómeno con la crisis económica y los impuestos a depósitos en efectivo.",
+      "numero": 19
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "23. Los efectos de la migración en las sociedades receptoras son de cuatro tipos. Relaciona las columnas, de modo que coincida cada efecto de la migración con su descripción.",
+      "opciones": [
+        "[1-c] [2-d] [3-a]",
+        "[1-d] [2-c] [3-b]",
+        "[1-b] [2-a] [3-d]",
+        "[1-a] [2-b] [3-c]"
+      ],
+      "correcta": 1,
+      "explicacion": "La respuesta correcta relaciona asimilación, integración y exclusión con sus descripciones correspondientes.",
+      "numero": 23
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "24. En una conocida enciclopedia aparece esta definición: \"Acción y efecto de pasar de un país a otro para establecerse en él. También se aplica a las históricas que han hecho las razas o los pueblos enteros\". Esta definición es distinta de otra que dice: \"Conjunto de habitantes de un país que trasladan su domicilio a otro por tiempo ilimitado o en ocasiones temporalmente\". Identifica los conceptos que se relacionan respectivamente con las definiciones propuestas.",
+      "opciones": [
+        "emigración → inmigración.",
+        "inmigración → emigración.",
+        "emigración → migración.",
+        "migración → emigración."
+      ],
+      "correcta": 1,
+      "explicacion": "La primera definición describe inmigración y la segunda emigración.",
+      "numero": 24
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "33. ¿Cuál de las siguientes situaciones es un ejemplo de migración interna?",
+      "opciones": [
+        "Emma vivía en el centro de la capital de Zacatecas y se fue a vivir a la ciudad de Guadalupe, en la zona conurbada.",
+        "La empresa donde trabaja Mario lo trasladó de Ciudad Victoria a Guatemala para dirigir una nueva sucursal.",
+        "Joel nació y vivió en Zitácuaro, Michoacán, y por problemas económicos y familiares se trasladó a Morelia.",
+        "María: México → San Antonio, Texas."
+      ],
+      "correcta": 2,
+      "explicacion": "Zitácuaro y Morelia son localidades de México, por lo que el cambio de residencia ocurre dentro del mismo país.",
+      "numero": 33
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "34. Relaciona los motivos que aparecen en la columna izquierda con las razones que tienen los individuos para emigrar, con los ejemplos de la columna derecha.",
+      "opciones": [
+        "[1-d] [2-e] [3-c] [4-b]",
+        "[1-a] [2-d] [3-e] [4-c]",
+        "[1-b] [2-c] [3-a] [4-d]",
+        "[1-e] [2-b] [3-d] [4-a]"
+      ],
+      "correcta": 0,
+      "explicacion": "La correspondencia indicada en la guía es [1-d], [2-e], [3-c] y [4-b].",
+      "numero": 34
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "37. ¿Cuál opción completa correctamente la frase? La medición de los cambios que registra una población se realiza por medio de: __________________.",
+      "opciones": [
+        "gráficas de población.",
+        "índices demográficos.",
+        "gráficas de PIB.",
+        "gráficas de PEA."
+      ],
+      "correcta": 1,
+      "explicacion": "Los índices demográficos permiten medir los cambios que registra una población.",
+      "numero": 37
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "38. El crecimiento de una población está determinado por el comportamiento de dos factores llamados variables demográficas, ¿cuáles son esas variables?",
+      "opciones": [
+        "Mortalidad y emigración.",
+        "Natalidad e inmigración.",
+        "Migración y mortalidad.",
+        "Emigración e inmigración."
+      ],
+      "correcta": 1,
+      "explicacion": "Las variables demográficas que determinan el crecimiento de una población son la natalidad y la inmigración.",
+      "numero": 38
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 1",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Población, demografía y migración. En la siguiente clase continuaremos con el Módulo 14.</p>"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

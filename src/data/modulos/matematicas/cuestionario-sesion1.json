@@ -1,0 +1,25 @@
+{
+  "titulo": "Cuestionario Clase 1: Fracciones, porcentajes, proporcionalidad y sucesiones",
+  "preguntas": [
+    {"numero":1,"pregunta":"Calcula 7/12 + 5/18.","opciones":["31/36","17/30","12/30","29/36"],"correcta":0,"explicacion":"El mínimo común denominador es 36: 7/12 = 21/36 y 5/18 = 10/36. La suma es 31/36."},
+    {"numero":2,"pregunta":"Calcula 11/15 − 2/9.","opciones":["23/45","9/6","7/45","13/45"],"correcta":0,"explicacion":"Con denominador común 45: 11/15 = 33/45 y 2/9 = 10/45. La diferencia es 23/45."},
+    {"numero":3,"pregunta":"¿Cuál es el producto de 7/10 por 5/14?","opciones":["1/4","1/2","5/24","12/70"],"correcta":0,"explicacion":"Multiplica numeradores y denominadores: 35/140. Al simplificar, resulta 1/4."},
+    {"numero":4,"pregunta":"Calcula 5/6 ÷ 10/21.","opciones":["7/4","50/126","4/7","25/63"],"correcta":0,"explicacion":"Dividir entre 10/21 equivale a multiplicar por 21/10: (5·21)/(6·10) = 105/60 = 7/4."},
+    {"numero":5,"pregunta":"Ordena de menor a mayor: 1/6, 3/7, 2/3.","opciones":["1/6, 3/7, 2/3","3/7, 1/6, 2/3","2/3, 3/7, 1/6","1/6, 2/3, 3/7"],"correcta":0,"explicacion":"Con denominador común 42: 1/6 = 7/42, 3/7 = 18/42 y 2/3 = 28/42."},
+    {"numero":6,"pregunta":"¿Cuánto es 18% de $650?","opciones":["$117","$108","$132","$135"],"correcta":0,"explicacion":"18% = 18/100. Entonces 650·0.18 = 117 pesos."},
+    {"numero":7,"pregunta":"Una mochila cuesta $750 y tiene 16% de descuento. ¿Cuál es su precio final?","opciones":["$630","$634","$634.50","$670"],"correcta":0,"explicacion":"El descuento es 0.16·750 = $120. El precio final es 750 − 120 = $630."},
+    {"numero":8,"pregunta":"¿Qué porcentaje del total representa 15% de 60%?","opciones":["9%","12%","45%","75%"],"correcta":0,"explicacion":"15% de 60% = 0.15·0.60 = 0.09, que equivale a 9%."},
+    {"numero":9,"pregunta":"¿A qué porcentaje equivale el decimal 0.375?","opciones":["3.75%","37.5%","375%","0.375%"],"correcta":1,"explicacion":"Para convertir un decimal a porcentaje, multiplícalo por 100: 0.375·100 = 37.5%."},
+    {"numero":10,"pregunta":"¿Qué número decimal equivale a 7.5%?","opciones":["0.75","0.075","7.5","0.0075"],"correcta":1,"explicacion":"Divide el porcentaje entre 100: 7.5/100 = 0.075."},
+    {"numero":11,"pregunta":"Cinco lápices cuestan $45. Si el precio por lápiz es constante, ¿cuánto cuestan ocho?","opciones":["$64","$72","$80","$90"],"correcta":1,"explicacion":"El precio unitario es 45/5 = $9. Ocho lápices cuestan 8·9 = $72."},
+    {"numero":12,"pregunta":"Un ciclista recorre 315 km en 7 horas a velocidad constante. ¿Cuántos kilómetros recorrerá en 4 horas?","opciones":["160 km","180 km","190 km","210 km"],"correcta":1,"explicacion":"La velocidad es 315/7 = 45 km/h. En 4 horas recorrerá 45·4 = 180 km."},
+    {"numero":13,"pregunta":"Nueve trabajadores completan una tarea en 14 días. ¿Cuántos días tardarían 7 trabajadores al mismo ritmo?","opciones":["16 días","18 días","20 días","22 días"],"correcta":1,"explicacion":"Es una relación inversa: 9·14 = 7·d. Entonces d = 126/7 = 18 días."},
+    {"numero":14,"pregunta":"Doce bombas iguales vacían una cisterna en 10 horas. ¿Cuánto tardarán 15 bombas trabajando al mismo ritmo?","opciones":["6 horas","8 horas","12 horas","15 horas"],"correcta":1,"explicacion":"El producto bombas·horas es constante: 12·10 = 15·t. Así, t = 120/15 = 8 horas."},
+    {"numero":15,"pregunta":"Al aumentar el número de máquinas, disminuye el tiempo necesario para completar un trabajo. ¿Qué tipo de proporcionalidad describe la situación?","opciones":["Directa","Inversa","Aritmética","Geométrica"],"correcta":1,"explicacion":"Cuando una cantidad aumenta y la otra disminuye en una relación cuyo producto se conserva, la proporcionalidad es inversa."},
+    {"numero":16,"pregunta":"En una sucesión aritmética, a₁ = 9 y d = 6. ¿Cuál es el término a₁₃?","opciones":["75","81","78","87"],"correcta":1,"explicacion":"a₁₃ = 9 + (13−1)·6 = 9 + 72 = 81."},
+    {"numero":17,"pregunta":"¿Cuál es el noveno término de la sucesión aritmética 2, 7, 12, 17, …?","opciones":["37","42","47","52"],"correcta":1,"explicacion":"La diferencia común es 5. a₉ = 2 + (9−1)·5 = 42."},
+    {"numero":18,"pregunta":"Una sucesión geométrica inicia con 5 y tiene razón común 3. ¿Cuál es su cuarto término?","opciones":["45","90","135","405"],"correcta":2,"explicacion":"a₄ = 5·3⁴⁻¹ = 5·27 = 135."},
+    {"numero":19,"pregunta":"¿Cuál es el siguiente término de la sucesión geométrica 160, 80, 40, 20, …?","opciones":["5","10","15","18"],"correcta":1,"explicacion":"Cada término se obtiene dividiendo entre 2; después de 20 sigue 10."},
+    {"numero":20,"pregunta":"Calcula la suma de los primeros cuatro términos de la sucesión aritmética 10, 15, 20, 25, …","opciones":["60","65","70","75"],"correcta":2,"explicacion":"Suma los cuatro términos: 10 + 15 + 20 + 25 = 70."}
+  ]
+}

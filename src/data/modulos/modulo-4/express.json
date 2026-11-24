@@ -1,0 +1,295 @@
+{
+  "titulo": "Clase Express: Ser Social y Sociedad",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 4",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Ser Social y Sociedad</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase Express — Versión comprimida</p><p class='text-base text-slate-500 dark:text-slate-400 mt-8'>Recorrido por los conceptos clave del módulo en una sola sesión</p>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "El ser humano como ser social",
+      "html": "<p class='text-lg'>El ser humano es por naturaleza un <strong>ser social</strong>: necesita de otros para sobrevivir, aprender y desarrollarse.</p><p class='text-lg'>En él coexisten dos dimensiones:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Dimensión biológica</p><p class='text-base'>Lo que heredamos genéticamente: comer, dormir, respirar, reproducirnos.</p></div><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Dimensión social</p><p class='text-base'>Lo que aprendemos en sociedad: lengua, costumbres, valores, tradiciones.</p></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "La socialización",
+      "html": "<p class='text-lg'>La <strong>socialización</strong> es el proceso por el cual aprendemos normas, valores y habilidades para vivir en sociedad. Comienza en la infancia y continúa toda la vida.</p><p class='text-lg'><strong>Agentes de socialización:</strong></p><ul class='text-lg'><li>Familia (el primero y más importante)</li><li>Escuela</li><li>Amigos y pares</li><li>Medios de comunicación</li><li>Trabajo</li></ul>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "La cultura",
+      "html": "<p class='text-lg'>La <strong>cultura</strong> es el conjunto de conocimientos, creencias, arte, moral, derecho, costumbres y hábitos adquiridos como miembros de una sociedad.</p><p class='text-lg'>Incluye todo lo que aprendemos y compartimos: el idioma, la manera de saludar, de comer, de celebrar.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Prácticas sociales y subcultura",
+      "html": "<p class='text-lg'>Las <strong>prácticas sociales</strong> son las acciones cotidianas que repetimos siguiendo las normas y costumbres de nuestra cultura: saludar, celebrar, convivir.</p><p class='text-lg'>Una <strong>subcultura</strong> es un grupo con costumbres propias distintas a las dominantes, sin dejar de pertenecer a la sociedad mayor.</p><p class='text-lg'>Ejemplos: comunidades indígenas, grupos urbanos (skaters, raperos), comunidades religiosas específicas.</p>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Multiculturalidad e interculturalidad",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Multiculturalidad</p><p class='text-base'>Coexistencia de varias culturas en un mismo territorio, sin necesariamente interactuar entre sí.</p></div><div class='bg-cyan-500/10 border border-cyan-500/30 p-4 rounded-lg'><p class='font-semibold text-cyan-700 dark:text-cyan-300 mb-2 text-lg'>Interculturalidad</p><p class='text-base'>Relación respetuosa, dialógica y equitativa entre culturas distintas. Implica convivencia activa y aprendizaje mutuo.</p></div></div><p class='text-lg'>El multiculturalismo es un hecho; la interculturalidad es un ideal a construir.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Aculturación, transculturación y sincretismo",
+      "html": "<p class='text-lg'><strong>Aculturación:</strong> un grupo adopta elementos de otra cultura dominante. Ej: durante la conquista de México, los pueblos originarios adoptaron la lengua y la religión españolas.</p><p class='text-lg'><strong>Transculturación:</strong> dos o más culturas se influyen mutuamente y dan lugar a una nueva cultura híbrida.</p><p class='text-lg'><strong>Sincretismo:</strong> fusión de elementos de distintas culturas en una nueva expresión. Ej: la Virgen de Guadalupe, que combina elementos católicos y prehispánicos.</p>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Etnocentrismo y relativismo cultural",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Etnocentrismo</p><p class='text-base'>Juzgar otras culturas desde los valores de la propia, considerándola superior. Barrera para la convivencia.</p></div><div class='bg-green-500/10 border border-green-500/30 p-4 rounded-lg'><p class='font-semibold text-green-700 dark:text-green-300 mb-2 text-lg'>Relativismo cultural</p><p class='text-base'>Reconocer que cada cultura debe entenderse desde sus propios valores y contexto, sin juzgarla con criterios ajenos.</p></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Globalización e instituciones sociales",
+      "html": "<p class='text-lg'><strong>Globalización:</strong> integración económica, política, social y cultural a nivel mundial. Acelera intercambios pero también genera tensiones y pérdida de tradiciones locales.</p><p class='text-lg'><strong>Instituciones sociales:</strong> organizaciones estables que regulan áreas clave de la vida:</p><ul class='text-lg'><li>Familia</li><li>Educación</li><li>Religión</li><li>Gobierno</li><li>Economía</li></ul>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Teorías sociales: Positivismo y Materialismo",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Positivismo (Comte)</p><p class='text-base'>La sociedad debe estudiarse con el método científico. La ciencia es la fuerza más poderosa para el progreso humano.</p></div><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Materialismo Histórico (Marx)</p><p class='text-base'>La base de toda sociedad es su modo de producción. La historia avanza por la lucha de clases.</p></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Teorías sociales: Funcionalismo y Comprensiva",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Funcionalismo (Spencer, Durkheim)</p><p class='text-base'>La sociedad es un sistema de partes que cumplen funciones específicas. Enfatiza el orden y el consenso.</p></div><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Teoría Comprensiva (Weber)</p><p class='text-base'>La sociología debe comprender los significados que las personas dan a sus acciones.</p></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Teorías sociales: Estructuración y Crítica",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-cyan-500/10 border border-cyan-500/30 p-4 rounded-lg'><p class='font-semibold text-cyan-700 dark:text-cyan-300 mb-2 text-lg'>Estructuración (Giddens)</p><p class='text-base'>La estructura social son reglas y recursos que se reproducen en la práctica. Los agentes no son pasivos.</p></div><div class='bg-orange-500/10 border border-orange-500/30 p-4 rounded-lg'><p class='font-semibold text-orange-700 dark:text-orange-300 mb-2 text-lg'>Teoría Crítica (Escuela de Frankfurt)</p><p class='text-base'>La sociología debe cuestionar el orden social y denunciar la dominación. La industria cultural adormece la conciencia crítica.</p></div></div>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "La estructura social",
+      "html": "<p class='text-lg'>La <strong>estructura social</strong> son las relaciones estables y pautadas entre las partes de una sociedad: clases, roles, instituciones, normas.</p><p class='text-lg'>No la vemos directamente, pero condiciona nuestras acciones, oportunidades y comportamientos.</p><p class='text-lg'>Los individuos <strong>actúan dentro</strong> de la estructura, pero también pueden modificarla.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Estatus y rol",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Estatus</p><p class='text-base'>La posición que ocupa un individuo en la sociedad (hijo, estudiante, trabajador). Puede ser adscrito (por nacimiento) o adquirido (por mérito).</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Rol</p><p class='text-base'>El conjunto de comportamientos esperados según el estatus que se ocupa.</p></div></div><p class='text-lg'>Los roles y estatus organizan la vida social y facilitan la interacción.</p>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Modos de producción: introducción",
+      "html": "<p class='text-lg'>Un <strong>modo de producción</strong> es la forma en que una sociedad organiza la producción de bienes materiales.</p><p class='text-lg'>Se compone de dos elementos:</p><ul class='text-lg'><li><strong>Fuerzas productivas:</strong> medios de producción + fuerza de trabajo.</li><li><strong>Relaciones de producción:</strong> cómo se organizan los grupos en torno a la producción.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Modos de producción: comunidad primitiva",
+      "html": "<p class='text-lg'>La <strong>comunidad primitiva</strong> es el primer modo de producción. Características:</p><ul class='text-lg'><li>No existe propiedad privada: todo es colectivo.</li><li>Grupos pequeños y nómadas.</li><li>La cohesión se basa en la <strong>semejanza entre individuos</strong>.</li><li>La cooperación es indispensable para sobrevivir.</li></ul><p class='text-lg'>Formas de organización: <strong>horda, clan, gens y tribu</strong>.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Modos de producción: esclavismo y feudalismo",
+      "html": "<p class='text-lg'><strong>Esclavismo:</strong> surge con la agricultura y la propiedad privada.</p><ul class='text-lg'><li>El esclavo es propiedad del amo. No tiene derechos.</li><li>Máximo desarrollo en Grecia antigua y Roma clásica.</li></ul><p class='text-lg'><strong>Feudalismo:</strong> se desarrolla en la Edad Media europea.</p><ul class='text-lg'><li>El siervo está atado a la tierra y paga renta al señor feudal.</li><li>El señor feudal posee la tierra; el siervo no es propietario.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Modos de producción: capitalismo, socialismo y comunismo",
+      "html": "<p class='text-lg'><strong>Capitalismo:</strong> medios de producción privados; obreros venden su fuerza de trabajo a cambio de un salario.</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-orange-500/10 border border-orange-500/30 p-4 rounded-lg'><p class='font-semibold text-orange-700 dark:text-orange-300 mb-2 text-lg'>Socialismo</p><p class='text-base'>Medios de producción propiedad social. Busca distribución más justa de la riqueza.</p></div><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Comunismo</p><p class='text-base'>Etapa superior sin clases ni Estado, según Marx.</p></div></div>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Las edades de la historia",
+      "html": "<ul class='text-lg'><li><strong>Prehistoria:</strong> antes de la escritura.</li><li><strong>Edad Antigua:</strong> de la escritura al 476 d.C.</li><li><strong>Edad Media:</strong> 476 d.C. a 1492.</li><li><strong>Edad Moderna:</strong> 1492 a 1789 (Revolución Francesa).</li><li><strong>Edad Contemporánea:</strong> 1789 hasta hoy.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Estado-nación y Mesoamérica",
+      "html": "<p class='text-lg'><strong>Estado-nación:</strong> territorio definido, gobierno con poder sobre toda la población y soberanía.</p><p class='text-lg'><strong>Mesoamérica:</strong> región cultural del México prehispánico. Rasgos característicos:</p><ul class='text-lg'><li>Agricultura (maíz, frijol, calabaza) como base económica.</li><li>Organización por grupos de actividad.</li><li>Gran importancia al comercio.</li><li>Uso de códices y juego de pelota.</li></ul>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Ética y moral",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Moral</p><p class='text-base'>Normas y valores practicados por un grupo social.</p></div><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Ética</p><p class='text-base'>Reflexión filosófica sobre la moral.</p></div></div><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-green-500/10 border border-green-500/30 p-4 rounded-lg'><p class='font-semibold text-green-700 dark:text-green-300 mb-2 text-lg'>Autonomía</p><p class='text-base'>Actuar según la propia razón y voluntad.</p></div><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Heteronomía</p><p class='text-base'>Actuar por normas impuestas desde fuera.</p></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Valores y responsabilidad moral",
+      "html": "<p class='text-lg'><strong>Valores:</strong> principios que orientan la conducta hacia el bien (solidaridad, justicia, responsabilidad, respeto, honestidad).</p><p class='text-lg'><strong>Antivalores:</strong> su opuesto (egoísmo, injusticia, irresponsabilidad).</p><p class='text-lg'><strong>Responsabilidad moral:</strong> capacidad de responder por nuestros actos libres y conscientes. Requiere libertad, conocimiento e intención.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Derechos humanos y bioética",
+      "html": "<p class='text-lg'><strong>Derechos humanos:</strong> universales, inalienables e indivisibles. Su protección es obligación del Estado.</p><p class='text-lg'><strong>Persona humana según Santo Tomás:</strong> dignidad, autonomía y autoconciencia.</p><p class='text-lg'><strong>Bioética:</strong> estudia las implicaciones éticas de las decisiones sobre la vida y la salud: eutanasia, aborto, manipulación genética.</p>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Desarrollo sustentable",
+      "html": "<p class='text-lg'>El <strong>desarrollo sustentable</strong> busca satisfacer las necesidades presentes sin comprometer las de las generaciones futuras.</p><p class='text-lg'>Tres dimensiones:</p><ul class='text-lg'><li><strong>Económica:</strong> crecimiento sin agotar recursos.</li><li><strong>Social:</strong> equidad y bienestar para todos.</li><li><strong>Ambiental:</strong> protección de los ecosistemas.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Empresa responsable, biotecnología y sectores",
+      "html": "<p class='text-lg'><strong>Empresa socialmente responsable:</strong> contribuye al mejoramiento social, económico y ambiental. Evaluada con el triple resultado.</p><p class='text-lg'><strong>Biotecnología:</strong> aplicación tecnológica que usa sistemas biológicos para crear productos.</p><p class='text-lg'><strong>Sectores económicos:</strong> primario (extracción), secundario (transformación), terciario (servicios).</p><p class='text-lg'><strong>Biodegradación:</strong> algodón 1-5 meses, cáscara 6 meses, madera 2-3 años, vidrio 4000 años.</p>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Método científico",
+      "html": "<p class='text-lg'>Las ciencias sociales aplican el <strong>método científico</strong>:</p><ol class='text-lg'><li>Idea u observación</li><li>Planteamiento del problema</li><li>Marco teórico</li><li>Hipótesis</li><li>Muestra</li><li>Recolección de datos</li><li>Análisis</li><li>Conclusiones</li></ol><p class='text-lg'><strong>Tipos de conocimiento:</strong> empírico (experiencia), científico (sistemático), filosófico (fundamentos).</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "La Revolución Industrial",
+      "html": "<p class='text-lg'>La <strong>Revolución Industrial</strong> fue un proceso de cambio económico y técnico iniciado en <strong>Gran Bretaña entre 1780 y 1850</strong>.</p><p class='text-lg'>Transformaciones principales:</p><ul class='text-lg'><li>Máquinas reemplazan el trabajo manual.</li><li>Sistema fabril reemplaza al taller artesanal.</li><li>Producción en serie reduce costos.</li><li>Surgen burguesía industrial y proletariado.</li></ul>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Repaso: preguntas finales",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white mb-4'>Repaso del módulo</p><p class='text-lg text-slate-700 dark:text-slate-200'>A continuación, una serie de preguntas para reforzar los conceptos clave del Módulo 4.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de las siguientes situaciones corresponde a una característica social y no biológica?",
+      "opciones": [
+        "Celebrar el Día de Muertos con ofrendas y tradiciones familiares",
+        "Dormir ocho horas diarias para recuperar energías",
+        "Respirar para obtener el oxígeno necesario para vivir",
+        "Comer cuando el cuerpo siente la necesidad de alimento"
+      ],
+      "correcta": 0,
+      "explicacion": "El Día de Muertos es una celebración cultural aprendida en sociedad. Dormir, respirar y comer son necesidades biológicas universales."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es la diferencia principal entre multiculturalidad e interculturalidad?",
+      "opciones": [
+        "La multiculturalidad es coexistencia de culturas; la interculturalidad es interacción respetuosa entre ellas",
+        "La multiculturalidad implica convivencia activa; la interculturalidad es solo coexistencia pasiva de grupos",
+        "Ambos términos son sinónimos y se usan indistintamente en ciencias sociales",
+        "La interculturalidad solo aplica en Europa, y la multiculturalidad en América"
+      ],
+      "correcta": 0,
+      "explicacion": "La multiculturalidad es la presencia simultánea de varias culturas. La interculturalidad es la relación activa, respetuosa y equitativa entre ellas."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "Cuando una persona juzga otras culturas desde los valores de la suya propia, considerándola superior, está practicando:",
+      "opciones": [
+        "Etnocentrismo, que impide el diálogo respetuoso entre culturas",
+        "Interculturalidad, que promueve el respeto entre culturas distintas",
+        "Relativismo cultural, que comprende cada cultura en su contexto",
+        "Aculturación, que implica adoptar elementos de otra cultura"
+      ],
+      "correcta": 0,
+      "explicacion": "El etnocentrismo es la tendencia a juzgar otras culturas con los criterios de la propia, considerándola superior."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "Según el Materialismo Histórico, ¿qué determina la estructura de una sociedad?",
+      "opciones": [
+        "El modo de producción, que es la base material de la sociedad",
+        "La religión predominante, que guía las costumbres sociales",
+        "El clima y la geografía, que condicionan la vida de los pueblos",
+        "El nivel educativo, que determina el desarrollo cultural"
+      ],
+      "correcta": 0,
+      "explicacion": "Para Marx y Engels, la base material de la sociedad (el modo de producción) determina su estructura y sus instituciones."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "La teoría social que busca comprender los significados que las personas dan a sus acciones fue desarrollada por:",
+      "opciones": [
+        "Max Weber, con su teoría comprensiva de la acción social",
+        "Karl Marx, con su análisis del materialismo histórico",
+        "Auguste Comte, con su enfoque positivista de la ciencia",
+        "Herbert Spencer, con su visión organicista de la sociedad"
+      ],
+      "correcta": 0,
+      "explicacion": "La teoría comprensiva de Max Weber se enfoca en interpretar los motivos y significados que los actores dan a sus acciones."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es una diferencia esencial entre el feudalismo y el capitalismo?",
+      "opciones": [
+        "En el capitalismo el obrero es libre ante la ley; en el feudalismo el siervo estaba atado a la tierra",
+        "En el capitalismo el obrero es dueño de los medios de producción; en el feudalismo el siervo también lo era",
+        "En el feudalismo no existían clases sociales diferenciadas; en el capitalismo sí existen clases definidas",
+        "En el feudalismo la economía era industrial y urbana; en el capitalismo la economía era agrícola y rural"
+      ],
+      "correcta": 0,
+      "explicacion": "En el capitalismo el obrero vende libremente su fuerza de trabajo. En el feudalismo el siervo estaba sujeto a la tierra del señor."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuáles son las características principales del estado-nación?",
+      "opciones": [
+        "Territorio definido, gobierno con poder sobre toda la población y soberanía",
+        "Fronteras abiertas al comercio y gobierno centralizado en la república",
+        "Solamente lengua común y religión oficial compartida por la población",
+        "Fronteras definidas por tratados internacionales y gobierno por voto"
+      ],
+      "correcta": 0,
+      "explicacion": "El estado-nación se caracteriza por territorio claramente definido, gobierno con poder sobre toda la población y soberanía."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es la diferencia principal entre moral y ética?",
+      "opciones": [
+        "La moral son normas vividas y la ética es la reflexión filosófica sobre ellas",
+        "La moral es reflexión filosófica y la ética son normas vividas en sociedad",
+        "La moral y la ética son sinónimos que se usan indistintamente",
+        "La moral se aplica solo en la ciencia y la ética solo en la religión"
+      ],
+      "correcta": 0,
+      "explicacion": "La moral es el conjunto de normas vividas por una sociedad; la ética es la reflexión racional y filosófica sobre esas normas."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuáles son los elementos necesarios para que exista responsabilidad moral?",
+      "opciones": [
+        "Libertad, conocimiento e intención, sin coacción externa",
+        "Fuerza, obediencia y temor a las consecuencias negativas",
+        "Riqueza, poder y estatus social reconocido por la comunidad",
+        "Tradición, costumbre y rutina que se sigue sin cuestionar"
+      ],
+      "correcta": 0,
+      "explicacion": "Para que exista responsabilidad moral se requiere libertad (sin coacción), conocimiento (saber qué se hace) e intención (querer hacerlo)."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de las siguientes definiciones corresponde al desarrollo sustentable?",
+      "opciones": [
+        "Satisfacer las necesidades actuales sin comprometer las de las generaciones futuras",
+        "Aumentar las opciones de todos los habitantes de una región en el presente",
+        "Crear riqueza aprovechando los recursos naturales sin importar su agotamiento",
+        "Explotar los recursos naturales al máximo para acelerar el crecimiento económico"
+      ],
+      "correcta": 0,
+      "explicacion": "El desarrollo sustentable busca satisfacer las necesidades actuales sin comprometer la capacidad de las generaciones futuras."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿A qué se le conoce con el nombre de Revolución Industrial?",
+      "opciones": [
+        "Al proceso de cambio económico y técnico iniciado en Gran Bretaña entre 1780 y 1850",
+        "Al movimiento político iniciado en Francia en 1789 contra la monarquía absoluta",
+        "Al movimiento independentista de las trece colonias inglesas de Norteamérica",
+        "A la revolución científica contra los dogmas religiosos de la Edad Media"
+      ],
+      "correcta": 0,
+      "explicacion": "La Revolución Industrial inició en Gran Bretaña y transformó la producción, la sociedad y la economía mundial."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase Express",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase Express</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Ser Social y Sociedad</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Ahora puedes practicar con el Cuestionario Final del módulo.</p>"
+    }
+  ]
+}

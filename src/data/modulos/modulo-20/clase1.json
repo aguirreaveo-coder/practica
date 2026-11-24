@@ -1,0 +1,162 @@
+{
+  "titulo": "Clase 1: Matemáticas y optimización",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 20: Optimización en sistemas naturales y sociales",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Matemáticas aplicadas a la optimización</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 1: Matemáticas y optimización</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Derivadas · Segunda derivada · Máximos y mínimos · Puntos de inflexión · Optimización · Interpretación de datos</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "La derivada de una función",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>La derivada permite estudiar cómo cambia una función respecto a su variable independiente. Geométricamente, representa la pendiente de la recta tangente a una curva en un punto.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Se utiliza para analizar el crecimiento, decrecimiento y comportamiento de fenómenos naturales, económicos y sociales.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>f'(x) = dy/dx</span></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Reglas básicas de derivación",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Para derivar una potencia, se multiplica el exponente por el coeficiente y se resta una unidad al exponente.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>f(x) = axⁿ → f'(x) = anxⁿ⁻¹</span></div><p class='text-lg text-slate-700 dark:text-slate-200'>La derivada de una constante es cero. En una suma o resta, se deriva cada término por separado.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Segunda derivada y puntos críticos",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>La segunda derivada se obtiene derivando nuevamente la primera derivada. Permite estudiar la concavidad de una función y apoyar la identificación de máximos y mínimos.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>f''(x) = d²y/dx²</span></div><p class='text-lg text-slate-700 dark:text-slate-200'>Los puntos críticos se localizan cuando la primera derivada es cero o no existe.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Máximos, mínimos y puntos de inflexión",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Un máximo local representa un valor mayor que los valores cercanos. Un mínimo local representa un valor menor que los valores cercanos.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Un punto de inflexión es aquel donde la función cambia de concavidad. Para localizar posibles puntos de inflexión se analiza la segunda derivada y se comprueba que exista un cambio de concavidad.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>f''(x) = 0</span></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Optimización de funciones",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>La optimización consiste en encontrar el valor máximo o mínimo de una cantidad bajo determinadas condiciones.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Se utiliza para resolver problemas relacionados con áreas, dimensiones, costos, ganancias y aprovechamiento de recursos.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>El procedimiento general consiste en plantear una función, derivarla, encontrar sus puntos críticos y comprobar qué tipo de extremo se obtiene.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Interpretación de gráficas y datos",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Las gráficas permiten representar información y reconocer tendencias en distintos periodos.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Para interpretarlas se deben identificar las variables, los valores de los ejes, las unidades y el periodo representado.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Es importante distinguir entre un aumento, una disminución y una estabilidad en los datos, así como comparar las categorías representadas.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Variables cuantitativas continuas",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Una variable cuantitativa continua puede tomar cualquier valor dentro de un intervalo, incluidos valores decimales.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Ejemplos: temperatura, distancia, tiempo, masa y energía. Se diferencia de una variable discreta, que representa cantidades contables, como el número de personas.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>La energía potencial gravitatoria se calcula considerando la masa, la gravedad y la altura.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>Ep = mgh</span></div>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: cálculo de una derivada",
+      "enunciado": "Determina la derivada de la función f(x) = 4x³ + 2x² - 5x + 7.",
+      "datos": [
+        "d/dx (axⁿ) = anxⁿ⁻¹",
+        "La derivada de una constante es cero."
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: reglas de derivación",
+      "ejercicios": [
+        {
+          "pregunta": "Determina la derivada de f(x) = 5x² + 3x - 8. Fórmula: d/dx (axⁿ) = anxⁿ⁻¹.",
+          "respuesta": "f'(x) = 10x + 3"
+        },
+        {
+          "pregunta": "Determina la derivada de f(x) = 2x⁴ - 6x² + 9. Fórmula: d/dx (axⁿ) = anxⁿ⁻¹.",
+          "respuesta": "f'(x) = 8x³ - 12x"
+        },
+        {
+          "pregunta": "Determina la derivada de f(x) = 7x³ + 4x - 10. Fórmula: d/dx (axⁿ) = anxⁿ⁻¹.",
+          "respuesta": "f'(x) = 21x² + 4"
+        }
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: optimización de un área",
+      "enunciado": "Un terreno rectangular tiene un perímetro de 40 metros. Determina qué dimensiones permiten obtener la mayor área posible.",
+      "datos": [
+        "P = 2l + 2a",
+        "A = l × a",
+        "Para encontrar un máximo se analizan los puntos críticos."
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: problemas de optimización",
+      "ejercicios": [
+        {
+          "pregunta": "Un rectángulo tiene un perímetro de 24 cm. ¿Qué dimensiones producen el área máxima? Fórmulas: P = 2l + 2a; A = l × a.",
+          "respuesta": "12 cm × 12 cm no es posible para un rectángulo con perímetro de 24 cm; las dimensiones máximas son 6 cm × 6 cm, con área de 36 cm²."
+        },
+        {
+          "pregunta": "Un rectángulo tiene un perímetro de 32 m. ¿Cuál es su área máxima? Fórmulas: P = 2l + 2a; A = l × a.",
+          "respuesta": "Las dimensiones son 8 m × 8 m y el área máxima es 64 m²."
+        },
+        {
+          "pregunta": "Una función de ganancia está dada por G(x) = -2x² + 16x - 10. ¿En qué valor de x alcanza su máximo? Fórmula: x = -b/(2a).",
+          "respuesta": "x = 4. La ganancia máxima es G(4) = 22."
+        }
+      ]
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Actividad: Repaso de la Guía",
+      "instrucciones": "Resuelve las siguientes preguntas del Módulo 20 correspondientes a esta clase. Cuando se indique, consulta el reactivo completo en tu guía.",
+      "preguntas": [
+        7,
+        8,
+        9,
+        22,
+        24,
+        33
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Revisión de la Actividad",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Compara tus respuestas con los conceptos y procedimientos revisados durante la clase. En los reactivos que requieren información visual o datos que no aparecen completos en esta presentación, consulta tu guía.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "7. Un autobús toma una curva y los pasajeros se inclinan hacia un lado. Después, 120 metros adelante, quedan sentados normalmente y posteriormente el autobús toma una curva en otra dirección. ¿Qué tipo de punto se tiene en el kilómetro 34 + 120?",
+      "opciones": [
+        "Punto de inflexión",
+        "Máximo",
+        "Mínimo",
+        "Punto frontero"
+      ],
+      "correcta": 0,
+      "explicacion": "El punto de inflexión representa un cambio en la concavidad de una curva.",
+      "numero": 7
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Pregunta 8",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Consultar en tu Guia. La expresión matemática del reactivo no aparece completa en el archivo proporcionado.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Pregunta 9",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Consultar en tu Guia. La expresión matemática del reactivo no aparece completa en el archivo proporcionado.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Pregunta 22",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Consultar en tu Guia. Este reactivo requiere una gráfica sobre la estructura económica entre 1966 y 2005.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Pregunta 24",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Consultar en tu Guia. Este reactivo requiere una gráfica de la población económicamente activa.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Pregunta 33",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Consultar en tu Guia. Este reactivo requiere las gráficas de evolución de la deuda externa de México.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 1",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Clase 1: Matemáticas y optimización. En la siguiente clase continuaremos con los contenidos de ciencias naturales y medio ambiente del Módulo 20.</p>"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

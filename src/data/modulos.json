@@ -1,0 +1,200 @@
+[
+  {
+    "id": "modulo-1",
+    "nombre": "De la Información al Conocimiento",
+    "descripcion": "Procesos cognitivos y construcción del saber",
+    "caratula": "/caratulas/modulo-1.jpg",
+    "color": "#3b82f6",
+    "tipo": "prepa",
+    "etiquetaSesion": "Clase"
+  },
+  {
+    "id": "modulo-2",
+    "nombre": "El Lenguaje en la Relación del Hombre con el Mundo",
+    "descripcion": "Comunicación, lengua y contexto social",
+    "caratula": "/caratulas/modulo-2.jpg",
+    "color": "#8b5cf6",
+    "tipo": "prepa",
+    "etiquetaSesion": "Clase"
+  },
+  {
+    "id": "modulo-3",
+    "nombre": "Representaciones Simbólicas y Algoritmos",
+    "descripcion": "Lenguaje matemático y pensamiento algorítmico",
+    "caratula": "/caratulas/modulo-3.jpg",
+    "color": "#6366f1",
+    "tipo": "prepa",
+    "etiquetaSesion": "Clase"
+  },
+  {
+    "id": "modulo-4",
+    "nombre": "Ser Social y Sociedad",
+    "descripcion": "Individuo, cultura y estructuras sociales",
+    "caratula": "/caratulas/modulo-4.jpg",
+    "color": "#ec4899",
+    "tipo": "prepa",
+    "etiquetaSesion": "Clase"
+  },
+  {
+    "id": "modulo-5",
+    "nombre": "Mi Mundo en Otra Lengua",
+    "descripcion": "Comunicación básica en inglés",
+    "caratula": "/caratulas/modulo-5.jpg",
+    "color": "#14b8a6",
+    "tipo": "prepa",
+    "etiquetaSesion": "Clase"
+  },
+  {
+    "id": "modulo-6",
+    "nombre": "Tecnología de Información y Comunicación",
+    "descripcion": "Herramientas digitales y sociedad de la información",
+    "caratula": "/caratulas/modulo-6.jpg",
+    "color": "#0ea5e9",
+    "tipo": "prepa",
+    "etiquetaSesion": "Clase"
+  },
+  {
+    "id": "modulo-7",
+    "nombre": "Textos y Visiones del Mundo",
+    "descripcion": "Literatura y cosmovisiones",
+    "caratula": "/caratulas/modulo-7.jpg",
+    "color": "#a855f7",
+    "tipo": "prepa",
+    "etiquetaSesion": "Clase"
+  },
+  {
+    "id": "modulo-8",
+    "nombre": "Matemáticas y Representaciones del Sistema Natural",
+    "descripcion": "Modelación matemática de fenómenos naturales",
+    "caratula": "/caratulas/modulo-8.jpg",
+    "color": "#2563eb",
+    "tipo": "prepa",
+    "etiquetaSesion": "Clase"
+  },
+  {
+    "id": "modulo-9",
+    "nombre": "Universo Natural",
+    "descripcion": "Física, química y astronomía básicas",
+    "caratula": "/caratulas/modulo-9.jpg",
+    "color": "#06b6d4",
+    "tipo": "prepa",
+    "etiquetaSesion": "Clase"
+  },
+  {
+    "id": "modulo-10",
+    "nombre": "Sociedad Mexicana Contemporánea",
+    "descripcion": "México actual: política, economía y cultura",
+    "caratula": "/caratulas/modulo-10.jpg",
+    "color": "#f59e0b",
+    "tipo": "prepa",
+    "etiquetaSesion": "Clase"
+  },
+  {
+    "id": "modulo-11",
+    "nombre": "Transformaciones en el Mundo Contemporáneo",
+    "descripcion": "Globalización y cambios históricos recientes",
+    "caratula": "/caratulas/modulo-11.jpg",
+    "color": "#d97706",
+    "tipo": "prepa",
+    "etiquetaSesion": "Clase"
+  },
+  {
+    "id": "modulo-12",
+    "nombre": "Mi Vida en Otra Lengua",
+    "descripcion": "Comunicación intermedia en inglés",
+    "caratula": "/caratulas/modulo-12.jpg",
+    "color": "#0d9488",
+    "tipo": "prepa",
+    "etiquetaSesion": "Clase"
+  },
+  {
+    "id": "modulo-13",
+    "nombre": "Argumentación",
+    "descripcion": "Lógica, debate y razonamiento crítico",
+    "caratula": "/caratulas/modulo-13.jpg",
+    "color": "#dc2626",
+    "tipo": "prepa",
+    "etiquetaSesion": "Clase"
+  },
+  {
+    "id": "modulo-14",
+    "nombre": "Variación en Procesos Sociales",
+    "descripcion": "Análisis estadístico de fenómenos sociales",
+    "caratula": "/caratulas/modulo-14.jpg",
+    "color": "#e11d48",
+    "tipo": "prepa",
+    "etiquetaSesion": "Clase"
+  },
+  {
+    "id": "modulo-15",
+    "nombre": "Cálculo en Fenómenos Naturales y Procesos Sociales",
+    "descripcion": "Derivadas e integrales aplicadas",
+    "caratula": "/caratulas/modulo-15.jpg",
+    "color": "#1d4ed8",
+    "tipo": "prepa",
+    "etiquetaSesion": "Clase"
+  },
+  {
+    "id": "modulo-16",
+    "nombre": "Hacia un Desarrollo Sustentable",
+    "descripcion": "Sustentabilidad, ambiente y sociedad",
+    "caratula": "/caratulas/modulo-16.jpg",
+    "color": "#059669",
+    "tipo": "prepa",
+    "etiquetaSesion": "Clase"
+  },
+  {
+    "id": "modulo-17",
+    "nombre": "Evolución y sus Repercusiones Sociales",
+    "descripcion": "Biología evolutiva y su impacto social",
+    "caratula": "/caratulas/modulo-17.jpg",
+    "color": "#16a34a",
+    "tipo": "prepa",
+    "etiquetaSesion": "Clase"
+  },
+  {
+    "id": "modulo-18",
+    "nombre": "Estadística en Fenómenos Naturales y Procesos Sociales",
+    "descripcion": "Análisis de datos y probabilidad",
+    "caratula": "/caratulas/modulo-18.jpg",
+    "color": "#65a30d",
+    "tipo": "prepa",
+    "etiquetaSesion": "Clase"
+  },
+  {
+    "id": "modulo-19",
+    "nombre": "Dinámica en la Naturaleza: El Movimiento",
+    "descripcion": "Cinemática y dinámica",
+    "caratula": "/caratulas/modulo-19.jpg",
+    "color": "#0891b2",
+    "tipo": "prepa",
+    "etiquetaSesion": "Clase"
+  },
+  {
+    "id": "modulo-20",
+    "nombre": "Optimización en Sistemas Naturales y Sociales",
+    "descripcion": "Modelos de optimización y toma de decisiones",
+    "caratula": "/caratulas/modulo-20.jpg",
+    "color": "#7c3aed",
+    "tipo": "prepa",
+    "etiquetaSesion": "Clase"
+  },
+  {
+    "id": "modulo-21",
+    "nombre": "Impacto de la Ciencia y la Tecnología",
+    "descripcion": "CTS: ciencia, tecnología y sociedad",
+    "caratula": "/caratulas/modulo-21.jpg",
+    "color": "#be123c",
+    "tipo": "prepa",
+    "etiquetaSesion": "Clase"
+  },
+  {
+    "id": "modulo-22",
+    "nombre": "Informática",
+    "descripcion": "Fundamentos de computación y software",
+    "caratula": "/caratulas/modulo-22.jpg",
+    "color": "#475569",
+    "tipo": "prepa",
+    "etiquetaSesion": "Clase"
+  }
+]

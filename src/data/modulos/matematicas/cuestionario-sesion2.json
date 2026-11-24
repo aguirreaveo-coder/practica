@@ -1,0 +1,25 @@
+{
+  "titulo": "Cuestionario Clase 2: Álgebra, factorización y despejes",
+  "preguntas": [
+    {"numero":1,"pregunta":"¿Cuál es el grado del término −11r³s²?","opciones":["2","3","5","6"],"correcta":2,"explicacion":"El grado de un término con varias variables es la suma de sus exponentes: 3 + 2 = 5."},
+    {"numero":2,"pregunta":"¿Cuál es el grado del término 4p²q³?","opciones":["3","5","6","8"],"correcta":1,"explicacion":"Se suman los exponentes de las variables: 2 + 3 = 5."},
+    {"numero":3,"pregunta":"¿Qué exponente tiene la variable en el término 7m⁵?","opciones":["1","5","7","12"],"correcta":1,"explicacion":"La variable m está elevada a la quinta potencia; el exponente es 5."},
+    {"numero":4,"pregunta":"¿Cuántos términos tiene a²b + 4ab² − c + 9?","opciones":["2","3","4","5"],"correcta":2,"explicacion":"Los términos separados por suma o resta son a²b, 4ab², −c y 9: cuatro términos."},
+    {"numero":5,"pregunta":"¿Cuál es la variable del término −8t⁴?","opciones":["−8","t","4","−8t"],"correcta":1,"explicacion":"La letra que representa la cantidad variable es t."},
+    {"numero":6,"pregunta":"¿Qué expresión representa “el doble de la suma de x y y”?","opciones":["2x + y","2(x + y)","x + 2y","2x + 2"],"correcta":1,"explicacion":"Primero se suma x + y y luego se multiplica toda la suma por dos."},
+    {"numero":7,"pregunta":"Traduce: “cinco menos que el cuadrado de n”.","opciones":["(n − 5)²","n² − 5","5 − n²","5n²"],"correcta":1,"explicacion":"El cuadrado de n es n²; cinco menos que esa cantidad es n² − 5."},
+    {"numero":8,"pregunta":"¿Cómo se representa el cociente de la suma de a y b entre el triple de c?","opciones":["(a + b)/(3c)","a + b/3c","3c(a + b)","(a + 3b)/c"],"correcta":0,"explicacion":"La suma a + b es el dividendo y el triple de c, 3c, es el divisor."},
+    {"numero":9,"pregunta":"¿Qué expresión representa que la suma de dos números distintos es igual a 13?","opciones":["x − y = 13","xy = 13","x + y = 13","13x = y"],"correcta":2,"explicacion":"La suma de dos cantidades x e y se representa x + y; la igualdad a 13 se escribe x + y = 13."},
+    {"numero":10,"pregunta":"¿Cómo se traduce “siete reducido por un número x”?","opciones":["x − 7","7 − x","7x","7 + x"],"correcta":1,"explicacion":"La cantidad inicial es siete y se le quita x: 7 − x."},
+    {"numero":11,"pregunta":"Factoriza 12x² + 18x mediante el factor común.","opciones":["6x(2x + 3)","6x(2x − 3)","3x(2x + 3)","2x(6x + 3)"],"correcta":0,"explicacion":"El máximo factor común es 6x. Al extraerlo queda 2x + 3."},
+    {"numero":12,"pregunta":"¿Cuál es la factorización de x² − 9x + 20?","opciones":["(x − 5)(x − 4)","(x + 5)(x + 4)","(x − 10)(x + 2)","(x − 20)(x + 1)"],"correcta":0,"explicacion":"Los números −5 y −4 suman −9 y su producto es 20."},
+    {"numero":13,"pregunta":"Factoriza x² + x − 42.","opciones":["(x + 7)(x − 6)","(x − 7)(x + 6)","(x + 14)(x − 3)","(x − 14)(x + 3)"],"correcta":0,"explicacion":"7 y −6 suman 1 y su producto es −42."},
+    {"numero":14,"pregunta":"¿Cuál es la factorización de x² + 8x + 12?","opciones":["(x + 2)(x + 6)","(x − 2)(x − 6)","(x + 3)(x + 4)","(x − 3)(x − 4)"],"correcta":0,"explicacion":"2 y 6 suman 8 y su producto es 12."},
+    {"numero":15,"pregunta":"Factoriza 5x² + 13x + 6.","opciones":["(5x + 3)(x + 2)","(5x + 2)(x + 3)","(5x − 3)(x − 2)","(x + 1)(5x + 6)"],"correcta":0,"explicacion":"Al multiplicar (5x + 3)(x + 2), se obtiene 5x² + 10x + 3x + 6 = 5x² + 13x + 6."},
+    {"numero":16,"pregunta":"Resuelve 6x + 7 = 3x + 25.","opciones":["x = 5","x = 6","x = 7","x = 8"],"correcta":1,"explicacion":"Resta 3x y 7 en ambos lados: 3x = 18, así que x = 6."},
+    {"numero":17,"pregunta":"Encuentra x en 9x − 4 = 6x + 20.","opciones":["x = 6","x = 7","x = 8","x = 9"],"correcta":2,"explicacion":"Resta 6x y suma 4 en ambos lados: 3x = 24; x = 8."},
+    {"numero":18,"pregunta":"¿Cuál es la solución de 4x − 3 = 7x − 24?","opciones":["x = 5","x = 6","x = 7","x = 8"],"correcta":2,"explicacion":"Suma 24 y resta 4x: 21 = 3x, por lo tanto x = 7."},
+    {"numero":19,"pregunta":"Resuelve 10x + 8 = 6x + 44.","opciones":["x = 7","x = 8","x = 9","x = 10"],"correcta":2,"explicacion":"Resta 6x y 8 en ambos lados: 4x = 36; entonces x = 9."},
+    {"numero":20,"pregunta":"Encuentra el valor de x que satisface 7x + 2 = 4x + 17.","opciones":["x = 4","x = 5","x = 6","x = 7"],"correcta":1,"explicacion":"Resta 4x y 2 en ambos lados: 3x = 15, de modo que x = 5."}
+  ]
+}

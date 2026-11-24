@@ -1,0 +1,298 @@
+{
+  "titulo": "Clase 2: Hidrostática",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 8",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Matemáticas y representaciones del sistema natural</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 2: Hidrostática</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Presión · Densidad · Presión hidrostática · Principio de Pascal · Principio de Arquímedes · Empuje · Principio de Bernoulli · Ecuación de continuidad</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: ¿Qué es la presión?",
+      "html": "<p class='text-lg'>La <strong>presión</strong> es la fuerza que se ejerce perpendicularmente sobre una superficie por unidad de área.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>P = F / A</span></div><p class='text-lg'>Donde <strong>F</strong> es la fuerza (en newtons, N) y <strong>A</strong> es el área (en m²). La presión se mide en <strong>pascales (Pa)</strong>: 1 Pa = 1 N/m².</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Presión (P = F/A)",
+      "enunciado": "Una caja de 200 N de peso se apoya sobre una superficie de 0.5 m². ¿Cuál es la presión que ejerce sobre el suelo?",
+      "datos": [
+        "Fuerza (F) = 200 N",
+        "Área (A) = 0.5 m²",
+        "Fórmula: P = F / A"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Presión (P = F/A)",
+      "ejercicios": [
+        { "pregunta": "Una fuerza de 500 N se aplica sobre un área de 2 m². ¿Cuál es la presión?", "respuesta": "250 Pa" },
+        { "pregunta": "Una persona de 600 N se para sobre una superficie de 0.3 m². ¿Cuál es la presión?", "respuesta": "2000 Pa" },
+        { "pregunta": "Si la presión es de 1000 Pa y el área es 0.5 m², ¿cuál es la fuerza?", "respuesta": "500 N" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Presión hidrostática",
+      "html": "<p class='text-lg'>La <strong>presión hidrostática</strong> es la presión que ejerce un fluido en reposo sobre cualquier punto sumergido en él. Depende de la profundidad, la densidad del fluido y la gravedad.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>P = ρ · g · h</span></div><p class='text-lg'>Donde <strong>ρ</strong> es la densidad (kg/m³), <strong>g</strong> la gravedad (9.8 m/s²) y <strong>h</strong> la profundidad (m).</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Presión hidrostática",
+      "enunciado": "Un buzo desciende a 12 m de profundidad en agua dulce (ρ = 1000 kg/m³). ¿Cuál es la presión hidrostática que soporta?",
+      "datos": [
+        "Profundidad (h) = 12 m",
+        "Densidad del agua (ρ) = 1000 kg/m³",
+        "Gravedad (g) = 9.8 m/s²",
+        "Fórmula: P = ρ · g · h"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Presión hidrostática",
+      "ejercicios": [
+        { "pregunta": "Calcula la presión hidrostática a 8 m de profundidad en aceite (ρ = 850 kg/m³, g = 9.8 m/s²).", "respuesta": "66,640 Pa" },
+        { "pregunta": "¿Cuál es la presión a 3 m de profundidad en mercurio (ρ = 13,600 kg/m³)?", "respuesta": "399,840 Pa" },
+        { "pregunta": "Un tanque contiene glicerina (ρ = 1260 kg/m³) a 4 m de altura. ¿Cuál es la presión en el fondo?", "respuesta": "49,392 Pa" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Densidad",
+      "html": "<p class='text-lg'>La <strong>densidad</strong> es la masa de una sustancia por unidad de volumen.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>ρ = m / V</span></div><p class='text-lg'>Se mide en kg/m³ o g/cm³. El agua tiene una densidad de 1000 kg/m³ (o 1 g/cm³).</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Densidad de una mezcla",
+      "enunciado": "Una muestra de 200 cm³ de una bebida contiene 5% de su volumen en grasa (ρ = 0.92 g/cm³). Si la densidad total de la bebida es 1.04 g/cm³, calcula la densidad de la bebida sin grasa.",
+      "datos": [
+        "Densidad total de la bebida = 1.04 g/cm³",
+        "Fracción de grasa = 5% (0.05)",
+        "Densidad de la grasa = 0.92 g/cm³"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Densidad",
+      "ejercicios": [
+        { "pregunta": "Un objeto de 200 g ocupa un volumen de 50 cm³. ¿Cuál es su densidad?", "respuesta": "4 g/cm³" },
+        { "pregunta": "¿Cuál es la masa de 2 litros de agua? (ρ = 1000 kg/m³)", "respuesta": "2 kg" },
+        { "pregunta": "Un bloque de 500 g tiene densidad de 2.5 g/cm³. ¿Cuál es su volumen?", "respuesta": "200 cm³" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Principio de Pascal",
+      "html": "<p class='text-lg'>El <strong>principio de Pascal</strong> establece que la presión aplicada a un fluido encerrado se transmite con la misma intensidad a todos los puntos del fluido y a las paredes del recipiente.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>F₁ / A₁ = F₂ / A₂</span></div><p class='text-lg'>Aplicaciones: prensa hidráulica, frenos hidráulicos, gatos hidráulicos.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Principio de Pascal",
+      "enunciado": "En una prensa hidráulica, el émbolo pequeño tiene un área de 10 cm² y el émbolo grande de 200 cm². Si se aplica una fuerza de 80 N en el émbolo pequeño, ¿cuál es la fuerza obtenida en el émbolo grande?",
+      "datos": [
+        "Área pequeña (A₁) = 10 cm²",
+        "Área grande (A₂) = 200 cm²",
+        "Fuerza aplicada (F₁) = 80 N",
+        "Fórmula: F₁ / A₁ = F₂ / A₂"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Principio de Pascal",
+      "ejercicios": [
+        { "pregunta": "En una prensa hidráulica, A₁ = 20 cm² y A₂ = 400 cm². Si F₁ = 60 N, ¿cuál es F₂?", "respuesta": "1200 N" },
+        { "pregunta": "En un gato hidráulico, A₁ = 4 cm² y A₂ = 200 cm². Si F₂ = 5000 N, ¿cuál es F₁?", "respuesta": "100 N" },
+        { "pregunta": "Si en una prensa A₁ = 15 cm² y A₂ = 300 cm², ¿cuál es la ventaja mecánica?", "respuesta": "20 veces" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Principio de Arquímedes y empuje",
+      "html": "<p class='text-lg'>El <strong>principio de Arquímedes</strong> establece que todo cuerpo sumergido total o parcialmente en un fluido recibe un empuje vertical hacia arriba igual al peso del fluido desplazado.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>E = ρ · g · V</span></div><p class='text-lg'>Donde <strong>ρ</strong> es la densidad del fluido, <strong>g</strong> la gravedad y <strong>V</strong> el volumen desplazado.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 5: Empuje",
+      "enunciado": "Una esfera de metal con volumen de 50 cm³ se sumerge completamente en agua (ρ = 1 g/cm³). Calcula el empuje que recibe.",
+      "datos": [
+        "Volumen sumergido = 50 cm³",
+        "Densidad del agua = 1 g/cm³",
+        "Gravedad = 980 cm/s²",
+        "Fórmula: E = ρ · g · V"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Empuje",
+      "ejercicios": [
+        { "pregunta": "Un objeto de 200 cm³ se sumerge en agua. ¿Cuál es el empuje? (ρ = 1000 kg/m³)", "respuesta": "1.96 N" },
+        { "pregunta": "Un cubo de 10 cm de lado se sumerge completamente en aceite (ρ = 920 kg/m³). ¿Cuál es el empuje?", "respuesta": "9.02 N" },
+        { "pregunta": "Un cuerpo pesa 50 N en el aire y 30 N en el agua. ¿Cuál es el empuje?", "respuesta": "20 N" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Principio de Bernoulli",
+      "html": "<p class='text-lg'>El <strong>principio de Bernoulli</strong> establece que en un fluido en movimiento, donde la velocidad aumenta, la presión disminuye, y viceversa.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>P + ½ρv² + ρgh = constante</span></div><p class='text-lg'>Aplicaciones: chimeneas, alas de avión, carburadores, natación.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Ecuación de continuidad",
+      "html": "<p class='text-lg'>La <strong>ecuación de continuidad</strong> establece que el caudal de un fluido incompresible se mantiene constante a lo largo de una tubería.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>A₁ · v₁ = A₂ · v₂</span></div><p class='text-lg'>Donde <strong>A</strong> es el área de la sección transversal y <strong>v</strong> la velocidad del fluido.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 6: Ecuación de continuidad",
+      "enunciado": "El agua fluye por una tubería de 4 cm² de sección a una velocidad de 3 m/s. Si la tubería se estrecha a 2 cm², ¿cuál es la nueva velocidad del agua?",
+      "datos": [
+        "Área inicial (A₁) = 4 cm²",
+        "Velocidad inicial (v₁) = 3 m/s",
+        "Área final (A₂) = 2 cm²",
+        "Fórmula: A₁ · v₁ = A₂ · v₂"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Ecuación de continuidad",
+      "ejercicios": [
+        { "pregunta": "Una tubería de 6 cm² conduce agua a 2 m/s. Si se reduce a 3 cm², ¿cuál es la nueva velocidad?", "respuesta": "4 m/s" },
+        { "pregunta": "El agua fluye a 5 m/s por un tubo de 2 cm². Si el tubo se ensancha a 10 cm², ¿cuál es la nueva velocidad?", "respuesta": "1 m/s" },
+        { "pregunta": "Por una manguera de 8 cm² fluye agua a 1.5 m/s. ¿Cuál es el caudal?", "respuesta": "12 cm³/s" }
+      ]
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Actividad: Preguntas de la guía",
+      "instrucciones": "Responde las siguientes preguntas de tu Guía 1:",
+      "preguntas": [1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Revisión de la actividad",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>A continuación, revisaremos las preguntas de la guía que resolviste como actividad, reforzando los conceptos de hidrostática, presión, densidad y empuje.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 1,
+      "pregunta": "1. La superficie del agua en un tanque de almacenamiento está a una altura de 30 m sobre una llave de agua en la cocina de una casa. Calcula la presión del agua en la llave en Pa.",
+      "opciones": [
+        "2.9 × 10⁶",
+        "2.9 × 10³",
+        "2.9 × 10⁵",
+        "2.9 × 10⁴"
+      ],
+      "correcta": 2,
+      "explicacion": "P = ρgh = (1000)(9.8)(30) = 294,000 Pa ≈ 2.9 × 10⁵ Pa."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 2,
+      "pregunta": "2. Un recipiente en forma de cilindro vertical de 0.2 m de radio se encuentra lleno de agua (1000 kg/m³) hasta una altura de 1.5 m. Calcula la presión que el agua ejerce en el fondo del recipiente en kg/m².",
+      "opciones": [
+        "750",
+        "1,250",
+        "1,750",
+        "1,500"
+      ],
+      "correcta": 3,
+      "explicacion": "P = ρgh = (1000)(1.5) = 1500 kg/m². La presión hidrostática no depende del radio del recipiente."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 3,
+      "pregunta": "3. La densidad de la leche es de 1.032 g/cm³. Un 3.5% de su volumen es grasa cuya densidad es de 0.940 g/cm³. Calcula la densidad de la leche sin grasa.",
+      "opciones": [
+        "1.069 g/cm³",
+        "1.035 g/cm³",
+        "0.991 g/cm³",
+        "0.728 g/cm³"
+      ],
+      "correcta": 1,
+      "explicacion": "Se calcula la masa de la leche sin grasa y se divide entre su volumen. El resultado es 1.035 g/cm³."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 4,
+      "pregunta": "4. Se sumerge la mitad de un prisma rectangular de cobre cuyo volumen es de 36 cm³ por medio de un hilo, en un recipiente que contiene alcohol. Calcula el empuje del alcohol sobre el prisma. Considera la densidad del alcohol ρa = 0.79 g/cm³ y densidad del cobre ρc = 8.85 g/cm³.",
+      "opciones": [
+        "156114 dinas",
+        "13935 dinas",
+        "27871 dinas",
+        "312228 dinas"
+      ],
+      "correcta": 1,
+      "explicacion": "E = ρ · g · V = (0.79)(980)(18) = 13,935 dinas. Solo se sumerge la mitad del prisma."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 5,
+      "pregunta": "5. Un tubo de manómetro se llena parcialmente con agua. Después se vierte glicerina en el brazo izquierdo del tubo hasta que la interfaz agua-glicerina está en el punto medio del tubo. Ambos brazos del tubo están abiertos al aire. Determina la altura del agua, cuando la altura de la glicerina es de 1 metro. (ρ agua = 1.00 × 10³ kg/m³, ρ glicerina = 1.26 × 10³ kg/m³)",
+      "opciones": [
+        "5.04 m",
+        "1.26 m",
+        "2.52 m",
+        "0.63 m"
+      ],
+      "correcta": 1,
+      "explicacion": "En la interfaz las presiones se igualan: ρ_agua · h_agua = ρ_glicerina · h_glicerina. Despejando, h_agua = (1260)(1)/(1000) = 1.26 m."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 6,
+      "pregunta": "6. Dada la ecuación de Bernoulli, ¿cuáles de las siguientes afirmaciones son verdaderas? (1) Donde aumenta la velocidad, disminuye la presión. (2) La presión y la velocidad son directamente proporcionales. (3) El principio se aplica a fluidos en movimiento.",
+      "opciones": [
+        "V, V, F",
+        "F, F, V",
+        "F, V, F",
+        "F, F, F"
+      ],
+      "correcta": 1,
+      "explicacion": "La afirmación (2) es falsa: presión y velocidad son inversamente proporcionales. Las afirmaciones (1) y (3) son verdaderas, por lo que el orden correcto es F, F, V."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 7,
+      "pregunta": "7. Completa el siguiente enunciado: Puede demostrarse que cuando un cuerpo se sumerge total o parcialmente en un fluido:",
+      "opciones": [
+        "Recibe un empuje que actúa en todas direcciones por lo que oscila en la superficie.",
+        "Es empujado hacia arriba porque se le aplica una fuerza menor al peso del fluido.",
+        "Es empujado hacia arriba con una fuerza igual al peso del fluido desplazado.",
+        "Experimenta una fuerza boyante que actúa en dirección contraria a la gravedad del fluido."
+      ],
+      "correcta": 2,
+      "explicacion": "Según el principio de Arquímedes, todo cuerpo sumergido recibe un empuje igual al peso del fluido que desplaza."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 8,
+      "pregunta": "8. Las chimeneas son altas para aprovechar que la velocidad del viento es más constante y elevada a mayores alturas. Cuanto más rápidamente sopla el viento sobre la boca de una chimenea, más baja es la presión y mayor es la diferencia de presión entre la base y la boca de la chimenea, en consecuencia, los gases de combustión se extraen mejor. ¿Qué principio interviene en este ejemplo?",
+      "opciones": [
+        "Arquímedes",
+        "Torricelli",
+        "Bernoulli",
+        "Pascal"
+      ],
+      "correcta": 2,
+      "explicacion": "El principio de Bernoulli explica que a mayor velocidad del viento, menor presión, lo que aumenta la diferencia de presión y mejora la extracción de gases."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 9,
+      "pregunta": "9. ¿Qué haces si después de revisar el tema de \"fluidos en reposo\" tienes dudas?",
+      "opciones": [
+        "Pasas a los siguientes temas y esperas que al avanzar se vayan solucionando las dudas.",
+        "Regularmente pides ayuda a una persona que sabes que conoce el tema y te puede ayudar.",
+        "Revisas tus apuntes o buscas información adicional en libros o Internet para tratar de entenderlo.",
+        "Buscas al asesor para pedir que nuevamente te explique el tema incluyendo algún ejemplo."
+      ],
+      "correcta": 3,
+      "explicacion": "Esta es una pregunta de actitud. Buscar al asesor para que explique con ejemplos es una estrategia efectiva de aprendizaje."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 2",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase 2</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Hidrostática</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Nos vemos en la Clase 3: Electricidad</p>"
+    }
+  ],
+
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

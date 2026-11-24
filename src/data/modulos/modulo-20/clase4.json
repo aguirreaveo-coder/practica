@@ -1,0 +1,329 @@
+
+{
+  "titulo": "Clase 4: Cuestionario completo del Módulo 20.1",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 20.1",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Optimización en sistemas naturales y sociales</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 4: Cuestionario completo</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Repaso de los 24 reactivos del módulo. Analiza cada pregunta, identifica los conceptos y compara tus respuestas con las explicaciones.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 1,
+      "pregunta": "1. ¿Cuáles son los coeficientes que resulten que resultan de balancear la siguiente ecuación química? Consultar en tu Guia.",
+      "opciones": [
+        "[2] [1] [3] [1]",
+        "[1] [1] [2] [1]",
+        "[3] [1] [12] [1]",
+        "[2] [1] [2] [2]"
+      ],
+      "correcta": null,
+      "explicacion": "No es posible determinar la respuesta correcta porque falta la ecuación química original. Consulta la ecuación en tu Guia y utiliza el método de balanceo por tanteo para comparar los coeficientes."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 2,
+      "pregunta": "2. ¿Cuál es un método para determinar un punto de inflexión y por qué?",
+      "opciones": [
+        "Calcular la primera derivada y ubicar el punto donde su pendiente es nula. En el punto de inflexión la concavidad pasa de un valor positivo a uno negativo.",
+        "Igualar a cero la segunda derivada. La concavidad se asocia con el cambio de pendiente que es la primera derivada.",
+        "Utilizar la regla de los cuatro pasos. La concavidad está asociada con el cambio de pendiente que es la primera derivada.",
+        "Encontrar el punto donde se anula la segunda derivada. El cambio de concavidad se encuentra en el punto medio de las abscisas de un máximo y un mínimo."
+      ],
+      "correcta": 1,
+      "explicacion": "La respuesta esperada es la opción B. La segunda derivada permite estudiar la concavidad de una función. Cuando se iguala a cero se obtienen candidatos a puntos de inflexión, aunque debe comprobarse que exista un cambio de concavidad."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 3,
+      "pregunta": "3. Al contar con ranchos ganaderos cercanos a Gómez Palacio, Durango, se está generando una condición ambiental que puede convertirse en desastre si se llegara a presentar una lluvia intensa inesperada en la zona urbana, por la presencia del principal contaminante del excremento de animales bovinos. ¿A qué contaminante se hace referencia?",
+      "opciones": [
+        "Químico: Metano",
+        "Biológico: Bacterias",
+        "Químico: Sulfuros",
+        "Biológico: Coliformes"
+      ],
+      "correcta": 3,
+      "explicacion": "La respuesta correcta es «Biológico: Coliformes». Los coliformes son bacterias utilizadas como indicadores de contaminación fecal. Las lluvias pueden arrastrarlos hacia cuerpos de agua y zonas urbanas."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 4,
+      "pregunta": "4. Completa el siguiente texto: La compañía TABE, S.A. con plantas en el estado de Guanajuato inició el proyecto GF-01 que experimenta con un nuevo compuesto para el sistema de enfriamiento en los refrigeradores. Se espera que el producto tenga un impacto 10 veces menor que el de __________ en la destrucción de la capa de ozono. Se trata de una acción que responde a las exigencias de __________ de la Secretaría de Ecología.",
+      "opciones": [
+        "Clorofluorocarbonos → auditoría ambiental",
+        "Clorofluorocarbonos → mitigación",
+        "Monóxido de carbono → mitigación",
+        "Monóxido de carbono → auditoría ambiental"
+      ],
+      "correcta": 1,
+      "explicacion": "La respuesta correcta es «Clorofluorocarbonos → mitigación». Los CFC contribuyen al deterioro de la capa de ozono. Sustituirlos por compuestos menos dañinos es una medida de mitigación ambiental."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 5,
+      "pregunta": "5. ¿Qué tipo de energía se produce por la combustión de carbón, madera, petróleo, gas natural y otros combustibles?",
+      "opciones": [
+        "Calorífica",
+        "Eléctrica",
+        "Hidráulica",
+        "Mecánica"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Calorífica». La combustión es una reacción química que libera energía principalmente en forma de calor."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 6,
+      "pregunta": "6. Observa la imagen y establece en qué fases se tiene el cambio de líquido a gas y en qué fases se tiene el cambio de líquido a sólido. Consultar en tu Guia.",
+      "opciones": [
+        "[Liquido a gas: 1, 3] [Liquido a sólido: 4]",
+        "[Liquido a gas: 4, 6] [Liquido a sólido: 1]",
+        "[Liquido a gas: 2, 6] [Líquido a sólido: 1]",
+        "[Líquido a gas: 4, 5] [Liquido a sólido: 3]"
+      ],
+      "correcta": null,
+      "explicacion": "La imagen es necesaria para identificar las fases numeradas. Recuerda que el cambio de líquido a gas se denomina vaporización y el cambio de líquido a sólido se denomina solidificación."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 7,
+      "pregunta": "7. El dueño del rancho \"La libertad\" dispone de 80 m de tela de alambre con la que planea cercar un corral rectangular a un lado de un granero de 50 m de largo como se muestra en la figura. ¿Cuáles son las dimensiones del corral de máxima área que puede cercarse con la tela de alambre disponible?",
+      "opciones": [
+        "X=15.0 m, Y=50.0 m",
+        "X=26.7 m, Y=26.7 m",
+        "X=20.0 m, Y=40.0 m",
+        "X=40.0 m, Y=20.0 m"
+      ],
+      "correcta": 2,
+      "explicacion": "La respuesta correcta es «X=20.0 m, Y=40.0 m». Como el granero funciona como uno de los lados, se cercan tres lados: 2X + Y = 80. El área es A = X(80 - 2X). Al maximizarla se obtiene X = 20 y Y = 40. El área máxima es 800 m²."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 8,
+      "pregunta": "8. Analiza el siguiente aprovechamiento de la energía: En la zona del Canal de la Mancha se experimentan variaciones importantes en la altura del tirante de agua que marca el nivel del mar, llegándose a diferencias que pueden alcanzar hasta 4 metros en el Támesis (en la costa inglesa) y 13 metros en el río Rance (en la costa francesa). Debido a estas fluctuaciones se puede construir una planta generadora de electricidad en forma de presa que aproveche la diferencia de altura o por un generador que utilice las corrientes marinas. ¿Cómo se llama la energía que se está aprovechando en este caso? ¿Incide en problemas ambientales?",
+      "opciones": [
+        "Mareomotriz. Si incide por cambio de salinidad y alteraciones en el ecosistema.",
+        "Hidráulica. No incide en problemas ambientales, los cambios de salinidad no afectan al ecosistema.",
+        "Hidráulica. Si incide por los sedimentos y los nutrientes fluviales para los animales marinos.",
+        "Mareomotriz. No incide, se trata de una forma limpia de generar electricidad."
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Mareomotriz. Si incide por cambio de salinidad y alteraciones en el ecosistema». Esta energía aprovecha el movimiento de las mareas. Las instalaciones pueden modificar las corrientes, la salinidad y los hábitats marinos."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 9,
+      "pregunta": "9. ¿A cuántos gramos equivalen 10 moles de NOz?",
+      "opciones": [
+        "0.333",
+        "0.217",
+        "300",
+        "460"
+      ],
+      "correcta": 3,
+      "explicacion": "La respuesta esperada es 460 gramos, suponiendo que NOz corresponde a NO₂. La masa molar del dióxido de nitrógeno es 46 g/mol. Se multiplica 10 mol × 46 g/mol = 460 g."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 10,
+      "pregunta": "10. Completa el siguiente enunciado: ¿Qué compuesto es el resultado de la siguiente reacción química? SO 3 + H20 → ácido __________.",
+      "opciones": [
+        "sulfuroso",
+        "nitroso",
+        "nítrico",
+        "sulfúrico"
+      ],
+      "correcta": 3,
+      "explicacion": "La respuesta correcta es «sulfúrico». El trióxido de azufre reacciona con agua para formar ácido sulfúrico: SO₃ + H₂O → H₂SO₄."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 11,
+      "pregunta": "11. Dependiendo del nivel de ruido se tienen varios efectos nocivos en el ser humano. Los niveles constantes por arriba de 80 pueden producir varios padecimientos, identifícalos: 1. Desórdenes respiratorios. 2. Estrés. 3. Reducción de capacidad visual. 4. Reducción de capacidad auditiva. 5. Reducción de la eficiencia en el trabajo.",
+      "opciones": [
+        "3, 4, 5",
+        "2, 4, 5",
+        "1 y 3",
+        "3 y 5"
+      ],
+      "correcta": 1,
+      "explicacion": "La respuesta correcta es «2, 4, 5». La exposición constante a niveles elevados de ruido puede provocar estrés, pérdida de capacidad auditiva y disminución del rendimiento laboral."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 12,
+      "pregunta": "12. ¿Cuáles de las siguientes acciones se consideran adecuadas para realizar una investigación acerca de la vulnerabilidad existente en el entorno natural de tu región? 1. Usar una tesis o trabajo ajeno como propio. 2. Citar a los autores cuando haga una investigación. 3. Parafrasear citas o textos para integrarlos a mi investigación. 4. Preguntar a personas de mi nivel de conocimiento y usar sus ideas. 5. Revisar publicaciones técnicas.",
+      "opciones": [
+        "1 y 5",
+        "2 y 4",
+        "2, 3 y 5",
+        "1, 3 y 4"
+      ],
+      "correcta": 2,
+      "explicacion": "La respuesta correcta es «2, 3 y 5». Una investigación responsable reconoce las fuentes consultadas, utiliza el parafraseo correctamente y recurre a publicaciones técnicas confiables."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 13,
+      "pregunta": "13. ¿Cuál ha sido el mayor acuerdo internacional respectivo al calentamiento global y a qué objetivo corresponde?",
+      "opciones": [
+        "Protocolo de Montreal, centrado en el control e inventario de productos que reducen o destruyen la capa de ozono.",
+        "Declaración de Río, enfocado a reducir la concentración de gases de efecto invernadero.",
+        "Agenda 21, centrado en la normatividad para las industrias y zonas urbanas en la reducción de emisiones de CO2.",
+        "Protocolo de Kioto, enfocado a estabilizar la concentración de gases de efecto invernadero."
+      ],
+      "correcta": 3,
+      "explicacion": "La respuesta correcta es «Protocolo de Kioto». Este acuerdo internacional estableció compromisos para reducir las emisiones de gases de efecto invernadero y contribuir a combatir el calentamiento global."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 14,
+      "pregunta": "14. Los migrantes mexicanos que se van a trabajar por varios meses a los Estados Unidos y regresan a su lugar de origen llevan a cabo una migración de tipo:",
+      "opciones": [
+        "temporal",
+        "periódica",
+        "interior",
+        "definitiva"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «temporal». La migración temporal ocurre cuando una persona se desplaza a otro lugar durante un periodo limitado y posteriormente regresa a su lugar de origen."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 15,
+      "pregunta": "15. Ha habido diversas reuniones a nivel mundial enfocadas a atender el problema de contaminación y daño al ecosistema. Dentro de ellas, en 1992 se firmó un acuerdo referente a conservar, proteger y restablecer la integridad del ecosistema de la Tierra. Estos principios fueron expuestos en:",
+      "opciones": [
+        "la Cumbre de Río",
+        "el Protocolo de Montreal",
+        "el Protocolo de Cartagena",
+        "la Junta Cumbre del G-8"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «la Cumbre de Río». En 1992 se celebró la Conferencia de las Naciones Unidas sobre el Medio Ambiente y el Desarrollo, donde se establecieron principios para promover el desarrollo sostenible y proteger el planeta."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 16,
+      "pregunta": "16. La tesis de que una sociedad sustentable se debe basar en el respeto a la naturaleza, a los derechos humanos universales, la justicia económica y una cultura de paz está incluida en la:",
+      "opciones": [
+        "Carta Mundial de la Naturaleza",
+        "Carta de la Tierra",
+        "Declaración de los Derechos Humanos",
+        "Declaración de Cartagena"
+      ],
+      "correcta": 1,
+      "explicacion": "La respuesta correcta es «Carta de la Tierra». Este documento propone principios éticos relacionados con el respeto a la naturaleza, los derechos humanos, la justicia social y una cultura de paz."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 17,
+      "pregunta": "17. Analiza el siguiente caso sobre el relleno sanitario: Una ley emitida en el Distrito Federal establece la obligatoriedad de separar los residuos domésticos en bolsas diferentes para materia orgánica, vidrio, plásticos, cartón y papel. Los diferentes productos son recibidos en los camiones recolectores y el personal se encarga de separarlos a su vez para que a los rellenos sanitarios y tiraderos llegue solamente materia orgánica por una parte y cascajo, piedras y otros desechos de materiales de construcción. El resto de los materiales seleccionados son vendidos a empresas recicladoras.",
+      "opciones": [
+        "NO PELIGROSOS → no tóxicos",
+        "ASIMILABLES → inertes",
+        "ASIMILABLES → especiales",
+        "ORGÁNICOS → inertes"
+      ],
+      "correcta": 1,
+      "explicacion": "La respuesta propuesta es «ASIMILABLES → inertes». Los residuos asimilables son similares a los generados en actividades domésticas, mientras que los materiales de construcción como piedras y cascajo se consideran residuos inertes. Esta respuesta queda pendiente de confirmar porque falta la pregunta específica en el texto proporcionado."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 18,
+      "pregunta": "18. ¿Qué haces si repruebas un examen donde tus principales fallas se encuentran en el análisis de la estructura social y su impacto en la ecología?",
+      "opciones": [
+        "Identificas tus errores para tratar de corregirlos en una próxima oportunidad.",
+        "Nada, atendiendo a que no puede modificarse una calificación que ya se ha emitido.",
+        "Buscas argumentos para convencer al asesor o a alguna autoridad para que te aprueben.",
+        "Pides al maestro que te deje presentar un trabajo u otra actividad para pasar el módulo."
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Identificas tus errores para tratar de corregirlos en una próxima oportunidad». Reconocer las áreas de oportunidad permite mejorar el aprendizaje y desarrollar estrategias para superar las dificultades."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 19,
+      "pregunta": "19. Selecciona la opción que contenga ejemplos de personas que con sus acciones pueden fortalecerte en la mejora de tu forma de actuar con relación a la optimización de los recursos. 1. Un profesor que separa la basura y pide a sus alumnos que lo hagan. 2. Un vecino que lava su auto con manguera. 3. El licenciado que va a la tienda de la esquina en auto. 4. Una amiga que quieres. 5. Un compañero que es scout y te muestra cómo cuidar la naturaleza. 6. Una señora que deja prendidas varias lámparas o reflectores toda la noche en la entrada de su casa.",
+      "opciones": [
+        "1, 2 y 6",
+        "1, 2, 3 y 4",
+        "2, 3, 4 y 5",
+        "1 y 5"
+      ],
+      "correcta": 3,
+      "explicacion": "La respuesta correcta es «1 y 5». El profesor promueve la separación de residuos y el compañero scout comparte prácticas de cuidado de la naturaleza. Ambos son ejemplos positivos que pueden fortalecer los hábitos ambientales."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 20,
+      "pregunta": "20. ¿Cuál o cuáles de las siguientes acciones que ocurren en la naturaleza o por actividades humanas producen gases contaminantes afectando al medio ambiente de diversas formas? Indica el principal gas producido en ese caso. 1. Quema de combustible. 2. Fotosíntesis. 3. Respiración de personas y animales.",
+      "opciones": [
+        "2, 3 → CH4",
+        "sólo 1 → SO2",
+        "1, 3 → CO2",
+        "sólo 2 → O3"
+      ],
+      "correcta": 2,
+      "explicacion": "La respuesta correcta es «1, 3 → CO2». La combustión de combustibles libera dióxido de carbono y la respiración de personas y animales también lo produce. La fotosíntesis, en cambio, consume CO2."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 21,
+      "pregunta": "21. El problema ambiental no debe ser visto únicamente como una responsabilidad de los organismos e instituciones ambientalistas, en el desarrollo de proyectos ecológicos, sino como una responsabilidad y un deber moral. ¿Cuál es el enunciado que mejor explica la afirmación anterior?",
+      "opciones": [
+        "La población en general es la responsable de la degradación del medio ambiente.",
+        "La población debe tomar conciencia de no seguir degradando el medio ambiente.",
+        "La contaminación ambiental deben ser resuelto por los gobernantes y ecologistas.",
+        "La ciudadanía debe exigir que ya no se siga contaminando más el medio ambiente."
+      ],
+      "correcta": 1,
+      "explicacion": "La respuesta correcta es «La población debe tomar conciencia de no seguir degradando el medio ambiente». La protección ambiental es una responsabilidad compartida que requiere conciencia y participación individual y colectiva."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 22,
+      "pregunta": "22. Se desea realizar un proyecto para calcular un plan de desarrollo económico municipal. El encargado está organizando una junta de Consejo para mostrar las proyecciones financieras y otras operaciones en forma tabular y realizar adecuaciones a los cálculos conforme los consejeros realicen algunas sugerencias. En este caso conviene utilizar el paquete informático denominado:",
+      "opciones": [
+        "Hoja de cálculo",
+        "Procesador de texto",
+        "Presentador gráfico",
+        "Manejador de bases de datos"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Hoja de cálculo». Este tipo de programa permite organizar datos en tablas, utilizar fórmulas, realizar operaciones y modificar proyecciones financieras de manera dinámica."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 23,
+      "pregunta": "23. Uno de los elementos primordiales para desarrollar un proyecto de investigación es la definición e identificación de variables. ¿Cuál es un ejemplo de variable cuantitativa continua?",
+      "opciones": [
+        "Clasificación de personas en función de su escolaridad",
+        "Energía desprendida en un proceso termodinámico.",
+        "Número de personas que participan en las elecciones.",
+        "Estados de la materia: sólido, líquido, gaseoso."
+      ],
+      "correcta": 1,
+      "explicacion": "La respuesta correcta es «Energía desprendida en un proceso termodinámico». La energía es una variable cuantitativa continua porque puede medirse y tomar valores decimales dentro de un intervalo."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 24,
+      "pregunta": "24. Los ecosistemas de México están amenazados principalmente por uno de los siguientes factores. Identifícalo.",
+      "opciones": [
+        "Crecimiento poblacional.",
+        "Construcción de viviendas.",
+        "Tala de bosques para obtener madera",
+        "Extracción de materia prima para la industria."
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Crecimiento poblacional». El aumento de la población incrementa la demanda de recursos naturales, suelo, agua y energía, lo que genera presión sobre los ecosistemas."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 4",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase 4</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Módulo 20.1: Optimización en sistemas naturales y sociales</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Has concluido la revisión de los 24 reactivos. Repasa las explicaciones y refuerza los temas que representaron mayor dificultad.</p>"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

@@ -1,0 +1,229 @@
+{
+  "titulo": "Sesión 3: Metales, no metales y metaloides",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Tabla Periódica de los Elementos",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Sesión 3: Metales, no metales y metaloides</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Aprende a distinguir las 3 grandes categorías de elementos</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Metales · No metales · Metaloides · Ubicación en la tabla</p>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Las 3 categorías principales",
+      "html": "<p>La tabla periódica divide los elementos en <strong>3 grandes categorías</strong> según sus propiedades físicas y químicas:</p><ul><li><strong>Metales:</strong> la mayoría de los elementos (aproximadamente 75%).</li><li><strong>No metales:</strong> minoría, pero esenciales para la vida.</li><li><strong>Metaloides:</strong> elementos con propiedades intermedias (son solo 6).</li></ul><p>En el siguiente slide veremos las propiedades de cada categoría.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Ubicación en la tabla periódica",
+      "html": "<p>La tabla periódica se divide visualmente en estas categorías:</p><ul><li><strong>Metales:</strong> la mayor parte de la tabla (izquierda y centro).</li><li><strong>No metales:</strong> esquina superior derecha.</li><li><strong>Metaloides:</strong> una escalera diagonal entre metales y no metales.</li></ul><p><strong>Truco:</strong> dibuja una línea diagonal desde el Boro (B) hasta el Astato (At). Los elementos que tocan esa línea son metaloides.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de las 3 categorías tiene más elementos en la tabla periódica?",
+      "opciones": [
+        "No metales",
+        "Metaloides",
+        "Metales",
+        "Gases nobles"
+      ],
+      "correcta": 2,
+      "explicacion": "Los metales son la categoría más abundante, representando aproximadamente el 75% de los elementos de la tabla periódica."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Dónde se ubican los no metales en la tabla periódica?",
+      "opciones": [
+        "En el centro",
+        "En la esquina superior derecha",
+        "En la esquina inferior izquierda",
+        "En el bloque d"
+      ],
+      "correcta": 1,
+      "explicacion": "Los no metales se ubican en la esquina superior derecha de la tabla periódica."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuántos metaloides existen en la tabla periódica?",
+      "opciones": [
+        "2",
+        "6",
+        "12",
+        "20"
+      ],
+      "correcta": 1,
+      "explicacion": "Existen 6 metaloides: Boro (B), Silicio (Si), Germanio (Ge), Arsénico (As), Antimonio (Sb) y Telurio (Te)."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "¿Qué son los metales?",
+      "html": "<p>Los <strong>metales</strong> son elementos que se caracterizan por:</p><ul><li><strong>Brillo metálico:</strong> reflejan la luz.</li><li><strong>Conductividad:</strong> conducen calor y electricidad.</li><li><strong>Maleabilidad:</strong> se pueden transformar en láminas delgadas.</li><li><strong>Ductilidad:</strong> se pueden estirar en hilos o alambres.</li><li><strong>Dureza:</strong> son resistentes a la deformación.</li><li><strong>Altos puntos de fusión y ebullición.</strong></li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Metales: propiedades químicas",
+      "html": "<p>En las reacciones químicas, los metales:</p><ul><li><strong>Ceden electrones</strong> (los pierden).</li><li>Forman <strong>cationes</strong> (iones positivos).</li><li>Reaccionan con no metales para formar compuestos iónicos.</li><li>Tienen <strong>números de oxidación positivos</strong>.</li></ul><p><strong>Ejemplo:</strong> el sodio (Na) cede 1 electrón y forma Na⁺. El calcio (Ca) cede 2 y forma Ca²⁺.</p><p><strong>Excepción:</strong> el mercurio (Hg) es el único metal líquido a temperatura ambiente.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Metales: ejemplos y usos",
+      "html": "<p>Los metales son esenciales en la industria y la vida diaria:</p><ul><li><strong>Hierro (Fe):</strong> acero, construcciones, herramientas.</li><li><strong>Aluminio (Al):</strong> latas, papel aluminio, aviones.</li><li><strong>Cobre (Cu):</strong> cables eléctricos, tuberías.</li><li><strong>Oro (Au):</strong> joyería, electrónica, reservas económicas.</li><li><strong>Plata (Ag):</strong> espejos, joyería, conductores.</li><li><strong>Zinc (Zn):</strong> recubrimientos anticorrosivos.</li></ul>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es una propiedad característica de los metales?",
+      "opciones": [
+        "No conducen electricidad",
+        "Son frágiles y se rompen fácilmente",
+        "Conducen calor y electricidad",
+        "Son gases a temperatura ambiente"
+      ],
+      "correcta": 2,
+      "explicacion": "Los metales conducen bien el calor y la electricidad porque sus electrones se mueven libremente."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "En las reacciones químicas, los metales tienden a:",
+      "opciones": [
+        "Ganar electrones y formar aniones",
+        "Ceder electrones y formar cationes",
+        "No reaccionar nunca",
+        "Perder protones"
+      ],
+      "correcta": 1,
+      "explicacion": "Los metales ceden electrones (los pierden) y forman cationes (iones positivos)."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el único metal que es líquido a temperatura ambiente?",
+      "opciones": [
+        "Oro (Au)",
+        "Plomo (Pb)",
+        "Mercurio (Hg)",
+        "Aluminio (Al)"
+      ],
+      "correcta": 2,
+      "explicacion": "El mercurio (Hg) es el único metal líquido a temperatura ambiente."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "¿Qué son los no metales?",
+      "html": "<p>Los <strong>no metales</strong> son elementos que tienen propiedades <strong>opuestas a los metales</strong>:</p><ul><li><strong>Sin brillo metálico</strong> (opacos o con brillo no metálico).</li><li><strong>Malos conductores</strong> de calor y electricidad (a excepción del grafito).</li><li><strong>Frágiles</strong> en estado sólido, se rompen fácilmente.</li><li><strong>Bajos puntos de fusión y ebullición</strong> (muchos son gases).</li><li>Pueden presentarse en <strong>los 3 estados</strong>: sólido, líquido o gas.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "No metales: propiedades químicas",
+      "html": "<p>En las reacciones químicas, los no metales:</p><ul><li><strong>Ganan electrones</strong> (los aceptan).</li><li>Forman <strong>aniones</strong> (iones negativos).</li><li>Reaccionan con metales para formar compuestos iónicos.</li><li>Tienen <strong>números de oxidación negativos</strong>.</li></ul><p><strong>Ejemplo:</strong> el cloro (Cl) gana 1 electrón y forma Cl⁻. El oxígeno (O) gana 2 y forma O²⁻.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "No metales: ejemplos y usos",
+      "html": "<p>Los no metales son fundamentales para la vida:</p><ul><li><strong>Hidrógeno (H):</strong> combustible limpio, agua.</li><li><strong>Carbono (C):</strong> base de la vida, diamantes, grafito.</li><li><strong>Nitrógeno (N):</strong> fertilizantes, aire (78%).</li><li><strong>Oxígeno (O):</strong> respiración, aire (21%).</li><li><strong>Fósforo (P):</strong> fertilizantes, cerillas.</li><li><strong>Azufre (S):</strong> ácido sulfúrico, pólvora.</li><li><strong>Cloro (Cl):</strong> desinfectante, PVC.</li></ul>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es una propiedad característica de los no metales?",
+      "opciones": [
+        "Brillo metálico",
+        "Excelentes conductores de electricidad",
+        "Malos conductores de calor y electricidad",
+        "Siempre son sólidos a temperatura ambiente"
+      ],
+      "correcta": 2,
+      "explicacion": "Los no metales son malos conductores de calor y electricidad (a excepción del grafito)."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "En las reacciones químicas, los no metales tienden a:",
+      "opciones": [
+        "Ceder electrones y formar cationes",
+        "Ganar electrones y formar aniones",
+        "No reaccionar nunca",
+        "Perder protones"
+      ],
+      "correcta": 1,
+      "explicacion": "Los no metales ganan electrones (los aceptan) y forman aniones (iones negativos)."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de los siguientes es un no metal?",
+      "opciones": [
+        "Hierro (Fe)",
+        "Cobre (Cu)",
+        "Oxígeno (O)",
+        "Sodio (Na)"
+      ],
+      "correcta": 2,
+      "explicacion": "El oxígeno (O) es un no metal. El hierro y el cobre son metales de transición, el sodio es un metal alcalino."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "¿Qué son los metaloides?",
+      "html": "<p>Los <strong>metaloides</strong> (o semimetales) son elementos que tienen propiedades <strong>intermedias entre metales y no metales</strong>.</p><p>Son solo <strong>6 elementos</strong>:</p><ul><li><strong>Boro (B)</strong></li><li><strong>Silicio (Si)</strong></li><li><strong>Germanio (Ge)</strong></li><li><strong>Arsénico (As)</strong></li><li><strong>Antimonio (Sb)</strong></li><li><strong>Telurio (Te)</strong></li></ul><p>Forman una <strong>escalera diagonal</strong> entre metales y no metales en la tabla periódica.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Metaloides: propiedades y usos",
+      "html": "<p><strong>Propiedades:</strong></p><ul><li>Pueden conducir electricidad, pero <strong>menos que los metales</strong>.</li><li>Su conductividad <strong>aumenta con la temperatura</strong> (a diferencia de los metales).</li><li>Tienen brillo metálico pero son frágiles.</li><li>Se comportan como metales o como no metales según la reacción.</li></ul><p><strong>Usos:</strong></p><ul><li><strong>Silicio (Si):</strong> chips de computadora, células solares, vidrio.</li><li><strong>Germanio (Ge):</strong> fibra óptica, electrónica.</li><li><strong>Boro (B):</strong> vidrio resistente al calor, detergentes.</li><li><strong>Arsénico (As):</strong> semiconductores (aunque es tóxico).</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "El silicio: el metaloide más importante",
+      "html": "<p>El <strong>silicio (Si)</strong> es el metaloide más importante para la tecnología moderna:</p><ul><li>Es el <strong>segundo elemento más abundante</strong> en la corteza terrestre (después del oxígeno).</li><li>Es la base de <strong>todos los chips de computadora</strong> y dispositivos electrónicos.</li><li>Se usa en <strong>paneles solares</strong> para convertir luz en electricidad.</li><li>Es el componente principal del <strong>vidrio y la arena</strong>.</li></ul><p>Gracias a sus propiedades semiconductoras, ha revolucionado la tecnología en los últimos 70 años.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es una característica de los metaloides?",
+      "opciones": [
+        "Son excelentes conductores de electricidad",
+        "Tienen propiedades intermedias entre metales y no metales",
+        "Nunca conducen electricidad",
+        "Son gases a temperatura ambiente"
+      ],
+      "correcta": 1,
+      "explicacion": "Los metaloides tienen propiedades intermedias entre metales y no metales. Conducen electricidad, pero menos que los metales."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de los siguientes es un metaloide?",
+      "opciones": [
+        "Hierro (Fe)",
+        "Silicio (Si)",
+        "Cloro (Cl)",
+        "Oro (Au)"
+      ],
+      "correcta": 1,
+      "explicacion": "El silicio (Si) es uno de los 6 metaloides: B, Si, Ge, As, Sb y Te."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Por qué el silicio es tan importante en la tecnología moderna?",
+      "opciones": [
+        "Porque es muy barato",
+        "Porque es un excelente conductor como el cobre",
+        "Porque es semiconductor y se usa en chips y paneles solares",
+        "Porque es radiactivo"
+      ],
+      "correcta": 2,
+      "explicacion": "El silicio es semiconductor: su conductividad puede controlarse, lo que lo hace ideal para chips de computadora y células solares."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Comparación de las 3 categorías",
+      "html": "<table class='w-full text-left my-3 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-2'>Propiedad</th><th class='py-2'>Metales</th><th class='py-2'>No metales</th><th class='py-2'>Metaloides</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-2'>Brillo</td><td class='py-2'>Sí</td><td class='py-2'>No</td><td class='py-2'>Sí</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Conducen electricidad</td><td class='py-2'>Sí (muy bien)</td><td class='py-2'>No</td><td class='py-2'>Intermedio</td></tr><tr class='border-b border-slate-600'><td class='py-2'>Ductilidad</td><td class='py-2'>Sí</td><td class='py-2'>No (frágiles)</td><td class='py-2'>Frágiles</td></tr><tr class='border-b border-slate-600'><td class='py-2'>En reacciones</td><td class='py-2'>Ceden e⁻</td><td class='py-2'>Ganan e⁻</td><td class='py-2'>Depende</td></tr><tr><td class='py-2'>Ubicación</td><td class='py-2'>Izquierda/centro</td><td class='py-2'>Sup. derecha</td><td class='py-2'>Diagonal</td></tr></tbody></table>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Resumen de la Sesión 3",
+      "html": "<p>Repasemos lo más importante:</p><ul><li><strong>Metales:</strong> brillantes, conducen electricidad, maleables y dúctiles. Ceden electrones y forman cationes. Son la mayoría de la tabla.</li><li><strong>No metales:</strong> opacos, malos conductores, frágiles. Ganan electrones y forman aniones. Están en la esquina superior derecha.</li><li><strong>Metaloides:</strong> propiedades intermedias. Son solo 6: B, Si, Ge, As, Sb, Te. Forman una escalera diagonal.</li></ul><p>En la siguiente sesión veremos los <strong>elementos más comunes</strong> y sus datos clave.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Sesión 3",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Sesión 3</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Metales, no metales y metaloides</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Nos vemos en la Sesión 4: Elementos más comunes</p>"
+    }
+  ]
+}

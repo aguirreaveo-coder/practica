@@ -1,0 +1,20 @@
+[
+  {
+    "id": "christofer-aguirre",
+    "nombre": "Christofer Aguirre",
+    "nivel": "admin",
+    "activo": true,
+    "cursos": []
+  },
+  {
+    "id": "ana-gonzalez",
+    "nombre": "Ana Gonzalez",
+    "nivel": "usuario",
+    "activo": true,
+    "cursos": [
+      "matematicas",
+      "ciencias-experimentales",
+      "tabla-periodica"
+    ]
+  }
+]

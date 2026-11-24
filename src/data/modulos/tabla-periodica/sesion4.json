@@ -1,0 +1,308 @@
+{
+  "titulo": "Sesión 4: Elementos más comunes",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Tabla Periódica de los Elementos",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Sesión 4: Elementos más comunes</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Aprende los símbolos y datos de los 40 elementos más usados</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Símbolos · Números atómicos · Familias · Datos clave</p>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "¿Por qué memorizar los símbolos?",
+      "html": "<p>Conocer los <strong>símbolos químicos</strong> es fundamental porque:</p><ul><li>Es el lenguaje universal de la química.</li><li>Se usan en todas las ecuaciones y fórmulas químicas.</li><li>Aparecen en el examen constantemente.</li><li>Sin ellos no se puede resolver ningún problema químico.</li></ul><p>En esta sesión agruparemos los 40 elementos más comunes por familias para facilitar su memorización.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Estrategia de memorización",
+      "html": "<p>Para memorizar los 40 elementos más comunes, te recomendamos:</p><ul><li><strong>Agrupar por familias:</strong> es más fácil recordar los alcalinos juntos que mezclados.</li><li><strong>Asociar con usos:</strong> el sodio → sal de mesa, el hierro → acero.</li><li><strong>Repetir en voz alta:</strong> decir el símbolo y el nombre en voz alta ayuda a la memoria.</li><li><strong>Practicar con el Modo Interactivo:</strong> al final del programa.</li></ul>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Por qué es importante memorizar los símbolos químicos?",
+      "opciones": [
+        "Solo por cultura general",
+        "Porque se usan en todas las ecuaciones y fórmulas químicas",
+        "No son importantes para el examen",
+        "Solo los químicos profesionales los usan"
+      ],
+      "correcta": 1,
+      "explicacion": "Los símbolos químicos son el lenguaje universal de la química y aparecen en todas las ecuaciones y fórmulas."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Qué estrategia ayuda más a memorizar los elementos?",
+      "opciones": [
+        "Estudiarlos todos mezclados",
+        "Agruparlos por familias y asociarlos con usos",
+        "Memorizarlos en orden alfabético",
+        "Solo leerlos una vez"
+      ],
+      "correcta": 1,
+      "explicacion": "Agrupar por familias y asociar con usos cotidianos facilita la memorización de los elementos."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Grupo 1 y 2: Alcalinos y alcalinotérreos",
+      "html": "<p><strong>Metales alcalinos (grupo 1):</strong></p><table class='w-full text-left my-2 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-1'>Z</th><th class='py-1'>Símbolo</th><th class='py-1'>Elemento</th><th class='py-1'>Uso</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-1'>1</td><td class='py-1'><strong>H</strong></td><td class='py-1'>Hidrógeno</td><td class='py-1'>Combustible, agua</td></tr><tr class='border-b border-slate-600'><td class='py-1'>3</td><td class='py-1'><strong>Li</strong></td><td class='py-1'>Litio</td><td class='py-1'>Baterías</td></tr><tr class='border-b border-slate-600'><td class='py-1'>11</td><td class='py-1'><strong>Na</strong></td><td class='py-1'>Sodio</td><td class='py-1'>Sal de mesa</td></tr><tr><td class='py-1'>19</td><td class='py-1'><strong>K</strong></td><td class='py-1'>Potasio</td><td class='py-1'>Fertilizantes</td></tr></tbody></table><p><strong>Metales alcalinotérreos (grupo 2):</strong></p><table class='w-full text-left my-2 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-1'>Z</th><th class='py-1'>Símbolo</th><th class='py-1'>Elemento</th><th class='py-1'>Uso</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-1'>4</td><td class='py-1'><strong>Be</strong></td><td class='py-1'>Berilio</td><td class='py-1'>Aleaciones aeroespaciales</td></tr><tr class='border-b border-slate-600'><td class='py-1'>12</td><td class='py-1'><strong>Mg</strong></td><td class='py-1'>Magnesio</td><td class='py-1'>Clorofila, fuegos artificiales</td></tr><tr><td class='py-1'>20</td><td class='py-1'><strong>Ca</strong></td><td class='py-1'>Calcio</td><td class='py-1'>Huesos, cemento</td></tr></tbody></table>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el símbolo del sodio?",
+      "opciones": [
+        "So",
+        "S",
+        "Na",
+        "Sn"
+      ],
+      "correcta": 2,
+      "explicacion": "El sodio tiene el símbolo Na (del latín natrium)."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el símbolo del potasio?",
+      "opciones": [
+        "P",
+        "Po",
+        "Pt",
+        "K"
+      ],
+      "correcta": 3,
+      "explicacion": "El potasio tiene el símbolo K (del latín kalium). P es fósforo, Po es polonio y Pt es platino."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el símbolo del calcio?",
+      "opciones": [
+        "C",
+        "Ca",
+        "Cl",
+        "Co"
+      ],
+      "correcta": 1,
+      "explicacion": "El calcio tiene el símbolo Ca. C es carbono, Cl es cloro y Co es cobalto."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Grupos 13-16: Post-transición y no metales",
+      "html": "<table class='w-full text-left my-2 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-1'>Z</th><th class='py-1'>Símbolo</th><th class='py-1'>Elemento</th><th class='py-1'>Uso</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-1'>5</td><td class='py-1'><strong>B</strong></td><td class='py-1'>Boro</td><td class='py-1'>Vidrio resistente al calor</td></tr><tr class='border-b border-slate-600'><td class='py-1'>6</td><td class='py-1'><strong>C</strong></td><td class='py-1'>Carbono</td><td class='py-1'>Base de la vida, diamantes</td></tr><tr class='border-b border-slate-600'><td class='py-1'>7</td><td class='py-1'><strong>N</strong></td><td class='py-1'>Nitrógeno</td><td class='py-1'>Fertilizantes, aire (78%)</td></tr><tr class='border-b border-slate-600'><td class='py-1'>8</td><td class='py-1'><strong>O</strong></td><td class='py-1'>Oxígeno</td><td class='py-1'>Respiración, aire (21%)</td></tr><tr class='border-b border-slate-600'><td class='py-1'>13</td><td class='py-1'><strong>Al</strong></td><td class='py-1'>Aluminio</td><td class='py-1'>Latas, papel aluminio</td></tr><tr class='border-b border-slate-600'><td class='py-1'>14</td><td class='py-1'><strong>Si</strong></td><td class='py-1'>Silicio</td><td class='py-1'>Chips, paneles solares</td></tr><tr class='border-b border-slate-600'><td class='py-1'>15</td><td class='py-1'><strong>P</strong></td><td class='py-1'>Fósforo</td><td class='py-1'>Fertilizantes, cerillas</td></tr><tr><td class='py-1'>16</td><td class='py-1'><strong>S</strong></td><td class='py-1'>Azufre</td><td class='py-1'>Ácido sulfúrico, pólvora</td></tr></tbody></table>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el símbolo del carbono?",
+      "opciones": [
+        "Ca",
+        "Cl",
+        "C",
+        "Co"
+      ],
+      "correcta": 2,
+      "explicacion": "El carbono tiene el símbolo C. Ca es calcio, Cl es cloro y Co es cobalto."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el símbolo del oxígeno?",
+      "opciones": [
+        "O",
+        "Ox",
+        "Os",
+        "Og"
+      ],
+      "correcta": 0,
+      "explicacion": "El oxígeno tiene el símbolo O. Os es osmio y Og es oganesón."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el símbolo del aluminio?",
+      "opciones": [
+        "Al",
+        "A",
+        "Am",
+        "Ar"
+      ],
+      "correcta": 0,
+      "explicacion": "El aluminio tiene el símbolo Al. A no es ningún elemento, Am es americio y Ar es argón."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Grupo 17: Halógenos",
+      "html": "<table class='w-full text-left my-2 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-1'>Z</th><th class='py-1'>Símbolo</th><th class='py-1'>Elemento</th><th class='py-1'>Uso</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-1'>9</td><td class='py-1'><strong>F</strong></td><td class='py-1'>Flúor</td><td class='py-1'>Pasta de dientes</td></tr><tr class='border-b border-slate-600'><td class='py-1'>17</td><td class='py-1'><strong>Cl</strong></td><td class='py-1'>Cloro</td><td class='py-1'>Desinfectante, PVC</td></tr><tr class='border-b border-slate-600'><td class='py-1'>35</td><td class='py-1'><strong>Br</strong></td><td class='py-1'>Bromo</td><td class='py-1'>Retardante de fuego</td></tr><tr><td class='py-1'>53</td><td class='py-1'><strong>I</strong></td><td class='py-1'>Yodo</td><td class='py-1'>Antiséptico, tiroides</td></tr></tbody></table>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el símbolo del cloro?",
+      "opciones": [
+        "C",
+        "Cl",
+        "Ch",
+        "Cr"
+      ],
+      "correcta": 1,
+      "explicacion": "El cloro tiene el símbolo Cl. C es carbono, Cr es cromo."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el símbolo del flúor?",
+      "opciones": [
+        "F",
+        "Fl",
+        "Fr",
+        "Fe"
+      ],
+      "correcta": 0,
+      "explicacion": "El flúor tiene el símbolo F. Fl no existe, Fr es francio y Fe es hierro."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Qué elemento se usa en la pasta de dientes para prevenir caries?",
+      "opciones": [
+        "Cloro (Cl)",
+        "Yodo (I)",
+        "Flúor (F)",
+        "Bromo (Br)"
+      ],
+      "correcta": 2,
+      "explicacion": "El flúor (F) se usa en la pasta de dientes para prevenir las caries dentales."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Grupo 18: Gases nobles",
+      "html": "<table class='w-full text-left my-2 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-1'>Z</th><th class='py-1'>Símbolo</th><th class='py-1'>Elemento</th><th class='py-1'>Uso</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-1'>2</td><td class='py-1'><strong>He</strong></td><td class='py-1'>Helio</td><td class='py-1'>Globos, criogenia</td></tr><tr class='border-b border-slate-600'><td class='py-1'>10</td><td class='py-1'><strong>Ne</strong></td><td class='py-1'>Neón</td><td class='py-1'>Letreros luminosos</td></tr><tr class='border-b border-slate-600'><td class='py-1'>18</td><td class='py-1'><strong>Ar</strong></td><td class='py-1'>Argón</td><td class='py-1'>Bombillas, soldadura</td></tr><tr><td class='py-1'>36</td><td class='py-1'><strong>Kr</strong></td><td class='py-1'>Kriptón</td><td class='py-1'>Lámparas de alta intensidad</td></tr></tbody></table>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el símbolo del helio?",
+      "opciones": [
+        "H",
+        "He",
+        "Ho",
+        "Hf"
+      ],
+      "correcta": 1,
+      "explicacion": "El helio tiene el símbolo He. H es hidrógeno, Ho es holmio, Hf es hafnio."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el símbolo del neón?",
+      "opciones": [
+        "N",
+        "Ne",
+        "No",
+        "Ni"
+      ],
+      "correcta": 1,
+      "explicacion": "El neón tiene el símbolo Ne. N es nitrógeno, No es nobelio, Ni es níquel."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el símbolo del argón?",
+      "opciones": [
+        "Ar",
+        "A",
+        "Ag",
+        "As"
+      ],
+      "correcta": 0,
+      "explicacion": "El argón tiene el símbolo Ar. A no existe, Ag es plata y As es arsénico."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Metales de transición: los más comunes (parte 1)",
+      "html": "<table class='w-full text-left my-2 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-1'>Z</th><th class='py-1'>Símbolo</th><th class='py-1'>Elemento</th><th class='py-1'>Uso</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-1'>22</td><td class='py-1'><strong>Ti</strong></td><td class='py-1'>Titanio</td><td class='py-1'>Implantes, aeronáutica</td></tr><tr class='border-b border-slate-600'><td class='py-1'>24</td><td class='py-1'><strong>Cr</strong></td><td class='py-1'>Cromo</td><td class='py-1'>Cromado, acero inoxidable</td></tr><tr class='border-b border-slate-600'><td class='py-1'>25</td><td class='py-1'><strong>Mn</strong></td><td class='py-1'>Manganeso</td><td class='py-1'>Acero, pilas</td></tr><tr class='border-b border-slate-600'><td class='py-1'>26</td><td class='py-1'><strong>Fe</strong></td><td class='py-1'>Hierro</td><td class='py-1'>Acero, construcciones</td></tr><tr class='border-b border-slate-600'><td class='py-1'>27</td><td class='py-1'><strong>Co</strong></td><td class='py-1'>Cobalto</td><td class='py-1'>Baterías, imanes</td></tr><tr class='border-b border-slate-600'><td class='py-1'>28</td><td class='py-1'><strong>Ni</strong></td><td class='py-1'>Níquel</td><td class='py-1'>Monedas, acero inoxidable</td></tr><tr class='border-b border-slate-600'><td class='py-1'>29</td><td class='py-1'><strong>Cu</strong></td><td class='py-1'>Cobre</td><td class='py-1'>Cables eléctricos</td></tr><tr><td class='py-1'>30</td><td class='py-1'><strong>Zn</strong></td><td class='py-1'>Zinc</td><td class='py-1'>Recubrimientos anticorrosivos</td></tr></tbody></table>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el símbolo del hierro?",
+      "opciones": [
+        "H",
+        "Fe",
+        "Ir",
+        "Fr"
+      ],
+      "correcta": 1,
+      "explicacion": "El hierro tiene el símbolo Fe (del latín ferrum). H es hidrógeno, Ir es iridio, Fr es francio."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el símbolo del cobre?",
+      "opciones": [
+        "C",
+        "Co",
+        "Cu",
+        "Cr"
+      ],
+      "correcta": 2,
+      "explicacion": "El cobre tiene el símbolo Cu (del latín cuprum). C es carbono, Co es cobalto, Cr es cromo."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el símbolo del zinc?",
+      "opciones": [
+        "Z",
+        "Zi",
+        "Zn",
+        "Zr"
+      ],
+      "correcta": 2,
+      "explicacion": "El zinc tiene el símbolo Zn. Z no existe, Zi no es elemento, Zr es circonio."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Metales de transición: los más comunes (parte 2)",
+      "html": "<table class='w-full text-left my-2 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-1'>Z</th><th class='py-1'>Símbolo</th><th class='py-1'>Elemento</th><th class='py-1'>Uso</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-1'>47</td><td class='py-1'><strong>Ag</strong></td><td class='py-1'>Plata</td><td class='py-1'>Joyería, espejos</td></tr><tr class='border-b border-slate-600'><td class='py-1'>50</td><td class='py-1'><strong>Sn</strong></td><td class='py-1'>Estaño</td><td class='py-1'>Latas, soldadura</td></tr><tr class='border-b border-slate-600'><td class='py-1'>79</td><td class='py-1'><strong>Au</strong></td><td class='py-1'>Oro</td><td class='py-1'>Joyería, electrónica</td></tr><tr><td class='py-1'>82</td><td class='py-1'><strong>Pb</strong></td><td class='py-1'>Plomo</td><td class='py-1'>Baterías, tuberías</td></tr></tbody></table>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el símbolo del oro?",
+      "opciones": [
+        "O",
+        "Or",
+        "Au",
+        "Ag"
+      ],
+      "correcta": 2,
+      "explicacion": "El oro tiene el símbolo Au (del latín aurum). O es oxígeno, Or no existe, Ag es plata."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el símbolo de la plata?",
+      "opciones": [
+        "P",
+        "Pl",
+        "Ag",
+        "Au"
+      ],
+      "correcta": 2,
+      "explicacion": "La plata tiene el símbolo Ag (del latín argentum). P es fósforo, Pl no existe, Au es oro."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es el símbolo del plomo?",
+      "opciones": [
+        "P",
+        "Pl",
+        "Po",
+        "Pb"
+      ],
+      "correcta": 3,
+      "explicacion": "El plomo tiene el símbolo Pb (del latín plumbum). P es fósforo, Pl no existe, Po es polonio."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Resumen de la Sesión 4",
+      "html": "<p>Repasemos los elementos más fáciles de confundir:</p><table class='w-full text-left my-3 border-collapse'><thead><tr class='border-b border-slate-400'><th class='py-2'>Símbolo</th><th class='py-2'>Elemento</th><th class='py-2'>¡Cuidado con...!</th></tr></thead><tbody><tr class='border-b border-slate-600'><td class='py-2'><strong>Na</strong></td><td class='py-2'>Sodio</td><td class='py-2'>S es azufre</td></tr><tr class='border-b border-slate-600'><td class='py-2'><strong>K</strong></td><td class='py-2'>Potasio</td><td class='py-2'>P es fósforo</td></tr><tr class='border-b border-slate-600'><td class='py-2'><strong>Fe</strong></td><td class='py-2'>Hierro</td><td class='py-2'>F es flúor</td></tr><tr class='border-b border-slate-600'><td class='py-2'><strong>Cu</strong></td><td class='py-2'>Cobre</td><td class='py-2'>Co es cobalto</td></tr><tr class='border-b border-slate-600'><td class='py-2'><strong>Au</strong></td><td class='py-2'>Oro</td><td class='py-2'>Ag es plata</td></tr><tr class='border-b border-slate-600'><td class='py-2'><strong>Ag</strong></td><td class='py-2'>Plata</td><td class='py-2'>Ar es argón</td></tr><tr><td class='py-2'><strong>Pb</strong></td><td class='py-2'>Plomo</td><td class='py-2'>Pt es platino</td></tr></tbody></table><p>Practica con el <strong>Modo Interactivo</strong> para memorizar los 40 elementos.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Sesión 4",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Sesión 4</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Elementos más comunes</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>¡Felicidades! Terminaste las sesiones. Ahora practica con el Modo Interactivo.</p>"
+    }
+  ]
+}

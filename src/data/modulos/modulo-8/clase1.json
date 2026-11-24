@@ -1,0 +1,184 @@
+{
+  "titulo": "Clase 1: Escalas y Gases",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 8",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Matemáticas y representaciones del sistema natural</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 1: Escalas y Gases</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Magnitudes · Tipos de magnitudes · Escalas · Escalas de temperatura · Calor y temperatura · Conversiones de temperatura · Teoría cinética de los gases · Ángulos</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: ¿Qué es una magnitud?",
+      "html": "<p class='text-lg'>Una <strong>magnitud</strong> es toda propiedad o cualidad de un objeto o fenómeno que puede ser medida y expresada con un número y una unidad.</p><p class='text-lg'>Ejemplos: longitud, masa, tiempo, temperatura, velocidad, fuerza.</p><p class='text-lg'>Medir es comparar una magnitud con otra del mismo tipo que se toma como referencia (unidad patrón).</p><img src='https://i0.wp.com/www.rapitareas.com/wp-content/uploads/2020/06/magnitudes-fisicas.webp?fit=1920%2C1080&ssl=1' alt='Magnitudes físicas' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Tipos de magnitudes",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Fundamentales</p><p class='text-lg'>No dependen de otras. Son 7: longitud (m), masa (kg), tiempo (s), temperatura (K), corriente eléctrica (A), cantidad de sustancia (mol) e intensidad luminosa (cd).</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Derivadas</p><p class='text-lg'>Se obtienen de combinar las fundamentales. Ej: velocidad (m/s), fuerza (N), densidad (kg/m³), presión (Pa).</p></div></div><img src='https://i.pinimg.com/736x/51/34/7f/51347f0176ff841ef32a130ad2974a15.jpg' alt='Tipos de magnitudes' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Escalares y vectoriales",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Escalares</p><p class='text-lg'>Quedan definidas solo con un número y una unidad. No tienen dirección. Ej: masa, tiempo, temperatura, densidad.</p></div><div class='bg-cyan-500/10 border border-cyan-500/30 p-4 rounded-lg'><p class='font-semibold text-cyan-700 dark:text-cyan-300 mb-2 text-lg'>Vectoriales</p><p class='text-lg'>Necesitan magnitud, dirección y sentido. Ej: fuerza, velocidad, aceleración, desplazamiento.</p></div></div><img src='https://i.ytimg.com/vi/a6CKLvLIKhk/maxresdefault.jpg' alt='Magnitudes escalares y vectoriales' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Escalas de temperatura",
+      "html": "<p class='text-lg'>Una <strong>escala</strong> es un conjunto ordenado de valores que se usa como referencia para medir una magnitud. En física y química, las escalas más comunes son las de <strong>temperatura</strong>.</p><p class='text-lg'>Existen tres escalas principales de temperatura:</p><div class='grid grid-cols-1 md:grid-cols-3 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Celsius (°C)</p><p class='text-lg'>0 °C = punto de congelación del agua<br/>100 °C = punto de ebullición</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Fahrenheit (°F)</p><p class='text-lg'>32 °F = punto de congelación<br/>212 °F = punto de ebullición</p></div><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Kelvin (K)</p><p class='text-lg'>273.15 K = congelación<br/>373.15 K = ebullición<br/>0 K = cero absoluto</p></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Conversiones de temperatura",
+      "html": "<p class='text-lg'>Fórmulas para convertir entre escalas:</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>°F = (°C × 9/5) + 32</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>°C = (°F − 32) × 5/9</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>K = °C + 273.15</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>°C = K − 273.15</span></div>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Conversión de temperatura",
+      "enunciado": "La temperatura corporal promedio de una persona sana es de 37 °C. ¿Cuál es esa temperatura en grados Fahrenheit?",
+      "datos": [
+        "Temperatura en Celsius (°C) = 37",
+        "Fórmula: °F = (°C × 9/5) + 32"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Conversiones de temperatura",
+      "ejercicios": [
+        { "pregunta": "Convierte 25 °C a grados Fahrenheit.", "respuesta": "77 °F" },
+        { "pregunta": "Convierte 300 K a grados Celsius.", "respuesta": "26.85 °C" },
+        { "pregunta": "Convierte 212 °F a grados Celsius.", "respuesta": "100 °C" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Calor y temperatura",
+      "html": "<p class='text-lg'>Aunque suelen confundirse, <strong>calor</strong> y <strong>temperatura</strong> son conceptos distintos:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-orange-500/10 border border-orange-500/30 p-4 rounded-lg'><p class='font-semibold text-orange-700 dark:text-orange-300 mb-2 text-lg'>Calor</p><p class='text-lg'>Es la <strong>energía en tránsito</strong> que se transfiere de un cuerpo a otro debido a una diferencia de temperatura. Se mide en joules (J) o calorías (cal).</p></div><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Temperatura</p><p class='text-lg'>Es una medida de la <strong>energía cinética promedio</strong> de las partículas de un cuerpo. Se mide en °C, °F o K.</p></div></div><img src='https://i.ytimg.com/vi/En0lWf12qR4/maxresdefault.jpg' alt='Calor y temperatura' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Transmisión del calor",
+      "html": "<p class='text-lg'>El calor se transmite siempre de un cuerpo de <strong>mayor temperatura</strong> a uno de <strong>menor temperatura</strong>, nunca al revés de forma espontánea.</p><p class='text-lg'>Formas de transmisión:</p><ul class='text-lg'><li><strong>Conducción:</strong> contacto directo entre cuerpos (sólidos).</li><li><strong>Convección:</strong> movimiento de fluidos (líquidos y gases).</li><li><strong>Radiación:</strong> emisión de ondas electromagnéticas (no necesita medio).</li></ul><img src='https://i.ytimg.com/vi/2Z4EREJs0IU/maxresdefault.jpg' alt='Transmisión del calor' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Teoría cinética de los gases",
+      "html": "<p class='text-lg'>La <strong>teoría cinética</strong> explica el comportamiento y las propiedades macroscópicas de los gases a partir de una descripción estadística de los procesos moleculares microscópicos.</p><p class='text-lg'>Sus postulados principales:</p><ul class='text-lg'><li>Los gases están formados por partículas muy pequeñas en movimiento constante y aleatorio.</li><li>Las partículas chocan entre sí y con las paredes del recipiente.</li><li>La temperatura es proporcional a la energía cinética promedio de las partículas.</li><li>Entre partículas hay grandes espacios vacíos.</li></ul><img src='https://storage.googleapis.com/portaleducativo-net-class-g3p6/biblioteca/contenidos/7BC-teoria-cinetico-molecular-de-los-gases-2.jpg' alt='Teoría cinética molecular de los gases' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Calor y energía cinética",
+      "html": "<p class='text-lg'>A la <strong>suma de la energía cinética de todas las partículas</strong> de un cuerpo se le conoce como <strong>calor</strong> o energía térmica interna.</p><p class='text-lg'>Cuanto más rápido se mueven las partículas, mayor es la temperatura del cuerpo. Cuando un cuerpo caliente cede energía a uno frío, ese tránsito de energía es el calor.</p><img src='https://www.areaciencias.com/fisica/imagenes/que-es-la-energia-termica.jpg' alt='Energía térmica' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: ¿Qué son los ángulos?",
+      "html": "<p class='text-lg'>Un <strong>ángulo</strong> es la abertura formada por dos semirrectas que parten de un mismo punto llamado <strong>vértice</strong>.</p><p class='text-lg'>Se mide en grados (°) o radianes. Una vuelta completa equivale a 360°.</p><p class='text-lg'>Tipos de ángulos según su medida:</p><ul class='text-lg'><li><strong>Agudo:</strong> menor a 90°. Ej: 45°.</li><li><strong>Recto:</strong> igual a 90°.</li><li><strong>Obtuso:</strong> mayor a 90° y menor a 180°. Ej: 120°.</li><li><strong>Llano:</strong> igual a 180°.</li><li><strong>Completo:</strong> igual a 360°.</li></ul><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-K2wW27gmWJ_kBN-cMkvntMYoGE2Y9CZDNNpgoNMr6DIALWy2MjY2pBo&s=10' alt='Tipos de ángulos' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Ángulos complementarios, suplementarios y opuestos por el vértice",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-3 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Complementarios</p><p class='text-lg'>Dos ángulos que suman 90°. Ej: 25° + 65° = 90°.</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Suplementarios</p><p class='text-lg'>Dos ángulos que suman 180°. Ej: 25° + 155° = 180°.</p></div><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Opuestos por el vértice</p><p class='text-lg'>Se forman al cruzarse dos rectas. Son iguales entre sí.</p></div></div><img src='https://www.geogebra.org/resource/T37G3kzJ/p4yIDzuMTUjWBKAl/material-T37G3kzJ.png' alt='Ángulos complementarios, suplementarios y opuestos por el vértice' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Ángulos opuestos por el vértice",
+      "enunciado": "Al cruzarse dos rectas se forman cuatro ángulos. Si uno de ellos mide 110°, ¿cuánto mide el ángulo opuesto por el vértice?",
+      "datos": [
+        "Ángulo dado = 110°",
+        "Propiedad: los ángulos opuestos por el vértice son iguales entre sí"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Ángulos",
+      "ejercicios": [
+        { "pregunta": "Dos ángulos son suplementarios. Si uno mide 115°, ¿cuánto mide el otro?", "respuesta": "65°" },
+        { "pregunta": "Al cruzarse dos rectas, uno de los ángulos mide 48°. ¿Cuánto miden los otros tres?", "respuesta": "48°, 132° y 132°" },
+        { "pregunta": "Clasifica un ángulo de 95° según su medida.", "respuesta": "Obtuso" }
+      ]
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Actividad: Preguntas de la guía",
+      "instrucciones": "Responde las siguientes preguntas de tu Guía 1:",
+      "preguntas": [21, 22, 24, 25, 26]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Revisión de la actividad",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>A continuación, revisaremos las preguntas de la guía que resolviste como actividad, reforzando los conceptos de escalas, magnitudes, temperatura y gases.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 21,
+      "pregunta": "21. Si α = 25 °. ¿Cuál es el valor del ángulo complementario?",
+      "opciones": [
+        "335 °",
+        "65 °",
+        "75 °",
+        "155 °"
+      ],
+      "correcta": 1,
+      "explicacion": "Dos ángulos complementarios suman 90°. Por lo tanto, 90° − 25° = 65°."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 22,
+      "pregunta": "22. La temperatura del hielo seco (CO₂) es de −80 °C. ¿Cuál es la temperatura correspondiente en grados Fahrenheit?",
+      "opciones": [
+        "−140",
+        "−28",
+        "−112",
+        "−84"
+      ],
+      "correcta": 2,
+      "explicacion": "°F = (−80 × 9/5) + 32 = (−144) + 32 = −112 °F."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 24,
+      "pregunta": "24. ¿Qué teoría explica el comportamiento y propiedades macroscópicas de los gases a partir de una descripción estadística de los procesos moleculares microscópicos?",
+      "opciones": [
+        "Teoría cinética de los gases.",
+        "Ley general de los gases.",
+        "Ley de Charles.",
+        "Ley universal de los gases."
+      ],
+      "correcta": 0,
+      "explicacion": "La teoría cinética de los gases explica el comportamiento macroscópico a partir del movimiento microscópico de las partículas."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 25,
+      "pregunta": "25. A la suma de la energía cinética de todas las partículas de un cuerpo se le conoce como:",
+      "opciones": [
+        "Temperatura",
+        "Caloría",
+        "Calor",
+        "Conducción"
+      ],
+      "correcta": 2,
+      "explicacion": "El calor (o energía térmica interna) es la suma de la energía cinética de todas las partículas de un cuerpo."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 26,
+      "pregunta": "26. El calor se transmite en los cuerpos de ____________________.",
+      "opciones": [
+        "menor movimiento molecular",
+        "mayor a menor temperatura",
+        "menor a mayor temperatura",
+        "mayor punto de fusión"
+      ],
+      "correcta": 1,
+      "explicacion": "El calor siempre fluye espontáneamente de un cuerpo de mayor temperatura a uno de menor temperatura."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 1",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase 1</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Escalas y Gases</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Nos vemos en la Clase 2: Hidrostática</p>"
+    }
+  ],
+
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

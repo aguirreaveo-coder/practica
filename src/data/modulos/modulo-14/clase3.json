@@ -1,0 +1,181 @@
+{
+  "titulo": "Clase 3: Desarrollo, crecimiento y modelos matemáticos",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 14",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Fenómenos sociales y modelos económicos</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 3: Desarrollo, crecimiento y modelos matemáticos</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>IDH · PIB · Tasas de crecimiento · Modelos exponenciales · Logaritmos</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Índice de Desarrollo Humano",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>El Índice de Desarrollo Humano (IDH) resume tres dimensiones: salud, educación y nivel de vida. Compara condiciones generales entre países o regiones, pero no describe por sí solo todas las desigualdades internas.</p><p class='text-lg text-slate-700 dark:text-slate-200'>La dimensión de salud se aproxima con la esperanza de vida al nacer. La educación incluye los años esperados de escolaridad y el promedio de años cursados por la población adulta.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Nivel de vida e interpretación del IDH",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>La dimensión de nivel de vida se estima mediante el ingreso nacional bruto por persona, ajustado para comparar el poder adquisitivo. Junto con salud y educación, forma el valor agregado del IDH.</p><p class='text-lg text-slate-700 dark:text-slate-200'>El índice facilita comparaciones generales, pero un promedio puede ocultar diferencias entre grupos y territorios. Conviene complementarlo con datos sobre distribución del ingreso, acceso a servicios y otras condiciones sociales.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Producto interno bruto",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>El producto interno bruto (PIB) mide el valor de los bienes y servicios finales producidos en un territorio durante un periodo. Se cuenta la producción final para evitar duplicar el valor de insumos incorporados en otros bienes.</p><p class='text-lg text-slate-700 dark:text-slate-200'>El PIB nominal usa precios vigentes; el PIB real ajusta cambios de precios para comparar producción entre periodos. El PIB por habitante es un promedio y no muestra cómo se distribuye el ingreso.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tasa de crecimiento",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>La tasa de crecimiento compara el cambio con el valor inicial. Resta el valor inicial al final, divide entre el valor inicial y multiplica por cien. Indica siempre el periodo y las unidades.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>Tasa (%) = (valor final − valor inicial) / valor inicial × 100</span></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Interpretar tasas y promedios",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Una tasa positiva indica aumento y una negativa, disminución. El cambio absoluto y el porcentual no son lo mismo: pasar de 10 a 15 implica 5 unidades, equivalentes al 50% del valor inicial.</p><p class='text-lg text-slate-700 dark:text-slate-200'>Los promedios históricos resumen varios años, pero pueden ocultar variaciones entre ellos. Antes de comparar, verifica el intervalo, la fuente y la unidad de los datos.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>Promedio = suma de valores / número de valores</span></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Variables de un modelo",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Un modelo matemático representa una relación simplificada. La variable independiente es el factor de entrada; la dependiente es el resultado que cambia según el modelo. La relación depende del contexto y sus supuestos.</p><p class='text-lg text-slate-700 dark:text-slate-200'>Ejemplos: visitantes e ingresos turísticos; gasto en anuncios y ventas; horas de práctica y puntaje. En cada par, la primera cantidad puede ser independiente y la segunda dependiente; la asociación no prueba causalidad.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Crecimiento exponencial",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>El crecimiento exponencial describe una cantidad que cambia proporcionalmente a su tamaño actual. En el modelo discreto, cada intervalo multiplica por el mismo factor: N₀ es el valor inicial, r la tasa por periodo y t el número de periodos.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>N(t) = N₀(1 + r)ᵗ</span></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Modelos exponenciales continuos y logísticos",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>El modelo continuo usa la constante e para representar un cambio proporcional sin pausas entre intervalos. Las dos formas son aproximaciones y su tasa debe corresponder al contexto y al tiempo analizado.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>N(t) = N₀eʳᵗ</span></div><p class='text-lg text-slate-700 dark:text-slate-200'>El crecimiento logístico aumenta al inicio y se desacelera al acercarse a un límite de capacidad, por ejemplo por espacio o recursos. A diferencia del exponencial, no supone crecimiento indefinido.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: modelo exponencial",
+      "enunciado": "Una plataforma inicia con 1,200 usuarios y su cantidad aumenta 5% cada mes. Estima la cantidad después de 3 meses.",
+      "datos": [
+        "N(t) = N₀(1 + r)ᵗ"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: crecimiento exponencial",
+      "ejercicios": [
+        {
+          "pregunta": "Población inicial 2,000; r = 3% anual; t = 4 años. Halla N(t).\nFórmula: N(t) = N₀(1 + r)ᵗ",
+          "respuesta": "N(4) ≈ 2,251."
+        },
+        {
+          "pregunta": "Fondo inicial $5,000; r = 2% anual; t = 6 años. Halla V(t).\nFórmula: V(t) = V₀(1 + r)ᵗ",
+          "respuesta": "V(6) ≈ $5,631."
+        },
+        {
+          "pregunta": "Cultivo inicial 800; r = 10% por ciclo; t = 3 ciclos. Halla N(t).\nFórmula: N(t) = N₀(1 + r)ᵗ",
+          "respuesta": "N(3) ≈ 1,065."
+        }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Logaritmos",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Un logaritmo indica el exponente al que se eleva la base: logₐ b = c equivale a aᶜ = b, con a > 0, a ≠ 1 y b > 0. Permite despejar exponentes.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>logₐ b = c  ⇔  aᶜ = b</span></div><p class='text-lg text-slate-700 dark:text-slate-200'>El decimal usa base 10; el natural, e. Productos pasan a sumas y cocientes a diferencias.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>logₐ(xy) = logₐ x + logₐ y</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>logₐ(x/y) = logₐ x − logₐ y</span></div><p class='text-lg text-slate-700 dark:text-slate-200'>No se separa una suma: logₐ(x + y) ≠ logₐ x + logₐ y.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo: equivalencia logarítmica",
+      "enunciado": "Expresa en forma logarítmica la igualdad 2⁵ = 32.",
+      "datos": [
+        "logₐ b = c  ⇔  aᶜ = b"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: logaritmos",
+      "ejercicios": [
+        {
+          "pregunta": "Escribe en forma logarítmica 3⁴ = 81.\nFórmula: logₐ b = c  ⇔  aᶜ = b",
+          "respuesta": "log₃ 81 = 4."
+        },
+        {
+          "pregunta": "Escribe en forma exponencial log₅ 125 = 3.\nFórmula: logₐ b = c  ⇔  aᶜ = b",
+          "respuesta": "5³ = 125."
+        },
+        {
+          "pregunta": "Determina x si log₂ 64 = x.\nFórmula: logₐ b = c  ⇔  aᶜ = b",
+          "respuesta": "2ˣ = 64; por tanto x = 6."
+        }
+      ]
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Actividad: Repaso de la Guía",
+      "instrucciones": "Responde las preguntas del Cuestionario 1 asignadas a esta clase.",
+      "preguntas": [
+        25,
+        26,
+        27,
+        35
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Revisión de la Actividad",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Compara tus respuestas con la guía e identifica el concepto o procedimiento que justifica cada una.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "25. ¿Cuál fue el crecimiento económico promedio anual de la economía durante los 30 años contemplados en la tabla?",
+      "opciones": [
+        "6.41%",
+        "6.23%",
+        "6.35%",
+        "6.53%"
+      ],
+      "correcta": 2,
+      "explicacion": "El promedio anual del periodo indicado en la tabla es 6.35%.",
+      "numero": 25
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "26. ¿En qué sexenio se registró el crecimiento anual promedio más bajo dentro del periodo del modelo de desarrollo estabilizador?",
+      "opciones": [
+        "Manuel Ávila Camacho.",
+        "Gustavo Díaz Ordaz.",
+        "Adolfo Ruiz Cortines.",
+        "Miguel Alemán Valdés."
+      ],
+      "correcta": 3,
+      "explicacion": "Miguel Alemán Valdés registró el crecimiento promedio anual más bajo entre las opciones.",
+      "numero": 26
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "27. Calcula los porcentajes de crecimiento anual promedio de los sexenios de Manuel Ávila Camacho y de Adolfo Ruiz Cortines.",
+      "opciones": [
+        ".04% y 5.72%",
+        "6.1% у 6.3%",
+        "6.72% у 6. 16%",
+        "6.6% y 5.96%"
+      ],
+      "correcta": 1,
+      "explicacion": "Los promedios correspondientes son 6.1% y 6.3%.",
+      "numero": 27
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "35. Una de las razones geográficas que explica la ubicación poblacional del hombre en las diferentes regiones del planeta es que: ____________________________.",
+      "opciones": [
+        "los hombres se concentran en las regiones donde es más fácil atender sus necesidades.",
+        "las extensiones geográficas son determinantes de la cantidad de población.",
+        "el hombre emigra a los países desarrollados para lograr una estabilidad económica.",
+        "el origen del hombre determina su ubicación geográfica en la actualidad."
+      ],
+      "correcta": 0,
+      "explicacion": "La población tiende a concentrarse en regiones donde las condiciones geográficas facilitan satisfacer sus necesidades.",
+      "numero": 35
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 3",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Desarrollo, crecimiento y modelos matemáticos. En la siguiente clase continuaremos con el Módulo 14.</p>"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

@@ -1,0 +1,196 @@
+{
+  "titulo": "Clase 2: Teorías Sociales y Estructura Social",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 4",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Ser Social y Sociedad</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 2: Teorías Sociales y Estructura Social</p>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "¿Por qué necesitamos teorías sociales?",
+      "html": "<p class='text-lg'>La realidad social es compleja: hay miles de personas interactuando, instituciones, conflictos, cambios. Para entenderla, la sociología construye <strong>teorías</strong>: marcos conceptuales que explican cómo funciona la sociedad.</p><p class='text-lg'>Cada teoría observa la sociedad desde un ángulo distinto: algunas enfatizan el orden, otras el conflicto, otras la acción de los individuos.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Positivismo y Materialismo Histórico",
+      "html": "<p class='text-lg'>Dos teorías clásicas que enfocan la sociedad de manera distinta:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Positivismo (Comte)</p><p class='text-base'>La sociedad debe estudiarse con el método científico. La ciencia es la fuerza más poderosa para el progreso humano. Solo el conocimiento basado en la observación es válido.</p></div><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Materialismo Histórico (Marx)</p><p class='text-base'>La base de toda sociedad es su modo de producción. La historia avanza por la lucha de clases. Las ideas y las instituciones reflejan la base económica.</p></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Conceptos clave del Marxismo",
+      "html": "<p class='text-lg'><strong>Modo de producción:</strong> unidad entre las fuerzas productivas (medios de producción + trabajo) y las relaciones de producción (cómo se organizan los grupos en la producción).</p><p class='text-lg'><strong>Clase social:</strong> grandes grupos de personas que se diferencian por su papel en el sistema de producción.</p><p class='text-lg'><strong>Plusvalía:</strong> el valor que produce el trabajador y que el capitalista se apropia.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Funcionalismo y Teoría Comprensiva",
+      "html": "<p class='text-lg'>Dos teorías que estudian la sociedad desde ángulos distintos:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Funcionalismo (Spencer, Durkheim)</p><p class='text-base'>La sociedad es un sistema compuesto por partes que cumplen funciones específicas. Cada institución contribuye al equilibrio del conjunto. Enfatiza el orden y el consenso.</p></div><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Teoría Comprensiva (Weber)</p><p class='text-base'>La sociología debe comprender los significados que las personas dan a sus acciones. No basta con describir hechos; hay que interpretar los motivos y sentidos.</p></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Estructuración y Teoría Crítica",
+      "html": "<p class='text-lg'>Dos teorías contemporáneas que complementan la mirada sociológica:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-cyan-500/10 border border-cyan-500/30 p-4 rounded-lg'><p class='font-semibold text-cyan-700 dark:text-cyan-300 mb-2 text-lg'>Estructuración (Giddens)</p><p class='text-base'>La estructura social son reglas y recursos que se reproducen en la práctica. Los agentes no son pasivos: reproducen y transforman la estructura.</p></div><div class='bg-orange-500/10 border border-orange-500/30 p-4 rounded-lg'><p class='font-semibold text-orange-700 dark:text-orange-300 mb-2 text-lg'>Teoría Crítica (Escuela de Frankfurt)</p><p class='text-base'>La sociología debe cuestionar el orden social y denunciar las formas de dominación. No basta con describir; hay que transformar la sociedad hacia la emancipación.</p></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "La estructura social",
+      "html": "<p class='text-lg'>La <strong>estructura social</strong> son las relaciones relativamente estables y pautadas entre las partes de una sociedad: clases, roles, instituciones, normas.</p><p class='text-lg'>No la vemos directamente, pero condiciona nuestras acciones. Influye en nuestras oportunidades, comportamientos y formas de relacionarnos.</p><p class='text-lg'>Los individuos <strong>actúan dentro</strong> de la estructura, pero también pueden modificarla.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Roles y estatus",
+      "html": "<p class='text-lg'>Dentro de la estructura social cada persona ocupa distintas posiciones:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Estatus</p><p class='text-base'>La posición que ocupa un individuo en la sociedad (hijo, estudiante, trabajador). Puede ser <em>adscrito</em> (por nacimiento) o <em>adquirido</em> (por mérito).</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Rol</p><p class='text-base'>El conjunto de comportamientos esperados según el estatus que se ocupa.</p></div></div><p class='text-lg'>Los roles y estatus organizan la vida social y facilitan la interacción.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Instituciones y cambio social",
+      "html": "<p class='text-lg'>Las <strong>instituciones sociales</strong> son patrones organizados de comportamiento que regulan áreas clave de la vida: familia, educación, economía, política, religión.</p><p class='text-lg'>Las sociedades <strong>cambian</strong> constantemente. Los principales motores del cambio son:</p><ul class='text-lg'><li><strong>Tecnológicos:</strong> nuevas herramientas transforman la vida.</li><li><strong>Económicos:</strong> crisis, innovaciones, nuevos modos de producción.</li><li><strong>Políticos:</strong> revoluciones, reformas, movimientos sociales.</li><li><strong>Culturales:</strong> nuevas ideas, valores y creencias.</li></ul>"
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Repaso: preguntas de la clase",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white mb-4'>Repaso de la clase</p><p class='text-lg text-slate-700 dark:text-slate-200'>A continuación, una serie de preguntas para reforzar lo aprendido sobre teorías sociales y estructura social.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de las siguientes afirmaciones corresponde al Positivismo?",
+      "opciones": [
+        "La ciencia es la fuerza más poderosa para el progreso humano",
+        "La sociedad solo puede entenderse desde la fe religiosa",
+        "El conocimiento verdadero proviene de la tradición oral antigua",
+        "La realidad social es incognoscible para el ser humano"
+      ],
+      "correcta": 0,
+      "explicacion": "El positivismo de Auguste Comte sostiene que la ciencia y el método científico son la base del progreso social."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "Según el Materialismo Histórico, ¿qué determina la estructura de una sociedad?",
+      "opciones": [
+        "El modo de producción, que es la base material de la sociedad",
+        "La religión predominante, que guía las costumbres sociales",
+        "El clima y la geografía, que condicionan la vida de los pueblos",
+        "El nivel educativo, que determina el desarrollo cultural"
+      ],
+      "correcta": 0,
+      "explicacion": "Para Marx y Engels, la base material de la sociedad (el modo de producción) determina su estructura y sus instituciones."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuáles son los principales exponentes del funcionalismo?",
+      "opciones": [
+        "Spencer y Durkheim, que conciben la sociedad como un sistema",
+        "Marx y Engels, que analizan la lucha de clases en la historia",
+        "Comte y Mill, que fundan la sociología como ciencia positiva",
+        "Weber y Habermas, que estudian los significados de la acción"
+      ],
+      "correcta": 0,
+      "explicacion": "Herbert Spencer y Emile Durkheim representan el funcionalismo, que concibe la sociedad como un sistema de partes que cumplen funciones."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "La teoría social que busca comprender los significados que las personas dan a sus acciones fue desarrollada por:",
+      "opciones": [
+        "Max Weber, con su teoría comprensiva de la acción social",
+        "Karl Marx, con su análisis del materialismo histórico",
+        "Auguste Comte, con su enfoque positivista de la ciencia",
+        "Herbert Spencer, con su visión organicista de la sociedad"
+      ],
+      "correcta": 0,
+      "explicacion": "La teoría comprensiva de Max Weber se enfoca en interpretar los motivos y significados que los actores dan a sus acciones."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "Según Giddens, la estructura social se define como:",
+      "opciones": [
+        "Un conjunto de reglas y recursos que se reproducen en la práctica",
+        "Un sistema fijo e inmutable que determina a los individuos",
+        "Una construcción religiosa que guía la conducta social",
+        "Un sistema exclusivamente económico de producción material"
+      ],
+      "correcta": 0,
+      "explicacion": "Para Giddens, la estructura social está formada por reglas y recursos que se organizan y reproducen en la práctica de los agentes."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "La Escuela de Frankfurt desarrolló la teoría crítica, cuyo objetivo principal es:",
+      "opciones": [
+        "Cuestionar el orden social y denunciar las formas de dominación",
+        "Describir neutralmente la sociedad sin emitir juicios de valor",
+        "Defender el statu quo y las instituciones establecidas",
+        "Explicar únicamente los fenómenos económicos de producción"
+      ],
+      "correcta": 0,
+      "explicacion": "La teoría crítica busca no solo describir, sino transformar la sociedad hacia la emancipación."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Qué se entiende por rol social?",
+      "opciones": [
+        "El conjunto de comportamientos esperados según el estatus que se ocupa",
+        "La posición económica que ocupa una persona en la sociedad",
+        "La cantidad de bienes materiales que posee una familia",
+        "El nivel educativo alcanzado por un individuo en su vida"
+      ],
+      "correcta": 0,
+      "explicacion": "El rol es lo que la sociedad espera de alguien según el estatus que ocupa (estudiante, madre, maestro, etc.)."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Para qué sirve conocer las instituciones y estructuras que integran a la sociedad?",
+      "opciones": [
+        "Para analizar críticamente los problemas sociales y su impacto futuro",
+        "Solo para aprobar el módulo y cumplir con el plan de estudios",
+        "Para aumentar el acervo cultural sin ninguna aplicación práctica",
+        "Para memorizar nombres de teóricos y sus aportaciones históricas"
+      ],
+      "correcta": 0,
+      "explicacion": "Conocer las instituciones permite analizar la realidad social, entender las relaciones y anticipar consecuencias."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál de los siguientes es un motor de cambio social?",
+      "opciones": [
+        "La innovación tecnológica, que transforma la vida cotidiana",
+        "La permanencia inmutable de las tradiciones culturales",
+        "El aislamiento de una comunidad respecto a otras regiones",
+        "La repetición constante de las mismas prácticas sociales"
+      ],
+      "correcta": 0,
+      "explicacion": "La innovación tecnológica transforma la producción, la comunicación y la vida cotidiana, siendo motor de cambio social."
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuál es la función principal de las instituciones sociales?",
+      "opciones": [
+        "Regulan aspectos fundamentales de la vida social y dan continuidad a la sociedad",
+        "Son organizaciones temporales sin influencia en la vida social",
+        "Se ocupan únicamente de los aspectos económicos de la producción",
+        "Existen solamente en las sociedades modernas industrializadas"
+      ],
+      "correcta": 0,
+      "explicacion": "Las instituciones sociales son patrones estables que regulan áreas clave de la vida (familia, educación, economía, política, religión)."
+    },
+
+    {
+      "tipo": "actividad",
+      "titulo": "Compara teorías sociales",
+      "instrucciones": "Responde en tu cuaderno:\n\nElabora un cuadro comparativo de las siguientes teorías sociales:\n\n1. Positivismo\n2. Materialismo histórico\n3. Funcionalismo\n4. Teoría comprensiva\n5. Teoría crítica\n\nIncluye para cada una:\n• Autor(es) principal(es)\n• Idea central\n• ¿Cómo entiende la sociedad?\n• ¿Qué método propone?\n\nReflexiona al final: ¿con cuál teoría te identificas más y por qué?",
+      "pista": "Guíate por las palabras clave: ciencia (positivismo), producción (marxismo), función (funcionalismo), significado (comprensiva), crítica (Frankfurt)."
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Analiza una institución social",
+      "instrucciones": "Responde en tu cuaderno:\n\nElige una institución social (familia, escuela, religión, gobierno, economía) y responde:\n\n1. ¿Cuál es su función principal en la sociedad?\n2. ¿Qué normas o reglas la rigen?\n3. ¿Cómo influye en tu vida diaria?\n4. ¿Qué cambiarías de esa institución y por qué?\n\nEscribe tu reflexión en al menos un párrafo.",
+      "pista": "Ejemplo: si eliges la escuela, su función es transmitir conocimientos y socializar; sus reglas incluyen horarios, uniformes y evaluación."
+    },
+
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 2",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase 2</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Teorías Sociales y Estructura Social</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Nos vemos en la Clase 3: Modos de Producción e Historia de las Sociedades</p>"
+    }
+  ]
+}

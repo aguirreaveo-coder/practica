@@ -1,0 +1,28 @@
+{
+  "titulo": "Clase 1: Introducción al Universo Natural",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "¿Qué es el universo natural?",
+      "html": "<p>El <strong>universo natural</strong> abarca todo lo que existe físicamente: la materia, la energía, el espacio y el tiempo. Se estudia desde tres grandes ciencias:</p><ul><li><strong>Física:</strong> las leyes fundamentales de la materia y la energía.</li><li><strong>Química:</strong> la composición y transformación de la materia.</li><li><strong>Biología:</strong> los seres vivos y sus procesos.</li></ul>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "¿Cuáles son las tres ciencias que estudian el universo natural?",
+      "opciones": [
+        "Matemáticas, historia y filosofía",
+        "Física, química y biología",
+        "Arte, música y literatura",
+        "Derecho, economía y política"
+      ],
+      "correcta": 1,
+      "explicacion": "Las ciencias naturales se dividen tradicionalmente en física, química y biología."
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Observa a tu alrededor",
+      "instrucciones": "Mira por la ventana o camina por tu casa. Anota 5 fenómenos naturales que observes y clasifícalos: ¿son físicos, químicos o biológicos?",
+      "pista": "Ejemplo: la lluvia es un fenómeno físico (cambio de estado del agua). Una planta creciendo es biológico. Un metal oxidándose es químico."
+    }
+  ]
+}

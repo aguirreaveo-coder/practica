@@ -1,0 +1,249 @@
+{
+  "titulo": "Clase 2: Genética aplicada, bioética y salud",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 17",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Evolución y sus repercusiones sociales</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 2: Genética aplicada, bioética y salud</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Genes, cromosomas, mutaciones, recombinación, transgénicos, eugenesia, bioética y salud.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Genes, cromosomas y herencia",
+      "html": "<p class='text-lg'>Un <strong>gen</strong> es una unidad de información hereditaria localizada en los cromosomas. Morgan demostró con Drosophila que los genes se encuentran en los cromosomas y estudió la herencia ligada al sexo.</p><p class='text-lg'>Un organismo homocigoto posee alelos iguales, como AA o aa; uno heterocigoto posee alelos diferentes, como Aa.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">Los genes son segmentos de ADN ubicados en cromosomas. Homocigoto significa alelos iguales y heterocigoto alelos distintos. La meiosis produce gametos haploides y genera nuevas combinaciones.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Mutaciones y recombinación",
+      "html": "<p class='text-lg'>Una <strong>mutación</strong> es un cambio en el ADN o ARN; una mutación puntual puede sustituir una base. La <strong>recombinación genética</strong> reorganiza el material hereditario durante la meiosis y aumenta la variabilidad.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">Las mutaciones son cambios del ADN y pueden ser neutras, dañinas o favorables. La recombinación intercambia segmentos y aumenta la variabilidad sobre la que actúa la selección.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Ingeniería genética y transgénicos",
+      "html": "<p class='text-lg'>La ingeniería genética modifica el material hereditario. Los cultivos transgénicos pueden aportar resistencia, nutrientes o rasgos deseables, pero su uso arbitrario puede contaminar poblaciones y reducir la biodiversidad.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">La ingeniería genética permite insertar o modificar ADN. Los transgénicos pueden beneficiar medicina y agricultura, pero exigen evaluar contaminación genética, biodiversidad, seguridad y justicia.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Eugenesia y bioética",
+      "html": "<p class='text-lg'>La <strong>eugenesia</strong> buscó mejorar rasgos hereditarios humanos mediante selección y control reproductivo. Sus prácticas coercitivas vulneran la dignidad humana.</p><p class='text-lg'>La bioética utiliza los principios de autonomía, beneficencia, no maleficencia y justicia. La autonomía exige consentimiento informado.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">La eugenesia histórica vinculó racismo con esterilización y exclusión. La bioética aplica autonomía, beneficencia, no maleficencia y justicia; el consentimiento informado exige decisión libre.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Salud y reproducción asistida",
+      "html": "<p class='text-lg'>La OMS define la salud como bienestar físico, mental y social. La reproducción asistida utiliza técnicas de manipulación de gametos para tratar la esterilidad.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">La salud es bienestar físico, mental y social. La reproducción asistida usa técnicas sobre gametos o embriones y requiere información, consentimiento y protección de derechos.</p>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Actividad: Repaso de la Guía",
+      "instrucciones": "Responde las preguntas asignadas de tu Guía y revisa las explicaciones al final.",
+      "preguntas": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        36
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Revisión de la actividad",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white mb-4'>Revisión de la actividad</p><p class='text-lg text-slate-700 dark:text-slate-200'>Compara tus respuestas con las explicaciones y relaciona cada concepto con el proceso estudiado.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 14,
+      "pregunta": "14. ¿Qué estructura contiene los genes?",
+      "opciones": [
+        "Los ribosomas",
+        "Los cromosomas",
+        "Las membranas",
+        "Los lisosomas"
+      ],
+      "correcta": 1,
+      "explicacion": "La respuesta correcta es «Los cromosomas». Esta respuesta se justifica con los conceptos de evolución, herencia, genética y sus aplicaciones revisados en el módulo."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 15,
+      "pregunta": "15. ¿Qué es un gen?",
+      "opciones": [
+        "Una unidad de información hereditaria",
+        "Una célula reproductora",
+        "Un órgano",
+        "Una enfermedad"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Una unidad de información hereditaria». Esta respuesta se justifica con los conceptos de evolución, herencia, genética y sus aplicaciones revisados en el módulo."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 16,
+      "pregunta": "16. ¿Qué es una mutación?",
+      "opciones": [
+        "Un cambio en el material genético",
+        "Una adaptación voluntaria",
+        "Una especie nueva inmediata",
+        "Una conducta aprendida"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Un cambio en el material genético». Esta respuesta se justifica con los conceptos de evolución, herencia, genética y sus aplicaciones revisados en el módulo."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 17,
+      "pregunta": "17. ¿Qué proceso aumenta la variabilidad durante la meiosis?",
+      "opciones": [
+        "La recombinación genética",
+        "La digestión",
+        "La respiración",
+        "La clonación"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «La recombinación genética». Esta respuesta se justifica con los conceptos de evolución, herencia, genética y sus aplicaciones revisados en el módulo."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 18,
+      "pregunta": "18. ¿Qué estudia la genética?",
+      "opciones": [
+        "La herencia y la variación",
+        "Solo los ecosistemas",
+        "El movimiento",
+        "La geología"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «La herencia y la variación». Esta respuesta se justifica con los conceptos de evolución, herencia, genética y sus aplicaciones revisados en el módulo."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 19,
+      "pregunta": "19. ¿Qué característica tiene un organismo homocigoto?",
+      "opciones": [
+        "Posee alelos iguales",
+        "No tiene cromosomas",
+        "Posee alelos siempre dominantes",
+        "No puede reproducirse"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Posee alelos iguales». Esta respuesta se justifica con los conceptos de evolución, herencia, genética y sus aplicaciones revisados en el módulo."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 20,
+      "pregunta": "20. ¿Qué es un organismo heterocigoto?",
+      "opciones": [
+        "Tiene alelos diferentes",
+        "Tiene una sola célula",
+        "Carece de ADN",
+        "Tiene solo alelos recesivos"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Tiene alelos diferentes». Esta respuesta se justifica con los conceptos de evolución, herencia, genética y sus aplicaciones revisados en el módulo."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 21,
+      "pregunta": "21. ¿Qué técnica permite modificar directamente el ADN?",
+      "opciones": [
+        "Ingeniería genética",
+        "Fotosíntesis",
+        "Taxonomía",
+        "Ecología"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Ingeniería genética». Esta respuesta se justifica con los conceptos de evolución, herencia, genética y sus aplicaciones revisados en el módulo."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 22,
+      "pregunta": "22. ¿Qué es un organismo transgénico?",
+      "opciones": [
+        "Uno que contiene un gen introducido de otra especie",
+        "Uno sin material genético",
+        "Uno creado sin reproducción",
+        "Uno que no tiene mutaciones"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Uno que contiene un gen introducido de otra especie». Esta respuesta se justifica con los conceptos de evolución, herencia, genética y sus aplicaciones revisados en el módulo."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 23,
+      "pregunta": "23. ¿Cuál puede ser un riesgo de los transgénicos?",
+      "opciones": [
+        "Contaminación genética y reducción de biodiversidad",
+        "Aumento de fósiles",
+        "Desaparición de los cromosomas",
+        "Imposibilidad de cultivar"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Contaminación genética y reducción de biodiversidad». Esta respuesta se justifica con los conceptos de evolución, herencia, genética y sus aplicaciones revisados en el módulo."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 24,
+      "pregunta": "24. ¿Qué buscaba la eugenesia?",
+      "opciones": [
+        "Controlar la reproducción para seleccionar rasgos",
+        "Proteger ecosistemas",
+        "Clasificar rocas",
+        "Estudiar virus"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Controlar la reproducción para seleccionar rasgos». Esta respuesta se justifica con los conceptos de evolución, herencia, genética y sus aplicaciones revisados en el módulo."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 25,
+      "pregunta": "25. ¿Qué principio bioético reconoce la capacidad de decidir del paciente?",
+      "opciones": [
+        "Autonomía",
+        "Mutación",
+        "Selección",
+        "Adaptación"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Autonomía». Esta respuesta se justifica con los conceptos de evolución, herencia, genética y sus aplicaciones revisados en el módulo."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 26,
+      "pregunta": "26. ¿Qué requiere el consentimiento informado?",
+      "opciones": [
+        "Información clara y decisión libre",
+        "Obligación estatal",
+        "Ausencia de información",
+        "Decisión de terceros"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Información clara y decisión libre». Esta respuesta se justifica con los conceptos de evolución, herencia, genética y sus aplicaciones revisados en el módulo."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 36,
+      "pregunta": "36. La rama que estudia genes y mol?culas de la herencia es la gen?tica, mientras que la que estudia mol?culas vitales es la:",
+      "opciones": [
+        "Biolog?a molecular",
+        "Biolog?a celular",
+        "Bioqu?mica",
+        "Fisiolog?a"
+      ],
+      "correcta": 2,
+      "explicacion": "La respuesta correcta es «Bioqu?mica». Esta respuesta se justifica con los conceptos de evolución, herencia, genética y sus aplicaciones revisados en el módulo."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 2",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase 2</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Evolución y sus repercusiones sociales</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Continúa con la Clase 3: Evolución de poblaciones, ciencia y sociedad.</p>"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

@@ -1,0 +1,368 @@
+{
+  "titulo": "Cuestionario Sesión 3: Química",
+  "preguntas": [
+    {
+      "pregunta": "¿Qué partícula subatómica define al elemento químico?",
+      "opciones": [
+        "El protón, que está en el núcleo y define el número atómico",
+        "El neutrón, que está en el núcleo y aporta masa al átomo",
+        "El electrón, que gira en orbitales alrededor del núcleo atómico",
+        "El isótopo, que varía según el número de neutrones del átomo"
+      ],
+      "correcta": 0,
+      "explicacion": "El número de protones (número atómico) define al elemento. Si cambia el número de protones, cambia el elemento."
+    },
+    {
+      "pregunta": "Un átomo tiene 20 protones, 20 neutrones y 20 electrones. ¿Cuál es su número másico?",
+      "opciones": [
+        "40, porque es la suma de protones más neutrones del núcleo",
+        "20, porque coincide con el número atómico del elemento",
+        "60, porque es la suma de todas las partículas subatómicas",
+        "10, porque es la mitad del total de las partículas"
+      ],
+      "correcta": 0,
+      "explicacion": "El número másico (A) = protones + neutrones = 20 + 20 = 40."
+    },
+    {
+      "pregunta": "El número de electrones en un átomo neutro es igual a:",
+      "opciones": [
+        "Al número de protones, porque las cargas se equilibran",
+        "Al número de neutrones, porque juntos forman el núcleo",
+        "Al número másico, porque indica el total de partículas",
+        "A la masa atómica, porque ambas son cantidades iguales"
+      ],
+      "correcta": 0,
+      "explicacion": "En un átomo neutro, el número de electrones es igual al número de protones, porque las cargas se equilibran."
+    },
+    {
+      "pregunta": "Un elemento tiene Z = 17. ¿Cuántos protones tiene en su núcleo?",
+      "opciones": [
+        "17 protones, porque Z representa esa cantidad exacta",
+        "34 protones, porque es el doble del número atómico",
+        "8 protones, porque es aproximadamente la mitad de Z",
+        "0 protones, porque el número Z solo indica electrones"
+      ],
+      "correcta": 0,
+      "explicacion": "El número atómico (Z) indica directamente el número de protones. Z = 17 → 17 protones (cloro)."
+    },
+    {
+      "pregunta": "Los isótopos de un mismo elemento tienen diferente número de:",
+      "opciones": [
+        "Neutrones, porque varían sin cambiar el elemento",
+        "Protones, porque eso cambiaría la identidad del átomo",
+        "Electrones, porque pierden o ganan en las reacciones",
+        "Cargas, porque unos son positivos y otros negativos"
+      ],
+      "correcta": 0,
+      "explicacion": "Los isótopos tienen el mismo número de protones (mismo elemento), pero diferente número de neutrones."
+    },
+    {
+      "pregunta": "El carbono-12 y el carbono-14 son ejemplos de:",
+      "opciones": [
+        "Isótopos, porque tienen el mismo Z pero distinto A",
+        "Iones, porque tienen carga eléctrica diferente entre sí",
+        "Moléculas, porque están formados por varios átomos",
+        "Compuestos, porque combinan diferentes elementos"
+      ],
+      "correcta": 0,
+      "explicacion": "Carbono-12 y carbono-14 son isótopos del carbono: mismo elemento (6 protones), diferente número de neutrones."
+    },
+    {
+      "pregunta": "Calcula la masa molecular del HCl (H = 1, Cl = 35.5).",
+      "opciones": [
+        "36.5 g/mol, porque es 1 más 35.5 del cloro",
+        "35.5 g/mol, porque es la masa del cloro solamente",
+        "1 g/mol, porque es la masa del hidrógeno solamente",
+        "34.5 g/mol, porque es la diferencia de ambas masas"
+      ],
+      "correcta": 0,
+      "explicacion": "HCl = 1 + 35.5 = 36.5 g/mol."
+    },
+    {
+      "pregunta": "¿Cuál es la masa molecular del O₂? (O = 16)",
+      "opciones": [
+        "32 g/mol, porque son dos átomos de oxígeno en la molécula",
+        "16 g/mol, porque es la masa de un solo átomo de oxígeno",
+        "24 g/mol, porque se suman tres átomos de oxígeno en total",
+        "48 g/mol, porque se multiplica por tres la masa atómica"
+      ],
+      "correcta": 0,
+      "explicacion": "O₂ tiene 2 átomos de oxígeno: 16 × 2 = 32 g/mol."
+    },
+    {
+      "pregunta": "Calcula la masa molecular del CaCO₃ (Ca = 40, C = 12, O = 16).",
+      "opciones": [
+        "100 g/mol, porque es 40 más 12 más tres veces 16",
+        "68 g/mol, porque es 40 más 12 más 16 sin duplicar",
+        "84 g/mol, porque es 40 más 12 más 32 del carbono",
+        "116 g/mol, porque es 40 más 12 más cuatro veces 16"
+      ],
+      "correcta": 0,
+      "explicacion": "CaCO₃ = 40 + 12 + (3 × 16) = 40 + 12 + 48 = 100 g/mol."
+    },
+    {
+      "pregunta": "¿Cuántos moles hay en 36 g de agua (H₂O, M = 18 g/mol)?",
+      "opciones": [
+        "2 moles, porque 36 entre 18 da como resultado dos",
+        "0.5 mol, porque 36 entre 18 da como resultado la mitad",
+        "1 mol, porque 36 entre 18 da como resultado la unidad",
+        "18 moles, porque hay un mol por cada gramo del agua"
+      ],
+      "correcta": 0,
+      "explicacion": "n = m / M = 36 / 18 = 2 moles."
+    },
+    {
+      "pregunta": "¿Cuántos moles hay en 88 g de CO₂? (M = 44 g/mol)",
+      "opciones": [
+        "2 moles, porque 88 entre 44 da como resultado dos",
+        "0.5 mol, porque 88 entre 44 da como resultado la mitad",
+        "1 mol, porque 88 entre 44 da como resultado la unidad",
+        "4 moles, porque hay que multiplicar 88 entre 22"
+      ],
+      "correcta": 0,
+      "explicacion": "n = m / M = 88 / 44 = 2 moles."
+    },
+    {
+      "pregunta": "¿Cuál es la masa en gramos de 2 moles de NaCl? (M = 58.5 g/mol)",
+      "opciones": [
+        "117 g, porque es 2 por 58.5 de la masa molar",
+        "58.5 g, porque es la masa molar de un solo mol",
+        "29.25 g, porque es la mitad de la masa molar total",
+        "100 g, porque es un valor aproximado al del NaCl"
+      ],
+      "correcta": 0,
+      "explicacion": "m = n × M = 2 × 58.5 = 117 g."
+    },
+    {
+      "pregunta": "¿Qué científico propuso que los electrones giran en niveles de energía definidos?",
+      "opciones": [
+        "Bohr, quien propuso que los electrones giran en niveles definidos",
+        "Dalton, quien propuso que el átomo era una esfera indivisible",
+        "Thomson, quien propuso electrones incrustados en masa positiva",
+        "Rutherford, quien propuso la existencia de un núcleo denso"
+      ],
+      "correcta": 0,
+      "explicacion": "Niels Bohr (1913) propuso que los electrones giran en niveles de energía definidos alrededor del núcleo."
+    },
+    {
+      "pregunta": "¿Cuál es el modelo atómico más reciente?",
+      "opciones": [
+        "El modelo mecánico cuántico, que describe electrones en orbitales",
+        "El modelo de Dalton, que describe el átomo como esfera sólida",
+        "El modelo de Thomson, que describe electrones en masa positiva",
+        "El modelo de Bohr, que describe electrones en niveles definidos"
+      ],
+      "correcta": 0,
+      "explicacion": "El modelo mecánico cuántico (1926+) describe los electrones en orbitales como zonas de probabilidad. Es el más actual."
+    },
+    {
+      "pregunta": "¿Qué aportó el modelo de Rutherford al estudio del átomo?",
+      "opciones": [
+        "Que existe un núcleo denso y positivo dentro del átomo entero",
+        "Que el átomo es una esfera indivisible sin partes internas",
+        "Que los electrones están en orbitales de probabilidad definida",
+        "Que el átomo tiene niveles de energía cuantificados internos"
+      ],
+      "correcta": 0,
+      "explicacion": "Rutherford (1911) demostró que el átomo tiene un núcleo denso y positivo, con electrones girando alrededor."
+    },
+    {
+      "pregunta": "¿Cuál es el símbolo químico del potasio?",
+      "opciones": [
+        "K, que proviene de su nombre en latín kalium",
+        "P, que se usa para representar al fósforo también",
+        "Po, que se usa para representar al polonio actual",
+        "Pt, que se usa para representar al platino actual"
+      ],
+      "correcta": 0,
+      "explicacion": "El potasio tiene el símbolo K (del latín kalium). P es fósforo, Po es polonio y Pt es platino."
+    },
+    {
+      "pregunta": "¿A qué grupo de la tabla periódica pertenecen los gases nobles?",
+      "opciones": [
+        "Al grupo 18, donde se ubican los elementos más estables",
+        "Al grupo 1, donde se ubican los metales más reactivos",
+        "Al grupo 2, donde se ubican los alcalinotérreos juntos",
+        "Al grupo 17, donde se ubican los halógenos reactivos"
+      ],
+      "correcta": 0,
+      "explicacion": "Los gases nobles (He, Ne, Ar, Kr, Xe, Rn) están en el grupo 18 de la tabla periódica."
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes elementos es un metal?",
+      "opciones": [
+        "El calcio (Ca), que es un metal alcalinotérreo del grupo 2",
+        "El azufre (S), que es un no metal del grupo 16 de la tabla",
+        "El cloro (Cl), que es un halógeno del grupo 17 de la tabla",
+        "El oxígeno (O), que es un no metal del grupo 16 de la tabla"
+      ],
+      "correcta": 0,
+      "explicacion": "El calcio (Ca) es un metal alcalinotérreo. Los otros son no metales."
+    },
+    {
+      "pregunta": "¿Cómo se llama el cambio de estado de líquido a gas?",
+      "opciones": [
+        "Ebullición, que ocurre al calentar un líquido hasta hacerlo gas",
+        "Fusión, que ocurre al calentar un sólido hasta hacerlo líquido",
+        "Condensación, que ocurre al enfriar un gas hasta hacerlo líquido",
+        "Sublimación, que ocurre al calentar un sólido hasta hacerlo gas"
+      ],
+      "correcta": 0,
+      "explicacion": "La ebullición (o evaporación) es el paso de líquido a gas."
+    },
+    {
+      "pregunta": "El paso de gas a sólido directamente se llama:",
+      "opciones": [
+        "Deposición, que ocurre al enfriar un gas hasta hacerlo sólido",
+        "Sublimación, que ocurre al calentar un sólido hasta hacerlo gas",
+        "Solidificación, que ocurre al enfriar un líquido hasta helarlo",
+        "Condensación, que ocurre al enfriar un gas hasta hacerlo líquido"
+      ],
+      "correcta": 0,
+      "explicacion": "La deposición (o sublimación inversa) es el paso directo de gas a sólido, sin pasar por líquido."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes es una característica del estado sólido?",
+      "opciones": [
+        "Tiene forma y volumen fijos, con partículas muy juntas entre sí",
+        "Se expande para ocupar todo el espacio disponible en el recipiente",
+        "Fluye y adopta la forma del recipiente que lo contiene entero",
+        "Es un gas ionizado con partículas cargadas eléctricamente libres"
+      ],
+      "correcta": 0,
+      "explicacion": "El estado sólido tiene forma y volumen fijos, porque sus partículas están muy juntas y ordenadas."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes es una mezcla homogénea?",
+      "opciones": [
+        "El agua con sal, porque sus componentes están distribuidos uniforme",
+        "El agua con aceite, porque se distinguen sus dos componentes",
+        "La ensalada, porque se distinguen fácilmente sus ingredientes",
+        "El granito, porque se distinguen sus minerales a simple vista"
+      ],
+      "correcta": 0,
+      "explicacion": "El agua con sal es una mezcla homogénea (disolución) porque sus componentes están distribuidos uniformemente."
+    },
+    {
+      "pregunta": "El agua (H₂O) es un ejemplo de:",
+      "opciones": [
+        "Compuesto, porque combina dos elementos unidos químicamente",
+        "Elemento, porque está formada por un solo tipo de átomo",
+        "Mezcla homogénea, porque sus componentes son uniformes",
+        "Mezcla heterogénea, porque se distinguen sus partes a simple"
+      ],
+      "correcta": 0,
+      "explicacion": "El agua es un compuesto porque combina dos elementos (H y O) unidos químicamente en proporciones fijas."
+    },
+    {
+      "pregunta": "En una disolución de refresco, el azúcar disuelta es el:",
+      "opciones": [
+        "Soluto, porque es la sustancia que se disuelve en el solvente",
+        "Solvente, porque es la sustancia que se encuentra en mayor",
+        "Coloide, porque forma una mezcla intermedia en la disolución",
+        "Precipitado, porque se deposita al fondo del recipiente"
+      ],
+      "correcta": 0,
+      "explicacion": "El soluto es la sustancia que se disuelve y generalmente está en menor cantidad. El agua sería el solvente."
+    },
+    {
+      "pregunta": "En la reacción 2Mg + O₂ → 2MgO, el magnesio:",
+      "opciones": [
+        "Se oxida, porque pierde electrones y aumenta su número de oxidación",
+        "Se reduce, porque gana electrones y disminuye su número de oxidación",
+        "No cambia, porque mantiene su estado original en la reacción",
+        "Es el agente oxidante, porque provoca la oxidación del oxígeno"
+      ],
+      "correcta": 0,
+      "explicacion": "El magnesio pasa de número de oxidación 0 a +2, es decir, pierde electrones. Se oxida."
+    },
+    {
+      "pregunta": "En una reacción redox, el agente oxidante es la sustancia que:",
+      "opciones": [
+        "Gana electrones y provoca la oxidación de otra sustancia",
+        "Pierde electrones y provoca la reducción de otra sustancia",
+        "Se oxida, porque aumenta su número de oxidación total",
+        "Es inerte, porque no participa en la transferencia de electrones"
+      ],
+      "correcta": 0,
+      "explicacion": "El agente oxidante gana electrones (se reduce) y provoca que otra sustancia se oxide."
+    },
+    {
+      "pregunta": "¿Cuál es el número de oxidación del sodio (Na) en el NaCl?",
+      "opciones": [
+        "+1, porque pertenece a la familia IA de los alcalinos",
+        "0, porque en los compuestos siempre se mantiene neutro",
+        "−1, porque gana un electrón al combinarse con el cloro",
+        "+2, porque cede dos electrones al cloro en el compuesto"
+      ],
+      "correcta": 0,
+      "explicacion": "El sodio pertenece a la familia IA (alcalinos), por lo que siempre tiene número de oxidación +1 en compuestos."
+    },
+    {
+      "pregunta": "El enlace que se forma entre dos metales se llama:",
+      "opciones": [
+        "Metálico, porque los electrones forman una nube compartida",
+        "Iónico, porque los metales ceden electrones entre ellos",
+        "Covalente, porque los metales comparten pares de electrones",
+        "Puente de hidrógeno, porque se unen por fuerzas débiles"
+      ],
+      "correcta": 0,
+      "explicacion": "El enlace metálico se forma entre átomos de metales. Ejemplo: cobre (Cu), hierro (Fe), aleaciones."
+    },
+    {
+      "pregunta": "¿Qué tipo de enlace tiene el CO₂? (C = no metal, O = no metal)",
+      "opciones": [
+        "Covalente, porque ambos elementos son no metales que comparten",
+        "Iónico, porque une un metal con un no metal en el compuesto",
+        "Metálico, porque los átomos forman una nube electrónica",
+        "Metálico-covalente, porque combina dos tipos de enlace"
+      ],
+      "correcta": 0,
+      "explicacion": "El CO₂ tiene enlace covalente porque ambos elementos son no metales. Comparten electrones."
+    },
+    {
+      "pregunta": "Los compuestos con enlace iónico, cuando están disueltos en agua:",
+      "opciones": [
+        "Conducen electricidad, porque sus iones se mueven libres",
+        "No conducen electricidad, porque no tienen iones libres",
+        "Se evaporan, porque el agua los separa completamente",
+        "Se vuelven gases, porque el agua los transforma en vapor"
+      ],
+      "correcta": 0,
+      "explicacion": "Los compuestos iónicos disueltos en agua conducen electricidad porque sus iones se separan y pueden moverse libremente."
+    },
+    {
+      "pregunta": "¿A qué grupo funcional pertenece el propanal?",
+      "opciones": [
+        "Aldehído, porque su nombre termina en el sufijo -al",
+        "Alcohol, porque su nombre termina en el sufijo -ol",
+        "Cetona, porque su nombre termina en el sufijo -ona",
+        "Éster, porque su nombre termina en -ato de -ilo"
+      ],
+      "correcta": 0,
+      "explicacion": "El sufijo -al indica aldehído. Propanal = aldehído de 3 carbonos."
+    },
+    {
+      "pregunta": "El compuesto CH₃-OH es un:",
+      "opciones": [
+        "Alcohol, porque tiene el grupo hidroxilo -OH unido al carbono",
+        "Aldehído, porque tiene el grupo carbonilo -CHO en su estructura",
+        "Cetona, porque tiene el grupo carbonilo -CO- dentro de su cadena",
+        "Ácido carboxílico, porque tiene el grupo carboxilo -COOH terminal"
+      ],
+      "correcta": 0,
+      "explicacion": "El grupo -OH (hidroxilo) caracteriza a los alcoholes. Su nombre es metanol."
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes sufijos corresponde al grupo funcional de las cetonas?",
+      "opciones": [
+        "-ona, que se usa para nombrar cetonas como la propanona",
+        "-ol, que se usa para nombrar alcoholes como el etanol",
+        "-al, que se usa para nombrar aldehídos como el metanal",
+        "-ico, que se usa para nombrar ácidos carboxílicos orgánicos"
+      ],
+      "correcta": 0,
+      "explicacion": "El sufijo -ona corresponde a las cetonas. Ejemplo: propanona (acetona)."
+    }
+  ]
+}

@@ -1,0 +1,521 @@
+{
+  "titulo": "Cuestionario Final: Matemáticas y representaciones del sistema natural",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "1. ¿A qué temperatura se observa la misma lectura en un termómetro con escala Fahrenheit y en un termómetro con escala Celsius?",
+      "opciones": [
+        "−40, porque es el punto donde ambas escalas coinciden numéricamente",
+        "0, porque es el punto de congelación del agua en ambas escalas",
+        "20, porque es la temperatura ambiente estándar para ambas escalas",
+        "273.16, porque es el punto triple del agua en ambas escalas"
+      ],
+      "correcta": 0,
+      "explicacion": "A −40 °C = −40 °F, ambas escalas marcan el mismo valor numérico. Sustituyendo en °F = (°C × 9/5) + 32 e igualando °F = °C se obtiene −40."
+    },
+    {
+      "numero": 2,
+      "pregunta": "2. ¿Qué cantidad de calorías se requieren para elevar la temperatura de 200 gramos de plomo desde 20 °C hasta 100 °C? (Calor específico del plomo = 0.031 cal/g·°C)",
+      "opciones": [
+        "496 cal, porque se aplica Q = m · c · ΔT con ΔT = 80 °C",
+        "423 cal, porque se divide la masa entre el cambio de temperatura",
+        "345 cal, porque se multiplica la masa por el calor específico sin ΔT",
+        "220 cal, porque se suma la masa y el calor específico del plomo"
+      ],
+      "correcta": 0,
+      "explicacion": "Q = m · c · ΔT = 200 · 0.031 · 80 = 496 cal."
+    },
+    {
+      "numero": 3,
+      "pregunta": "3. Un recipiente de 6 litros contiene una muestra de gas a presión de 200 Pa. ¿Cuál es la nueva presión de la muestra de gas si se coloca en un recipiente de 3 litros?",
+      "opciones": [
+        "400 Pa, porque al reducir el volumen a la mitad, la presión se duplica",
+        "180 Pa, porque al reducir el volumen, la presión disminuye proporcionalmente",
+        "600 Pa, porque al reducir el volumen a la tercera parte, la presión se triplica",
+        "1200 Pa, porque la presión aumenta al cuadrado del cambio de volumen"
+      ],
+      "correcta": 0,
+      "explicacion": "Según la ley de Boyle (a temperatura constante), P₁·V₁ = P₂·V₂. 200·6 = P₂·3 → P₂ = 400 Pa."
+    },
+    {
+      "numero": 4,
+      "pregunta": "4. Un recipiente contiene hidrógeno a 280 K y presión de 1900 N/m² en un volumen de 1000 cm³. Se reduce el volumen a 300 cm³ y se eleva la temperatura a 310 K. Suponiendo que el hidrógeno se comporta como gas ideal, ¿cuál será la presión al final del proceso?",
+      "opciones": [
+        "7011 N/m², porque se aplica la ley combinada de los gases",
+        "14000 N/m², porque se duplica la presión inicial del hidrógeno",
+        "21000 N/m², porque se triplica la presión inicial del hidrógeno",
+        "28000 N/m², porque se cuadruplica la presión inicial del hidrógeno"
+      ],
+      "correcta": 0,
+      "explicacion": "P₁V₁/T₁ = P₂V₂/T₂ → (1900·1000)/280 = (P₂·300)/310 → P₂ ≈ 7011 N/m²."
+    },
+    {
+      "numero": 5,
+      "pregunta": "5. La Tierra está rodeada por una capa de aire, que es una mezcla de 20% de oxígeno, 79% de nitrógeno y 1% de gases raros. Debido a su peso ejerce una presión sobre todos los cuerpos que están en contacto con él, la cual es llamada presión:",
+      "opciones": [
+        "Atmosférica, porque es la presión que ejerce la atmósfera terrestre",
+        "Hidrostática, porque es la presión que ejercen los fluidos en reposo",
+        "Manométrica, porque es la diferencia entre la presión absoluta y la atmosférica",
+        "Mecánica, porque es la presión ejercida por una fuerza sobre un área"
+      ],
+      "correcta": 0,
+      "explicacion": "La presión atmosférica es la que ejerce la capa de aire que rodea la Tierra sobre los cuerpos en contacto con ella."
+    },
+    {
+      "numero": 6,
+      "pregunta": "6. La prensa hidráulica es un claro ejemplo del principio de:",
+      "opciones": [
+        "Pascal, porque la presión aplicada se transmite a todo el fluido",
+        "Arquímedes, porque explica el empuje sobre los cuerpos sumergidos",
+        "Bernoulli, porque relaciona la velocidad con la presión del fluido",
+        "Torricelli, porque describe la velocidad de salida de un líquido"
+      ],
+      "correcta": 0,
+      "explicacion": "La prensa hidráulica funciona gracias al principio de Pascal: la presión aplicada a un fluido encerrado se transmite con la misma intensidad a todo el fluido."
+    },
+    {
+      "numero": 7,
+      "pregunta": "7. El radio del extremo inferior de los tacones de un par de zapatos de mujer es de 0.5 cm cada uno. Si cada tacón soporta el 30% del peso de una mujer de 49 kg, calcula la presión ejercida en cada tacón.",
+      "opciones": [
+        "187,261 Pa, porque se calcula el peso soportado y se divide entre el área del tacón",
+        "18,344 Pa, porque se divide el peso entre el área total de los dos tacones",
+        "184.0 Pa, porque se multiplica el peso por el área del tacón",
+        "1.8 × 10⁶ Pa, porque se eleva al cuadrado el radio del tacón"
+      ],
+      "correcta": 0,
+      "explicacion": "Peso soportado por cada tacón = 0.30 · 49 · 9.8 = 144.06 N. Área = π(0.005)² = 7.854×10⁻⁵ m². P = 144.06 / 7.854×10⁻⁵ ≈ 1.83×10⁵ Pa ≈ 187,261 Pa."
+    },
+    {
+      "numero": 8,
+      "pregunta": "8. Un granjero cuenta con 300 m de tela de alambre para cercar un terreno rectangular. Expresa el área del terreno cercado en función de la longitud del largo x.",
+      "opciones": [
+        "A(x) = 150x − x², porque el ancho es (300 − 2x)/2 = 150 − x",
+        "A(x) = (300 − 2x)/2, porque es el perímetro expresado en función de x",
+        "A(x) = 150 − x, porque es el ancho del terreno rectangular cercado",
+        "A(x) = 300 − 2x², porque se multiplica el largo por el ancho del terreno"
+      ],
+      "correcta": 0,
+      "explicacion": "Perímetro = 2x + 2y = 300 → y = 150 − x. Área = x · y = x(150 − x) = 150x − x²."
+    },
+    {
+      "numero": 9,
+      "pregunta": "9. Un gato hidráulico utilizado en una llantera para levantar un auto de 1600 kg es accionado mediante una fuerza sobre un pequeño pistón de 3.8 cm de diámetro. La presión ocasionada se transmite a otro de mayor área de 25 cm de diámetro. Considera F₂ = m·g. ¿Cuál es la magnitud de la fuerza aplicada?",
+      "opciones": [
+        "362.21 N, porque se aplica el principio de Pascal relacionando las áreas",
+        "15,696 N, porque es el peso del auto expresado en newtons",
+        "3,622.10 N, porque se multiplica el peso por el cociente de las áreas",
+        "69,284.37 N, porque se aplica el principio de Pascal con las áreas invertidas"
+      ],
+      "correcta": 0,
+      "explicacion": "F₂ = 1600·9.8 = 15,680 N. A₁ = π(0.019)² = 0.001134 m², A₂ = π(0.125)² = 0.04909 m². F₁ = F₂ · A₁/A₂ = 15,680 · (0.001134/0.04909) ≈ 362.21 N."
+    },
+    {
+      "numero": 10,
+      "pregunta": "10. Se tiene una prensa hidráulica cuyos radios son conocidos r₁ = 1 m y r₂ = 0.5 m. En el círculo de radio r₁ se aplica la fuerza F₁ = 10 N. ¿Cuáles de los siguientes datos son necesarios para calcular la fuerza F₂ ejercida en el radio r₂?",
+      "opciones": [
+        "1 y 4, porque se aplica el principio de Pascal y se calculan las áreas",
+        "2 y 3, porque se necesita la densidad del fluido y las dimensiones de la prensa",
+        "3 y 4, porque solo se necesitan las dimensiones y el cálculo de áreas",
+        "1 y 2, porque se aplica Pascal y se necesita la densidad del fluido"
+      ],
+      "correcta": 0,
+      "explicacion": "Para calcular F₂ se aplica el principio de Pascal (1) y se calculan las áreas de los círculos (4) con los radios dados."
+    },
+    {
+      "numero": 11,
+      "pregunta": "11. ¿Qué representa esta ecuación? P₁ + ρgh₁ + ½ρv₁² = P₂ + ρgh₂ + ½ρv₂²",
+      "opciones": [
+        "La ecuación de Bernoulli, porque relaciona presión, altura y velocidad",
+        "El balance de energía cinética, porque solo considera la velocidad del fluido",
+        "La ecuación de trabajo, porque relaciona fuerza y desplazamiento",
+        "La ecuación de energía potencial, porque solo considera la altura del fluido"
+      ],
+      "correcta": 0,
+      "explicacion": "La ecuación de Bernoulli relaciona la presión, la energía potencial gravitatoria y la energía cinética de un fluido en movimiento."
+    },
+    {
+      "numero": 12,
+      "pregunta": "12. Elige la opción que completa correctamente la siguiente definición: Si un líquido está en movimiento a velocidad v, entonces una masa m de líquido posee una energía:",
+      "opciones": [
+        "Cinética, porque depende de la velocidad del líquido en movimiento",
+        "Mecánica, porque combina la energía cinética y la potencial del líquido",
+        "Potencial, porque depende de la altura a la que se encuentra el líquido",
+        "Eléctrica, porque está relacionada con las cargas del líquido en movimiento"
+      ],
+      "correcta": 0,
+      "explicacion": "Un cuerpo en movimiento posee energía cinética, que depende de su masa y su velocidad."
+    },
+    {
+      "numero": 13,
+      "pregunta": "13. El punto de ebullición del oxígeno es de −297.35 °F. ¿Cuál es la temperatura correspondiente en grados Celsius?",
+      "opciones": [
+        "−183, porque se aplica la fórmula °C = (°F − 32) × 5/9",
+        "−122, porque se multiplica −297.35 por 5/9 y se suma 32",
+        "−61, porque se suma 32 a −297.35 y se multiplica por 5",
+        "−20, porque se divide −297.35 entre la constante de conversión"
+      ],
+      "correcta": 0,
+      "explicacion": "°C = (−297.35 − 32) × 5/9 = (−329.35) × 5/9 ≈ −183 °C."
+    },
+    {
+      "numero": 14,
+      "pregunta": "14. La conversión de −30 °C a K corresponde a:",
+      "opciones": [
+        "243.16 K, porque se suma 273.16 al valor en Celsius",
+        "273.16 K, porque es el punto de congelación del agua en Kelvin",
+        "−273.16 K, porque la temperatura es negativa en Celsius",
+        "−243.16 K, porque se resta 273.16 al valor en Celsius"
+      ],
+      "correcta": 0,
+      "explicacion": "K = °C + 273.16 = −30 + 273.16 = 243.16 K."
+    },
+    {
+      "numero": 15,
+      "pregunta": "15. La conversión de 20 °C a °F corresponde a:",
+      "opciones": [
+        "68 °F, porque se aplica la fórmula °F = (°C × 9/5) + 32",
+        "52 °F, porque se multiplica 20 por 9/5 y se resta 32",
+        "−68 °F, porque se invierte el signo del resultado de la conversión",
+        "−52 °F, porque se resta 32 del producto de 20 por 9/5"
+      ],
+      "correcta": 0,
+      "explicacion": "°F = (20 × 9/5) + 32 = 36 + 32 = 68 °F."
+    },
+    {
+      "numero": 16,
+      "pregunta": "16. En una tubería de 11 cm de diámetro fluye agua con una velocidad de 8 m/s. Supón que en una parte de la tubería se reduce el diámetro a 6 cm. ¿Qué velocidad tiene el agua en este punto?",
+      "opciones": [
+        "26.88 m/s, porque se aplica la ecuación de continuidad con las áreas",
+        "2.38 m/s, porque se divide la velocidad inicial entre el cambio de diámetro",
+        "0.0371 m/s, porque se multiplica la velocidad por el cociente de diámetros",
+        "8.0 m/s, porque la velocidad no cambia al reducir el diámetro de la tubería"
+      ],
+      "correcta": 0,
+      "explicacion": "A₁v₁ = A₂v₂ → (11²)(8) = (6²)(v₂) → v₂ = 121·8/36 ≈ 26.88 m/s."
+    },
+    {
+      "numero": 17,
+      "pregunta": "17. Calcula el gasto de agua por una tubería de diámetro igual a 26.20 cm cuando la velocidad del líquido es de 8 m/s.",
+      "opciones": [
+        "0.431 m³/s, porque se multiplica el área de la tubería por la velocidad",
+        "4310.8 m³/s, porque se eleva al cuadrado el diámetro y se multiplica por 8",
+        "43.10 m³/s, porque se divide el diámetro entre la velocidad del líquido",
+        "0.0067 m³/s, porque se divide la velocidad entre el área de la tubería"
+      ],
+      "correcta": 0,
+      "explicacion": "A = π(0.131)² = 0.0539 m². Gasto = A · v = 0.0539 · 8 ≈ 0.431 m³/s."
+    },
+    {
+      "numero": 18,
+      "pregunta": "18. Dos cargas puntuales de −8 y +11 μC están separadas por una distancia de 30 mm en el vacío. ¿Cuál es la fuerza eléctrica entre ellas? (1 μC = 10⁻⁶ C)",
+      "opciones": [
+        "8.8 × 10² N, porque se aplica la ley de Coulomb con las cargas dadas",
+        "−880 N, porque el signo negativo indica la dirección de la fuerza",
+        "8.8 × 10⁻⁴ N, porque se divide el resultado entre la distancia al cuadrado",
+        "8.8 × 10⁻⁵ N, porque se multiplica la constante por las cargas y la distancia"
+      ],
+      "correcta": 0,
+      "explicacion": "F = k·q₁·q₂/r² = (9×10⁹)(8×10⁻⁶)(11×10⁻⁶)/(0.03)² ≈ 880 N. Se toma el valor absoluto: 8.8 × 10² N."
+    },
+    {
+      "numero": 19,
+      "pregunta": "19. Relaciona las siguientes columnas que contienen las formas de energizar un cuerpo con los elementos que integran las descripciones. (1) Frotamiento (2) Contacto (3) Inducción — (a) Un cuerpo cargado toca a otro (b) Dos cuerpos se frotan entre sí (c) Un cuerpo cargado se acerca a otro sin tocarlo (d) Se transfiere carga por contacto directo (e) Se reorganizan las cargas sin contacto (f) Los electrones pasan de un cuerpo a otro por fricción",
+      "opciones": [
+        "[1-b, f] [2-a, d] [3-c, e], porque el frotamiento transfiere electrones, el contacto los comparte y la inducción los reorganiza",
+        "[1-c] [2-a, d] [3-f, e], porque el frotamiento implica inducción y el contacto transfiere carga",
+        "[1-b] [2-f, e] [3-a, d], porque el frotamiento y contacto son formas de inducción",
+        "[1-c] [2-f, d] [3-a, e], porque la inducción ocurre primero que el frotamiento"
+      ],
+      "correcta": 0,
+      "explicacion": "Frotamiento: dos cuerpos se frotan y los electrones pasan de uno a otro (b, f). Contacto: un cuerpo cargado toca a otro y le transfiere carga (a, d). Inducción: un cuerpo cargado se acerca sin tocar y reorganiza las cargas (c, e)."
+    },
+    {
+      "numero": 20,
+      "pregunta": "20. Polos magnéticos iguales se repelen y polos magnéticos diferentes se atraen. ¿A cuál ley se refiere?",
+      "opciones": [
+        "Ley de la electrostática, porque describe la interacción entre cargas y polos",
+        "Ley de Ohm, porque relaciona voltaje, corriente y resistencia",
+        "Ley de Coulomb, porque describe la fuerza entre cargas eléctricas puntuales",
+        "Ley de la fuerza electromagnética, porque describe la interacción entre imanes"
+      ],
+      "correcta": 0,
+      "explicacion": "Esta es la primera ley de la electrostática, que describe la interacción entre polos magnéticos."
+    },
+    {
+      "numero": 21,
+      "pregunta": "21. Se tiene un imán suspendido por una cuerda; posteriormente se acerca una barra imantada como se muestra en la figura. Describe lo que debe ocurrir en este experimento.",
+      "opciones": [
+        "Ambos elementos imantados se repelen, porque los polos que se enfrentan son iguales",
+        "Nada, porque la barra A está aislada y no interactúa con el imán suspendido",
+        "La barra B atrae a la barra A, porque los polos que se enfrentan son diferentes",
+        "El polo norte de A se convierte en polo sur, porque la barra B invierte su polaridad"
+      ],
+      "correcta": 0,
+      "explicacion": "Si los polos que se enfrentan son iguales, se repelen; si son diferentes, se atraen. La figura muestra polos iguales enfrentados, por lo que se repelen."
+    },
+    {
+      "numero": 22,
+      "pregunta": "22. Un tostador eléctrico se conecta a una diferencia de potencial de 120 V y por su resistencia circula una corriente de 5 A. ¿Cuál es el valor de la resistencia del tostador?",
+      "opciones": [
+        "24 Ω, porque se aplica la ley de Ohm despejando R = V / I",
+        "600 Ω, porque se multiplica el voltaje por la corriente que circula",
+        "0.042 Ω, porque se divide la corriente entre el voltaje aplicado",
+        "125 Ω, porque se suma la corriente al voltaje del tostador"
+      ],
+      "correcta": 0,
+      "explicacion": "Según la ley de Ohm, V = I · R. Despejando: R = V / I = 120 / 5 = 24 Ω."
+    },
+    {
+      "numero": 23,
+      "pregunta": "23. Un generador de corriente alterna trabaja a 120 V. Por medio de un transformador con una bobina primaria de 1000 espiras, se opera una lámpara de 9 V. ¿Cuántas espiras tendrá la bobina secundaria del transformador?",
+      "opciones": [
+        "75 vueltas, porque se aplica la relación V₁/V₂ = N₁/N₂",
+        "750 vueltas, porque se multiplica el voltaje de la lámpara por 1000",
+        "13000 vueltas, porque se suman los voltajes y se multiplican por 1000",
+        "120000 vueltas, porque se multiplica el voltaje primario por las espiras"
+      ],
+      "correcta": 0,
+      "explicacion": "N₂ = N₁ · V₂/V₁ = 1000 · 9/120 = 75 vueltas."
+    },
+    {
+      "numero": 24,
+      "pregunta": "24. Si \"a\" es un ángulo menor de 90°, ¿cómo se llama al ángulo positivo b = 90° − a?",
+      "opciones": [
+        "Complemento de \"a\", porque dos ángulos complementarios suman 90°",
+        "Conjugado de \"a\", porque dos ángulos conjugados suman 360°",
+        "Suplemento de \"a\", porque dos ángulos suplementarios suman 180°",
+        "Correspondiente de \"a\", porque ocupan la misma posición relativa"
+      ],
+      "correcta": 0,
+      "explicacion": "Dos ángulos complementarios suman 90°. Por eso b = 90° − a es el complemento de a."
+    },
+    {
+      "numero": 25,
+      "pregunta": "25. En la figura se muestra un ángulo de 120° y un ángulo B. ¿Cuál es el valor de B y por qué?",
+      "opciones": [
+        "B = 60°, porque debe cumplirse que B + 120° = 180°",
+        "B = 120°, porque los ángulos son suplementarios entre sí",
+        "B = 120°, porque son ángulos opuestos por el vértice",
+        "B = 240°, porque se cumple que B + 120° = 360°"
+      ],
+      "correcta": 0,
+      "explicacion": "Si los ángulos son suplementarios, B + 120° = 180°, entonces B = 60°."
+    },
+    {
+      "numero": 26,
+      "pregunta": "26. Selecciona la opción que completa correctamente el siguiente enunciado: __________________ es la abertura formada por dos semirrectas con un mismo origen llamado vértice.",
+      "opciones": [
+        "El ángulo, porque se forma por dos semirrectas con un origen común",
+        "El grado, porque es la unidad de medida de los ángulos",
+        "La coterminal, porque comparte el lado inicial con otro ángulo",
+        "La bisectriz, porque divide un ángulo en dos partes iguales"
+      ],
+      "correcta": 0,
+      "explicacion": "Un ángulo es la abertura formada por dos semirrectas que parten de un mismo punto llamado vértice."
+    },
+    {
+      "numero": 27,
+      "pregunta": "27. Las siguientes figuras no pueden catalogarse como semejantes. Esto lo establece el criterio de:",
+      "opciones": [
+        "Los ángulos, porque las figuras semejantes deben tener ángulos iguales",
+        "Los lados, porque las figuras semejantes deben tener lados proporcionales",
+        "Las paralelas, porque las figuras semejantes deben tener lados paralelos",
+        "La perpendicularidad, porque las figuras semejantes deben tener ángulos rectos"
+      ],
+      "correcta": 0,
+      "explicacion": "Dos figuras son semejantes si tienen ángulos iguales y lados proporcionales. Si los ángulos no coinciden, no son semejantes."
+    },
+    {
+      "numero": 28,
+      "pregunta": "28. Identifica la opción que contiene la expresión matemática de la presión que señala que, a mayor fuerza aplicada, mayor presión y a mayor área sobre la que actúa la fuerza, menor presión.",
+      "opciones": [
+        "P = F / A, porque la presión es directamente proporcional a la fuerza e inversamente proporcional al área",
+        "P = A / F, porque la presión es directamente proporcional al área e inversamente proporcional a la fuerza",
+        "P = F · A, porque la presión es el producto de la fuerza por el área",
+        "P = F + A, porque la presión es la suma de la fuerza y el área"
+      ],
+      "correcta": 0,
+      "explicacion": "La presión es directamente proporcional a la fuerza aplicada e inversamente proporcional al área sobre la que actúa: P = F/A."
+    },
+    {
+      "numero": 29,
+      "pregunta": "29. El profesor de física mostró los siguientes resultados de unos ejercicios. ¿Cuál resultado corresponde a las unidades de densidad?",
+      "opciones": [
+        "1.2 kg/cm³, porque la densidad es masa entre volumen",
+        "3.5 m³, porque el metro cúbico es una unidad de volumen",
+        "220 N·m, porque el newton-metro es una unidad de trabajo",
+        "350 lb/in², porque la libra sobre pulgada cuadrada es una unidad de presión"
+      ],
+      "correcta": 0,
+      "explicacion": "La densidad se mide en unidades de masa entre volumen, como kg/cm³, kg/m³ o g/cm³."
+    },
+    {
+      "numero": 30,
+      "pregunta": "30. Calcula el área de un émbolo de prensa hidráulica si se le aplica una fuerza de 500 N y se produce, como consecuencia, en el otro émbolo de área 0.60 m², una fuerza de 5000 N.",
+      "opciones": [
+        "0.06 m², porque se aplica el principio de Pascal con las fuerzas y el área",
+        "0.12 m², porque se duplica el área del émbolo mayor",
+        "0.30 m², porque se divide el área mayor entre la mitad de la fuerza",
+        "0.60 m², porque el área del émbolo pequeño es igual al del grande"
+      ],
+      "correcta": 0,
+      "explicacion": "F₁/A₁ = F₂/A₂ → 500/A₁ = 5000/0.60 → A₁ = 500·0.60/5000 = 0.06 m²."
+    },
+    {
+      "numero": 31,
+      "pregunta": "31. Calcula el tiempo que tardará en llenarse un tanque cuya capacidad es de 150 m³ al suministrarle un gasto de 60 L/s.",
+      "opciones": [
+        "2500 s, porque se convierte el gasto a m³/s y se divide la capacidad entre él",
+        "250 s, porque se divide la capacidad entre el gasto sin convertirlo a m³/s",
+        "2.5 s, porque se multiplica el gasto por la capacidad del tanque",
+        "9 s, porque se divide el gasto entre la capacidad del tanque"
+      ],
+      "correcta": 0,
+      "explicacion": "60 L/s = 0.06 m³/s. t = V / Q = 150 / 0.06 = 2500 s."
+    },
+    {
+      "numero": 32,
+      "pregunta": "32. Relaciona los teoremas o ecuaciones con su respectivo enunciado. (1) Torricelli (2) Continuidad (3) Bernoulli (4) Venturi — (a) El gasto que entra por una tubería es el mismo que sale (b) La suma de las energías cinética, potencial y de presión es igual en cualquier punto del líquido (c) Un fluido disminuye su presión al aumentar la velocidad al pasar por una sección menor (d) La velocidad de salida de un líquido por un orificio es igual a la de un cuerpo en caída libre",
+      "opciones": [
+        "[1-d] [2-a] [3-b] [4-c], porque cada enunciado corresponde al teorema o ecuación indicada",
+        "[1-a] [2-b] [3-c] [4-d], porque los teoremas se relacionan con el orden dado",
+        "[1-b] [2-d] [3-a] [4-c], porque la continuidad describe la energía del fluido",
+        "[1-c] [2-b] [3-d] [4-a], porque el teorema de Venturi describe la conservación del gasto"
+      ],
+      "correcta": 0,
+      "explicacion": "Torricelli (d): velocidad de salida por un orificio. Continuidad (a): el gasto se conserva. Bernoulli (b): la energía total del fluido se conserva. Venturi (c): la presión disminuye al aumentar la velocidad."
+    },
+    {
+      "numero": 33,
+      "pregunta": "33. ¿Cuáles de las opciones contienen las palabras que completan el enunciado siguiente? La primera ley de la electrostática enuncia: las cargas del __ signo se repelen y las cargas de signo ____ se atraen.",
+      "opciones": [
+        "Mismo → contrario, porque cargas iguales se repelen y opuestas se atraen",
+        "Positivo → negativo, porque las cargas positivas repelen a las negativas",
+        "Contrario → mismo, porque cargas opuestas se repelen y las iguales se atraen",
+        "Negativo → positivo, porque las cargas negativas repelen a las positivas"
+      ],
+      "correcta": 0,
+      "explicacion": "La primera ley de la electrostática dice que cargas del mismo signo se repelen y cargas de signo contrario se atraen."
+    },
+    {
+      "numero": 34,
+      "pregunta": "34. Al hacer flotar un cubito de hielo en un vaso con agua lleno hasta el borde, ¿se desborda cuando el hielo que sobresale del agua se deshaga?",
+      "opciones": [
+        "No, porque el hielo fundido llena el volumen desplazado y el nivel no cambia",
+        "Sí, pero solo cuando no hay mucho hielo en el vaso de agua",
+        "Sí, pero solo cuando el hielo se funde con rapidez en el agua",
+        "Sí, independientemente de lo rápido que se funda el hielo en el agua"
+      ],
+      "correcta": 0,
+      "explicacion": "Según el principio de Arquímedes, el hielo desplaza un volumen de agua igual al peso del hielo. Al fundirse, el agua resultante ocupa exactamente ese volumen desplazado, por lo que el nivel no cambia."
+    },
+    {
+      "numero": 35,
+      "pregunta": "35. Calcula la cantidad de carga eléctrica en coulombs que transporta una corriente de 5 miliamperios durante 3 décimas de segundo.",
+      "opciones": [
+        "0.0015 C, porque se convierte la corriente a amperes y se multiplica por el tiempo",
+        "15 mC, porque se multiplican los miliamperios por el tiempo en segundos",
+        "0.015 C, porque se multiplica la corriente por el tiempo sin convertirlos",
+        "1.5 × 10⁻⁶ C, porque se divide la corriente entre el tiempo transcurrido"
+      ],
+      "correcta": 0,
+      "explicacion": "Q = I · t = (5 × 10⁻³ A)(0.3 s) = 1.5 × 10⁻³ C = 0.0015 C."
+    },
+    {
+      "numero": 36,
+      "pregunta": "36. Al presentar el examen del módulo te piden obtener un cálculo aproximado del orden de magnitud del área de un terreno circular de radio 5 m. Para resolverlo, imagina que trazas un cuadrado exterior al círculo y con esa construcción debes tener una idea aproximada del área del círculo. Te dan como opciones: 50 m², 75 m², 80 m² y 20 m². ¿Qué haces en este caso con la información disponible?",
+      "opciones": [
+        "Eliges 75 m² porque consideras que el terreno circular debe ocupar 3/4 del área del cuadrado de lado 10 m",
+        "Si no sabes qué fórmula utilizar, prefieres no responder a la pregunta para no incurrir en un error mayor",
+        "Escoges la opción de 50 m² porque el área del cuadrado es de 100 m² y el área del círculo debe ser menor",
+        "Eliges al azar, por ejemplo 20 m², porque te das cuenta de que es una pregunta capciosa"
+      ],
+      "correcta": 0,
+      "explicacion": "El cuadrado exterior tiene lado 10 m, área 100 m². El círculo ocupa aproximadamente 3/4 de esa área, es decir, unos 75 m²."
+    },
+    {
+      "numero": 37,
+      "pregunta": "37. Es muy sabido que cada persona requiere un número de calorías diarias en su alimentación, pero ¿qué representan estas calorías para las personas?",
+      "opciones": [
+        "Energía, porque las calorías son una unidad de energía",
+        "Calor específico, porque indica el calor que requiere cada sustancia",
+        "Fuerza, porque las calorías miden la fuerza de los alimentos",
+        "Capacidad calorífica, porque mide el calor que puede almacenar el cuerpo"
+      ],
+      "correcta": 0,
+      "explicacion": "Las calorías que consumimos en los alimentos representan energía que el cuerpo utiliza para realizar sus funciones."
+    },
+    {
+      "numero": 38,
+      "pregunta": "38. ¿Cuál de las siguientes opciones es una hipótesis simplificatoria que se basa en una característica de los líquidos que facilita el estudio de su movimiento?",
+      "opciones": [
+        "Se considera que son prácticamente incompresibles, porque su volumen cambia muy poco",
+        "Las moléculas tienen cohesión que evita su volatilidad a temperatura ambiente",
+        "Su tensión superficial es creciente con el movimiento que experimentan",
+        "Disponen de una viscosidad prácticamente nula en todos los líquidos conocidos"
+      ],
+      "correcta": 0,
+      "explicacion": "Para facilitar el estudio de los fluidos se asume que los líquidos son incompresibles, ya que su volumen cambia muy poco con la presión."
+    },
+    {
+      "numero": 39,
+      "pregunta": "39. La ley de Coulomb expresada matemáticamente se escribe como F = k·q₁·q₂/r². ¿Qué valor posee la constante de proporcionalidad k?",
+      "opciones": [
+        "9 × 10⁹ N·m²/C², porque es el valor experimental de la constante de Coulomb",
+        "8 × 10⁹ N·m²/C², porque se aproxima al valor del campo eléctrico",
+        "7 × 10⁹ N·m²/C², porque depende del medio en que se mide",
+        "10 × 10⁹ N·m²/C², porque es la suma de las constantes eléctricas"
+      ],
+      "correcta": 0,
+      "explicacion": "La constante de Coulomb k = 9 × 10⁹ N·m²/C² en el vacío."
+    },
+    {
+      "numero": 40,
+      "pregunta": "40. Las unidades de medida de un campo eléctrico \"E\" son:",
+      "opciones": [
+        "N/C, porque el campo eléctrico es fuerza por unidad de carga",
+        "kg·m/C, porque relaciona la masa con la carga eléctrica",
+        "N·C, porque el campo eléctrico es el producto de la fuerza por la carga",
+        "C/N, porque el campo eléctrico es la carga por unidad de fuerza"
+      ],
+      "correcta": 0,
+      "explicacion": "El campo eléctrico se mide en newtons por coulomb (N/C), ya que es la fuerza por unidad de carga."
+    },
+    {
+      "numero": 41,
+      "pregunta": "41. Si a = 86°, ¿cuál es el valor del ángulo suplementario?",
+      "opciones": [
+        "94°, porque dos ángulos suplementarios suman 180°",
+        "4°, porque dos ángulos complementarios suman 90°",
+        "274°, porque se obtiene al restar de 360° el ángulo dado",
+        "14°, porque es la diferencia entre 100° y el ángulo dado"
+      ],
+      "correcta": 0,
+      "explicacion": "Dos ángulos suplementarios suman 180°. Por lo tanto, 180° − 86° = 94°."
+    },
+    {
+      "numero": 42,
+      "pregunta": "42. ¿Cómo se denomina la cantidad de calor que se requiere para cambiar 1 g de sólido a 1 g de líquido sin variar su temperatura?",
+      "opciones": [
+        "Calor latente de fusión, porque es el calor necesario para el cambio de fase sólido a líquido",
+        "Calor de absorción, porque es el calor que absorbe el cuerpo al calentarse",
+        "Calor cedido, porque es el calor que libera un cuerpo al enfriarse",
+        "Calor latente de vaporización, porque es el calor necesario para cambiar de líquido a gas"
+      ],
+      "correcta": 0,
+      "explicacion": "El calor latente de fusión es la cantidad de calor necesaria para cambiar 1 g de sólido a 1 g de líquido sin cambiar la temperatura."
+    },
+    {
+      "numero": 43,
+      "pregunta": "43. ¿En qué cuadrantes se encuentran el conjunto de puntos (x, y) en el plano que satisfacen la condición (x)·(y) < 0? Considera el orden de los cuadrantes: I, II, III, IV.",
+      "opciones": [
+        "Cuadrantes II y IV, porque en ellos las coordenadas tienen signos opuestos",
+        "Cuadrantes II y III, porque en ellos una de las coordenadas es negativa",
+        "Cuadrantes I y II, porque en ellos las coordenadas son positivas",
+        "Cuadrantes III y IV, porque en ellos una de las coordenadas es negativa"
+      ],
+      "correcta": 0,
+      "explicacion": "El producto (x)(y) < 0 significa que x y y tienen signos opuestos. Esto ocurre en los cuadrantes II (−, +) y IV (+, −)."
+    }
+  ]
+}

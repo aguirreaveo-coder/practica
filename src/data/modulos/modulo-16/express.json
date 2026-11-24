@@ -1,0 +1,170 @@
+{
+  "titulo": "Clase Express: Hacia un Desarrollo Sustentable",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 16",
+      "html": "<p class='text-2xl text-slate-300'>Hacia un Desarrollo Sustentable</p><p class='text-lg text-slate-400 mt-4'>Clase Express — Versión comprimida</p><p class='text-base text-slate-500 mt-8'>Recorrido por los conceptos clave del módulo en una sola sesión</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "¿Qué es la materia?",
+      "html": "<p>La <strong>materia</strong> es todo lo que tiene masa y ocupa un lugar en el espacio. Se clasifica según su <strong>composición</strong> en dos grandes grupos:</p><ul><li><strong>Sustancias puras:</strong> una sola clase de partícula.</li><li><strong>Mezclas:</strong> dos o más sustancias combinadas físicamente.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Sustancias puras: elementos y compuestos",
+      "html": "<p><strong>Elemento:</strong> formado por un solo tipo de átomo. No se puede descomponer químicamente. Ej: Au, O₂, Na, Cd.</p><p><strong>Compuesto:</strong> formado por dos o más elementos unidos químicamente en proporciones fijas. Se puede descomponer. Ej: H₂O, H₂SO₄, CH₄, HCl.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Mezclas: homogéneas y heterogéneas",
+      "html": "<p><strong>Homogéneas (disoluciones):</strong> componentes uniformes, no se distinguen a simple vista. Ej: agua de mar, aire, gasolina, acero.</p><p><strong>Heterogéneas:</strong> componentes visibles a simple vista. Ej: agua con aceite, cemento con arena, ensalada, granito.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Métodos de separación",
+      "html": "<ul><li><strong>Filtración:</strong> separa sólidos insolubles de líquidos (arena del agua).</li><li><strong>Decantación:</strong> separa líquidos no miscibles (agua y aceite).</li><li><strong>Destilación:</strong> separa líquidos miscibles por punto de ebullición (alcohol y agua).</li><li><strong>Evaporación:</strong> recupera sólidos disueltos (sal del agua de mar).</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Propiedades: fijas vs variables",
+      "html": "<p>Las <strong>sustancias puras</strong> tienen propiedades constantes: punto de fusión, ebullición y densidad fijos.</p><p>Las <strong>mezclas</strong> tienen propiedades variables, porque dependen de las proporciones de sus componentes.</p><p>Ejemplo: el agua pura hierve a 100 °C; si hierve a otra temperatura, contiene impurezas.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Reacciones químicas",
+      "html": "<p>Una <strong>reacción química</strong> transforma reactivos en productos. Los átomos se reorganizan, pero no se crean ni destruyen.</p><p class='font-mono text-center my-4'>CH₄ + 2O₂ → CO₂ + 2H₂O</p><p>Una ecuación balanceada cumple la <strong>Ley de conservación de la masa</strong>: mismo número de átomos de cada elemento en ambos lados.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tipos de reacciones",
+      "html": "<ul><li><strong>Síntesis:</strong> A + B → AB. Ej: 2H₂ + O₂ → 2H₂O</li><li><strong>Descomposición:</strong> AB → A + B. Ej: 2H₂O₂ → 2H₂O + O₂</li><li><strong>Sustitución simple:</strong> A + BC → AC + B. Ej: Zn + 2HCl → ZnCl₂ + H₂</li><li><strong>Doble sustitución:</strong> AB + CD → AD + CB. Ej: AgNO₃ + NaCl → AgCl + NaNO₃</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Masa molar y mol",
+      "html": "<p>La <strong>masa molar (M)</strong> es la masa de un mol de sustancia, en g/mol. Se calcula sumando las masas atómicas.</p><p>Ejemplo: H₂O = 2(1) + 16 = <strong>18 g/mol</strong></p><p>Un <strong>mol</strong> = 6.022 × 10²³ partículas.</p><p class='font-mono text-center my-4'>n = m / M</p><p>n = moles, m = masa (g), M = masa molar (g/mol)</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Estequiometría y termoquímica",
+      "html": "<p>Los coeficientes de una ecuación balanceada indican la <strong>proporción en moles</strong> entre reactivos y productos.</p><p><strong>Exotérmica:</strong> libera calor (ΔH negativo). Ej: combustión.</p><p><strong>Endotérmica:</strong> absorbe calor (ΔH positivo).</p><p><strong>Molaridad:</strong> M = n / V (moles de soluto por litro de disolución).</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Conversión de temperatura",
+      "html": "<p>Fórmulas clave:</p><ul><li>°F = (°C × 9/5) + 32</li><li>°C = (°F − 32) × 5/9</li><li>K = °C + 273.15</li><li>°C = K − 273.15</li></ul><p>Ejemplo: 30 °C = (30 × 9/5) + 32 = 86 °F = 303 K</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Niveles de organización ecológica",
+      "html": "<p>De menor a mayor complejidad:</p><ul><li><strong>Individuo</strong> → un ser vivo.</li><li><strong>Población</strong> → misma especie.</li><li><strong>Biocenosis o comunidad</strong> → todas las poblaciones.</li><li><strong>Ecosistema</strong> → biocenosis + biotopo.</li><li><strong>Bioma</strong> → ecosistemas similares.</li><li><strong>Biosfera</strong> → todos los ecosistemas del planeta.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Biocenosis y biotopo",
+      "html": "<p><strong>Biocenosis:</strong> conjunto de seres vivos de un ecosistema (parte biótica).</p><p><strong>Biotopo:</strong> espacio físico con sus características abióticas (suelo, clima, agua).</p><p>La interacción entre ambos forma el <strong>ecosistema</strong>.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Cadenas alimenticias y fotosíntesis",
+      "html": "<p>Niveles tróficos:</p><ul><li><strong>Productores:</strong> fabrican su alimento (plantas, algas).</li><li><strong>Consumidores primarios:</strong> herbívoros.</li><li><strong>Consumidores secundarios:</strong> carnívoros.</li><li><strong>Descomponedores:</strong> hongos y bacterias.</li></ul><p><strong>Fotosíntesis:</strong> 6CO₂ + 6H₂O + luz → C₆H₁₂O₆ + 6O₂. Solo la realizan los productores.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Ciclo hidrológico",
+      "html": "<p>Movimiento continuo del agua entre océanos, atmósfera y continentes:</p><ul><li>Evaporación (por acción del sol)</li><li>Transpiración (plantas)</li><li>Condensación (formación de nubes)</li><li>Precipitación (lluvia, nieve, granizo)</li><li>Escurrimiento (retorno a ríos y océanos)</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Ciclo del nitrógeno y del azufre",
+      "html": "<p><strong>Nitrogeno:</strong> reservas abióticas incluyen N₂ atmosférico, nitratos (NO₃⁻) y amonio (NH₄⁺). Los fosfatos NO forman parte de este ciclo.</p><p><strong>Azufre:</strong> el SO₂ liberado por industrias reacciona con O₂ y agua para formar H₂SO₄, causante de la <strong>lluvia ácida</strong>.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Biomas terrestres",
+      "html": "<ul><li><strong>Tundra:</strong> muy fría, musgos y líquenes.</li><li><strong>Taiga:</strong> coníferas (pino, abeto, oyamel, picea).</li><li><strong>Bosque caducifolio:</strong> abedul, nogal, roble (pierden hojas en otoño).</li><li><strong>Selva tropical:</strong> cálida y húmeda, gran biodiversidad.</li><li><strong>Sabana:</strong> pastizales cálidos.</li><li><strong>Desierto:</strong> muy seco.</li><li><strong>Estepa:</strong> praderas secas.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Migración animal y servicios ecosistémicos",
+      "html": "<p><strong>Migración:</strong> desplazamiento periódico por inviernos extremos, escasez de alimento, mejores climas, huir de depredadores o reproducirse.</p><p><strong>Servicios ecosistémicos:</strong> beneficios que obtenemos de la naturaleza.</p><ul><li>Aprovisionamiento: alimentos, agua, madera.</li><li>Regulación: clima, purificación.</li><li>Culturales: paisaje, recreación.</li><li>Esenciales: formación de suelo.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Desarrollo sustentable",
+      "html": "<p class='italic text-slate-300 my-4'>\"Satisfacer las necesidades de las generaciones presentes sin comprometer las posibilidades de las generaciones futuras.\"</p><p>Se apoya en <strong>tres pilares</strong>:</p><ul><li><strong>Ambiental:</strong> conservar recursos y ecosistemas.</li><li><strong>Económico:</strong> generar riqueza sin agotar recursos.</li><li><strong>Social:</strong> garantizar bienestar y equidad.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Justicia distributiva",
+      "html": "<p>La <strong>justicia distributiva</strong> regula el reparto equitativo de bienes y cargas. Va del todo a las partes, y no mira a las personas individualmente, sino cómo se distribuyen los recursos.</p><p>Aplicada al ambiente, busca el <strong>uso racional de los recursos naturales</strong> para mejorar la relación hombre-ambiente-sociedad y erradicar la pobreza.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Calentamiento global y cambio climático",
+      "html": "<p><strong>Calentamiento global:</strong> aumento de la temperatura promedio del planeta por acumulación de gases de efecto invernadero.</p><p><strong>Cambio climático antropogénico:</strong> provocado por actividades humanas (quema de combustibles fósiles, deforestación).</p><p>Es distinto de la <strong>variabilidad natural</strong> del clima (volcanes, ciclos solares).</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Gases de efecto invernadero",
+      "html": "<p>Distribución aproximada de las emisiones:</p><ul><li><strong>CO₂:</strong> ~85% (principal responsable)</li><li><strong>CH₄ (metano):</strong> ~8%</li><li><strong>N₂O (óxido de nitrógeno):</strong> ~5%</li><li><strong>Gases fluorados (HFC, PFC, SF₆):</strong> ~2%</li></ul><p>El Protocolo de Kioto (1997) busca reducirlos en países industrializados.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Capa de ozono y lluvia ácida",
+      "html": "<p><strong>Capa de ozono:</strong> franja de la estratósfera rica en O₃. Protege de la radiación ultravioleta (UV). Los <strong>CFC</strong> (clorofluorocarbonos) la dañan.</p><p><strong>Lluvia ácida:</strong> formada por SO₂ y NOₓ que reaccionan con vapor de agua, generando H₂SO₄ y HNO₃. Daña plantas, suelos y edificios.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Otros problemas ambientales",
+      "html": "<p><strong>Eutroficación:</strong> exceso de nutrientes (fósforo y nitrógeno) en el agua. La versión <em>cultural</em> se acelera por descargas residuales.</p><p><strong>Biomagnificación:</strong> aumento progresivo de tóxicos (como el DDT) a lo largo de la cadena alimenticia.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Recursos naturales",
+      "html": "<ul><li><strong>Renovables:</strong> se reponen en ciclos naturales. Ej: madera, maíz, agua, vegetales, animales comestibles.</li><li><strong>No renovables:</strong> no se reponen en tiempos humanos. Ej: petróleo, gas natural, minerales, metales.</li><li><strong>Inagotables:</strong> pueden usarse indefinidamente. Ej: energía solar, eólica.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Cumbres internacionales",
+      "html": "<ul><li><strong>Estocolmo, Suecia (1972):</strong> primera cumbre ambiental. Creación del PNUMA.</li><li><strong>Río de Janeiro, Brasil (1992):</strong> Cumbre de la Tierra. Agenda 21.</li><li><strong>Johannesburgo, Sudáfrica (2002):</strong> Cumbre Mundial sobre Desarrollo Sustentable.</li><li><strong>Protocolo de Kioto (1997):</strong> reducción de GEI en países industrializados.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Normas ambientales en México",
+      "html": "<p><strong>NOM-036-ECOL-1993:</strong> métodos de medición de SO₂ en el aire.</p><p><strong>NOM-037-ECOL-1993:</strong> métodos de medición de NO₂ en el aire.</p><p><strong>NOM-038-ECOL-1993:</strong> métodos de medición de O₃ en el aire.</p><p>Todas incluyen procedimientos para calibrar equipos de medición.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Contaminantes primarios y secundarios",
+      "html": "<p>Clasificación del INE:</p><ul><li><strong>Primarios:</strong> emitidos directamente. Ej: CO, SO₂, NO₂.</li><li><strong>Secundarios:</strong> formados por reacciones atmosféricas. Ej: O₃ (ozono), peroxiacetilnitrato (PAN).</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Bioética: definición y principios",
+      "html": "<p><strong>Bioética:</strong> disciplina que estudia las implicaciones éticas de las decisiones humanas sobre la vida, la salud y el ambiente.</p><p>Cuatro principios fundamentales:</p><ul><li><strong>Autonomía:</strong> respetar la decisión libre de la persona.</li><li><strong>Beneficencia:</strong> buscar el bien.</li><li><strong>No maleficencia:</strong> no causar daño.</li><li><strong>Justicia:</strong> tratar con equidad.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Dilemas bioéticos",
+      "html": "<p><strong>Eutanasia:</strong> acto u omisión médica que ocasiona la muerte de un paciente para evitarle sufrimientos insoportables.</p><p><strong>Ingeniería genética:</strong> práctica biotecnológica basada en la manipulación del ADN.</p><p>Ambos temas generan debates sobre los límites éticos de la intervención humana.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Acciones que afectan al ambiente",
+      "html": "<p>Incrementan la contaminación:</p><ul><li>Uso de productos de corta duración.</li><li>Mayor uso del transporte privado.</li><li>Productos consumidores de energía.</li><li>Incremento en el uso de combustibles fósiles.</li></ul><p>La reducen:</p><ul><li>Educación ambiental.</li><li>Uso racional de recursos.</li><li>Energías renovables.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Repaso: mapa del módulo",
+      "html": "<p><strong>Módulo 16</strong> en cuatro bloques:</p><ol><li>Clasificación de la materia.</li><li>Estequiometría y reacciones químicas.</li><li>Ecología, ciclos biogeoquímicos y biomas.</li><li>Sustentabilidad, problemas ambientales y bioética.</li></ol><p>Todos estos temas se integran en la búsqueda de un <strong>desarrollo sustentable</strong>: usar los recursos sin comprometer el futuro.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase Express",
+      "html": "<p class='text-3xl text-slate-300 mt-8'>Fin de la Clase Express</p><p class='text-lg text-slate-400 mt-4'>Hacia un Desarrollo Sustentable</p><p class='text-base text-slate-400 mt-8'>Ahora puedes practicar con los cuestionarios del módulo.</p>"
+    }
+  ]
+}

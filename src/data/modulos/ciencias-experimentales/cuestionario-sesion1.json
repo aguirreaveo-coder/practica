@@ -1,0 +1,181 @@
+{
+  "titulo": "Cuestionario Sesión 1: Geografía",
+  "preguntas": [
+    {
+      "pregunta": "¿Qué rama de la geografía se enfoca en el estudio de la población, la migración y la urbanización?",
+      "opciones": [
+        "Geografía humana",
+        "Geografía física",
+        "Geografía política",
+        "Geografía económica"
+      ],
+      "correcta": 0,
+      "explicacion": "La geografía humana estudia la relación del ser humano con el espacio: población, migración, cultura, economía y urbanización."
+    },
+    {
+      "pregunta": "Si en un mapa la distancia entre dos ciudades es de 3 cm y la escala es 1:100,000, ¿cuál es la distancia real aproximada?",
+      "opciones": [
+        "300 metros",
+        "3 kilómetros",
+        "30 kilómetros",
+        "300 kilómetros"
+      ],
+      "correcta": 1,
+      "explicacion": "3 cm × 100,000 = 300,000 cm = 3,000 m = 3 km. La distancia real es de 3 kilómetros."
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes es un elemento obligatorio de un mapa?",
+      "opciones": [
+        "El autor",
+        "El relieve",
+        "La simbología",
+        "La población"
+      ],
+      "correcta": 2,
+      "explicacion": "Los cuatro elementos obligatorios de un mapa son: título, escala, simbología y coordenadas. El autor y el relieve son adicionales."
+    },
+    {
+      "pregunta": "Un mapa topográfico se caracteriza por:",
+      "opciones": [
+        "Mostrar solo fronteras políticas",
+        "Mostrar solo el relieve",
+        "Mostrar solo datos de población",
+        "Combinar información política y física con curvas de nivel"
+      ],
+      "correcta": 3,
+      "explicacion": "El mapa topográfico es el más detallado: combina información política y física, e incluye curvas de nivel para representar la altitud."
+    },
+    {
+      "pregunta": "¿Qué herramienta geográfica es un dibujo simple, hecho a mano y sin escala precisa?",
+      "opciones": [
+        "Croquis",
+        "Carta topográfica",
+        "Imagen de satélite",
+        "Mapa temático"
+      ],
+      "correcta": 0,
+      "explicacion": "El croquis es un dibujo rápido hecho a mano, sin escala precisa. Sirve para ubicarse rápidamente, no para mediciones exactas."
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes NO es un tipo de erosión?",
+      "opciones": [
+        "Eólica",
+        "Volcánica",
+        "Fluvial",
+        "Marina"
+      ],
+      "correcta": 1,
+      "explicacion": "La 'erosión volcánica' no existe. El vulcanismo es un fenómeno interno que crea relieve, no lo erosiona. Los tipos de erosión son: eólica, fluvial, marina y glaciar."
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes es un recurso natural inagotable?",
+      "opciones": [
+        "Petróleo",
+        "Gas natural",
+        "Energía solar",
+        "Carbón mineral"
+      ],
+      "correcta": 2,
+      "explicacion": "La energía solar es un recurso inagotable (no se agota con su uso). El petróleo, el gas y el carbón son no renovables."
+    },
+    {
+      "pregunta": "La Zona Económica Exclusiva (ZEE) de México se extiende hasta:",
+      "opciones": [
+        "12 millas náuticas desde la costa",
+        "50 millas náuticas desde la costa",
+        "100 millas náuticas desde la costa",
+        "200 millas náuticas desde la costa"
+      ],
+      "correcta": 3,
+      "explicacion": "La ZEE se extiende hasta 200 millas náuticas (aproximadamente 370 km) desde la costa. México tiene derechos de explotación de recursos, aunque no soberanía total."
+    },
+    {
+      "pregunta": "Un huracán que toca tierra en las costas de Veracruz es un fenómeno:",
+      "opciones": [
+        "Meteorológico",
+        "Geológico",
+        "Hidrológico",
+        "Antropogénico"
+      ],
+      "correcta": 0,
+      "explicacion": "Los huracanes son fenómenos meteorológicos porque se originan y desarrollan en la atmósfera."
+    },
+    {
+      "pregunta": "El clima Cw se caracteriza por ser:",
+      "opciones": [
+        "Tropical lluvioso todo el año",
+        "Templado con lluvias en verano",
+        "Seco desértico",
+        "Seco estepario"
+      ],
+      "correcta": 1,
+      "explicacion": "Cw = Templado con lluvias en verano. Es el clima típico de la CDMX, Michoacán y el Estado de México."
+    },
+    {
+      "pregunta": "¿Qué tipo de clima predomina en Sonora y el norte de México?",
+      "opciones": [
+        "Af - Tropical lluvioso",
+        "Cw - Templado lluvias en verano",
+        "BS - Seco estepario",
+        "Aw - Tropical lluvias en verano"
+      ],
+      "correcta": 2,
+      "explicacion": "El clima BS (seco estepario) es característico del norte de México, incluyendo Sonora. Tiene poca lluvia y vegetación corta."
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes es un indicador compuesto de desarrollo humano?",
+      "opciones": [
+        "Natalidad",
+        "Mortalidad",
+        "Migración",
+        "IDH (Índice de Desarrollo Humano)"
+      ],
+      "correcta": 3,
+      "explicacion": "El IDH es un índice compuesto que combina tres dimensiones: esperanza de vida, educación e ingreso per cápita."
+    },
+    {
+      "pregunta": "Un derrame de petróleo en el Golfo de México es un fenómeno:",
+      "opciones": [
+        "Antropogénico",
+        "Geológico",
+        "Meteorológico",
+        "Hidrológico natural"
+      ],
+      "correcta": 0,
+      "explicacion": "Los derrames de petróleo son fenómenos antropogénicos (causados por el ser humano) y NO se consideran naturales."
+    },
+    {
+      "pregunta": "¿Qué indicador demográfico mide la entrada y salida de personas de un territorio?",
+      "opciones": [
+        "Natalidad",
+        "Migración",
+        "Fecundidad",
+        "Mortalidad"
+      ],
+      "correcta": 1,
+      "explicacion": "La migración mide los movimientos de entrada (inmigración) y salida (emigración) de personas de un territorio."
+    },
+    {
+      "pregunta": "El Sistema de Información Geográfica (SIG) se caracteriza por:",
+      "opciones": [
+        "Ser un dibujo hecho a mano",
+        "Medir la temperatura global",
+        "Combinar mapas con bases de datos para análisis espacial",
+        "Fotografiar la Tierra desde el espacio"
+      ],
+      "correcta": 2,
+      "explicacion": "El SIG es un software que integra mapas con bases de datos, permitiendo consultas interactivas y análisis espaciales. Ejemplos: Google Maps, ArcGIS."
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia entre un mapa político y un mapa físico?",
+      "opciones": [
+        "El político muestra el relieve; el físico, las fronteras",
+        "El político muestra un solo tema; el físico es general",
+        "No hay diferencia entre ellos",
+        "El político muestra fronteras; el físico muestra el relieve"
+      ],
+      "correcta": 3,
+      "explicacion": "El mapa político muestra fronteras, países y estados; el mapa físico muestra el relieve (montañas, ríos, lagos)."
+    }
+  ]
+}

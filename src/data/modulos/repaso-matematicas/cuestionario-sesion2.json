@@ -1,0 +1,141 @@
+{
+  "titulo": "Cuestionario Sesión 2: Geometría y Trigonometría",
+  "preguntas": [
+    {
+      "pregunta": "Tema 1: Perímetros, áreas y volúmenes. Calcula el área y el perímetro de un rectángulo de base 9 cm y altura 4 cm.",
+      "opciones": [
+        "A = 36 cm², P = 26 cm",
+        "A = 26 cm², P = 36 cm",
+        "A = 13 cm², P = 26 cm",
+        "A = 36 cm², P = 13 cm"
+      ],
+      "correcta": 0,
+      "explicacion": "Área = base × altura = 9 × 4 = 36 cm². Perímetro = 2(9 + 4) = 26 cm.",
+      "datos": [
+        "A) A = 36 cm², P = 26 cm",
+        "B) A = 26 cm², P = 36 cm",
+        "C) A = 13 cm², P = 26 cm",
+        "D) A = 36 cm², P = 13 cm"
+      ]
+    },
+    {
+      "pregunta": "Tema 2: Teorema de Pitágoras. Si un cateto mide 9 y la hipotenusa 15, ¿cuánto mide el otro cateto?",
+      "opciones": [
+        "12",
+        "10",
+        "8",
+        "6"
+      ],
+      "correcta": 0,
+      "explicacion": "Aplicando a² + b² = c²: 9² + b² = 15² → 81 + b² = 225 → b² = 144 → b = 12.",
+      "datos": [
+        "A) 12",
+        "B) 10",
+        "C) 8",
+        "D) 6"
+      ]
+    },
+    {
+      "pregunta": "Tema 3: Semejanza de triángulos. Si ABC ~ DEF, AB = 4, BC = 6, AC = 8 y DE = 6, ¿cuánto mide DF?",
+      "opciones": [
+        "12",
+        "10",
+        "14",
+        "16"
+      ],
+      "correcta": 0,
+      "explicacion": "La razón de semejanza es DE/AB = 6/4 = 1.5. Entonces DF = AC × 1.5 = 8 × 1.5 = 12.",
+      "datos": [
+        "A) 12",
+        "B) 10",
+        "C) 14",
+        "D) 16"
+      ]
+    },
+    {
+      "pregunta": "Tema 4: Distancia entre dos puntos. Calcula la distancia entre (1,2) y (4,6).",
+      "opciones": [
+        "5",
+        "7",
+        "6",
+        "25"
+      ],
+      "correcta": 0,
+      "explicacion": "d = √((4−1)² + (6−2)²) = √(9 + 16) = √25 = 5.",
+      "datos": [
+        "A) 5",
+        "B) 7",
+        "C) 6",
+        "D) 25"
+      ]
+    },
+    {
+      "pregunta": "Tema 5: Punto medio. Encuentra el punto medio entre (−4,2) y (2,8).",
+      "opciones": [
+        "(−1,5)",
+        "(1,5)",
+        "(−2,4)",
+        "(0,5)"
+      ],
+      "correcta": 0,
+      "explicacion": "M = ((−4+2)/2, (2+8)/2) = (−2/2, 10/2) = (−1, 5).",
+      "datos": [
+        "A) (−1,5)",
+        "B) (1,5)",
+        "C) (−2,4)",
+        "D) (0,5)"
+      ]
+    },
+    {
+      "pregunta": "Tema 6: Pendiente y ecuación de la recta. Encuentra la ecuación de la recta con pendiente −1 y ordenada al origen 5.",
+      "opciones": [
+        "y = −x + 5",
+        "y = x + 5",
+        "y = −x − 5",
+        "y = 5x − 1"
+      ],
+      "correcta": 0,
+      "explicacion": "La forma pendiente-ordenada es y = mx + b. Con m = −1 y b = 5: y = −x + 5.",
+      "datos": [
+        "A) y = −x + 5",
+        "B) y = x + 5",
+        "C) y = −x − 5",
+        "D) y = 5x − 1"
+      ]
+    },
+    {
+      "pregunta": "Tema 7: Secciones cónicas. Identifica la cónica cuya ecuación es x²/25 + y²/16 = 1.",
+      "opciones": [
+        "Elipse",
+        "Parábola",
+        "Circunferencia",
+        "Hipérbola"
+      ],
+      "correcta": 0,
+      "explicacion": "La ecuación tiene la forma x²/a² + y²/b² = 1 con a ≠ b, lo que corresponde a una elipse.",
+      "datos": [
+        "A) Elipse",
+        "B) Parábola",
+        "C) Circunferencia",
+        "D) Hipérbola"
+      ]
+    },
+    {
+      "pregunta": "Tema 8: Razones trigonométricas. Un poste de 12 m proyecta una sombra de 5 m. ¿Cuál es la tangente del ángulo que forma el sol con el suelo?",
+      "opciones": [
+        "12/5",
+        "5/12",
+        "12/13",
+        "5/13"
+      ],
+      "correcta": 0,
+      "explicacion": "El cateto opuesto es la altura del poste (12 m) y el cateto adyacente es la sombra (5 m). Por lo tanto, tan θ = opuesto/adyacente = 12/5.",
+      "datos": [
+        "A) 12/5",
+        "B) 5/12",
+        "C) 12/13",
+        "D) 5/13"
+      ]
+    }
+  ]
+}

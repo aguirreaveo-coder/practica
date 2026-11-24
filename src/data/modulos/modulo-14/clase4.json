@@ -1,0 +1,353 @@
+{
+  "titulo": "Clase 4: Cuestionario de 26 preguntas",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 14",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Fenómenos sociales y modelos económicos</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 4: Cuestionario</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>26 preguntas</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "1. ¿Cuál condición es la más favorable que un banco otorgue para decidir abrir una cuenta de ahorro en esa institución?",
+      "opciones": [
+        "Beneficios al mantener un saldo mínimo.",
+        "Tasa de rendimiento anual lo más alta posible.",
+        "Cobro de comisiones y penalidades altas.",
+        "Cálculos de saldo diario para pagos de interés."
+      ],
+      "correcta": 1,
+      "explicacion": "Una tasa de rendimiento anual alta favorece el crecimiento del ahorro.",
+      "numero": 1
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "2. Relaciona los ejemplos con los tipos de riesgo. Ejemplos: 1) Mantener efectivo en casa que otra persona puede sustraer. 2) Inflación, devaluación y situación económica. 3) Una persona compra CETES o bonos y el título adquirido baja de precio. Tipos: a) del sistema; b) interés; c) crédito; d) robo.",
+      "opciones": [
+        "[1-b] [2-a] [3-c]",
+        "[1-c] [2-b] [3-d]",
+        "[1-d] [2-a] [3-b]",
+        "[1-d] [2-c] [3-b]"
+      ],
+      "correcta": 2,
+      "explicacion": "El efectivo sustraído corresponde a robo (d); inflación y devaluación, al riesgo del sistema (a); y la baja de precio de títulos, al riesgo de interés (b). La combinación es [1-d] [2-a] [3-b].",
+      "numero": 2
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "3. ¿Cuáles de las siguientes opciones corresponden a las actividades de las AFORES? 1. Invertir el dinero de las cuentas individuales de los trabajadores. 2. Administrar el dinero de la cuenta individual del Sistema de Ahorro para el Retiro. 3. Informar mediante un estado de cuenta, mínimo cada año, la cantidad ahorrada en la cuenta individual del trabajador.",
+      "opciones": [
+        "Sólo 1",
+        "1 y 3",
+        "2 y 3",
+        "Sólo 2"
+      ],
+      "correcta": 2,
+      "explicacion": "Las AFORE administran las cuentas individuales e informan periódicamente el saldo; las inversiones se realizan mediante las SIEFORE.",
+      "numero": 3
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "4. Relaciona las definiciones con los tipos de tasas de interés. Definiciones: 1) Tasa ajustada para eliminar los efectos de la inflación. 2) Tasa declarada normalmente para periodos de un año. 3) Tasa generada sobre el capital inicial y los intereses reinvertidos en periodos anteriores. Tipos: a) Simple; b) Real; c) Compuesto; d) Nominal.",
+      "opciones": [
+        "[1-c] [2-a] [3-b]",
+        "[1-a] [2-c] [3-d]",
+        "[1-b] [2-d] [3-c]",
+        "[1-a] [2-b] [3-d]"
+      ],
+      "correcta": 2,
+      "explicacion": "La tasa real elimina el efecto de la inflación (b); la nominal se declara para un periodo (d); la compuesta genera intereses sobre intereses (c). La combinación es [1-b] [2-d] [3-c].",
+      "numero": 4
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "5. Clasifica los siguientes enunciados sobre intereses como depósitos dejados, entre otras aportaciones o cobros anexos, verdaderos (V) o falsos (F). 1. La tasa de interés descontado se calcula sobre el valor nominal de un préstamo y se paga en forma anticipada. 2. La tasa de interés aditivo se calcula y se agrega a los fondos recibidos para determinar el valor nominal de un préstamo en bonos. 3. El interés simple es el ganado sobre el capital inicial y sobre los intereses reinvertidos en periodos anteriores.",
+      "opciones": [
+        "F, F, V",
+        "V, V, F",
+        "V, F, F",
+        "F, V, V"
+      ],
+      "correcta": 1,
+      "explicacion": "Las dos primeras descripciones corresponden a interés descontado y aditivo; la tercera describe interés compuesto, no simple.",
+      "numero": 5
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "6. Clasifica los siguientes enunciados sobre instituciones de crédito como verdaderos (V) o falsos (F). 1. Las empresas de factoraje adelantan dinero al dueño del derecho de cobro, descontando una comisión; también se conoce como descuento de documentos. 2. Las uniones de crédito facilitan el acceso al crédito de sus socios y pueden recibir préstamos. 3. El bono de prenda permite vender mercancía sin movilizarla y lo expiden los almacenes generales de depósito.",
+      "opciones": [
+        "F, V, F",
+        "F, V, V",
+        "V, V, F",
+        "V, F, V"
+      ],
+      "correcta": 2,
+      "explicacion": "El factoraje adelanta el cobro con una comisión y las uniones de crédito atienden a sus socios. El enunciado sobre el bono de prenda no describe correctamente su función.",
+      "numero": 6
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "7. ¿Cuál es la institución cuyo propósito es promover el ahorro, financiamiento y la inversión en el sector y que se encuentra integrada por entidades de ahorro y crédito popular?",
+      "opciones": [
+        "Comercial.",
+        "Bansefi.",
+        "Sofoles.",
+        "Desarrollo."
+      ],
+      "correcta": 1,
+      "explicacion": "Bansefi promueve el ahorro y el financiamiento popular.",
+      "numero": 7
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "8. ¿Cómo se le llama al plazo o período durante el cual una persona está dispuesta a mantener invertido su capital sin prever que lo necesitará para otros fines?",
+      "opciones": [
+        "Objeto de la inversión.",
+        "Valor residual.",
+        "Horizonte temporal.",
+        "Coste de la inversión."
+      ],
+      "correcta": 2,
+      "explicacion": "El horizonte temporal es el periodo durante el cual se planea mantener la inversión.",
+      "numero": 8
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "9. Relaciona los tipos de gastos con sus ejemplos. Tipos: 1) Gasto social. 2) Gasto público corriente. Ejemplos: a) Educación; b) Limpieza de inmueble; c) Salarios de empleados; d) Vivienda; e) Prestaciones laborales; f) Salud.",
+      "opciones": [
+        "[1-a, d, f] [2-b, c, e]",
+        "[1-a, c] [2-b, d, e, f]",
+        "[1-b, e, f] [2-a, c, d]",
+        "[1-b, d] [2-a, c, e, f]"
+      ],
+      "correcta": 0,
+      "explicacion": "Educación, vivienda y salud corresponden al gasto social; limpieza, salarios y prestaciones al gasto público corriente. La combinación es [1-a, d, f] [2-b, c, e].",
+      "numero": 9
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "10. ¿Es verdad que el riesgo de volatilidad es aquel en el que no se puede cambiar un valor o instrumento por su equivalente en dinero?",
+      "opciones": [
+        "No, el riesgo de volatilidad se refiere al grado en que varía el precio o interés del instrumento con el paso del tiempo.",
+        "Sí, puede carecerse de liquidez para solventar gastos inmediatos por las fluctuaciones económicas.",
+        "No, la explicación presentada se refiere al riesgo de crédito y no al riesgo de volatilidad.",
+        "Sí, al no poder cambiar el instrumento queda volátil la liquidez inmediata."
+      ],
+      "correcta": 0,
+      "explicacion": "La volatilidad mide las variaciones del precio o interés; no poder convertir un activo en efectivo describe riesgo de liquidez.",
+      "numero": 10
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "11. ¿Qué haces cuando recibes el resultado de un examen donde aplicaste ejercicios matemáticos para calcular créditos y tus resultados no son los que esperabas?",
+      "opciones": [
+        "Revisas por tu cuenta en qué te equivocaste y tratas de identificar la respuesta correcta.",
+        "Solicitas una revisión de examen para que el asesor te señale tus errores.",
+        "Aceptas la calificación porque ya no hay forma de modificarla.",
+        "Si apruebas, no haces nada ni identificas qué te faltó para aprobar."
+      ],
+      "correcta": 0,
+      "explicacion": "Revisar los errores permite identificar qué debe corregirse y aprender del resultado.",
+      "numero": 11
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "12. Te invitan a participar en una mesa de diálogo sobre los factores que fomentan la migración de mano de obra mexicana a Estados Unidos. Simpatizas con MIO, reconoces propuestas aceptables de SUYO y TUYO es mayoritario. ¿Cómo actúas?",
+      "opciones": [
+        "Repites los argumentos de TUYO para convencer a los demás.",
+        "Omites las opiniones razonables de SUYO para no mostrar simpatía por ese partido.",
+        "Expresas opiniones basadas sólo en MIO para ser congruente con tu simpatía.",
+        "Expresas tus opiniones y comentas argumentos de MIO, SUYO y TUYO, aunque no siempre coincidan con lo que piensas."
+      ],
+      "correcta": 3,
+      "explicacion": "Una participación abierta considera argumentos pertinentes de distintas posturas, aunque difieran de la propia.",
+      "numero": 12
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "13. Selecciona los factores políticos que propician la migración humana: 1. Censura a la libre expresión en Cuba. 2. Éxodo judío al actual territorio de Israel. 3. Idealización del sueño americano. 4. Persecución de civiles por el gobierno franquista. 5. Religión diferente a la musulmana en los Balcanes. 6. Traslado obligado de judíos durante la Segunda Guerra Mundial.",
+      "opciones": [
+        "3, 4, 5, 6",
+        "1 y 4",
+        "1, 2, 3, 5",
+        "2 y 6"
+      ],
+      "correcta": 1,
+      "explicacion": "La censura y la persecución por parte de gobiernos son factores políticos directos.",
+      "numero": 13
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "14. Analiza las tasas de analfabetismo y la población aproximada (millones) de países latinoamericanos. Argentina: 1.4%, 41; Brasil: 13.0%, 190; Chile: 2.8%, 17; Colombia: 4.6%, 46; Costa Rica: 5.3%, 5; Ecuador: 12.0%, 14; El Salvador: 10.4%, 6; Guatemala: 16.0%, 15; Honduras: 10.4%, 8. A partir de los datos, ¿cuál afirmación es correcta?",
+      "opciones": [
+        "Honduras supera a todos los países latinoamericanos en índice de analfabetismo.",
+        "Brasil, de acuerdo con su población, es el país latinoamericano con menor analfabetismo.",
+        "El país latinoamericano con la mayor tasa de analfabetismo es Guatemala.",
+        "El Salvador, de acuerdo con su población, tiene más analfabetas que Honduras."
+      ],
+      "correcta": 2,
+      "explicacion": "Guatemala registra la tasa más alta de analfabetismo de la tabla: 16.0%.",
+      "numero": 14
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "15. ¿En cuántos meses se obtendrán $120,000 como resultado de invertir $40,000 con una tasa de interés simple del 5% bimestral?",
+      "opciones": [
+        "80",
+        "60",
+        "30",
+        "40"
+      ],
+      "correcta": 0,
+      "explicacion": "Con interés simple, 120,000 = 40,000(1 + 0.05n), de donde n = 40 bimestres, equivalentes a 80 meses.",
+      "numero": 15
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "16. Relaciona los modelos de crecimiento poblacional con las fórmulas. Modelos: 1) Tasa de crecimiento local. 2) Crecimiento poblacional logístico. 3) Tasa de crecimiento. Fórmulas: a) r = b − d; b) dN/dt = rN; c) dN/dt = rN(k − N)/k; d) r = (b − d) + (i − e).",
+      "opciones": [
+        "[1-a] [2-c] [3-d]",
+        "[1-c] [2-b] [3-a]",
+        "[1-d] [2-c] [3-a]",
+        "[1-d] [2-b] [3-c]"
+      ],
+      "correcta": 2,
+      "explicacion": "La tasa local incluye inmigración y emigración (d); el modelo logístico usa capacidad de carga (c); la tasa de crecimiento natural es nacimientos menos defunciones (a). La combinación es [1-d] [2-c] [3-a].",
+      "numero": 16
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "17. En los países más desarrollados hay grandes concentraciones de población en ciudades cuyos habitantes disfrutan de un alto nivel de vida. Una causa de que estas regiones estén muy pobladas es:",
+      "opciones": [
+        "El desarrollo de la agricultura y la explotación planeada de los recursos naturales.",
+        "La distribución geográfica de esos países en la zona templada de la Tierra.",
+        "El aprovechamiento sustentable de los recursos naturales renovables y no renovables.",
+        "La aplicación de métodos agrícolas modernos y la oferta de empleo en la industria y el comercio."
+      ],
+      "correcta": 3,
+      "explicacion": "La modernización productiva y el empleo atraen población hacia las ciudades.",
+      "numero": 17
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "18. ¿Cómo se denomina la actividad en la que una persona ejerce una profesión, como médico cirujano, diputado o ingeniero?",
+      "opciones": [
+        "Rol, porque es el comportamiento esperado de una persona con una actividad específica.",
+        "Rol, porque es la actividad que cada persona desempeña en la sociedad.",
+        "Estatus, porque es el lugar que cada individuo ocupa en el conjunto social.",
+        "Estatus, porque es el conjunto de reglas que prescribe cómo debe comportarse un individuo."
+      ],
+      "correcta": 1,
+      "explicacion": "El rol corresponde a la actividad o función que una persona desempeña en la sociedad.",
+      "numero": 18
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "19. ¿Cuáles situaciones representan un crecimiento desproporcionado de la población? 1. Incremento del desempleo, pobreza y mendicidad. 2. Insuficiencia de hospitales y servicios básicos. 3. Concentración excesiva en la capital. 4. Falta de viviendas. 5. Hacinamiento que produce insatisfacción y agresividad.",
+      "opciones": [
+        "3, 4, 5",
+        "1, 2, 5",
+        "1, 2, 4",
+        "2, 3, 5"
+      ],
+      "correcta": 1,
+      "explicacion": "El aumento desproporcionado puede asociarse con desempleo y pobreza, presión sobre servicios y problemas de hacinamiento.",
+      "numero": 19
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "20. ¿Qué representa el siguiente gráfico? Es una pirámide poblacional con la edad en el eje vertical y las distribuciones de hombres y mujeres a cada lado.",
+      "opciones": [
+        "Crecimiento de la población en un determinado tiempo.",
+        "Distribución de hombres y mujeres con actividad laboral.",
+        "Distribución de hombres y mujeres por rangos de edad.",
+        "Ubicación de hombres y mujeres en todas las edades."
+      ],
+      "correcta": 2,
+      "explicacion": "Una pirámide poblacional muestra la distribución de hombres y mujeres por rangos de edad.",
+      "numero": 20
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "21. Encuentra el valor de x en la expresión log₂ x = ½.",
+      "opciones": [
+        "½",
+        "−√2",
+        "4",
+        "√2"
+      ],
+      "correcta": 3,
+      "explicacion": "Si log₂ x = ½, entonces x = 2^(1/2) = √2.",
+      "numero": 21
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "22. Calcula log₅ 47.95 si ln 5 = 1.609 y ln 47.95 = 3.87.",
+      "opciones": [
+        "2.41",
+        "0.42",
+        "51.82",
+        "3.87"
+      ],
+      "correcta": 0,
+      "explicacion": "Por cambio de base, log₅ 47.95 = ln(47.95)/ln(5) ≈ 3.87/1.609 ≈ 2.41.",
+      "numero": 22
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "23. La siguiente operación (a/b)² tiene como resultado:",
+      "opciones": [
+        "a²/b²",
+        "a² + 2",
+        "a²b²",
+        "a² + b²"
+      ],
+      "correcta": 0,
+      "explicacion": "La potencia de un cociente se aplica tanto al numerador como al denominador.",
+      "numero": 23
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "24. ¿Cuál es el resultado de la siguiente operación con logaritmos? log₃ 81 + log₄ 64 − log₂ 32 =",
+      "opciones": [
+        "12",
+        "2",
+        "5",
+        "4"
+      ],
+      "correcta": 1,
+      "explicacion": "log₃ 81 = 4, log₄ 64 = 3 y log₂ 32 = 5; por tanto, 4 + 3 − 5 = 2.",
+      "numero": 24
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "25. Elige los documentos que un migrante mexicano radicado en Estados Unidos debe presentar para su ingreso a México: 1. Pasaporte. 2. Comprobante de domicilio. 3. Estados de cuenta bancarios. 4. Acta de nacimiento. 5. FM2 o FM3. 6. Declaratoria de nacionalidad mexicana.",
+      "opciones": [
+        "1, 3",
+        "1, 4, 6",
+        "2, 6",
+        "2, 3, 5"
+      ],
+      "correcta": 1,
+      "explicacion": "La combinación indicada incluye documentos de identidad y acreditación de nacionalidad mexicana.",
+      "numero": 25
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "26. ¿Cuál es el resultado de log Aⁿ?",
+      "opciones": [
+        "n + log A",
+        "n log A",
+        "n log Aⁿ",
+        "log A − log B"
+      ],
+      "correcta": 1,
+      "explicacion": "La propiedad de la potencia establece que log(Aⁿ) = n log(A).",
+      "numero": 26
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 4",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Fin del cuestionario del Módulo 14.</p>"
+    }
+  ]
+}

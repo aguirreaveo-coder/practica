@@ -1,0 +1,11 @@
+{
+  "titulo": "Cuestionario Sesión 1: Geografía",
+  "preguntas": [
+    {
+      "pregunta": "Pregunta en construcción",
+      "opciones": ["A", "B", "C", "D"],
+      "correcta": 0,
+      "explicacion": "Se completará con preguntas reales."
+    }
+  ]
+}

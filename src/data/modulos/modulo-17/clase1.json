@@ -1,0 +1,276 @@
+{
+  "titulo": "Clase 1: Evolución, biodiversidad y leyes de Mendel",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 17",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Evolución y sus repercusiones sociales</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 1: Evolución, biodiversidad y leyes de Mendel</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Evolución, biodiversidad, selección natural, teoría sintética y las tres leyes de Mendel.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Evolución, biodiversidad y adaptación",
+      "html": "<ul class='text-lg space-y-2'><li><strong>Evolución biológica:</strong> cambio de características heredables en poblaciones a través de generaciones.</li><li><strong>Biodiversidad:</strong> variedad de genes, especies y ecosistemas.</li><li><strong>Adaptación:</strong> característica heredable que aumenta la supervivencia en un ambiente. Ejemplo: raíces profundas de plantas xerófitas.</li><li>La evolución actúa sobre <strong>poblaciones</strong>, no sobre individuos.</li></ul><img src='https://s1.significados.com/foto/evolucion-del-hombre-ser-humano-og.jpg' class='my-4 rounded-lg max-h-80 mx-auto' alt='Evolución del ser humano a lo largo del tiempo' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Thomas Robert Malthus (1766-1834, Inglaterra)",
+      "html": "<ul class='text-lg space-y-2'><li><strong>Obra:</strong> <em>Ensayo sobre el principio de la población</em> (1798).</li><li><strong>Aportación principal:</strong> la población crece geométricamente; los recursos, aritméticamente.</li><li>Ese desfase genera <strong>competencia</strong>, hambrunas y enfermedades como frenos naturales.</li><li><strong>Influencia:</strong> Darwin y Wallace aplicaron esta idea al mundo natural: nacen más individuos de los que pueden sobrevivir.</li><li><strong>Limitación:</strong> no previó el control natal ni la revolución agrícola.</li></ul><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZibS25o2Yh6kUajVLbAHhH5QZzp1H-ZUaRJusxaSRzw&s=10' class='my-4 rounded-lg max-h-80 mx-auto' alt='Retrato de Thomas Robert Malthus' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Jean-Baptiste Lamarck (1744-1829, Francia)",
+      "html": "<ul class='text-lg space-y-2'><li><strong>Obra:</strong> <em>Filosofía zoológica</em> (1809).</li><li><strong>Ley del uso y desuso:</strong> los órganos que se usan se desarrollan; los que no, se atrofian.</li><li><strong>Herencia de caracteres adquiridos:</strong> los cambios logrados en vida se transmiten a la descendencia.</li><li><strong>Ejemplo clásico:</strong> el cuello de las jirafas se estiraba por esfuerzo y se heredaba.</li><li><strong>Acierto:</strong> reconoció la influencia del ambiente y el cambio de las especies.</li><li><strong>Error:</strong> la genética moderna demostró que los cambios somáticos no se heredan.</li></ul><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrpdbjVmnFq5lOXM9O1-DdZkTj9Z3wSMDdTdiRsGWfXw&s=10' class='my-4 rounded-lg max-h-80 mx-auto' alt='Retrato de Jean-Baptiste Lamarck' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Charles Darwin (1809-1882, Inglaterra)",
+      "html": "<ul class='text-lg space-y-2'><li><strong>Viaje:</strong> <em>HMS Beagle</em> (1831-1836), islas Galápagos.</li><li><strong>Aportación principal:</strong> la <strong>selección natural</strong> como mecanismo de la evolución.</li><li>En cada generación nacen más individuos de los que sobreviven.</li><li>Existe <strong>variación heredable</strong> entre individuos.</li><li>Los mejor adaptados sobreviven y se reproducen más.</li><li>Con el tiempo, los rasgos ventajosos se acumulan y pueden originar nuevas especies.</li></ul><img src='https://cdn.kastatic.org/ka-perseus-images/bc5c28bafc69173a608e2e2d8eeb5f795bca6924.png' class='my-4 rounded-lg max-h-80 mx-auto' alt='Retrato de Charles Darwin' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: El origen de las especies (1859)",
+      "html": "<ul class='text-lg space-y-2'><li><strong>Título completo:</strong> <em>El origen de las especies por medio de la selección natural</em>.</li><li><strong>Publicación:</strong> 24 de noviembre de 1859, Londres.</li><li><strong>Idea central:</strong> las especies no son fijas; cambian por selección natural.</li><li><strong>Evidencias:</strong> fósiles, biogeografía, anatomía comparada y observaciones del <em>Beagle</em>.</li><li><strong>Impacto:</strong> revolucionó la biología y el pensamiento occidental.</li><li><strong>Dato:</strong> la primera edición se agotó el mismo día.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Alfred Russel Wallace (1823-1913, Inglaterra)",
+      "html": "<ul class='text-lg space-y-2'><li><strong>Trabajo de campo:</strong> Amazonía y archipiélago malayo.</li><li><strong>Aportación principal:</strong> llegó de forma independiente a la <strong>selección natural</strong>.</li><li><strong>Ensayo (1858):</strong> <em>Sobre la tendencia de las variedades a apartarse indefinidamente del tipo original</em>.</li><li>Impulsó a Darwin a publicar su teoría en 1859.</li><li>Presentaron juntos sus ideas en la <strong>Sociedad Linneana de Londres</strong> (1858).</li><li>Contribuyó a la <strong>biogeografía</strong> y a la distribución geográfica de las especies.</li></ul><img src='https://cdn.todamateria.com/imagenes/seleccion-natural3-0-cke.jpg' class='my-4 rounded-lg max-h-80 mx-auto' alt='Selección natural y adaptación de las especies' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Neodarwinismo o teoría sintética",
+      "html": "<ul class='text-lg space-y-2'><li><strong>Origen:</strong> décadas de 1930 y 1940.</li><li><strong>Fundadores:</strong> Theodosius Dobzhansky, Ernst Mayr y George Gaylord Simpson.</li><li><strong>Integra:</strong> selección natural de Darwin + genética mendeliana + genética de poblaciones.</li><li><strong>Unidad de evolución:</strong> la población, no el individuo.</li><li><strong>Fuentes de variación:</strong> mutación y recombinación genética.</li><li><strong>Mecanismos:</strong> selección natural, migración (flujo génico) y deriva genética.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: Sistemática y reconstrucción de la filogenia",
+      "html": "<ul class='text-lg space-y-2'><li><strong>Sistemática:</strong> reconstruye la filogenia y clasifica organismos según sus relaciones evolutivas.</li><li><strong>Evidencias:</strong> fósiles, anatomía comparada, embriología y secuencias de ADN.</li><li>Permite reconstruir la historia evolutiva de las especies.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 9: Primera ley de Mendel: uniformidad",
+      "html": "<ul class='text-lg space-y-2'><li>Al cruzar dos líneas puras para un carácter, toda la <strong>F1 es uniforme</strong>.</li><li>Ejemplo: AA × aa → todos los descendientes son Aa (heterocigotos, fenotipo dominante).</li><li>La conclusión solo aplica al carácter estudiado y al cruce analizado.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 10: Segunda ley de Mendel: segregación",
+      "html": "<ul class='text-lg space-y-2'><li>Los dos alelos de un par se separan al formar <strong>gametos</strong>; cada gameto recibe uno.</li><li>En Aa × Aa: proporción genotípica <strong>1:2:1</strong> (1 AA : 2 Aa : 1 aa).</li><li>Con dominancia completa, proporción fenotípica <strong>3:1</strong>.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 11: Tercera ley y cuadros de Punnett",
+      "html": "<ul class='text-lg space-y-2'><li>Los pares de alelos de caracteres distintos se distribuyen <strong>independientemente</strong> cuando no están ligados.</li><li><strong>Genotipo:</strong> combinación de alelos.</li><li><strong>Fenotipo:</strong> manifestación observable.</li><li><strong>Cuadro de Punnett:</strong> representa las combinaciones posibles y estima probabilidades.</li></ul>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Actividad: Repaso de la Guía",
+      "instrucciones": "Responde las preguntas asignadas de tu Guía y revisa las explicaciones al final.",
+      "preguntas": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 35, 37, 38, 39, 40]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Revisión de la actividad",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white mb-4'>Revisión de la actividad</p><p class='text-lg text-slate-700 dark:text-slate-200'>Compara tus respuestas con las explicaciones y relaciona cada concepto con el proceso estudiado. Revisa especialmente las preguntas sobre las leyes de Mendel y las aportaciones de Darwin, Wallace, Malthus y Lamarck.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 1,
+      "pregunta": "1. ¿Qué concepto abarca la variabilidad genética, las especies, los ecosistemas y los paisajes?",
+      "opciones": ["Biósfera", "Biodiversidad", "Bioma", "Hábitat"],
+      "correcta": 1,
+      "explicacion": "La respuesta correcta es «Biodiversidad». Abarca la variedad de genes, especies, ecosistemas y paisajes."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 2,
+      "pregunta": "2. ¿Cuál fue la influencia de Thomas Malthus en Darwin y Wallace?",
+      "opciones": [
+        "Los alimentos crecen más rápido que la población",
+        "La vida humana no enfrenta problemas de supervivencia",
+        "La población crece exponencialmente y produce mayor evolución",
+        "Nacen más individuos de los que llegan a la madurez por factores que limitan la población"
+      ],
+      "correcta": 3,
+      "explicacion": "La respuesta correcta es «Nacen más individuos de los que llegan a la madurez por factores que limitan la población». Malthus observó que la población crece más rápido que los recursos, lo que genera competencia."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 3,
+      "pregunta": "3. Las adaptaciones de las plantas xerófitas demuestran que:",
+      "opciones": [
+        "Las plantas están adaptadas al medio en que viven",
+        "Cada especie tiene características inmutables",
+        "La selección natural no influye en las plantas",
+        "Los seres vivos son independientes de su hábitat"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Las plantas están adaptadas al medio en que viven». Las adaptaciones como raíces profundas favorecen la supervivencia en ambientes específicos."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 4,
+      "pregunta": "4. La observación de que los individuos de una población difieren en su capacidad de sobrevivir permite concluir que:",
+      "opciones": [
+        "Los individuos más aptos siempre dejan menos descendientes",
+        "La reproducción depende únicamente del azar",
+        "El ambiente selecciona características que favorecen la adaptación",
+        "Los depredadores no limitan la proliferación"
+      ],
+      "correcta": 2,
+      "explicacion": "La respuesta correcta es «El ambiente selecciona características que favorecen la adaptación». Esto es la base de la selección natural."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 5,
+      "pregunta": "5. La teoría de Lamarck se considera parcialmente correcta porque:",
+      "opciones": [
+        "Los cambios adquiridos siempre se heredan",
+        "Las presiones ambientales no producen cambios",
+        "Los cambios individuales no se heredan directamente",
+        "Ninguna presión ambiental influye en los individuos"
+      ],
+      "correcta": 2,
+      "explicacion": "La respuesta correcta es «Los cambios individuales no se heredan directamente». Lamarck acertó al reconocer la influencia del ambiente, pero erró al suponer que los cambios adquiridos se heredan."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 6,
+      "pregunta": "6. El ejemplo de una mujer que aumenta sus músculos sin que su hijo nazca con ellos contradice la teoría de:",
+      "opciones": ["Thomas Malthus", "Charles Darwin", "Jean-Baptiste Lamarck", "Alfred Wallace"],
+      "correcta": 2,
+      "explicacion": "La respuesta correcta es «Jean-Baptiste Lamarck». Su teoría de la herencia de caracteres adquiridos no se cumple en este caso."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 7,
+      "pregunta": "7. ¿Por qué resultó limitada la teoría de Malthus?",
+      "opciones": [
+        "Por el desarrollo del control natal y la tecnología agrícola",
+        "Porque las personas no se reproducen",
+        "Porque los alimentos siempre crecen geométricamente",
+        "Porque usó estadísticas norteamericanas"
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta correcta es «Por el desarrollo del control natal y la tecnología agrícola». Estos factores modificaron la relación entre población y recursos."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 8,
+      "pregunta": "8. La ciencia que reconstruye la filogenia o historia evolutiva es la:",
+      "opciones": ["Biodiversidad", "Taxonomía", "Genética", "Sistemática"],
+      "correcta": 3,
+      "explicacion": "La respuesta correcta es «Sistemática». Reconstruye parentescos mediante fósiles, anatomía y ADN."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 9,
+      "pregunta": "9. Los principales fundadores de la teoría sintética fueron:",
+      "opciones": [
+        "Lamarck y Morgan",
+        "Gould y Eldredge",
+        "Kimura y Dawkins",
+        "Dobzhansky, Mayr y Simpson"
+      ],
+      "correcta": 3,
+      "explicacion": "La respuesta correcta es «Dobzhansky, Mayr y Simpson». Integraron la selección natural con la genética."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 10,
+      "pregunta": "10. ¿Cuál describe la segunda ley de Mendel?",
+      "opciones": [
+        "Los rasgos se heredan independientemente",
+        "La F1 de líneas puras es uniforme",
+        "Cada carácter se transmite con independencia de otro",
+        "Los alelos de un par se separan al formar gametos"
+      ],
+      "correcta": 3,
+      "explicacion": "La respuesta correcta es «Los alelos de un par se separan al formar gametos». Esta es la ley de la segregación."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 11,
+      "pregunta": "11. La relación fenotípica 3:1 en una cruza monohíbrida ocurre cuando:",
+      "opciones": [
+        "Los alelos son idénticos en ambos organismos",
+        "Cada alelo tiene dos mutaciones",
+        "Los alelos se segregan durante la meiosis",
+        "Los alelos son dominantes en ambos organismos"
+      ],
+      "correcta": 2,
+      "explicacion": "La respuesta correcta es «Los alelos se segregan durante la meiosis». Esto produce la proporción 3:1 con dominancia completa."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 12,
+      "pregunta": "12. En el experimento de Mendel con semillas lisas y rugosas, el resultado esperado es:",
+      "opciones": [
+        "50% lisas en F1 y 75% lisas en F2",
+        "Todas lisas en F1 y 75% lisas en F2",
+        "25% rugosas en F1 y F2",
+        "Todas lisas en F1 y F2"
+      ],
+      "correcta": 1,
+      "explicacion": "La respuesta correcta es «Todas lisas en F1 y 75% lisas en F2». La F1 es uniforme (todas lisas) y en F2 aparece la proporción 3:1."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 13,
+      "pregunta": "13. La manifestación visible de los genes se denomina:",
+      "opciones": ["Cariotipo", "Genotipo", "Fenotipo", "Locus"],
+      "correcta": 2,
+      "explicacion": "La respuesta correcta es «Fenotipo». Es la expresión observable del genotipo."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 35,
+      "pregunta": "35. El científico que cruzó plantas de guisantes y estableció las generaciones P, F1 y F2 fue:",
+      "opciones": ["Walter Sutton", "Hugo de Vries", "Gregor Mendel", "Thomas H. Morgan"],
+      "correcta": 2,
+      "explicacion": "La respuesta correcta es «Gregor Mendel». Estableció las bases de la genética con sus experimentos con guisantes."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 37,
+      "pregunta": "37. La primera ley de Mendel se llama ley de:",
+      "opciones": ["Segregación", "Distribución independiente", "Uniformidad", "Mutación"],
+      "correcta": 2,
+      "explicacion": "La respuesta correcta es «Uniformidad». La F1 de líneas puras es uniforme."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 38,
+      "pregunta": "38. La tercera ley de Mendel establece la:",
+      "opciones": ["Uniformidad", "Segregación", "Distribución independiente", "Herencia ligada al sexo"],
+      "correcta": 2,
+      "explicacion": "La respuesta correcta es «Distribución independiente». Los pares de alelos se distribuyen independientemente cuando no están ligados."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 39,
+      "pregunta": "39. En el cuadro de Punnett, las letras mayúsculas representan:",
+      "opciones": [
+        "Primera generación filial",
+        "Caracteres dominantes",
+        "Caracteres recesivos",
+        "Segunda generación filial"
+      ],
+      "correcta": 1,
+      "explicacion": "La respuesta correcta es «Caracteres dominantes». Las mayúsculas indican alelos dominantes."
+    },
+    {
+      "tipo": "pregunta",
+      "numero": 40,
+      "pregunta": "40. La disciplina que estudiaba la herencia mediante cruzas antes de consolidarse la genética fue la:",
+      "opciones": ["Biología celular", "Hibridología", "Genética molecular", "Bioquímica"],
+      "correcta": 1,
+      "explicacion": "La respuesta correcta es «Hibridología». Estudiaba la herencia mediante cruzas antes de la genética moderna."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 1",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white mt-8'>Fin de la Clase 1</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Evolución y sus repercusiones sociales</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Continúa con la Clase 2: Genética aplicada, bioética y salud.</p>"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

@@ -1,0 +1,10 @@
+{
+  "titulo": "Sesión 1: En desarrollo",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Sesión 1",
+      "html": "<p class='text-2xl text-slate-100'>Sesión 1</p><p class='text-lg text-slate-200 mt-4'>Contenido en desarrollo</p>"
+    }
+  ]
+}

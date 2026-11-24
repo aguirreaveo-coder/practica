@@ -1,0 +1,96 @@
+{
+  "titulo": "Clase Express: Evolución y sus repercusiones sociales",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 17",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Evolución y sus repercusiones sociales</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase Express: contenidos completos de las Clases 1, 2 y 3</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Lectura íntegra de los temas de evolución, genética, salud, ciencia y sociedad.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Evolución, biodiversidad y adaptación",
+      "html": "<p class='text-lg'>La <strong>evolución biológica</strong> es el cambio de las características heredables de las poblaciones a través de generaciones. La <strong>biodiversidad</strong> comprende la variedad de genes, especies y ecosistemas.</p><p class='text-lg'>Las adaptaciones, como las raíces profundas de las plantas xerófitas, favorecen la supervivencia en ambientes específicos.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">La evolución actúa sobre poblaciones, no transforma individuos por necesidad. La biodiversidad comprende diversidad genética, de especies y ecosistemas. Una adaptación es heredable y aumenta la supervivencia en un ambiente.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Malthus, Darwin, Wallace y Lamarck",
+      "html": "<p class='text-lg'>Malthus observó que las poblaciones pueden crecer más rápido que los recursos. Darwin y Wallace utilizaron esta idea para explicar la competencia y la <strong>selección natural</strong>.</p><p class='text-lg'>Lamarck propuso el uso y desuso y la herencia de caracteres adquiridos; la genética moderna no respalda que los cambios individuales se hereden directamente.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">Malthus observó que las poblaciones crecen más rápido que los recursos. Darwin y Wallace relacionaron esa competencia con la selección natural. Lamarck propuso uso, desuso y herencia de caracteres adquiridos, idea que la genética moderna no confirma.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Sistemática y teoría sintética",
+      "html": "<p class='text-lg'>La <strong>sistemática</strong> reconstruye la filogenia y clasifica organismos según sus relaciones evolutivas.</p><p class='text-lg'>La <strong>teoría sintética</strong> integra la selección natural con la genética: mutaciones y recombinaciones generan variación sobre la que actúa la selección.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">La sistemática reconstruye parentescos mediante fósiles, anatomía y ADN. La teoría sintética integra mutación, recombinación, selección, migración y deriva genética.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Primera ley de Mendel: uniformidad",
+      "html": "<p class='text-lg'>Al cruzar dos líneas puras para un carácter, toda la generación F1 es uniforme. Por ejemplo, AA × aa produce descendientes Aa, todos heterocigotos y con el fenotipo dominante.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">La primera ley, o uniformidad, se observa al cruzar líneas puras: AA × aa produce una F1 uniforme Aa. La conclusión solo aplica al carácter estudiado y al cruce analizado.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Segunda ley de Mendel: segregación",
+      "html": "<p class='text-lg'>Los dos alelos de un par se separan durante la formación de gametos; cada gameto recibe un solo alelo. En Aa × Aa se obtiene 1 AA, 2 Aa y 1 aa, con proporción fenotípica 3:1 si hay dominancia completa.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">La segunda ley, o segregación, indica que los dos alelos se separan al formar gametos. En Aa × Aa aparece la proporción genotípica 1:2:1 y, con dominancia completa, la fenotípica 3:1.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Tercera ley y cuadros de Punnett",
+      "html": "<p class='text-lg'>Los pares de alelos de caracteres distintos se distribuyen independientemente cuando no están ligados. El genotipo es la combinación de alelos y el fenotipo es su manifestación observable; el cuadro de Punnett representa las combinaciones posibles.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">La tercera ley establece distribución independiente cuando los genes no están ligados. Punnett estima probabilidades; el genotipo es la combinación de alelos y el fenotipo su expresión observable.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Genes, cromosomas y herencia",
+      "html": "<p class='text-lg'>Un <strong>gen</strong> es una unidad de información hereditaria localizada en los cromosomas. Morgan demostró con Drosophila que los genes se encuentran en los cromosomas y estudió la herencia ligada al sexo.</p><p class='text-lg'>Un organismo homocigoto posee alelos iguales, como AA o aa; uno heterocigoto posee alelos diferentes, como Aa.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">Los genes son segmentos de ADN ubicados en cromosomas. Homocigoto significa alelos iguales y heterocigoto alelos distintos. La meiosis produce gametos haploides y genera nuevas combinaciones.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Mutaciones y recombinación",
+      "html": "<p class='text-lg'>Una <strong>mutación</strong> es un cambio en el ADN o ARN; una mutación puntual puede sustituir una base. La <strong>recombinación genética</strong> reorganiza el material hereditario durante la meiosis y aumenta la variabilidad.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">Las mutaciones son cambios del ADN y pueden ser neutras, dañinas o favorables. La recombinación intercambia segmentos y aumenta la variabilidad sobre la que actúa la selección.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Ingeniería genética y transgénicos",
+      "html": "<p class='text-lg'>La ingeniería genética modifica el material hereditario. Los cultivos transgénicos pueden aportar resistencia, nutrientes o rasgos deseables, pero su uso arbitrario puede contaminar poblaciones y reducir la biodiversidad.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">La ingeniería genética permite insertar o modificar ADN. Los transgénicos pueden beneficiar medicina y agricultura, pero exigen evaluar contaminación genética, biodiversidad, seguridad y justicia.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Eugenesia y bioética",
+      "html": "<p class='text-lg'>La <strong>eugenesia</strong> buscó mejorar rasgos hereditarios humanos mediante selección y control reproductivo. Sus prácticas coercitivas vulneran la dignidad humana.</p><p class='text-lg'>La bioética utiliza los principios de autonomía, beneficencia, no maleficencia y justicia. La autonomía exige consentimiento informado.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">La eugenesia histórica vinculó racismo con esterilización y exclusión. La bioética aplica autonomía, beneficencia, no maleficencia y justicia; el consentimiento informado exige decisión libre.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Salud y reproducción asistida",
+      "html": "<p class='text-lg'>La OMS define la salud como bienestar físico, mental y social. La reproducción asistida utiliza técnicas de manipulación de gametos para tratar la esterilidad.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">La salud es bienestar físico, mental y social. La reproducción asistida usa técnicas sobre gametos o embriones y requiere información, consentimiento y protección de derechos.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Evolución de poblaciones",
+      "html": "<p class='text-lg'>La evolución ocurre en poblaciones. La <strong>deriva genética</strong> modifica al azar el acervo genético, especialmente en poblaciones pequeñas; el <strong>flujo génico</strong> ocurre cuando la migración lleva alelos de una población a otra.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">La deriva genética cambia alelos al azar, sobre todo en poblaciones pequeñas. El flujo génico desplaza alelos por migración. Ambos procesos actúan junto con selección y mutación.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Evolución humana y evidencias",
+      "html": "<p class='text-lg'>Los fósiles muestran cambios durante la hominización. La postura erecta y la marcha bípeda son rasgos importantes de la evolución humana.</p><p class='text-lg'>Los órganos homólogos comparten un origen ancestral, aunque puedan cumplir funciones distintas.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">Fósiles, herramientas, anatomía y ADN documentan la hominización. El bipedismo y los órganos homólogos aportan evidencias de ascendencia común.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: ADN y biología molecular",
+      "html": "<p class='text-lg'>La biología molecular estudia genes y moléculas. El ADN tiene doble hélice antiparalela, desoxirribosa, fosfato y las bases adenina, guanina, citosina y timina.</p><p class='text-lg'>La hibridología estudió la herencia mediante cruzas antes de consolidarse la genética.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">El ADN contiene nucleótidos con A, T, C y G. La complementariedad permite replicarlo y su información se expresa mediante ARN y proteínas. La hibridología estudió herencia mediante cruzas.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Salud, inmunidad y trasplantes",
+      "html": "<p class='text-lg'>El sistema inmunológico reconoce antígenos, neutraliza agentes infecciosos, destruye células infectadas y conserva memoria inmunológica.</p><p class='text-lg'>El rechazo de un órgano trasplantado ocurre principalmente por incompatibilidad entre donante y receptor.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">Los antígenos activan defensas; la inmunidad adaptativa produce anticuerpos y memoria. En trasplantes, la compatibilidad y los inmunosupresores reducen el rechazo, pero requieren vigilancia.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Ciencia, derechos y sociedad",
+      "html": "<p class='text-lg'>La ciencia y la tecnología deben aplicarse con responsabilidad, citando fuentes y respetando derechos. La salud es un derecho humano; el apartheid ejemplifica cómo las leyes pueden imponer desigualdad y discriminación.</p><p class=\"text-lg text-slate-700 dark:text-slate-200\">La tecnociencia une investigación y tecnología. La ciencia responsable cita fuentes y respeta derechos. El apartheid muestra que la biología nunca debe utilizarse para justificar superioridad o discriminación.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase Express",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase Express</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Evolución y sus repercusiones sociales</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Continúa con la Clase 4: Cuestionario completo del Módulo 17.</p>"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

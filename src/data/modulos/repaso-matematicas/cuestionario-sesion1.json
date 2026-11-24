@@ -1,0 +1,141 @@
+{
+  "titulo": "Cuestionario Sesión 1: Álgebra",
+  "preguntas": [
+    {
+      "pregunta": "Tema 1: Jerarquía de operaciones. ¿Cuál es el resultado de 8 + 2 × (5 − 3)²?",
+      "opciones": [
+        "16",
+        "12",
+        "20",
+        "10"
+      ],
+      "correcta": 0,
+      "explicacion": "Primero el agrupador: 5 − 3 = 2. Luego la potencia: 2² = 4. Después la multiplicación: 2 × 4 = 8. Finalmente la suma: 8 + 8 = 16.",
+      "datos": [
+        "A) 16",
+        "B) 12",
+        "C) 20",
+        "D) 10"
+      ]
+    },
+    {
+      "pregunta": "Tema 2: Productos notables. ¿Cuál es el desarrollo de (x + 6)²?",
+      "opciones": [
+        "x² + 12x + 36",
+        "x² + 6x + 36",
+        "x² + 36",
+        "2x² + 12x + 36"
+      ],
+      "correcta": 0,
+      "explicacion": "Aplica el cuadrado de un binomio: (a + b)² = a² + 2ab + b². Entonces (x + 6)² = x² + 12x + 36.",
+      "datos": [
+        "A) x² + 12x + 36",
+        "B) x² + 6x + 36",
+        "C) x² + 36",
+        "D) 2x² + 12x + 36"
+      ]
+    },
+    {
+      "pregunta": "Tema 3: Factorización. ¿Cuál es la factorización de x² + 8x + 15?",
+      "opciones": [
+        "(x + 3)(x + 5)",
+        "(x + 1)(x + 15)",
+        "(x − 3)(x − 5)",
+        "(x + 8)(x + 15)"
+      ],
+      "correcta": 0,
+      "explicacion": "Buscamos dos números que sumen 8 y multipliquen 15: 3 y 5. Por lo tanto, x² + 8x + 15 = (x + 3)(x + 5).",
+      "datos": [
+        "A) (x + 3)(x + 5)",
+        "B) (x + 1)(x + 15)",
+        "C) (x − 3)(x − 5)",
+        "D) (x + 8)(x + 15)"
+      ]
+    },
+    {
+      "pregunta": "Tema 4: Ecuaciones de primer grado. Resuelve 4x − 7 = 21.",
+      "opciones": [
+        "x = 7",
+        "x = 5",
+        "x = 6",
+        "x = 8"
+      ],
+      "correcta": 0,
+      "explicacion": "Suma 7 en ambos lados: 4x = 28. Luego divide entre 4: x = 7.",
+      "datos": [
+        "A) x = 7",
+        "B) x = 5",
+        "C) x = 6",
+        "D) x = 8"
+      ]
+    },
+    {
+      "pregunta": "Tema 5: Ecuaciones de segundo grado. ¿Cuáles son las raíces de x² − 7x + 12 = 0?",
+      "opciones": [
+        "x = 3, 4",
+        "x = 2, 6",
+        "x = −3, −4",
+        "x = 1, 12"
+      ],
+      "correcta": 0,
+      "explicacion": "Factorizando: x² − 7x + 12 = (x − 3)(x − 4) = 0. Por lo tanto, x = 3 y x = 4.",
+      "datos": [
+        "A) x = 3, 4",
+        "B) x = 2, 6",
+        "C) x = −3, −4",
+        "D) x = 1, 12"
+      ]
+    },
+    {
+      "pregunta": "Tema 6: Sistemas de ecuaciones. Resuelve el sistema x + y = 9, x − y = 3.",
+      "opciones": [
+        "x = 6, y = 3",
+        "x = 3, y = 6",
+        "x = 5, y = 4",
+        "x = 7, y = 2"
+      ],
+      "correcta": 0,
+      "explicacion": "Sumando las ecuaciones: 2x = 12, entonces x = 6. Sustituyendo: 6 + y = 9, entonces y = 3.",
+      "datos": [
+        "A) x = 6, y = 3",
+        "B) x = 3, y = 6",
+        "C) x = 5, y = 4",
+        "D) x = 7, y = 2"
+      ]
+    },
+    {
+      "pregunta": "Tema 7: Desigualdades. Resuelve −5x + 10 > 0.",
+      "opciones": [
+        "x < 2",
+        "x > 2",
+        "x ≤ 2",
+        "x ≥ 2"
+      ],
+      "correcta": 0,
+      "explicacion": "Restando 10: −5x > −10. Al dividir entre −5 se invierte el signo: x < 2.",
+      "datos": [
+        "A) x < 2",
+        "B) x > 2",
+        "C) x ≤ 2",
+        "D) x ≥ 2"
+      ]
+    },
+    {
+      "pregunta": "Tema 8: Problemas de aplicación. Una tienda vende dos tipos de cuadernos: el tipo A cuesta $25 y el tipo B cuesta $40. En un día se vendieron 30 cuadernos en total y se recaudaron $960. ¿Cuántos cuadernos de cada tipo se vendieron?",
+      "opciones": [
+        "16 del tipo A y 14 del tipo B",
+        "14 del tipo A y 16 del tipo B",
+        "15 del tipo A y 15 del tipo B",
+        "18 del tipo A y 12 del tipo B"
+      ],
+      "correcta": 0,
+      "explicacion": "Planteamos el sistema: A + B = 30 y 25A + 40B = 960. Despejando A = 30 − B y sustituyendo: 25(30 − B) + 40B = 960 → 750 − 25B + 40B = 960 → 15B = 210 → B = 14. Entonces A = 30 − 14 = 16. Se vendieron 16 cuadernos del tipo A y 14 del tipo B.",
+      "datos": [
+        "A) 16 del tipo A y 14 del tipo B",
+        "B) 14 del tipo A y 16 del tipo B",
+        "C) 15 del tipo A y 15 del tipo B",
+        "D) 18 del tipo A y 12 del tipo B"
+      ]
+    }
+  ]
+}

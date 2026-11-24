@@ -1,0 +1,88 @@
+{
+  "titulo": "Clase 3: Ecología, Ciclos Biogeoquímicos y Biomas",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 16",
+      "html": "<p class='text-2xl text-slate-100'>Hacia un Desarrollo Sustentable</p><p class='text-lg text-slate-200 mt-4'>Clase 3: Ecología, Ciclos Biogeoquímicos y Biomas</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "¿Qué es la ecología?",
+      "html": "<p>La <strong>ecología</strong> es la ciencia que estudia las relaciones entre los seres vivos y su entorno. Analiza cómo los organismos interactúan entre sí y con el medio físico que los rodea.</p><p>Su objeto de estudio son los <strong>ecosistemas</strong>, que incluyen tanto a los seres vivos como al ambiente en el que habitan.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Niveles de organización ecológica",
+      "html": "<p>La ecología estudia varios niveles, de menor a mayor complejidad:</p><ul><li><strong>Individuo:</strong> un solo ser vivo.</li><li><strong>Población:</strong> individuos de la misma especie que viven juntos.</li><li><strong>Comunidad o biocenosis:</strong> todas las poblaciones que conviven en un área.</li><li><strong>Ecosistema:</strong> la comunidad más el medio físico donde vive (biotopo).</li><li><strong>Bioma:</strong> conjunto de ecosistemas de la misma clase (bosques, selvas, etc.).</li><li><strong>Biosfera:</strong> todos los ecosistemas del planeta.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Biocenosis y biotopo",
+      "html": "<p>Dentro de un ecosistema se distinguen dos componentes:</p><ul><li><strong>Biocenosis:</strong> el conjunto de seres vivos (parte biótica). Por ejemplo, las especies que habitan en un estanque.</li><li><strong>Biotopo:</strong> el espacio físico con sus características abióticas (no vivas). Por ejemplo, el agua, la temperatura, el suelo.</li></ul><p>La interacción entre ambos forma el ecosistema.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Cadenas alimenticias y niveles tróficos",
+      "html": "<p>En un ecosistema, la energía y los nutrientes se transfieren a través de las <strong>cadenas alimenticias</strong>. Cada nivel se llama <strong>nivel trófico</strong>:</p><ul><li><strong>Productores:</strong> producen su propio alimento (plantas, algas).</li><li><strong>Consumidores primarios:</strong> comen a los productores (herbívoros).</li><li><strong>Consumidores secundarios:</strong> comen a los primarios (carnívoros).</li><li><strong>Consumidores terciarios:</strong> comen a los secundarios.</li><li><strong>Descomponedores:</strong> descomponen la materia orgánica muerta (hongos, bacterias).</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fotosíntesis",
+      "html": "<p>La <strong>fotosíntesis</strong> es el proceso por el cual los organismos autótrofos (plantas, algas, algunas bacterias) producen su alimento a partir de la luz solar.</p><p><strong>Ecuación general:</strong></p><p class='font-mono text-center text-lg my-4 text-slate-100'>6CO₂ + 6H₂O + luz → C₆H₁₂O₆ + 6O₂</p><p>La realizan <strong>solo los productores</strong>. Se lleva a cabo tanto en la tierra como en el agua.</p>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Identifica niveles tróficos",
+      "instrucciones": "Responde en tu cuaderno:\n\nObserva la siguiente cadena alimenticia:\n\nPasto → Saltamontes → Rana → Serpiente → Halcón\n\nIdentifica el nivel trófico de cada organismo (productor, consumidor primario, secundario, terciario o cuaternario).\n\nDespués, responde: ¿qué pasaría con el ecosistema si desaparecieran los saltamontes?",
+      "pista": "Recuerda: el primer nivel siempre es un productor. Cada animal que come del anterior sube un nivel trófico."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Ciclos biogeoquímicos",
+      "html": "<p>Los <strong>ciclos biogeoquímicos</strong> son procesos naturales en los que los elementos químicos circulan entre los seres vivos y el ambiente (suelo, agua, atmósfera).</p><p>Los principales son:</p><ul><li>Ciclo del agua (hidrológico)</li><li>Ciclo del carbono</li><li>Ciclo del nitrógeno</li><li>Ciclo del azufre</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Ciclo hidrológico (del agua)",
+      "html": "<p>El <strong>ciclo del agua</strong> describe el movimiento continuo del agua entre los océanos, la atmósfera y los continentes.</p><p><strong>Etapas principales:</strong></p><ul><li><strong>Evaporación:</strong> el agua líquida pasa a vapor por acción del sol.</li><li><strong>Transpiración:</strong> las plantas liberan vapor de agua.</li><li><strong>Condensación:</strong> el vapor se enfría y forma nubes.</li><li><strong>Precipitación:</strong> lluvia, nieve o granizo.</li><li><strong>Escurrimiento:</strong> el agua vuelve a ríos, lagos y océanos.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Ciclo del nitrógeno y del azufre",
+      "html": "<p><strong>Ciclo del nitrógeno:</strong> fundamental porque este elemento forma parte de proteínas y ADN. Reservas abióticas: N₂ atmosférico, nitratos (NO₃⁻) y amonio (NH₄⁺). Los fosfatos NO forman parte de este ciclo.</p><p><strong>Ciclo del azufre y lluvia ácida:</strong> el SO₂ liberado por industrias se oxida a SO₃ y reacciona con agua para formar H₂SO₄, causante de la lluvia ácida. Daña plantas, suelos y edificios.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Biomas terrestres",
+      "html": "<p>Los <strong>biomas</strong> se clasifican según el clima y la vegetación predominante:</p><ul><li><strong>Tundra:</strong> muy fría, suelo congelado, vegetación baja (musgos, líquenes).</li><li><strong>Taiga:</strong> bosque de coníferas, inviernos fríos. Árboles como pino, abeto, oyamel, picea.</li><li><strong>Bosque caducifolio:</strong> árboles que pierden sus hojas en otoño. Ej: abedul, nogal, roble.</li><li><strong>Selva tropical:</strong> cálida y húmeda, gran biodiversidad.</li><li><strong>Sabana:</strong> pastizales con árboles dispersos, clima cálido.</li><li><strong>Desierto:</strong> muy seco, vegetación escasa.</li><li><strong>Estepa:</strong> praderas secas.</li></ul>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Identifica tu bioma",
+      "instrucciones": "Responde en tu cuaderno:\n\nInvestiga o recuerda cómo es el clima y la vegetación del lugar donde vives. Después contesta:\n\n• ¿Qué tipo de bioma se parece más a tu región?\n• ¿Qué especies de plantas y animales son típicas de tu zona?\n• ¿Cómo se adaptan esas especies a las condiciones climáticas?",
+      "pista": "Si vives en una zona con bosques de pino u oyamel (como el centro de México), probablemente tu región se parece a la taiga o bosque templado."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Migración animal y servicios ecosistémicos",
+      "html": "<p><strong>Migración:</strong> desplazamiento periódico de animales hacia otras regiones en busca de mejores condiciones. Factores: inviernos extremos, escasez de alimento, mejores climas, huir de depredadores, reproducción.</p><p><strong>Servicios ecosistémicos:</strong> beneficios que obtenemos de la naturaleza:</p><ul><li><strong>Aprovisionamiento:</strong> alimentos, agua, madera.</li><li><strong>Regulación:</strong> clima, purificación del aire y agua.</li><li><strong>Culturales:</strong> paisajes, recreación, valor espiritual.</li><li><strong>De soporte o esenciales:</strong> formación de suelo, ciclos de nutrientes.</li></ul>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Reflexión: servicios ecosistémicos",
+      "instrucciones": "Responde en tu cuaderno:\n\nLos ecosistemas ofrecen beneficios al ser humano llamados 'servicios ecosistémicos'. Menciona 3 servicios que recibas de la naturaleza en tu vida diaria. Pueden ser:\n\n• Aprovisionamiento (alimentos, agua, madera)\n• Regulación (clima, purificación del aire)\n• Culturales (paisajes, recreación)\n\nExplica por qué cada uno es importante para ti.",
+      "pista": "Ejemplo: el agua potable es un servicio de aprovisionamiento; el oxígeno que respiramos es de regulación; un parque es un servicio cultural."
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Cierre: ecología y equilibrio natural",
+      "html": "<p>En esta clase vimos:</p><ul><li>Los <strong>niveles de organización ecológica</strong>: individuo, población, comunidad, ecosistema, bioma, biosfera.</li><li>La diferencia entre <strong>biocenosis y biotopo</strong>.</li><li>Las <strong>cadenas alimenticias</strong> y los niveles tróficos.</li><li>La importancia de la <strong>fotosíntesis</strong>.</li><li>Los <strong>ciclos biogeoquímicos</strong>: agua, nitrógeno, azufre.</li><li>Los principales <strong>biomas terrestres</strong>.</li><li>La <strong>migración animal</strong> y los <strong>servicios ecosistémicos</strong>.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 3",
+      "html": "<p class='text-3xl text-slate-100 mt-8'>Fin de la Clase 3</p><p class='text-lg text-slate-200 mt-4'>Ecología, Ciclos Biogeoquímicos y Biomas</p><p class='text-base text-slate-300 mt-8'>Nos vemos en la Clase 4: Sustentabilidad, Problemas Ambientales y Bioética</p>"
+    }
+  ]
+}

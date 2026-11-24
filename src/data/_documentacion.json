@@ -1,0 +1,124 @@
+{
+  "version": "1.0",
+  "proposito": "Reglas y convenciones para crear clases del proyecto Práctica. Mantener consistencia entre módulos.",
+  "reglas_generales": {
+    "duracion_clase": "2 horas",
+    "slides_por_clase": "Máximo 10 diapositivas de tipo contenido por clase. Este conteo no incluye ejemplos, prácticas, actividad ni preguntas. La clase express tiene un máximo de 80 diapositivas, con una sola apertura y un solo cierre generales.",
+    "estructura_inicial": "Slide 1 siempre es el slide inicial con título del módulo + título de la clase + resumen de temas separados por ' · '",
+    "estructura_final": "Último slide siempre es 'Fin de la Clase X' con el título de la clase y el aviso de la siguiente clase",
+    "texto_cuerpo": "text-lg en TODO el cuerpo (párrafos, listas, cajas). Solo los títulos usan text-2xl",
+    "estilos_tailwind": "Mantener el sistema de colores: bg-X-500/10, border-X-500/30, dark:text-X-300",
+    "imagenes": "Al final del HTML del slide, con class='my-4 rounded-lg max-h-80 mx-auto' y alt descriptivo. Se añaden en segundo paso.",
+    "sin_modal": "El campo 'modal' solo se usa en el módulo de Química (tabla periódica). No usar en otros módulos.",
+    "formulas": "Todas las fórmulas deben ir dentro de un div contenedor con style inline 'margin:0.75rem 0;text-align:center;' y un span interno con style inline 'display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' y class='text-slate-900 dark:text-white'. Se usa style inline porque el wrapper 'prose' de Tailwind pisa las clases utilitarias de fondo, borde y márgenes.",
+    "diapositivas_por_clase": "Máximo 10 diapositivas de tipo contenido por clase, sin contar la diapositiva inicial ni la diapositiva de cierre; con ambas se permiten hasta 12 diapositivas de contenido. La diapositiva de revisión sí cuenta dentro del máximo de 10. Ejemplos, prácticas, actividad y preguntas no se incluyen en ese máximo. La clase express tiene un máximo de 80 diapositivas, con una sola apertura y un solo cierre generales.",
+    "palabras_por_diapositiva": "Cada diapositiva debe contener como máximo 80 palabras visibles, incluido el título. Si un tema excede ese límite, divídelo en diapositivas adicionales, siempre dentro del máximo de 10 diapositivas de contenido por clase. En reactivos de guía que excedan el límite, sustituir el reactivo con la leyenda indicada en reglas_de_contenido.preguntas_extensas; el Cuestionario 2 se conserva tal como aparece en la fuente."
+  },
+  "estructura_de_clase": {
+    "orden_recomendado": [
+      "Slide inicial (título + resumen de temas)",
+      "Temas de contenido (varios slides por tema)",
+      "Ejemplos (antes de cada práctica)",
+      "Prácticas (después de cada tema con resolución matemática)",
+      "Actividad única (antes de la revisión)",
+      "Slide de 'Revisión de la actividad'",
+      "Preguntas de repaso (las mismas de la guía asignadas a esa clase)",
+      "Slide 'Fin de la Clase X'"
+    ],
+    "actividades": "SOLO UNA actividad por clase. Reemplaza a las 2 actividades anteriores. Va antes de las preguntas de repaso.",
+    "clase_4": "La Clase 4 es siempre un cuestionario completo en formato de diapositivas. Debe incluir el conjunto completo de preguntas definido para el cuestionario de cierre, con sus opciones, respuesta correcta, explicación y numeración correspondiente. No se utiliza como una clase teórica regular.",
+    "clase_express": "La clase express reúne los contenidos teóricos esenciales de las sesiones que integra, en el orden original por área. Incluye una sola diapositiva inicial y una sola diapositiva final generales; elimina las diapositivas iniciales, actividades de estudio y cierres individuales de cada sesión. Excluye ejemplos, prácticas y preguntas, y puede omitir contenidos secundarios o repetitivos para no superar 80 diapositivas.",
+    "pistas": "Eliminadas. El componente SlideActividad ya no usa pista.",
+    "temas_teoricos": "Los temas teóricos (ej: principio de Bernoulli) NO llevan ejemplo ni práctica. Solo contenido."
+  },
+  "tipos_de_slide": {
+    "contenido": {
+      "campos": {
+        "tipo": "'contenido'",
+        "titulo": "Título del slide (aparece como encabezado)",
+        "html": "HTML con el contenido del slide. Usar text-lg en todo el cuerpo. Cajas con grid grid-cols-1 md:grid-cols-2 para comparaciones. Fórmulas siempre en box destacado (ver reglas_generales.formulas)."
+      },
+      "uso": "Para explicar conceptos, definiciones, comparaciones y listas."
+    },
+    "pregunta": {
+      "campos": {
+        "tipo": "'pregunta'",
+        "pregunta": "Texto de la pregunta",
+        "opciones": "Array de 4 opciones (todas de longitud similar)",
+        "correcta": "Índice de la opción correcta dentro del array opciones (0-3). Debe coincidir con la opción correcta antes de que el componente la baraje.",
+        "explicacion": "Explicación de por qué la respuesta correcta es la correcta"
+      },
+      "uso": "Solo al final de la clase, en la sección de revisión de preguntas de la guía.",
+      "nota": "Las opciones se barajan automáticamente en el componente SlidePregunta y Cuestionario."
+    },
+    "practica": {
+      "campos": {
+        "tipo": "'practica'",
+        "titulo": "Título de la práctica",
+        "ejercicios": "Array de exactamente 3 ejercicios. Cada uno con { pregunta, respuesta }. La pregunta debe aparecer primero y la fórmula necesaria después, en una línea separada dentro del mismo texto."
+      },
+      "uso": "Una práctica por cada tema que requiera resolución matemática. Cada práctica contiene exactamente tres ejercicios del tema.",
+      "nota": "Los ejercicios NO deben ser iguales a los ejemplos ni a las preguntas de la guía."
+    },
+    "ejemplo": {
+      "campos": {
+        "tipo": "'ejemplo'",
+        "titulo": "Título del ejemplo",
+        "enunciado": "Texto del problema o ejemplo",
+        "datos": "Array opcional que contiene únicamente las fórmulas necesarias para resolver el ejemplo (se muestra con viñetas). No debe incluir la respuesta, el resultado, pasos resueltos ni datos que revelen la solución. Si no se necesita una fórmula, omitir el campo o dejarlo vacío."
+      },
+      "uso": "Antes de cada práctica. Aparece a la izquierda con los datos, y a la derecha un espacio en blanco para resolver en el pizarrón.",
+      "nota": "Los ejemplos NO deben ser iguales a los ejercicios de práctica ni a las preguntas de la guía. El apartado datos solo muestra fórmulas de apoyo; la resolución y la respuesta deben quedar para el pizarrón o el trabajo del estudiante."
+    },
+    "actividad": {
+      "campos": {
+        "tipo": "'actividad'",
+        "titulo": "Título de la actividad",
+        "instrucciones": "Instrucción general (ej: 'Responde las siguientes preguntas de tu Guía 1:')",
+        "preguntas": "Array de números de pregunta de la guía (se muestran como boxes individuales)"
+      },
+      "uso": "SOLO UNA por clase. Va antes de las preguntas de repaso.",
+      "nota": "El componente SlideActividad renderiza los números como boxes cuadrados."
+    }
+  },
+  "reglas_de_contenido": {
+    "preguntas_de_guia": "Cada clase tiene asignadas ciertas preguntas de la guía que se resuelven como actividad y luego se revisan en el repaso.",
+    "preguntas_de_repaso": "Son las mismas preguntas de la guía asignadas a esa clase. Se colocan todas juntas al final, después del slide de revisión.",
+    "opciones_similares": "Todas las opciones de una pregunta deben tener longitud similar para no sesgar la respuesta.",
+    "respuesta_correcta": "El campo correcta debe señalar el índice real de la opción correcta dentro del array opciones (0-3). El componente puede barajar las opciones al renderizar, pero debe conservar la correspondencia con ese índice.",
+    "numeracion_de_preguntas": "Cada pregunta asignada a una actividad debe conservar el número original de la guía o actividad fuente. Ese número se registra en el campo numero y también se escribe al inicio del texto visible de pregunta, con el formato 'N. Pregunta'. Si una pregunta se reemplaza por la leyenda de contenido complementario, la leyenda también conserva ese número.",
+    "ejemplos_vs_practicas": "Los ejemplos y las prácticas no deben repetir el enunciado ni los datos. Pueden abordar la misma temática. Por ejemplo, un ejemplo puede pedir distancia en MRU y una práctica puede pedir tiempo en MRU.",
+    "sin_repeticion_en_guia": "Los ejemplos y prácticas no deben repetir el enunciado ni los datos de las preguntas de la guía asignadas a esa clase. La temática puede ser la misma.",
+    "preguntas_extensas": "Si una pregunta es muy extensa, muy larga o saturada para presentarse en la web, se reemplaza por la leyenda 'Revisa la información complementaria en tu Guia' y se deja el contenido completo solo en la guía física o complementaria. Esto evita saturar la presentación visual y mantiene una lectura clara en formato digital y físico."
+  },
+  "componentes_react": {
+    "SlideContenido.jsx": "Renderiza slides de tipo 'contenido'. Usa prose de Tailwind, por eso las fórmulas van con style inline.",
+    "SlidePregunta.jsx": "Renderiza slides de tipo 'pregunta'. Baraja las opciones automáticamente con Fisher-Yates.",
+    "SlideActividad.jsx": "Renderiza slides de tipo 'actividad'. Muestra los números de pregunta como boxes cuadrados. Sin pista.",
+    "SlidePractica.jsx": "Renderiza slides de tipo 'practica'",
+    "SlideEjemplo.jsx": "Renderiza slides de tipo 'ejemplo'. Ejemplo a la izquierda, espacio en blanco a la derecha.",
+    "Slideshow.jsx": "Orquesta la presentación. Tiene un switch que decide qué componente renderizar según slide.tipo.",
+    "Cuestionario.jsx": "Renderiza el cuestionario final con la cantidad de preguntas definida por el archivo correspondiente. Baraja las opciones con Fisher-Yates y el botón 'Reintentar' vuelve a mezclarlas."
+  },
+  "avisos_para_ia": {
+    "al_editar_una_clase": "Antes de modificar cualquier clase, leer este archivo completo para respetar las reglas de estructura, estilo y contenido.",
+    "al_crear_nueva_clase": "Seguir el orden recomendado de slides y respetar el formato de cada tipo de slide.",
+    "al_añadir_formulas": "Usar SIEMPRE style inline, nunca clases Tailwind, porque el wrapper 'prose' pisa bg y border.",
+    "al_añadir_imagenes": "Colocarlas al final del HTML del slide con class='my-4 rounded-lg max-h-80 mx-auto' y alt descriptivo.",
+    "al_crear_preguntas": "Registrar correcta con el índice real de la opción correcta dentro del array opciones. El componente puede barajar las opciones al renderizar. Todas las opciones deben tener longitud similar y cada pregunta debe conservar su numero de fuente cuando aplique.",
+    "limite_de_palabras": "Contar las palabras visibles de cada diapositiva, incluido el título, y no superar 80. Si hace falta ampliar un tema, crear una diapositiva de contenido adicional sin exceder el máximo de 10; la apertura y el cierre no cuentan en ese máximo. Si un reactivo de guía supera el límite, usar la leyenda prevista para preguntas extensas. El Cuestionario 2 conserva intactos sus enunciados y opciones según la regla del cuestionario final."
+  },
+  "cuestionario_final": {
+    "regla_principal": "El cuestionario final es SIEMPRE el segundo cuestionario del módulo (Cuestionario 2). Se usa tal cual, sin modificar preguntas ni respuestas.",
+    "reglas_de_uso": {
+      "repeticion_permitida": "No importa si las preguntas se repiten con las clases o con el cuestionario 1. Se incluyen tal cual.",
+      "adaptacion_de_preguntas": "El texto de las preguntas se mantiene tal como está escrito en el Cuestionario 2, sin modificaciones. Las respuestas y el orden de las opciones también se mantienen intactos.",
+      "respuestas_intactas": "Las respuestas y su contenido se mantienen 100% intactas."
+    },
+    "estructura": {
+      "tipo": "array de preguntas",
+      "campos_por_pregunta": "pregunta, opciones (4), correcta (índice), explicacion y numero",
+      "numeracion_visible": "El campo numero corresponde al número de la pregunta en el cuestionario fuente y debe aparecer también al inicio del texto de pregunta. La numeración no se reinicia ni se sustituye por el orden visual si el cuestionario conserva números de origen."
+    }
+  }
+}

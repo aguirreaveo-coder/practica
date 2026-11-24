@@ -1,0 +1,87 @@
+
+{
+  "titulo": "Clase 3: Diseño y publicación de páginas web",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 22: Informática",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Diseño y publicación de páginas web</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 3: Fundamentos de Internet y HTML</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Páginas web · HTML · Etiquetas · Listas · Imágenes · CSS · Frames · Formatos gráficos · Servidores · FTP</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "¿Qué es una página web?",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Una <b>página web</b> es un documento digital que puede consultarse mediante un navegador a través de Internet.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Sus elementos fundamentales incluyen:</p><ul class='text-lg text-slate-700 dark:text-slate-200'><li><b>HTML:</b> define la estructura y el contenido.</li><li><b>Editor:</b> permite escribir y modificar el código.</li><li><b>Navegador:</b> interpreta el código y muestra la página.</li></ul><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Una página puede contener textos, imágenes, enlaces y elementos multimedia.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "HTML: lenguaje de marcado",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'><b>HTML</b> significa HyperText Markup Language (Lenguaje de Marcado de Hipertexto).</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Es el lenguaje utilizado para organizar el contenido de una página web mediante etiquetas.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Las etiquetas indican al navegador qué tipo de elemento debe mostrar.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Ejemplos: &lt;h1&gt; representa un encabezado, &lt;p&gt; un párrafo y &lt;a&gt; un enlace.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Etiquetas para organizar información",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>HTML permite organizar información mediante diferentes tipos de listas.</p><ul class='text-lg text-slate-700 dark:text-slate-200'><li><b>&lt;ul&gt;:</b> crea una lista sin orden numérico, generalmente con viñetas.</li><li><b>&lt;ol&gt;:</b> crea una lista ordenada, generalmente numerada.</li><li><b>&lt;li&gt;:</b> define cada elemento de una lista.</li></ul><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Las listas pueden contener otras listas dentro de sus elementos, creando estructuras jerárquicas.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Inserción de imágenes en HTML",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>La etiqueta <b>&lt;img&gt;</b> permite insertar imágenes dentro de una página web.</p><ul class='text-lg text-slate-700 dark:text-slate-200'><li><b>SRC:</b> indica la ubicación del archivo de imagen.</li><li><b>WIDTH:</b> establece la anchura de la imagen.</li><li><b>HEIGHT:</b> establece la altura de la imagen.</li></ul><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Estos atributos permiten indicar el tamaño y la ubicación del recurso gráfico que se mostrará.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Hojas de estilo CSS",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'><b>CSS</b> significa Cascading Style Sheets (Hojas de Estilo en Cascada).</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Es un mecanismo que permite controlar la apariencia visual de los documentos HTML.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Mediante CSS se pueden establecer:</p><ul class='text-lg text-slate-700 dark:text-slate-200'><li>Tipo, tamaño y color de letra.</li><li>Colores de fondo.</li><li>Márgenes y espacios.</li><li>Distribución y presentación de los elementos.</li></ul><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>HTML organiza el contenido y CSS define su presentación.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Frames o marcos",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Los <b>frames</b> o marcos permiten dividir una ventana del navegador en diferentes secciones para mostrar documentos HTML.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Entre sus atributos tradicionales se encuentran:</p><ul class='text-lg text-slate-700 dark:text-slate-200'><li><b>ROWS:</b> divide el espacio en filas.</li><li><b>COLS:</b> divide el espacio en columnas.</li><li><b>SCROLLING:</b> controla las barras de desplazamiento.</li></ul><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Son características del HTML tradicional; actualmente existen alternativas modernas como iframe y CSS.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Formatos gráficos de Internet",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Las páginas web utilizan diferentes formatos para almacenar y mostrar imágenes.</p><ul class='text-lg text-slate-700 dark:text-slate-200'><li><b>GIF:</b> permite imágenes animadas y gráficos sencillos.</li><li><b>JPEG o JPG:</b> formato comprimido utilizado principalmente en fotografías.</li><li><b>PNG:</b> permite imágenes con transparencia y buena calidad.</li><li><b>SVG:</b> formato vectorial que puede ampliarse sin perder calidad.</li></ul><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>PPT es un formato de presentación, no un formato gráfico de imagen.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Editores y navegadores web",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Para desarrollar una página web se utilizan herramientas con funciones diferentes.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'><b>Editor:</b> permite crear, escribir y modificar el código o contenido de una página web.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'><b>Navegador:</b> interpreta los documentos web y permite visualizar su contenido.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Algunos editores permiten visualizar una representación de la página mientras se desarrolla.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Servidores y publicación web",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Un <b>servidor web</b> es un equipo o sistema que almacena y proporciona los archivos de una página a los usuarios.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Para publicar una página web se deben realizar las siguientes actividades:</p><ul class='text-lg text-slate-700 dark:text-slate-200'><li>Probar localmente su funcionamiento.</li><li>Solicitar una cuenta en un servidor.</li><li>Transferir los archivos al servidor.</li><li>Comprobar el acceso desde Internet.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Transferencia de archivos mediante FTP",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'><b>FTP</b> significa File Transfer Protocol (Protocolo de Transferencia de Archivos).</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Es un protocolo que permite transferir archivos entre equipos mediante una conexión de red.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>En el desarrollo web se utiliza tradicionalmente para subir los archivos HTML, imágenes y otros recursos a un servidor.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Una vez publicados, los archivos pueden consultarse mediante una dirección web.</p>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Actividad: Repaso de la Guía",
+      "instrucciones": "Resuelve las siguientes preguntas del Módulo 22 correspondientes a esta clase. Identifica las etiquetas HTML, los formatos gráficos, los mecanismos de publicación y las herramientas web. Cuando se indique, consulta el reactivo completo en tu guía.",
+      "preguntas": [
+        8,
+        11,
+        15,
+        20,
+        24,
+        27,
+        35,
+        37
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Revisión de la Actividad",
+      "html": "<p class='text-lg text-slate-700 dark:text-slate-200'>Compara tus respuestas con las definiciones estudiadas durante la clase.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Recuerda que HTML estructura el contenido, CSS controla su apariencia y FTP permite transferir archivos.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Las preguntas 8, 24 y 37 requieren consultar representaciones visuales o el código completo. Consulta estos reactivos directamente en tu guía.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 3",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Diseño y publicación web</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>En esta clase estudiamos los fundamentos de HTML, las hojas de estilo CSS, las etiquetas, los formatos gráficos y los procedimientos para publicar una página web.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Con esto concluimos los contenidos del Módulo 22: Informática. ¡Buen trabajo!</p>"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}
