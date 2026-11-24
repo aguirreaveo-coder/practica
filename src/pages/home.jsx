@@ -17,7 +17,6 @@ function Home() {
   const [caratulasDisponibles, setCaratulasDisponibles] = useState({})
   const {
     usuario,
-    usuarios,
     nombresCursos,
     cerrarSesion,
     cursosPermitidos,
@@ -128,6 +127,21 @@ function Home() {
                   </button>
                 )}
               </div>
+              {usuario?.nivel === 'admin' && (
+                <Link
+                  to="/administracion"
+                  className="grid h-10 w-10 shrink-0 place-items-center rounded-lg border border-slate-300 bg-white text-slate-700 shadow-sm transition hover:border-blue-400 hover:text-blue-600 dark:border-white/10 dark:bg-slate-800/60 dark:text-slate-200 dark:hover:border-blue-500/60 dark:hover:text-blue-400"
+                  title="Administración de usuarios"
+                  aria-label="Administración de usuarios"
+                >
+                  <svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+                    <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2" />
+                    <circle cx="9" cy="7" r="4" />
+                    <path d="M22 21v-2a4 4 0 0 0-3-3.87" />
+                    <path d="M16 3.13a4 4 0 0 1 0 7.75" />
+                  </svg>
+                </Link>
+              )}
               <ThemeToggle />
               <button
                 onClick={cerrarSesion}
@@ -169,29 +183,6 @@ function Home() {
               </div>
             </div>
           </section>
-
-          {usuario?.nivel === 'admin' && (
-            <section className="mb-10 rounded-xl border border-slate-200 bg-white/80 p-5 shadow-sm dark:border-white/10 dark:bg-slate-800/50">
-              <p className="text-xs font-bold uppercase tracking-widest text-blue-600 dark:text-blue-400">
-                Administración
-              </p>
-              <label htmlFor="usuario-admin" className="mt-2 mb-2 block text-sm font-semibold">
-                Usuarios registrados
-              </label>
-              <select
-                id="usuario-admin"
-                className="w-full rounded-lg border border-slate-300 bg-white px-4 py-3 outline-none focus:border-blue-500 dark:border-white/10 dark:bg-slate-800"
-                defaultValue=""
-              >
-                <option value="" disabled>Selecciona un usuario</option>
-                {usuarios.map((perfil) => (
-                  <option key={perfil.id} value={perfil.id}>
-                    {perfil.nombre} — {perfil.nivel === 'admin' ? 'Administrador' : 'Usuario'}
-                  </option>
-                ))}
-              </select>
-            </section>
-          )}
 
           {usuario?.nivel === 'usuario' && (
             <section className="mb-10 rounded-xl border border-slate-200 bg-white/80 p-5 shadow-sm dark:border-white/10 dark:bg-slate-800/50">
@@ -333,11 +324,9 @@ function Tarjeta({ item, tieneCaratula }) {
     etiqueta = 'Programa'
   }
 
-  return (
-    <Link
-      to={`/modulo/${item.id}`}
-      className="group relative aspect-[2/3] rounded-xl overflow-hidden shadow-lg hover:shadow-2xl ring-1 ring-black/5 dark:ring-white/5 hover:ring-black/20 dark:hover:ring-white/20 transition-all duration-300 hover:-translate-y-1"
-    >
+  const enlaceExterno = item.tipoEspecial === 'externo' && item.enlaceExterno
+  const contenido = (
+    <>
       {tieneCaratula ? (
         <>
           <img
@@ -382,6 +371,23 @@ function Tarjeta({ item, tieneCaratula }) {
           </p>
         </div>
       </div>
+    </>
+  )
+
+  const className = "group relative aspect-[2/3] rounded-xl overflow-hidden shadow-lg hover:shadow-2xl ring-1 ring-black/5 dark:ring-white/5 hover:ring-black/20 dark:hover:ring-white/20 transition-all duration-300 hover:-translate-y-1"
+
+  return enlaceExterno ? (
+    <a
+      href={enlaceExterno}
+      target="_blank"
+      rel="noopener noreferrer"
+      className={className}
+    >
+      {contenido}
+    </a>
+  ) : (
+    <Link to={`/modulo/${item.id}`} className={className}>
+      {contenido}
     </Link>
   )
 }

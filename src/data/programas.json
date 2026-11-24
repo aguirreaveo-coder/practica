@@ -180,5 +180,15 @@
         "subtema": "Elementos más comunes"
       }
     ]
+  },
+  {
+    "id": "simulacros",
+    "nombre": "Simulacros",
+    "descripcion": "Accede a simulaciones y prácticas de examen",
+    "caratula": "/caratulas/simulacros.jpg",
+    "color": "#ef4444",
+    "tipo": "programa",
+    "tipoEspecial": "externo",
+    "enlaceExterno": "https://laemsimulacro.vercel.app/"
   }
 ]

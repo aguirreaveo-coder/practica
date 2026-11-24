@@ -5,6 +5,7 @@ import Clase from './pages/Clase'
 import CuestionarioPage from './pages/CuestionarioPage'
 import InteractivoPage from './pages/InteractivoPage'
 import TablaReferenciaPage from './pages/TablaReferenciaPage'
+import Administracion from './pages/Administracion'
 import Login from './pages/Login'
 import { useAuth } from './contexts/AuthContext'
 
@@ -31,11 +32,20 @@ function AccessRoute({ children }) {
   return children
 }
 
+function AdminRoute({ children }) {
+  const { usuario } = useAuth()
+  if (usuario?.nivel !== 'admin') {
+    return <Navigate to="/" replace />
+  }
+  return children
+}
+
 function App() {
   return (
     <Routes>
       <Route path="/login" element={<Login />} />
       <Route path="/" element={<ProtectedRoute><Home /></ProtectedRoute>} />
+      <Route path="/administracion" element={<ProtectedRoute><AdminRoute><Administracion /></AdminRoute></ProtectedRoute>} />
       <Route path="/modulo/:id" element={<ProtectedRoute><AccessRoute><Modulo /></AccessRoute></ProtectedRoute>} />
       <Route path="/modulo/:id/clase/:num" element={<ProtectedRoute><AccessRoute><Clase /></AccessRoute></ProtectedRoute>} />
       <Route path="/modulo/:id/express" element={<ProtectedRoute><AccessRoute><Clase esExpress={true} /></AccessRoute></ProtectedRoute>} />
