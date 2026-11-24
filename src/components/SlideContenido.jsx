@@ -1,15 +1,49 @@
-import { useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import ModalTablaPeriodica from './ModalTablaPeriodica'
 
 function SlideContenido({ slide }) {
   const [modalAbierto, setModalAbierto] = useState(false)
   const [imagenAmpliada, setImagenAmpliada] = useState(null)
+  const duracionInicial = slide.temporizador ? slide.temporizador * 60 : null
+  const [tiempoRestante, setTiempoRestante] = useState(duracionInicial)
+  const [corriendo, setCorriendo] = useState(false)
+  const intervaloRef = useRef(null)
   const tieneModalTabla = slide.modal === 'tabla-periodica'
+  const tieneTemporizador = duracionInicial !== null
   const imagenes = [...(slide.html.matchAll(/<img\b[^>]*>/gi))].map(([etiqueta]) => ({
     src: etiqueta.match(/\bsrc=['"]([^'"]+)['"]/i)?.[1],
     alt: etiqueta.match(/\balt=['"]([^'"]*)['"]/i)?.[1] || slide.titulo,
   })).filter((imagen) => imagen.src)
   const htmlSinImagenes = slide.html.replace(/<img\b[^>]*>/gi, '')
+
+  useEffect(() => {
+    if (!corriendo) return undefined
+
+    intervaloRef.current = setInterval(() => {
+      setTiempoRestante((tiempoActual) => {
+        if (tiempoActual <= 1) {
+          setCorriendo(false)
+          return 0
+        }
+        return tiempoActual - 1
+      })
+    }, 1000)
+
+    return () => {
+      if (intervaloRef.current) clearInterval(intervaloRef.current)
+    }
+  }, [corriendo])
+
+  const formatearTiempo = (segundos) => {
+    const minutos = Math.floor(segundos / 60)
+    const segundosRestantes = segundos % 60
+    return `${minutos.toString().padStart(2, '0')}:${segundosRestantes.toString().padStart(2, '0')}`
+  }
+
+  const reiniciarTemporizador = () => {
+    setCorriendo(false)
+    setTiempoRestante(duracionInicial)
+  }
 
   return (
     <div className={`mx-auto ${imagenes.length ? 'max-w-6xl' : 'max-w-3xl'}`}>
@@ -42,6 +76,55 @@ function SlideContenido({ slide }) {
           </div>
         )}
       </div>
+
+      {tieneTemporizador && (
+        <div className="mt-8 flex flex-wrap items-center justify-center gap-3 rounded-xl border border-blue-300/70 bg-blue-500/10 px-4 py-3 dark:border-blue-400/30">
+          <span className="text-lg font-semibold text-slate-700 dark:text-slate-200">
+            Tiempo restante
+          </span>
+          <span
+            className={`font-mono text-3xl font-bold tabular-nums ${
+              tiempoRestante === 0
+                ? 'text-red-600 dark:text-red-400'
+                : tiempoRestante <= 60
+                  ? 'text-amber-600 dark:text-amber-400'
+                  : 'text-blue-700 dark:text-blue-300'
+            }`}
+            role="timer"
+            aria-live="polite"
+          >
+            {formatearTiempo(tiempoRestante)}
+          </span>
+          <button
+            type="button"
+            onClick={() => {
+              if (tiempoRestante > 0) setCorriendo((valor) => !valor)
+            }}
+            disabled={tiempoRestante === 0}
+            className="rounded-lg bg-blue-600 px-4 py-2 text-sm font-semibold text-white hover:bg-blue-500 disabled:cursor-not-allowed disabled:opacity-50"
+          >
+            {corriendo ? 'Pausar' : 'Iniciar'}
+          </button>
+          <button
+            type="button"
+            onClick={reiniciarTemporizador}
+            className="rounded-lg border border-slate-300 px-4 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-100 dark:border-white/15 dark:text-slate-200 dark:hover:bg-white/10"
+          >
+            Reiniciar
+          </button>
+          {slide.pdf && (
+            <div className="w-full flex justify-center">
+              <a
+                href={slide.pdf}
+                download
+                className="rounded-lg bg-blue-600 px-4 py-2 text-sm font-semibold text-white hover:bg-blue-500"
+              >
+                Descargar PDF del Diagnostico
+              </a>
+            </div>
+          )}
+        </div>
+      )}
 
       {tieneModalTabla && (
         <div className="mt-6 flex justify-center">

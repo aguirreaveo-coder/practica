@@ -2,6 +2,7 @@ import { createContext, useContext, useEffect, useMemo, useState } from 'react'
 import usuariosData from '../data/usuarios.json'
 import modulos from '../data/modulos.json'
 import programas from '../data/programas.json'
+import { calcularProgresoCuestionarios, UMBRAL_APROBACION } from '../data/cargarContenido'
 
 const AuthContext = createContext(null)
 const SESSION_KEY = 'practica_usuario'
@@ -36,14 +37,51 @@ export function AuthProvider({ children }) {
     }
     try {
       const guardado = JSON.parse(localStorage.getItem(`${ACADEMICO_KEY}_${usuario.id}`)) || {}
+      const calificaciones = {
+        ...usuario.calificacionesFinales,
+        ...guardado.calificaciones,
+      }
+      const aprobados = Object.fromEntries(
+        Object.entries(guardado.aprobados || {}).map(([cursoId, tipos]) => [
+          cursoId,
+          { ...tipos },
+        ])
+      )
+
+      Object.entries(calificaciones).forEach(([cursoId, tipos]) => {
+        Object.entries(tipos || {}).forEach(([tipo, porcentaje]) => {
+          if (porcentaje >= UMBRAL_APROBACION) {
+            aprobados[cursoId] = { ...aprobados[cursoId], [tipo]: true }
+          }
+        })
+      })
+
+      const cursos = new Set([
+        ...Object.keys(usuario.progreso || {}),
+        ...Object.keys(guardado.progreso || {}),
+        ...Object.keys(calificaciones),
+        ...Object.keys(aprobados),
+      ])
+      const progreso = Object.fromEntries(
+        [...cursos].map((cursoId) => [
+          cursoId,
+          calcularProgresoCuestionarios(cursoId, aprobados[cursoId]),
+        ])
+      )
+
       setAcademico({
-        progreso: { ...usuario.progreso, ...guardado.progreso },
-        calificaciones: { ...usuario.calificacionesFinales, ...guardado.calificaciones },
+        progreso,
+        calificaciones,
+        aprobados,
       })
     } catch {
+      const progreso = Object.fromEntries(
+        Object.keys(usuario.progreso || {}).map((cursoId) => [cursoId, 0])
+      )
       setAcademico({
-        progreso: usuario.progreso || {},
+        progreso,
         calificaciones: usuario.calificacionesFinales || {},
+        aprobados: {},
       })
     }
   }, [usuario])
@@ -79,27 +117,33 @@ export function AuthProvider({ children }) {
     })
   }
 
-  const registrarProgreso = (cursoId, porcentaje) => {
-    guardarAcademico((actual) => ({
-      progreso: {
-        ...(actual.progreso || {}),
-        [cursoId]: Math.max(actual.progreso?.[cursoId] || 0, porcentaje),
-      },
-      calificaciones: actual.calificaciones || {},
-    }))
-  }
-
   const registrarCalificacion = (cursoId, tipo, porcentaje) => {
-    guardarAcademico((actual) => ({
-      progreso: actual.progreso || {},
-      calificaciones: {
-        ...(actual.calificaciones || {}),
+    guardarAcademico((actual) => {
+      const aprobados = {
+        ...(actual.aprobados || {}),
         [cursoId]: {
-          ...(actual.calificaciones?.[cursoId] || {}),
-          [tipo]: porcentaje,
+          ...(actual.aprobados?.[cursoId] || {}),
         },
-      },
-    }))
+      }
+      if (porcentaje >= UMBRAL_APROBACION) {
+        aprobados[cursoId][tipo] = true
+      }
+
+      return {
+        progreso: {
+          ...(actual.progreso || {}),
+          [cursoId]: calcularProgresoCuestionarios(cursoId, aprobados[cursoId]),
+        },
+        aprobados,
+        calificaciones: {
+          ...(actual.calificaciones || {}),
+          [cursoId]: {
+            ...(actual.calificaciones?.[cursoId] || {}),
+            [tipo]: porcentaje,
+          },
+        },
+      }
+    })
   }
 
   const puedeAcceder = (id) => {
@@ -133,7 +177,6 @@ export function AuthProvider({ children }) {
     cursosPermitidos,
     nombresCursos,
     academico,
-    registrarProgreso,
     registrarCalificacion,
   }
 

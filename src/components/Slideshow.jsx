@@ -6,14 +6,14 @@ import SlidePractica from './SlidePractica'
 import SlideEjemplo from './SlideEjemplo'
 import Pizarron from './Pizarron'
 import { usePantallaCompleta } from '../hooks/usePantallaCompleta'
-import { useAuth } from '../contexts/AuthContext'
+import Calculadora from './Calculadora'
 
-function Slideshow({ clase, cursoId, onSalir }) {
+function Slideshow({ clase, onSalir }) {
   usePantallaCompleta()
-  const { registrarProgreso } = useAuth()
 
   const [indice, setIndice] = useState(0)
   const [pizarronAbierto, setPizarronAbierto] = useState(false)
+  const [calculadoraAbierta, setCalculadoraAbierta] = useState(false)
   const total = clase.slides.length
   const slide = clase.slides[indice]
 
@@ -33,11 +33,6 @@ function Slideshow({ clase, cursoId, onSalir }) {
     window.addEventListener('keydown', manejar)
     return () => window.removeEventListener('keydown', manejar)
   }, [indice, pizarronAbierto])
-
-  useEffect(() => {
-    const porcentaje = Math.round(((indice + 1) / total) * 100)
-    if (cursoId) registrarProgreso(cursoId, porcentaje)
-  }, [indice, total, cursoId])
 
   const renderizarSlide = () => {
     switch (slide.tipo) {
@@ -98,13 +93,30 @@ function Slideshow({ clase, cursoId, onSalir }) {
 
         {/* Footer compacto */}
         <footer className="shrink-0 px-4 py-1 border-t border-slate-300 dark:border-white/10 flex items-center justify-between bg-slate-50/95 dark:bg-slate-900/95 backdrop-blur-sm">
-          <button
-            onClick={anterior}
-            disabled={indice === 0}
-            className="px-3 py-1.5 rounded-md bg-white dark:bg-white/5 hover:bg-slate-100 dark:hover:bg-white/10 border border-slate-300 dark:border-transparent disabled:opacity-30 disabled:cursor-not-allowed transition-colors text-xs font-medium"
-          >
-            ← Anterior
-          </button>
+          <div className="relative flex items-center gap-2">
+            <button
+              onClick={anterior}
+              disabled={indice === 0}
+              className="px-3 py-1.5 rounded-md bg-white dark:bg-white/5 hover:bg-slate-100 dark:hover:bg-white/10 border border-slate-300 dark:border-transparent disabled:opacity-30 disabled:cursor-not-allowed transition-colors text-xs font-medium"
+            >
+              ← Anterior
+            </button>
+            <button
+              type="button"
+              onClick={() => setCalculadoraAbierta((abierta) => !abierta)}
+              className="flex h-8 w-8 items-center justify-center rounded-md border border-slate-300 bg-white text-slate-700 hover:bg-slate-100 dark:border-white/15 dark:bg-white/5 dark:text-slate-200 dark:hover:bg-white/10"
+              aria-label={calculadoraAbierta ? 'Cerrar calculadora' : 'Abrir calculadora'}
+              title="Calculadora"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <rect x="4" y="2" width="16" height="20" rx="2" />
+                <path d="M8 6h8M8 10h.01M12 10h.01M16 10h.01M8 14h.01M12 14h.01M16 14h.01M8 18h.01M12 18h.01M16 18h.01" />
+              </svg>
+            </button>
+            {calculadoraAbierta && (
+              <Calculadora onCerrar={() => setCalculadoraAbierta(false)} />
+            )}
+          </div>
           <span className="text-[10px] text-slate-500 dark:text-slate-400 hidden md:block">
             Usa las flechas ← → del teclado
           </span>

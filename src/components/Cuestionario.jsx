@@ -2,6 +2,7 @@ import { useState, useEffect, useMemo } from 'react'
 import Pizarron from './Pizarron'
 import { usePantallaCompleta } from '../hooks/usePantallaCompleta'
 import { useAuth } from '../contexts/AuthContext'
+import { UMBRAL_APROBACION } from '../data/cargarContenido'
 
 // Fisher-Yates: baraja un array
 function barajar(array) {
@@ -132,14 +133,14 @@ function Cuestionario({ cuestionario, cursoId, tipo = 'final', onSalir }) {
           <div className="h-3 bg-slate-200 dark:bg-white/5 rounded-full overflow-hidden mb-10">
             <div
               className={`h-full transition-all duration-700 ${
-                porcentaje >= 70 ? 'bg-green-500' : porcentaje >= 50 ? 'bg-yellow-500' : 'bg-red-500'
+                porcentaje >= UMBRAL_APROBACION ? 'bg-green-500' : porcentaje >= 50 ? 'bg-yellow-500' : 'bg-red-500'
               }`}
               style={{ width: `${porcentaje}%` }}
             />
           </div>
 
           <p className="text-slate-700 dark:text-slate-200 text-lg mb-8">
-            {porcentaje >= 70
+            {porcentaje >= UMBRAL_APROBACION
               ? '¡Excelente trabajo! 🎉'
               : porcentaje >= 50
               ? 'Buen intento, sigue repasando. 💪'

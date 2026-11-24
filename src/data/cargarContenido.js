@@ -12,6 +12,31 @@ for (const ruta in archivos) {
   contenido[moduloId][nombreArchivo] = archivos[ruta].default
 }
 
+export const UMBRAL_APROBACION = 70
+
+export function calcularProgresoCuestionarios(moduloId, aprobados = {}) {
+  const mod = contenido[moduloId]
+  if (!mod) return 0
+
+  const tiposCuestionario = Object.keys(mod).flatMap((nombre) => {
+    if (nombre === 'cuestionario-final' && Array.isArray(mod[nombre]?.preguntas)) {
+      return ['final']
+    }
+
+    const sesion = nombre.match(/^cuestionario-sesion(\d+)$/)
+    if (sesion && Array.isArray(mod[nombre]?.preguntas)) {
+      return [`sesion-${sesion[1]}`]
+    }
+
+    return []
+  })
+
+  if (tiposCuestionario.length === 0) return 0
+
+  const aprobadosContados = tiposCuestionario.filter((tipo) => aprobados[tipo] === true).length
+  return Math.round((aprobadosContados / tiposCuestionario.length) * 100)
+}
+
 // Clase: busca "claseN" o "sesionN"
 export function getClase(moduloId, num) {
   const mod = contenido[moduloId]
