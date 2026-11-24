@@ -13,6 +13,13 @@ function Login() {
 
   const enviar = (event) => {
     event.preventDefault()
+    const coincide = usuarios.find(
+      (perfil) => perfil.nombre.toLowerCase() === nombre.trim().toLowerCase()
+    )
+    if (coincide && !coincide.activo) {
+      setError('Este perfil está inactivo temporalmente.')
+      return
+    }
     if (!iniciarSesion(nombre)) {
       setError('El nombre no coincide con ningún perfil definido.')
       return

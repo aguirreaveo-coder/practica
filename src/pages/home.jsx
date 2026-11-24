@@ -15,7 +15,14 @@ function normalizar(texto) {
 function Home() {
   const [busqueda, setBusqueda] = useState('')
   const [caratulasDisponibles, setCaratulasDisponibles] = useState({})
-  const { usuario, nombresCursos, cerrarSesion, cursosPermitidos } = useAuth()
+  const {
+    usuario,
+    usuarios,
+    nombresCursos,
+    cerrarSesion,
+    cursosPermitidos,
+    actualizarEstadoPerfil,
+  } = useAuth()
 
   const modulosVisibles = useMemo(
     () => modulos.filter((item) => cursosPermitidos.some((permitido) => permitido.id === item.id)),
@@ -162,6 +169,53 @@ function Home() {
               </div>
             </div>
           </section>
+
+          {usuario?.nivel === 'admin' && (
+            <section className="mb-10 rounded-xl border border-slate-200 bg-white/80 p-5 shadow-sm dark:border-white/10 dark:bg-slate-800/50">
+              <div className="mb-5 flex items-center justify-between gap-4">
+                <div>
+                  <p className="text-xs font-bold uppercase tracking-widest text-blue-600 dark:text-blue-400">
+                    Administración
+                  </p>
+                  <h2 className="mt-1 text-xl font-bold">Estado de perfiles</h2>
+                </div>
+                <span className="rounded-full bg-slate-100 px-3 py-1 text-sm font-semibold text-slate-600 dark:bg-slate-700 dark:text-slate-300">
+                  {usuarios.filter((perfil) => perfil.activo).length} activos
+                </span>
+              </div>
+
+              <div className="divide-y divide-slate-200 dark:divide-white/10">
+                {usuarios.map((perfil) => (
+                  <div key={perfil.id} className="flex items-center justify-between gap-4 py-4">
+                    <div>
+                      <p className="font-bold text-slate-900 dark:text-white">{perfil.nombre}</p>
+                      <p className="mt-0.5 text-sm text-slate-500 dark:text-slate-400">
+                        {perfil.nivel === 'admin' ? 'Administrador' : 'Usuario'} ·{' '}
+                        {perfil.activo ? 'Activo' : 'Inactivo'}
+                      </p>
+                    </div>
+                    <button
+                      type="button"
+                      role="switch"
+                      aria-checked={perfil.activo}
+                      onClick={() => actualizarEstadoPerfil(perfil.id, !perfil.activo)}
+                      disabled={perfil.id === usuario.id}
+                      className={`relative h-7 w-12 rounded-full transition ${
+                        perfil.activo ? 'bg-emerald-500' : 'bg-slate-300 dark:bg-slate-600'
+                      } disabled:cursor-not-allowed disabled:opacity-50`}
+                      title={perfil.id === usuario.id ? 'No puedes desactivar tu propio perfil' : 'Cambiar estado'}
+                    >
+                      <span
+                        className={`absolute top-1 h-5 w-5 rounded-full bg-white shadow transition ${
+                          perfil.activo ? 'left-6' : 'left-1'
+                        }`}
+                      />
+                    </button>
+                  </div>
+                ))}
+              </div>
+            </section>
+          )}
 
           {filtroActivo ? (
             <>
