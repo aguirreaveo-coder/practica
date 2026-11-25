@@ -1,0 +1,195 @@
+{
+  "titulo": "Clase Express: Estadística en Fenómenos Naturales y Procesos Sociales",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 18",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Estadística en Fenómenos Naturales y Procesos Sociales</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase Express — Versión comprimida</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Recorrido por los conceptos clave del módulo en una sola sesión</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: ¿Qué es la estadística?",
+      "html": "<p class='text-lg'>La <strong>estadística</strong> es un procedimiento de tipo <strong>inductivo</strong> cuyas conclusiones son solamente <strong>probables</strong>. Recolecta, organiza, resume, analiza e interpreta datos para tomar decisiones.</p><p class='text-lg'>A diferencia de las matemáticas puras, que trabajan con certezas, la estadística parte de datos particulares para inferir conclusiones generales con un margen de incertidumbre.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: ¿Para qué sirve la estadística?",
+      "html": "<p class='text-lg'>En cualquier empresa, institución o dependencia, la estadística repercute en la <strong>competitividad</strong> y <strong>productividad</strong>. Sus tres elementos clave son:</p><ul class='text-lg'><li><strong>Organización de la información:</strong> ordenar los datos para que sean comprensibles.</li><li><strong>Análisis de la información:</strong> extraer patrones y tendencias.</li><li><strong>Toma de decisiones:</strong> elegir el mejor camino con base en evidencia.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: La estadística en fenómenos naturales y sociales",
+      "html": "<p class='text-lg'>La estadística es clave para estudiar:</p><ul class='text-lg'><li><strong>Fenómenos naturales:</strong> terremotos, huracanes, inundaciones, sequías.</li><li><strong>Procesos sociales:</strong> migración, deserción escolar, salud pública, economía.</li></ul><p class='text-lg'>El INEGI recopila datos de población y vivienda; el CENAPRED analiza daños por desastres. Con esos datos se toman decisiones de protección civil y políticas públicas.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Población y muestra",
+      "html": "<p class='text-lg'>Dos conceptos fundamentales:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Población</p><p class='text-lg'>Conjunto completo de todos los individuos u objetos que interesan al investigador.</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Muestra</p><p class='text-lg'>Subconjunto representativo de la población. Debe reflejar sus características.</p></div></div><p class='text-lg'>La muestra debe ser <strong>representativa</strong> para generalizar conclusiones.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: ¿Qué es el sesgo?",
+      "html": "<p class='text-lg'>El <strong>sesgo</strong> es un error sistemático que se introduce cuando la muestra, el instrumento o el procedimiento no representan a la población. No es aleatorio: se repite en la misma dirección y distorsiona las conclusiones.</p><p class='text-lg'>El <strong>sesgo de selección</strong> ocurre cuando ciertos grupos quedan sobrerrepresentados o excluidos.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Ejemplo de sesgo y cómo evitarlo",
+      "html": "<p class='text-lg'><strong>Ejemplo:</strong> si para estudiar el consumo de droga en bachillerato de todo el país solo se encuesta a cinco ciudades grandes, la muestra no representa a las zonas rurales. Los resultados estarán sesgados hacia lo urbano.</p><p class='text-lg'>Para <strong>evitarlo</strong>, la muestra debe reflejar las características de la población: edad, sexo, nivel socioeconómico, región, etc.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: El dato y la variable",
+      "html": "<p class='text-lg'><strong>Dato:</strong> cada valor obtenido de una observación o medición.</p><p class='text-lg'><strong>Variable:</strong> la característica que puede tomar diferentes valores en los individuos de una población.</p><p class='text-lg'>Las variables se clasifican según su naturaleza y su papel en la investigación.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Variables cualitativas y cuantitativas",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Cualitativas</p><p class='text-lg'>Expresan cualidades o categorías. Ej: nivel sociocultural, color de ojos, religión.</p></div><div class='bg-cyan-500/10 border border-cyan-500/30 p-4 rounded-lg'><p class='font-semibold text-cyan-700 dark:text-cyan-300 mb-2 text-lg'>Cuantitativas</p><p class='text-lg'>Expresan cantidades numéricas. Ej: edad, estatura, ingreso familiar.</p></div></div><p class='text-lg'>Las cuantitativas se dividen en <strong>discretas</strong> y <strong>continuas</strong>.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Variables discretas y continuas",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-orange-500/10 border border-orange-500/30 p-4 rounded-lg'><p class='font-semibold text-orange-700 dark:text-orange-300 mb-2 text-lg'>Discretas</p><p class='text-lg'>Valores enteros previamente establecidos. Ej: número de estudiantes, número de automóviles.</p></div><div class='bg-green-500/10 border border-green-500/30 p-4 rounded-lg'><p class='font-semibold text-green-700 dark:text-green-300 mb-2 text-lg'>Continuas</p><p class='text-lg'>Cualquier valor dentro de un intervalo. Ej: estatura, tiempo, temperatura.</p></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Variables dependiente, independiente y extraña",
+      "html": "<ul class='text-lg'><li><strong>Independiente:</strong> la que el experimentador manipula. Es la causa supuesta.</li><li><strong>Dependiente:</strong> reporta los cambios sufridos por los sujetos. Es el efecto medido.</li><li><strong>Extraña:</strong> la que el investigador no controla pero puede influir.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Ejemplos de variables en investigación",
+      "html": "<p class='text-lg'>Ejemplo 1: publicidad y ventas.</p><ul class='text-lg'><li>Independiente: la publicidad.</li><li>Dependiente: las ventas.</li></ul><p class='text-lg'>Ejemplo 2: deserción escolar.</p><ul class='text-lg'><li>Independientes: ingreso familiar, estudios de los padres.</li><li>Dependiente: la deserción escolar.</li><li>Extraña: el clima, la distancia a la escuela.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Ramas de la estadística",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Descriptiva</p><p class='text-lg'>Recolecta, organiza, resume y presenta los datos sin sacar conclusiones más allá de ellos.</p></div><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Inferencial</p><p class='text-lg'>Usa datos de una muestra para hacer estimaciones o predicciones sobre la población.</p></div></div><p class='text-lg'>Calcular el promedio de un grupo es descriptiva; predecir el promedio de toda la escuela a partir de una muestra es inferencial.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Medidas descriptivas y probabilidad condicional",
+      "html": "<p class='text-lg'>Dentro de la estadística encontramos:</p><ul class='text-lg'><li><strong>Medidas descriptivas:</strong> resumen numérico de los datos (promedio, mediana, moda, desviación estándar).</li><li><strong>Probabilidad condicional:</strong> probabilidad de que ocurra un evento dado que otro ya ocurrió.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Técnicas y métodos estadísticos",
+      "html": "<p class='text-lg'>Para tratar los datos, la estadística utiliza:</p><ul class='text-lg'><li><strong>Recolectar:</strong> obtener los datos mediante encuestas u observación.</li><li><strong>Organizar:</strong> clasificar y ordenar los datos en tablas o gráficas.</li><li><strong>Resumir:</strong> sintetizar la información en promedios o porcentajes.</li><li><strong>Analizar:</strong> aplicar métodos matemáticos para encontrar relaciones.</li><li><strong>Interpretar:</strong> dar significado a los resultados.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Presentación de resultados",
+      "html": "<p class='text-lg'>Para presentar resultados se usan frecuentemente <strong>diagramas</strong>: barras, circulares, histogramas, polígonos de frecuencia y diagramas de dispersión.</p><p class='text-lg'>Los diagramas permiten visualizar la información rápidamente y detectar patrones.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Escalas de medición",
+      "html": "<p class='text-lg'>Las <strong>escalas de medición</strong> indican el nivel de precisión con que se mide una variable:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Nominal</p><p class='text-lg'>Solo clasifica en categorías sin orden. Ej: color de ojos, religión, sexo.</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Ordinal</p><p class='text-lg'>Clasifica y ordena, pero no indica distancia. Ej: nivel socioeconómico.</p></div><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Intervalo</p><p class='text-lg'>Ordena y mide distancias, pero el cero es arbitrario. Ej: temperatura en °C.</p></div><div class='bg-cyan-500/10 border border-cyan-500/30 p-4 rounded-lg'><p class='font-semibold text-cyan-700 dark:text-cyan-300 mb-2 text-lg'>Razón</p><p class='text-lg'>Ordena, mide distancias y tiene cero absoluto. Ej: edad, estatura, peso.</p></div></div><p class='text-lg'>Las escalas nominal y ordinal son cualitativas; las de intervalo y razón, cuantitativas.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: Tipos de muestreo",
+      "html": "<p class='text-lg'>El <strong>muestreo</strong> es el proceso de seleccionar una muestra representativa. Tipos principales:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Aleatorio simple</p><p class='text-lg'>Todos los elementos tienen la misma probabilidad de ser seleccionados.</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Estratificado</p><p class='text-lg'>La población se divide en estratos y se muestrea cada uno.</p></div><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Sistemático</p><p class='text-lg'>Se selecciona cada k-ésimo elemento de una lista.</p></div><div class='bg-cyan-500/10 border border-cyan-500/30 p-4 rounded-lg'><p class='font-semibold text-cyan-700 dark:text-cyan-300 mb-2 text-lg'>Por racimos</p><p class='text-lg'>Se seleccionan grupos completos al azar.</p></div></div><p class='text-lg'>Un buen muestreo evita el <strong>sesgo</strong> y permite generalizar los resultados.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: ¿Qué es la probabilidad?",
+      "html": "<p class='text-lg'>La <strong>probabilidad</strong> mide la frecuencia con la que se obtiene un resultado al llevar a cabo un <strong>experimento aleatorio</strong>, del que se conocen todos los resultados posibles.</p><p class='text-lg'>Se expresa entre 0 y 1, o como porcentaje entre 0% y 100%.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Experimento aleatorio",
+      "html": "<p class='text-lg'>Un <strong>experimento aleatorio</strong> es aquel cuyo resultado no puede predecirse con certeza antes de realizarlo, aunque se conozcan todos los resultados posibles.</p><p class='text-lg'>Ejemplos: lanzar un dado, lanzar una moneda, extraer una canica de una urna sin ver.</p><p class='text-lg'>Un experimento <strong>determinado</strong> es aquel cuyo resultado se conoce de antemano.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Espacio muestral",
+      "html": "<p class='text-lg'>El <strong>espacio muestral</strong> es la colección de todos los resultados posibles de un experimento aleatorio. Se denota con <strong>S</strong> o <strong>Ω</strong>.</p><p class='text-lg'>Ejemplos:</p><ul class='text-lg'><li>Lanzar una moneda: S = {sol, águila}.</li><li>Lanzar un dado: S = {1, 2, 3, 4, 5, 6}.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Evento",
+      "html": "<p class='text-lg'>Un <strong>evento</strong> es cualquier subconjunto del espacio muestral:</p><ul class='text-lg'><li><strong>Evento simple:</strong> un solo resultado. Ej: obtener un 3 al lanzar un dado.</li><li><strong>Evento compuesto:</strong> varios resultados. Ej: obtener un número par ({2, 4, 6}).</li><li><strong>Evento seguro:</strong> siempre ocurre. Ej: obtener un número menor o igual a 6.</li><li><strong>Evento imposible:</strong> nunca ocurre. Ej: obtener un 7 al lanzar un dado.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Evento complementario",
+      "html": "<p class='text-lg'>El <strong>evento complementario</strong> de A, denotado A' o A<sup>c</sup>, es el conjunto de resultados que <strong>no</strong> pertenecen a A.</p><p class='text-lg'>A' ocurre cuando A no ocurre. Propiedad: P(A) + P(A') = 1.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Enfoques de la probabilidad",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-3 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Clásico</p><p class='text-lg'>Todos los eventos tienen la misma probabilidad.</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Frecuentista</p><p class='text-lg'>Se basa en la frecuencia relativa al repetir el experimento.</p></div><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Subjetivo</p><p class='text-lg'>Se basa en la opinión o creencia personal.</p></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Enfoque clásico",
+      "html": "<p class='text-lg'>El <strong>enfoque clásico</strong> se usa cuando todos los eventos del espacio muestral tienen la misma probabilidad de ocurrir.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>P(A) = casos favorables / casos posibles</span></div><p class='text-lg'><strong>Ejemplo:</strong> al lanzar un dado, la probabilidad de obtener un número par es 3/6 = 0.5.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Frecuencia relativa",
+      "html": "<p class='text-lg'>La <strong>frecuencia relativa</strong> es el cociente entre el número de veces que ocurre el evento y el número total de ensayos.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>fr = número de ocurrencias / número total de ensayos</span></div><p class='text-lg'><strong>Ejemplo:</strong> si se lanza un dado 25 veces y sale 2 en 10 ocasiones, fr = 10/25 = 0.4.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Probabilidad condicional",
+      "html": "<p class='text-lg'>La <strong>probabilidad condicional</strong> P(A|B) es la probabilidad de que ocurra A dado que ya ocurrió B.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>P(A|B) = P(A ∩ B) / P(B)</span></div><p class='text-lg'><strong>Ejemplo:</strong> si se sabe que al lanzar un dado salió par, P(4|par) = (1/6)/(3/6) = 1/3.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Combinaciones y permutaciones",
+      "html": "<div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-cyan-500/10 border border-cyan-500/30 p-4 rounded-lg'><p class='font-semibold text-cyan-700 dark:text-cyan-300 mb-2 text-lg'>Permutaciones</p><p class='text-lg'>Importa el orden. Ej: números de 5 dígitos.</p></div><div class='bg-orange-500/10 border border-orange-500/30 p-4 rounded-lg'><p class='font-semibold text-orange-700 dark:text-orange-300 mb-2 text-lg'>Combinaciones</p><p class='text-lg'>No importa el orden. Ej: elegir 6 números de lotería de 47.</p></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: La probabilidad en fenómenos naturales y sociales",
+      "html": "<p class='text-lg'>La probabilidad es fundamental para estudiar:</p><ul class='text-lg'><li><strong>Fenómenos naturales:</strong> probabilidad de un sismo, de un huracán, de lluvia.</li><li><strong>Procesos sociales:</strong> probabilidad de abandono escolar, de migración, de contraer una enfermedad.</li></ul><p class='text-lg'>Con estos cálculos se diseñan sistemas de alerta temprana y políticas públicas.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Medidas de tendencia central",
+      "html": "<p class='text-lg'>Las <strong>medidas de tendencia central</strong> resumen un conjunto de datos en un solo valor:</p><ul class='text-lg'><li><strong>Media:</strong> suma de todos los valores dividida entre el número total.</li><li><strong>Mediana:</strong> valor central cuando los datos están ordenados.</li><li><strong>Moda:</strong> valor que más se repite.</li></ul><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>Media = Σx / n</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>Mediana = valor central de los datos ordenados</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>Moda = valor que más se repite</span></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: La moda",
+      "html": "<p class='text-lg'>La <strong>moda</strong> es la medida de tendencia central que se identifica fácilmente a partir de una gráfica o tabla, ya que es el dato que se repite más.</p><p class='text-lg'>Un conjunto de datos puede tener una moda (unimodal), dos modas (bimodal) o ninguna moda.</p><p class='text-lg'><strong>Ejemplo:</strong> en los datos {2, 3, 3, 5, 7, 3, 8}, la moda es 3.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Medidas de dispersión",
+      "html": "<p class='text-lg'>Las <strong>medidas de dispersión</strong> indican qué tan alejados están los datos respecto a la media:</p><ul class='text-lg'><li><strong>Rango:</strong> máximo − mínimo.</li><li><strong>Varianza:</strong> promedio de las desviaciones al cuadrado.</li><li><strong>Desviación estándar:</strong> raíz cuadrada de la varianza.</li><li><strong>Desviación media:</strong> media de las desviaciones absolutas.</li></ul><p class='text-lg'>Cuanto mayor sea su valor, mayor es la variabilidad.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Varianza y desviación estándar",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>Varianza = Σ(x − media)² / n</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>Desviación estándar = √Varianza</span></div><p class='text-lg'>La desviación estándar se expresa en las mismas unidades que los datos originales.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Regresión lineal y correlación",
+      "html": "<p class='text-lg'>La <strong>regresión lineal</strong> modela la relación entre dos variables:</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>y = a + bx</span></div><p class='text-lg'>Donde <strong>a</strong> es la ordenada al origen y <strong>b</strong> es la pendiente.</p><p class='text-lg'>La <strong>correlación</strong> mide la fuerza y dirección de la relación. Su valor va de −1 a 1:</p><ul class='text-lg'><li><strong>Positiva:</strong> al aumentar una, aumenta la otra.</li><li><strong>Negativa:</strong> al aumentar una, disminuye la otra.</li><li><strong>Cercana a 0:</strong> poca o nula relación.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: El método científico",
+      "html": "<p class='text-lg'>El <strong>método científico</strong> es un conjunto de pasos ordenados para generar conocimiento válido:</p><ol class='text-lg'><li><strong>Observación:</strong> identificar un fenómeno.</li><li><strong>Planteamiento del problema:</strong> formular preguntas.</li><li><strong>Hipótesis:</strong> proponer una explicación tentativa.</li><li><strong>Experimentación:</strong> probar la hipótesis.</li><li><strong>Análisis de resultados:</strong> interpretar los datos.</li><li><strong>Conclusiones:</strong> aceptar o rechazar la hipótesis.</li></ol>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Hipótesis estadística",
+      "html": "<p class='text-lg'>Una <strong>hipótesis estadística</strong> es la transformación de las hipótesis de investigación en símbolos estadísticos.</p><ul class='text-lg'><li><strong>Hipótesis nula (H₀):</strong> afirma que no hay diferencia o relación.</li><li><strong>Hipótesis alternativa (H₁):</strong> afirma que sí hay diferencia o relación.</li></ul><p class='text-lg'>Estas hipótesis se contrastan mediante pruebas estadísticas.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Hojas de cálculo",
+      "html": "<p class='text-lg'>Las <strong>hojas de cálculo</strong> (Excel, Google Sheets) permiten organizar datos, calcular medidas y crear gráficas. Fórmulas comunes:</p><ul class='text-lg'><li>=MEDIANA(rango)</li><li>=PROMEDIO(rango)</li><li>=DESVEST(rango)</li><li>=SUMA(rango)</li></ul><p class='text-lg'>El botón <strong>∑</strong> permite sumar un conjunto de valores numéricos seleccionados.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase Express",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase Express</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Estadística en Fenómenos Naturales y Procesos Sociales</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Ahora puedes practicar con el Cuestionario Final del módulo.</p>"
+    }
+  ]
+}

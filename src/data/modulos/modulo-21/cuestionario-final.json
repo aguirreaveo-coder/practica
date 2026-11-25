@@ -1,0 +1,445 @@
+{
+  "titulo": "Cuestionario Final: Estadística en Fenómenos Naturales y Procesos Sociales",
+  "preguntas": [
+    {
+      "pregunta": "La estadística se caracteriza por ser un procedimiento inductivo cuyas conclusiones son:",
+      "opciones": [
+        "Probables, porque se basan en muestras y no en certezas absolutas",
+        "Exactas, porque utilizan fórmulas matemáticas de alta precisión",
+        "Definitivas, porque analizan a toda la población sin excepción",
+        "Universales, porque sus resultados aplican a cualquier contexto"
+      ],
+      "correcta": 0,
+      "explicacion": "La estadística es inductiva: parte de datos particulares (muestra) para inferir conclusiones generales, pero estas son solo probables."
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes elementos de la estadística repercute directamente en la competitividad y productividad de una empresa?",
+      "opciones": [
+        "La toma de decisiones basada en el análisis de la información",
+        "La memorización de los nombres de los teóricos de la estadística",
+        "La recolección de datos sin un propósito definido previamente",
+        "La publicación de informes extensos con muchos datos sin procesar"
+      ],
+      "correcta": 0,
+      "explicacion": "La toma de decisiones basada en el análisis de la información es el elemento que impacta directamente en la competitividad y productividad."
+    },
+    {
+      "pregunta": "El conjunto de todos los individuos u objetos cuyas propiedades o características hay que analizar se denomina:",
+      "opciones": [
+        "Población, que es el universo completo de estudio del investigador",
+        "Muestra, que es un subconjunto representativo de la población",
+        "Dato, que es cada valor obtenido de una observación o medición",
+        "Variable, que es la característica que puede tomar distintos valores"
+      ],
+      "correcta": 0,
+      "explicacion": "La población es el conjunto completo de todos los individuos o elementos que interesan al investigador."
+    },
+    {
+      "pregunta": "Un investigador desea estudiar el rendimiento académico de los estudiantes de una universidad y encuesta solo a los alumnos de una facultad. ¿Qué problema presenta esta decisión?",
+      "opciones": [
+        "La muestra no es representativa de toda la población universitaria",
+        "La muestra es demasiado grande para el estudio que se propone",
+        "La población es demasiado pequeña para el tamaño de la muestra",
+        "El estudio es inferencial y no debería usar una muestra pequeña"
+      ],
+      "correcta": 0,
+      "explicacion": "Encuestar solo una facultad produce un sesgo de selección: la muestra no representa a toda la universidad."
+    },
+    {
+      "pregunta": "El error sistemático que se introduce cuando la muestra no representa a la población se llama:",
+      "opciones": [
+        "Sesgo, porque distorsiona las conclusiones en una misma dirección",
+        "Error aleatorio, porque varía de una muestra a otra sin patrón",
+        "Imprecisión, porque depende de la calidad de los instrumentos",
+        "Dispersión, porque mide la variabilidad de los datos obtenidos"
+      ],
+      "correcta": 0,
+      "explicacion": "El sesgo es un error sistemático que se repite en la misma dirección y distorsiona las conclusiones."
+    },
+    {
+      "pregunta": "El nivel sociocultural de un grupo de estudiantes es una variable:",
+      "opciones": [
+        "Cualitativa, porque expresa una categoría o cualidad del grupo",
+        "Cuantitativa discreta, porque solo toma valores enteros definidos",
+        "Cuantitativa continua, porque puede tomar cualquier valor numérico",
+        "Independiente, porque el investigador la manipula directamente"
+      ],
+      "correcta": 0,
+      "explicacion": "El nivel sociocultural es una variable cualitativa porque expresa una categoría o cualidad, no una cantidad numérica."
+    },
+    {
+      "pregunta": "El número de sismos registrados en una región durante un año es una variable:",
+      "opciones": [
+        "Cuantitativa discreta, porque solo puede tomar valores enteros",
+        "Cuantitativa continua, porque puede tomar cualquier valor real",
+        "Cualitativa nominal, porque clasifica los sismos por categorías",
+        "Cualitativa ordinal, porque ordena los sismos por intensidad"
+      ],
+      "correcta": 0,
+      "explicacion": "El número de sismos es una variable cuantitativa discreta: solo puede tomar valores enteros (no hay 3.5 sismos)."
+    },
+    {
+      "pregunta": "El tiempo que tarda un estudiante en resolver un examen es una variable:",
+      "opciones": [
+        "Cuantitativa continua, porque puede tomar cualquier valor en un rango",
+        "Cuantitativa discreta, porque solo puede tomar valores enteros",
+        "Cualitativa ordinal, porque clasifica el tiempo por categorías",
+        "Cualitativa nominal, porque describe una cualidad del estudiante"
+      ],
+      "correcta": 0,
+      "explicacion": "El tiempo es una variable cuantitativa continua: puede tomar cualquier valor dentro de un intervalo."
+    },
+    {
+      "pregunta": "En un estudio sobre deserción escolar, la falta de oportunidades laborales en la comunidad es una variable:",
+      "opciones": [
+        "Independiente, porque influye en la decisión de abandonar la escuela",
+        "Dependiente, porque depende de la tasa de deserción registrada",
+        "Discreta, porque solo puede tomar valores enteros en el estudio",
+        "Extraña, porque el investigador no la controla directamente"
+      ],
+      "correcta": 0,
+      "explicacion": "La falta de oportunidades laborales es una variable independiente: influye en la deserción (variable dependiente)."
+    },
+    {
+      "pregunta": "La variable que reporta los cambios sufridos por los sujetos como resultado de la manipulación experimental se llama:",
+      "opciones": [
+        "Dependiente, porque mide el efecto de la variable independiente",
+        "Independiente, porque es la que el investigador manipula directamente",
+        "Extraña, porque puede influir sin ser controlada por el investigador",
+        "Cualitativa, porque expresa cualidades en lugar de cantidades"
+      ],
+      "correcta": 0,
+      "explicacion": "La variable dependiente reporta los cambios o efectos que produce la manipulación de la variable independiente."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes afirmaciones sobre la estadística descriptiva es correcta?",
+      "opciones": [
+        "Describe y resume los datos sin sacar conclusiones más allá de ellos",
+        "Predice el comportamiento futuro de la población a partir de muestras",
+        "Estima parámetros poblacionales a partir de datos muestrales",
+        "Generaliza los resultados de la muestra hacia toda la población"
+      ],
+      "correcta": 0,
+      "explicacion": "La estadística descriptiva se limita a describir, organizar y resumir los datos observados, sin hacer inferencias."
+    },
+    {
+      "pregunta": "La estadística inferencial se caracteriza por:",
+      "opciones": [
+        "Utilizar muestras para hacer estimaciones o predicciones sobre la población",
+        "Describir únicamente los datos observados sin generalizar resultados",
+        "Organizar los datos en tablas y gráficas de manera informativa",
+        "Calcular promedios y porcentajes de un conjunto de datos específico"
+      ],
+      "correcta": 0,
+      "explicacion": "La estadística inferencial usa datos de una muestra para inferir o predecir características de la población."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes técnicas estadísticas consiste en clasificar y ordenar los datos en tablas o gráficas?",
+      "opciones": [
+        "Organizar, que da estructura y claridad a la información obtenida",
+        "Recolectar, que consiste en obtener los datos de campo directamente",
+        "Interpretar, que da significado a los resultados del análisis",
+        "Resumir, que sintetiza la información en promedios y porcentajes"
+      ],
+      "correcta": 0,
+      "explicacion": "Organizar es la técnica que clasifica y ordena los datos en tablas o gráficas para que sean comprensibles."
+    },
+    {
+      "pregunta": "En la estadística, para presentar resultados, procesar la información, interpretar datos y tomar decisiones, se hace uso frecuente de:",
+      "opciones": [
+        "Diagramas, que permiten visualizar la información de forma clara",
+        "Informes, que describen extensamente cada dato recolectado",
+        "Reportes, que enumeran los datos sin un orden establecido",
+        "Cálculos, que sustituyen por completo el análisis estadístico"
+      ],
+      "correcta": 0,
+      "explicacion": "Los diagramas (barras, circulares, histogramas) son herramientas frecuentes para presentar e interpretar resultados."
+    },
+    {
+      "pregunta": "¿Cómo se le llama a la colección de todos los resultados posibles de un experimento aleatorio?",
+      "opciones": [
+        "Espacio muestral, que contiene todos los resultados posibles",
+        "Evento complementario, que agrupa los resultados que no son A",
+        "Población estadística, que reúne a todos los individuos",
+        "Muestra representativa, que es un subconjunto de la población"
+      ],
+      "correcta": 0,
+      "explicacion": "El espacio muestral es el conjunto de todos los resultados posibles de un experimento aleatorio."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes situaciones se refiere a un evento aleatorio?",
+      "opciones": [
+        "Que la próxima vez que viaje me siente junto a una chica hermosa",
+        "Que el sol salga por el este mañana por la mañana temprano",
+        "Que el agua hierva a 100 grados centígrados al nivel del mar",
+        "Que una piedra caiga hacia el suelo si se suelta desde lo alto"
+      ],
+      "correcta": 0,
+      "explicacion": "Sentarse junto a una persona específica es un evento aleatorio porque no es seguro que ocurra."
+    },
+    {
+      "pregunta": "Se define el evento \"Que se presente un gran aumento en la tasa de inflación el próximo mes\". ¿Cuál es su evento complementario?",
+      "opciones": [
+        "Que no se presente un gran aumento en la tasa de inflación el próximo mes",
+        "Que se presente un aumento moderado en la tasa de inflación el próximo mes",
+        "Que se presente una disminución en la tasa de inflación el próximo mes",
+        "Que se presente un gran aumento en la tasa de inflación el mes siguiente"
+      ],
+      "correcta": 0,
+      "explicacion": "El evento complementario es la negación exacta del evento original: que NO se presente un gran aumento."
+    },
+    {
+      "pregunta": "Al lanzar un dado, ¿cuál es la probabilidad de obtener un número menor o igual que 4?",
+      "opciones": [
+        "0.66, porque hay 4 casos favorables de 6 posibles en total",
+        "0.50, porque hay 3 casos favorables de 6 posibles en total",
+        "0.33, porque hay 2 casos favorables de 6 posibles en total",
+        "0.16, porque hay 1 caso favorable de 6 posibles en total"
+      ],
+      "correcta": 0,
+      "explicacion": "Los casos favorables son {1, 2, 3, 4} = 4. Los casos posibles son 6. P = 4/6 = 0.66."
+    },
+    {
+      "pregunta": "Si se lanza un dado 25 veces y en 10 lanzamientos aparece el 2, ¿cuál es la frecuencia relativa de dicho evento?",
+      "opciones": [
+        "2/5, porque se divide 10 entre 25 y se simplifica la fracción",
+        "2/25, porque se divide 2 entre 25 sin simplificar la fracción",
+        "25/10, porque se divide el total de lanzamientos entre las ocurrencias",
+        "10/2, porque se divide el número de ocurrencias entre el resultado"
+      ],
+      "correcta": 0,
+      "explicacion": "La frecuencia relativa es 10/25 = 2/5 = 0.4. Se simplifica dividiendo entre 5."
+    },
+    {
+      "pregunta": "Una urna tiene 6 canicas rojas, 2 azules y 5 verdes. Si se extrae una canica al azar, ¿cuál es la probabilidad de que sea roja?",
+      "opciones": [
+        "6/13, porque hay 6 rojas de un total de 13 canicas en la urna",
+        "6/8, porque hay 6 rojas de un total de 8 canicas no verdes",
+        "5/13, porque hay 5 verdes de un total de 13 canicas en la urna",
+        "2/13, porque hay 2 azules de un total de 13 canicas en la urna"
+      ],
+      "correcta": 0,
+      "explicacion": "El total de canicas es 6 + 2 + 5 = 13. La probabilidad de roja es 6/13."
+    },
+    {
+      "pregunta": "Si se sabe que al lanzar un dado salió un número mayor que 3, ¿cuál es la probabilidad de que sea un 5?",
+      "opciones": [
+        "1/3, porque hay 3 casos posibles (4, 5 y 6) y solo uno favorable",
+        "1/6, porque hay 6 casos posibles y solo uno favorable en total",
+        "1/2, porque hay 2 casos posibles (4 y 5) y solo uno favorable",
+        "2/3, porque hay 3 casos posibles y dos de ellos son favorables"
+      ],
+      "correcta": 0,
+      "explicacion": "Dado que ya se sabe que el resultado es mayor que 3, el espacio muestral se reduce a {4, 5, 6}. P(5) = 1/3."
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia principal entre permutaciones y combinaciones?",
+      "opciones": [
+        "En las permutaciones importa el orden; en las combinaciones no importa",
+        "En las combinaciones importa el orden; en las permutaciones no importa",
+        "Las permutaciones se usan en lotería; las combinaciones en números telefónicos",
+        "Las combinaciones se usan con dados; las permutaciones con monedas"
+      ],
+      "correcta": 0,
+      "explicacion": "La diferencia clave es que en las permutaciones el orden sí importa, mientras que en las combinaciones no."
+    },
+    {
+      "pregunta": "¿Cuál de las medidas de tendencia central se identifica fácilmente a partir de una gráfica o tabla porque es el dato que se repite más?",
+      "opciones": [
+        "Moda, porque es el valor que aparece con mayor frecuencia",
+        "Mediana, porque divide el conjunto en dos partes iguales",
+        "Media, porque es el promedio de todos los valores",
+        "Rango, porque es la diferencia entre máximo y mínimo"
+      ],
+      "correcta": 0,
+      "explicacion": "La moda es el valor que más se repite, por lo que se identifica fácilmente en una gráfica o tabla."
+    },
+    {
+      "pregunta": "Se seleccionaron 9 alumnos cuyos tiempos de traslado fueron: 15, 20, 23, 25, 27, 30, 35, 38 y 40 minutos. ¿Cuál es la mediana?",
+      "opciones": [
+        "27, porque es el valor central al ordenar los datos de menor a mayor",
+        "30, porque es el valor que más se repite en el conjunto de datos",
+        "25, porque es el valor que está justo antes del centro de los datos",
+        "35, porque es el valor que está justo después del centro de los datos"
+      ],
+      "correcta": 0,
+      "explicacion": "Al ordenar los 9 datos, el valor central (quinto) es 27, por lo que la mediana es 27."
+    },
+    {
+      "pregunta": "En un conjunto de datos, ¿cómo se le llama a la media de las desviaciones absolutas?",
+      "opciones": [
+        "Desviación media, porque promedia las distancias absolutas respecto a la media",
+        "Desviación estándar, porque es la raíz cuadrada de la varianza total",
+        "Varianza, porque promedia las desviaciones al cuadrado respecto a la media",
+        "Rango, porque es la diferencia entre el valor máximo y el mínimo"
+      ],
+      "correcta": 0,
+      "explicacion": "La desviación media es el promedio de las desviaciones absolutas de cada dato respecto a la media."
+    },
+    {
+      "pregunta": "En una escuela, la varianza de alumnos reprobados en física es 2.25 y el promedio de reprobados por grupo es 8. ¿Cuál es la variación del porcentaje de alumnos reprobados?",
+      "opciones": [
+        "18.75%, porque se divide la desviación estándar entre la media y se multiplica por 100",
+        "22.50%, porque se divide la varianza entre la media y se multiplica por 100",
+        "28.12%, porque se multiplica la desviación estándar por la media y se divide entre 100",
+        "2.25%, porque la varianza se expresa directamente como porcentaje de la media"
+      ],
+      "correcta": 0,
+      "explicacion": "σ = √2.25 = 1.5. CV = (1.5/8) × 100% = 18.75%. El coeficiente de variación expresa la dispersión relativa."
+    },
+    {
+      "pregunta": "¿Cuál es la principal desventaja de la media aritmética como medida de tendencia central?",
+      "opciones": [
+        "Es sensible a valores extremos, que pueden distorsionar su valor representativo",
+        "No utiliza todos los datos del conjunto, solo los valores centrales",
+        "Solo puede calcularse con datos cualitativos y no con cuantitativos",
+        "No puede aplicarse a conjuntos con más de diez datos diferentes"
+      ],
+      "correcta": 0,
+      "explicacion": "La media es sensible a valores atípicos o extremos, que pueden alejarla del centro real de la distribución."
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia entre varianza y desviación estándar?",
+      "opciones": [
+        "La desviación estándar es la raíz cuadrada de la varianza y se expresa en las mismas unidades que los datos",
+        "La varianza es la raíz cuadrada de la desviación estándar y se expresa en unidades al cuadrado",
+        "La varianza y la desviación estándar son idénticas y solo cambian de nombre según el contexto",
+        "La desviación estándar es el doble de la varianza y se expresa en unidades diferentes"
+      ],
+      "correcta": 0,
+      "explicacion": "La desviación estándar es la raíz cuadrada de la varianza, lo que la devuelve a las unidades originales de los datos."
+    },
+    {
+      "pregunta": "Dos grupos de estudiantes tienen la misma media de calificaciones, pero el Grupo A tiene desviación estándar de 0.5 y el Grupo B de 2.5. ¿Qué se concluye?",
+      "opciones": [
+        "El Grupo A es más homogéneo, porque sus calificaciones están más cerca de la media",
+        "El Grupo B es más homogéneo, porque tiene mayor desviación estándar en sus datos",
+        "Ambos grupos son igualmente homogéneos, porque tienen la misma media aritmética",
+        "El Grupo A tiene mejor rendimiento, porque su desviación estándar es más pequeña"
+      ],
+      "correcta": 0,
+      "explicacion": "Una desviación estándar menor indica que los datos están más concentrados cerca de la media: el grupo es más homogéneo."
+    },
+    {
+      "pregunta": "En una ecuación de regresión lineal y = a + bx, ¿qué representa la pendiente b?",
+      "opciones": [
+        "El cambio en y por cada unidad que aumenta x en el modelo",
+        "El valor de y cuando x es igual a cero en la ecuación",
+        "El promedio de todos los valores de y en el conjunto",
+        "La diferencia entre el valor máximo y mínimo de y"
+      ],
+      "correcta": 0,
+      "explicacion": "La pendiente b indica cuánto cambia la variable dependiente (y) por cada unidad que aumenta la variable independiente (x)."
+    },
+    {
+      "pregunta": "Una compañía determina el tiempo (minutos) y la distancia (km) de sus transportes. La ecuación de regresión es y = 3.4 + 1.5x. ¿Cuál es la distancia para un tiempo de 21.4 minutos?",
+      "opciones": [
+        "35.5 km, porque se sustituye 21.4 en la ecuación y se resuelve",
+        "23.3 km, porque se multiplica 21.4 por 1.5 y se resta 3.4",
+        "12.0 km, porque se suma 21.4 más 3.4 y se divide entre 1.5",
+        "21.4 km, porque la distancia es igual al tiempo de traslado"
+      ],
+      "correcta": 0,
+      "explicacion": "y = 3.4 + 1.5(21.4) = 3.4 + 32.1 = 35.5 km."
+    },
+    {
+      "pregunta": "En comunidades rurales del país, la correlación entre tasa de fecundidad y grado de escolaridad de la madre es de 0.890. ¿Cuál es la interpretación apropiada?",
+      "opciones": [
+        "Directa y alta, porque al aumentar una variable, la otra también aumenta",
+        "Inversa y alta, porque al aumentar una variable, la otra disminuye",
+        "Directa y baja, porque la relación entre ambas es poco consistente",
+        "Inversa y baja, porque la relación entre ambas es poco consistente"
+      ],
+      "correcta": 0,
+      "explicacion": "Un coeficiente de 0.890 es cercano a +1, lo que indica una correlación directa y alta entre ambas variables."
+    },
+    {
+      "pregunta": "Una empresa analizó salarios de $5000 a $20000 con pedidos de 200 a 500. ¿Es aplicable la ecuación de regresión para 190 pedidos?",
+      "opciones": [
+        "No, porque 190 está fuera del rango de la variable independiente analizada",
+        "Sí, porque cualquier valor de pedidos es válido para la ecuación obtenida",
+        "Sí, porque 190 es un valor cercano al rango inferior de los pedidos",
+        "No, porque el rango de ingresos debe ser menor al de los pedidos"
+      ],
+      "correcta": 0,
+      "explicacion": "La ecuación de regresión solo es válida dentro del rango de valores analizados. 190 está por debajo de 200."
+    },
+    {
+      "pregunta": "En el método de muestreo ________ los elementos de una muestra tienen igual ________ de ser seleccionados y cada elemento del conjunto tiene oportunidad de ser incluido.",
+      "opciones": [
+        "Aleatorio simple, porque todos los elementos tienen la misma probabilidad",
+        "Estratificado, porque la población se divide en grupos homogéneos",
+        "Sistemático, porque se selecciona cada k-ésimo elemento de la lista",
+        "Por racimos, porque se seleccionan grupos completos al azar"
+      ],
+      "correcta": 0,
+      "explicacion": "El muestreo aleatorio simple se caracteriza porque todos los elementos tienen la misma probabilidad de ser seleccionados."
+    },
+    {
+      "pregunta": "Un investigador divide una escuela en grados y selecciona al azar alumnos de cada grado. ¿Qué tipo de muestreo usó?",
+      "opciones": [
+        "Estratificado, porque dividió la población en estratos y muestreó cada uno",
+        "Aleatorio simple, porque todos los alumnos tenían la misma probabilidad",
+        "Sistemático, porque seleccionó cada k-ésimo alumno de la lista completa",
+        "Por racimos, porque seleccionó grupos completos de alumnos al azar"
+      ],
+      "correcta": 0,
+      "explicacion": "El muestreo estratificado divide la población en estratos (grados) y muestrea cada uno de ellos."
+    },
+    {
+      "pregunta": "Dentro de la metodología científica, ¿a qué etapa corresponde el planteamiento de una hipótesis?",
+      "opciones": [
+        "A la formulación de una explicación tentativa que debe comprobarse",
+        "A la recolección de datos mediante encuestas y entrevistas",
+        "Al análisis estadístico de los datos obtenidos en el estudio",
+        "A la publicación de los resultados finales de la investigación"
+      ],
+      "correcta": 0,
+      "explicacion": "La hipótesis es una explicación tentativa que se propone al inicio de la investigación y debe comprobarse o rechazarse."
+    },
+    {
+      "pregunta": "El científico italiano Francesco Redi se cuestionó la generación espontánea. ¿Cuál de las siguientes afirmaciones corresponde a su hipótesis?",
+      "opciones": [
+        "Los gusanos proceden de moscas que ponen huevos en la carne podrida",
+        "Los gusanos de la carne no se originan de forma espontánea en ella",
+        "La presencia de los gusanos rebate la idea de la generación espontánea",
+        "Los gusanos solo aparecían en la carne en la que se habían parado las moscas"
+      ],
+      "correcta": 0,
+      "explicacion": "La hipótesis de Redi fue que los gusanos proceden de moscas que ponen huevos en la carne podrida, no de generación espontánea."
+    },
+    {
+      "pregunta": "¿Qué es el conocimiento empírico?",
+      "opciones": [
+        "El que se adquiere por medio de los sentidos y la experiencia directa",
+        "El que resulta de operaciones abstractas de la lógica simbólica",
+        "El que se obtiene en laboratorios siguiendo un método riguroso",
+        "El que se deduce lógicamente de otro conocimiento previamente establecido"
+      ],
+      "correcta": 0,
+      "explicacion": "El conocimiento empírico se adquiere por la experiencia directa y los sentidos, sin necesidad de un método sistemático."
+    },
+    {
+      "pregunta": "¿Cuál es la utilidad del botón de una hoja de cálculo que presenta el símbolo ∑?",
+      "opciones": [
+        "Sumar un conjunto de valores numéricos seleccionados de varias celdas",
+        "Obtener el promedio de varias celdas que se localicen en una columna",
+        "Calcular la mediana de un grupo de celdas consecutivas en una fila",
+        "Calcular la desviación estándar de un conjunto de datos numéricos"
+      ],
+      "correcta": 0,
+      "explicacion": "El símbolo ∑ (sigma) en una hoja de cálculo se usa para sumar un conjunto de valores numéricos seleccionados."
+    },
+    {
+      "pregunta": "¿Qué debes hacer si al presentar un examen tienes que demostrar el uso de las hojas de cálculo para representar datos de un problema dado y olvidaste los pasos exactos?",
+      "opciones": [
+        "Pruebas distintas formas de abordar el problema hasta llegar a resolverlo",
+        "Realizas algunos pasos esperando que te den puntos por el esfuerzo",
+        "Si es algo que no sabes hacer, entonces prefieres no responder nada",
+        "Intentas buscar la ayuda, pero si no la encuentras te das por vencido"
+      ],
+      "correcta": 0,
+      "explicacion": "Ante una dificultad técnica, lo mejor es probar distintas formas de abordar el problema hasta encontrar la solución."
+    }
+  ]
+}

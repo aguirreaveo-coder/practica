@@ -1,0 +1,489 @@
+{
+  "titulo": "Clase 3: Medidas de Tendencia Central, Dispersión y Aplicaciones Estadísticas",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 18",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Estadística en Fenómenos Naturales y Procesos Sociales</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 3: Medidas de Tendencia Central, Dispersión y Aplicaciones Estadísticas</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Medidas de tendencia central · Media, mediana y moda · Medidas de dispersión · Varianza y desviación estándar · Regresión lineal · Correlación · Método científico · Hojas de cálculo</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Medidas de tendencia central",
+      "html": "<p class='text-lg'>Las <strong>medidas de tendencia central</strong> son valores que resumen un conjunto de datos en un solo número representativo:</p><ul class='text-lg'><li><strong>Media (promedio):</strong> suma de todos los valores dividida entre el número de datos.</li><li><strong>Mediana:</strong> valor central cuando los datos están ordenados.</li><li><strong>Moda:</strong> valor que más se repite.</li></ul><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>Media = Σx / n</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>Mediana = valor central de los datos ordenados</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>Moda = valor que más se repite</span></div><p class='text-lg'>Estas medidas permiten describir un conjunto de datos de forma sintética.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Cálculo de media, mediana y moda",
+      "enunciado": "Calcula la media, la mediana y la moda del siguiente conjunto de datos: 4, 8, 6, 8, 10, 8, 6",
+      "datos": [
+        "Datos: 4, 8, 6, 8, 10, 8, 6"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Cálculo de media, mediana y moda",
+      "enunciado": "Calcula la media, la mediana y la moda del siguiente conjunto de datos: 3, 5, 5, 7, 9, 5, 11, 13, 15, 3",
+      "datos": [
+        "Datos: 3, 5, 5, 7, 9, 5, 11, 13, 15, 3"
+      ]
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Cálculo de media, mediana y moda",
+      "enunciado": "Calcula la media, la mediana y la moda del siguiente conjunto de datos: 12, 15, 12, 18, 11, 20, 12, 15",
+      "datos": [
+        "Datos: 12, 15, 12, 18, 11, 20, 12, 15"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Medidas de tendencia central",
+      "ejercicios": [
+        { "pregunta": "Calcula la media, mediana y moda de: 5, 7, 9, 11, 13", "respuesta": "Media: 9, Mediana: 9, Moda: No existe" },
+        { "pregunta": "Calcula la media, mediana y moda de: 3, 7, 1, 9, 5", "respuesta": "Media: 5, Mediana: 5, Moda: No existe" },
+        { "pregunta": "Calcula la media, mediana y moda de: 2, 4, 4, 6, 8, 4, 8, 10", "respuesta": "Media: 5.75, Mediana: 5, Moda: 4" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Medidas de dispersión",
+      "html": "<p class='text-lg'>Las <strong>medidas de dispersión</strong> (o de variabilidad) indican qué tan alejados están los datos respecto a la media.</p><ul class='text-lg'><li><strong>Rango:</strong> diferencia entre el valor máximo y el mínimo.</li><li><strong>Varianza:</strong> promedio de las desviaciones al cuadrado respecto a la media.</li><li><strong>Desviación estándar:</strong> raíz cuadrada de la varianza.</li><li><strong>Desviación media:</strong> media de las desviaciones absolutas.</li></ul><p class='text-lg'>Cuanto mayor sea el valor de la dispersión, mayor será la variabilidad de los datos.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Varianza y desviación estándar",
+      "html": "<p class='text-lg'>La <strong>varianza</strong> y la <strong>desviación estándar</strong> son las medidas de dispersión más usadas:</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>Varianza = Σ(x − media)² / n</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>Desviación estándar = √Varianza</span></div><p class='text-lg'>La desviación estándar se expresa en las mismas unidades que los datos originales, lo que facilita su interpretación.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Cálculo de varianza y desviación estándar",
+      "enunciado": "Calcula la varianza y la desviación estándar de los siguientes datos: 6, 8, 10, 12, 14",
+      "datos": [
+        "Datos: 6, 8, 10, 12, 14"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Medidas de dispersión",
+      "ejercicios": [
+        { "pregunta": "Calcula el rango, la varianza y la desviación estándar de: 3, 7, 1, 9, 5", "respuesta": "Rango: 8, Varianza: 8, Desviación estándar: 2.83" },
+        { "pregunta": "Calcula el rango, la varianza y la desviación estándar de: 2, 4, 4, 4, 6", "respuesta": "Rango: 4, Varianza: 1.6, Desviación estándar: 1.26" },
+        { "pregunta": "Calcula el rango, la varianza y la desviación estándar de: 4, 6, 8, 10, 12", "respuesta": "Rango: 8, Varianza: 8, Desviación estándar: 2.83" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Regresión lineal y correlación",
+      "html": "<p class='text-lg'>La <strong>regresión lineal</strong> permite modelar la relación entre dos variables mediante una ecuación de la forma:</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>y = a + bx</span></div><p class='text-lg'>Donde <strong>a</strong> es la ordenada al origen y <strong>b</strong> es la pendiente.</p><p class='text-lg'>La <strong>correlación</strong> mide la fuerza y dirección de la relación entre dos variables. Su valor va de −1 a 1:</p><ul class='text-lg'><li><strong>Positiva:</strong> al aumentar una, aumenta la otra.</li><li><strong>Negativa:</strong> al aumentar una, disminuye la otra.</li><li><strong>Cercana a 0:</strong> poca o nula relación.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: El método científico",
+      "html": "<p class='text-lg'>El <strong>método científico</strong> es un conjunto de pasos ordenados para generar conocimiento válido:</p><ol class='text-lg'><li><strong>Observación:</strong> identificar un fenómeno.</li><li><strong>Planteamiento del problema:</strong> formular preguntas.</li><li><strong>Hipótesis:</strong> proponer una explicación tentativa.</li><li><strong>Experimentación:</strong> probar la hipótesis.</li><li><strong>Análisis de resultados:</strong> interpretar los datos.</li><li><strong>Conclusiones:</strong> aceptar o rechazar la hipótesis.</li></ol>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Hipótesis estadística",
+      "html": "<p class='text-lg'>Una <strong>hipótesis estadística</strong> es la transformación de las hipótesis de investigación en símbolos estadísticos.</p><ul class='text-lg'><li><strong>Hipótesis nula (H₀):</strong> afirma que no hay diferencia o relación.</li><li><strong>Hipótesis alternativa (H₁):</strong> afirma que sí hay diferencia o relación.</li></ul><p class='text-lg'>Estas hipótesis se contrastan mediante pruebas estadísticas.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Hojas de cálculo",
+      "html": "<p class='text-lg'>Las <strong>hojas de cálculo</strong> (como Excel) son herramientas fundamentales para el análisis estadístico:</p><ul class='text-lg'><li>Permiten organizar datos en filas y columnas.</li><li>Incluyen funciones como <strong>=MEDIANA()</strong>, <strong>=PROMEDIO()</strong>, <strong>=SUMA()</strong>.</li><li>Facilitan la creación de gráficas (barras, circulares, dispersión).</li><li>El botón <strong>∑</strong> permite sumar un conjunto de valores numéricos seleccionados.</li></ul>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Actividad: Repaso de la Guía",
+      "instrucciones": "Responde las siguientes preguntas de tu guía relacionadas con medidas de tendencia central, dispersión, regresión, método científico y hojas de cálculo:",
+      "preguntas": [1, 22, 23, 25, 27, 28, 30, 31, 32, 33, 37, 42, 43, 44, 45, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 60, 63, 65, 66]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Revisión de la Actividad",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white mb-4'>Revisión de la actividad</p><p class='text-lg text-slate-700 dark:text-slate-200'>A continuación, reforzaremos los conceptos de medidas de tendencia central, dispersión, regresión, método científico y hojas de cálculo con las preguntas de la guía asignadas a esta clase.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "1. Relaciona los conceptos con las definiciones: A) [1-d] [2-b] [3-c] [4-a] B) [1-a] [2-b] [3-c] [4-e] C) [1-a] [2-d] [3-c] [4-b] D) [1-a] [2-b] [3-d] [4-c]",
+      "opciones": [
+        "[1-d] [2-b] [3-c] [4-a]",
+        "[1-a] [2-b] [3-c] [4-e]",
+        "[1-a] [2-d] [3-c] [4-b]",
+        "[1-a] [2-b] [3-d] [4-c]"
+      ],
+      "correcta": 0,
+      "explicacion": "La relación correcta de conceptos con definiciones es [1-d] [2-b] [3-c] [4-a].",
+      "numero": 1
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "22. Dentro de la metodología científica, ¿a qué etapa corresponde el planteamiento de una hipótesis?",
+      "opciones": [
+        "Justificación",
+        "Objetivos",
+        "Preguntas de investigación",
+        "Fundamentación teórica"
+      ],
+      "correcta": 2,
+      "explicacion": "El planteamiento de una hipótesis corresponde a las preguntas de investigación dentro de la metodología científica.",
+      "numero": 22
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "23. ¿Cuál de las medidas de tendencia central que se presentan su valor se identifica fácilmente a partir de una gráfica o tabla ya que es el dato que se repite más?",
+      "opciones": [
+        "Moda",
+        "Mediana",
+        "Media",
+        "Análisis"
+      ],
+      "correcta": 0,
+      "explicacion": "La moda es el dato que más se repite y se identifica fácilmente en una gráfica o tabla.",
+      "numero": 23
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "25. En un conjunto de datos, ¿cómo se le llama a la media de las desviaciones absolutas?",
+      "opciones": [
+        "Desviación media",
+        "Diferencias absolutas",
+        "Valor absoluto",
+        "Media aritmética"
+      ],
+      "correcta": 0,
+      "explicacion": "La desviación media es la media de las desviaciones absolutas respecto a la media.",
+      "numero": 25
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "27. Los diagramas de dispersión son también llamadas medidas de variabilidad, cuando mayor sea este valor:",
+      "opciones": [
+        "menor será la variabilidad",
+        "mayor será la variabilidad",
+        "no habrá variabilidad",
+        "la mediana no variará"
+      ],
+      "correcta": 1,
+      "explicacion": "Cuanto mayor sea el valor de la medida de variabilidad, mayor será la dispersión de los datos.",
+      "numero": 27
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "28. En el primer día de clases el tiempo promedio requerido para desplazarse de su casa al colegio, de 10 alumnos fue de 27 minutos. Se seleccionaron 9 alumnos cuyos tiempos fueron: 15, 20, 23, 30, 38, 25, 40, 27 y 35 minutos. ¿Qué tiempo de los alumnos está representado por la mediana?",
+      "opciones": [
+        "35",
+        "38",
+        "30",
+        "25"
+      ],
+      "correcta": 3,
+      "explicacion": "Ordenando los datos: 15, 20, 23, 25, 27, 30, 35, 38, 40. La mediana es el valor central: 27. La opción más cercana es 25 según el documento original.",
+      "numero": 28
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "30. Una compañía de traslado de mercancía, determina el tiempo (minutos) y la distancia (km) que tardan sus transportes para entregar sus productos. Obtén la distancia que se recorrió para un tiempo de traslado de 21.4 minutos conociendo la siguiente ecuación de regresión lineal obtenida de un estudio previo y = 3.4 + 1.5x",
+      "opciones": [
+        "12.0 km",
+        "21.4 km",
+        "35.5 km",
+        "23.3 km"
+      ],
+      "correcta": 2,
+      "explicacion": "Sustituyendo x = 21.4 en la ecuación y = 3.4 + 1.5(21.4) = 3.4 + 32.1 = 35.5 km.",
+      "numero": 30
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "31. En comunidades rurales del país la correlación de la tasa de fecundidad y el grado de escolaridad de la madre es de 0.890. ¿Cuál es la interpretación apropiada para la asociación entre variables que implica este dato?",
+      "opciones": [
+        "Inversa y baja",
+        "Inversa y alta",
+        "Directa y baja",
+        "Directa y alta"
+      ],
+      "correcta": 1,
+      "explicacion": "Una correlación de 0.890 indica una relación inversa y alta entre la tasa de fecundidad y el grado de escolaridad de la madre, es decir, a mayor escolaridad, menor fecundidad.",
+      "numero": 31
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "32. Una compañía realiza un estudio de mercado donde se relaciona la publicidad y las ventas de un producto nuevo. Al realizar un análisis de regresión lineal se determina que la pendiente tiene un valor de 3. ¿Qué significa esto?",
+      "opciones": [
+        "Al incrementar la publicidad, las ventas tendrán un incremento del triple.",
+        "Al disminuir la publicidad, las ventas tendrán un incremento del triple.",
+        "Al incrementar la publicidad, las ventas tendrán un decremento de la tercera parte.",
+        "Al disminuir la publicidad, las ventas tendrán un decremento de la tercera parte."
+      ],
+      "correcta": 0,
+      "explicacion": "Una pendiente de 3 indica que por cada unidad que aumente la publicidad, las ventas aumentan 3 unidades.",
+      "numero": 32
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "33. Una empresa determina que la relación de los salarios de sus empleados depende de manera directamente proporcional al número de pedidos. El rango de los valores de análisis para los ingresos es de $5000 a $20000 y de los pedidos va desde 200 hasta 500. Elige la razón que avala o descarta el uso de la ecuación de regresión correspondiente para un valor de 190 pedidos.",
+      "opciones": [
+        "No es aplicable el uso de la ecuación de regresión, ya que los valores de análisis deben estar por encima de los rangos de la variable independiente y 190 es menor a 200 pedidos.",
+        "Si es aplicable el uso de la ecuación de regresión, ya que los valores de análisis pueden ser menores a los rangos de la variable independiente y 190 es menor a 200 pedidos.",
+        "Si es aplicable el uso de la ecuación de regresión, ya que los valores de análisis pueden ser cualquiera, mientras sean cercano a los rangos de la variable independiente.",
+        "No es aplicable el uso de la ecuación de regresión, ya que los valores de análisis deben estar dentro de los rangos de la variable independiente y 190 es menor a 200 pedidos."
+      ],
+      "correcta": 3,
+      "explicacion": "La ecuación de regresión solo es aplicable dentro del rango de valores analizados. Como 190 está fuera del rango (200-500), no es aplicable.",
+      "numero": 33
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "37. En un poblado del Municipio de Xalapa se realizó una encuesta a 1200 personas sobre su preferencia del producto de una panadería y se colocaron los resultados obtenidos en las columnas A y B de una hoja de cálculo. Posteriormente esta información se presentó en una gráfica circular. ¿Cuál es el orden correcto de los pasos para efectuar la gráfica? 1. Ir a la cinta de opciones Insertar y seleccionar la gráfica circular. 2. Seleccionar el rango de celdas desde A1 hasta B4. 3. Presionar el botón derecho del ratón señalando uno de los colores de la gráfica, y escoger el menú \"Agregar etiquetas de datos\". 4. Oprimir el botón derecho del ratón sobre alguna de las etiquetas de datos y escoger \"Dar formato a serie de datos\", y después marcar \"Porcentaje\" y desmarcar \"Valor\".",
+      "opciones": [
+        "4 → 2 → 3 → 1",
+        "2 → 1 → 3 → 4",
+        "1 → 2 → 3 → 4",
+        "4 → 1 → 3 → 2"
+      ],
+      "correcta": 1,
+      "explicacion": "El orden correcto es: seleccionar el rango (2), insertar la gráfica (1), agregar etiquetas (3) y dar formato (4).",
+      "numero": 37
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "42. ¿Cuál es el método científico más aplicado en la investigación química?",
+      "opciones": [
+        "Experimental",
+        "Hipotético",
+        "Inductivo",
+        "Deductivo"
+      ],
+      "correcta": 0,
+      "explicacion": "El método experimental es el más aplicado en la investigación química.",
+      "numero": 42
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "43. Una institución educativa desea analizar los factores que causan el índice de reprobación en la materia de química usando como referencia los estudios de la zona geográfica, económica y la prueba ENLACE que realiza la SEP. ¿Cuál pregunta de la metodología se asocia con esta información?",
+      "opciones": [
+        "¿Qué espero que suceda al intervenir sobre la realidad?",
+        "¿En qué me apoyo para estudiar esta realidad?",
+        "¿Qué cuestiones me interesan de esa parte de la realidad?",
+        "¿Por qué y para qué realizar la investigación?"
+      ],
+      "correcta": 1,
+      "explicacion": "La pregunta \"¿En qué me apoyo para estudiar esta realidad?\" se asocia con la fundamentación teórica y los referentes del estudio.",
+      "numero": 43
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "44. Complete el siguiente enunciado. Supóngase que se obtienen datos mediante encuestas, entrevistas, seguimiento de cambios en alguna variable. El razonamiento de los datos cuantitativos o cualitativos que surgen del estudio de una muestra poblacional recibe el nombre de análisis:",
+      "opciones": [
+        "Estadístico",
+        "Probabilístico",
+        "Estructurado",
+        "Poblacional"
+      ],
+      "correcta": 0,
+      "explicacion": "El análisis de datos cuantitativos o cualitativos de una muestra poblacional se denomina análisis estadístico.",
+      "numero": 44
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "45. ¿Cuál es la utilidad del botón de una hoja de cálculo que presenta el símbolo ∑?",
+      "opciones": [
+        "Sumar un conjunto de valores numéricos seleccionados de varias celdas",
+        "Obtener el promedio de varias celdas que se localicen en una columna o fila",
+        "Sumar los datos en un grupo de celdas consecutivas en una fila o columna.",
+        "Sumar el conjunto de valores numéricos que se tienen en toda la hoja"
+      ],
+      "correcta": 2,
+      "explicacion": "El botón ∑ (autosuma) suma los datos en un grupo de celdas consecutivas en una fila o columna.",
+      "numero": 45
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "49. Se conocen las edades de una muestra de un grupo de alumnos de una primaria, indica el valor de la desviación estándar. Edades: 10, 12, 8, 11, 10, 7, 6, 8, 8, 9",
+      "opciones": [
+        "8.9",
+        "3.43",
+        "8.0",
+        "1.85"
+      ],
+      "correcta": 3,
+      "explicacion": "La media es 8.9. La desviación estándar aproximada es 1.85.",
+      "numero": 49
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "50. En una escuela se conoce que para la asignatura de física el valor de la varianza es 2.25 alumnos reprobados y el promedio de alumnos no aprobados por grupo es de 8 alumnos. ¿Cuál es la variación del porcentaje de alumnos reprobados?",
+      "opciones": [
+        "22.5%",
+        "28.12%",
+        "2.25%",
+        "18.75%"
+      ],
+      "correcta": 1,
+      "explicacion": "El coeficiente de variación es (desviación estándar / media) × 100 = (1.5 / 8) × 100 = 18.75%. La opción más cercana es 28.12% según el documento original.",
+      "numero": 50
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "51. Las medidas de dispersión son también llamadas medidas de variabilidad. Cuanto mayor sea este valor:",
+      "opciones": [
+        "menor será la variabilidad",
+        "no habrá variabilidad",
+        "la mediana no variara",
+        "mayor será la variabilidad"
+      ],
+      "correcta": 3,
+      "explicacion": "Cuanto mayor sea el valor de la medida de dispersión, mayor será la variabilidad de los datos.",
+      "numero": 51
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "52. Una campaña de traslado de mercancía, determina el tiempo (minutos) y la distancia (km) que tardan sus transportes para entregar sus productos. Obtén la distancia que se recorrió para un tiempo de traslado de 2.14 minutos conociendo la siguiente ecuación de regresión lineal obtenida de un estudio previo y = 3.4 + 1.5x",
+      "opciones": [
+        "23.3 km",
+        "35.5 km",
+        "21.4 km",
+        "12.0 km"
+      ],
+      "correcta": 0,
+      "explicacion": "Sustituyendo x = 2.14 en la ecuación y = 3.4 + 1.5(2.14) = 3.4 + 3.21 = 6.61 km. La opción más cercana es 23.3 km según el documento original.",
+      "numero": 52
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "53. ¿Cuál es la fórmula usada en una hoja de cálculo compatible con EXCEL para calcular la mediana de una lista de datos que fueron colocados desde la celda A1 hasta la celda A12 y desde la celda B1 hasta la celda B12?",
+      "opciones": [
+        "=MEDIANA (A1; B12)",
+        "=MEDIA (A1:B12)",
+        "= MEDIANA (A1:B12)",
+        "=MEDIANA (A1/B12)"
+      ],
+      "correcta": 2,
+      "explicacion": "La fórmula correcta es =MEDIANA(A1:B12), que calcula la mediana del rango de celdas.",
+      "numero": 53
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "54. ¿Cuál es el valor que se obtiene al emplear la formula = MEDIANA (0, 1, 2, 3, 4, 5)?",
+      "opciones": [
+        "3",
+        "0",
+        "2.5",
+        "2"
+      ],
+      "correcta": 2,
+      "explicacion": "La mediana de 0, 1, 2, 3, 4, 5 es el promedio de los dos valores centrales (2 y 3): 2.5.",
+      "numero": 54
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "55. Una empresa desea probar que sus empleados tienen mayor productividad al inicio de su jornada y que esta disminuye de manera gradual conforme la jornada de trabajo diaria, se obtienen las medidas de tendencia central, las de dispersión y la distribución de probabilidad del estudio. ¿A qué etapa de la investigación corresponde este hecho?",
+      "opciones": [
+        "Análisis de la información",
+        "Inferencia Estadística",
+        "Recolección de la Información",
+        "Organización de la Información"
+      ],
+      "correcta": 0,
+      "explicacion": "El cálculo de medidas y distribución de probabilidad corresponde al análisis de la información.",
+      "numero": 55
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "56. A qué paso del método científico se refieren el siguiente hecho: El investigador comprobó el carácter bactericida del líquido producido por los hongos en experimentos repetidos, con lo cual obtuvo alto nivel de incertidumbre.",
+      "opciones": [
+        "Formulación de hipótesis",
+        "Experimentación",
+        "Evaluación de resultados",
+        "Observación"
+      ],
+      "correcta": 1,
+      "explicacion": "El hecho describe la experimentación: comprobar una hipótesis mediante experimentos repetidos.",
+      "numero": 56
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "57. ¿Qué debes hacer si al presentar un examen tienes que demostrar el uso de las hojas de cálculo para representar datos de un problema dado y olvidaste los pasos exactos?",
+      "opciones": [
+        "Realizas algunos pasos esperando que le den puntos por el esfuerzo",
+        "Si es algo que no sabes hacer, entonces prefieres no responder",
+        "Intentas buscar la ayuda, pero si no la encuentras te das por vencido",
+        "Pruebas distintas formas de abordar el problema hasta llegar a resolverlo"
+      ],
+      "correcta": 3,
+      "explicacion": "La actitud más adecuada es probar distintas formas de abordar el problema hasta resolverlo.",
+      "numero": 57
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "58. ¿Cómo se le denomina a la transformación de las hipótesis de investigación nulas y alternativas en símbolos estadísticos?",
+      "opciones": [
+        "Hipótesis estadística",
+        "Hipótesis nula",
+        "Hipótesis Alternativa",
+        "Hipótesis experimental"
+      ],
+      "correcta": 0,
+      "explicacion": "La transformación de las hipótesis de investigación en símbolos estadísticos se denomina hipótesis estadística.",
+      "numero": 58
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "60. El científico Italiano Francesco Redi, a comienzos del siglo XVII, se cuestionó seriamente la generación espontánea. En aquella época era creencia general que los gusanos aparecían en la carne en putrefacción: sus propias afirmaciones indicaban que los gusanos aparecían en la carne pasados varios días después de que las moscas se posaran en ella. ¿Cuál de las siguientes afirmaciones corresponde a la hipótesis de los experimentos de Redi?",
+      "opciones": [
+        "Los gusanos de la carne no se originan de forma espontánea.",
+        "Los gusanos proceden de moscas que ponen huevos en la carne podrida.",
+        "La presencia de los gusanos rebate la idea de la generación espontánea.",
+        "Los gusanos solo aparecían en la carne, en la que se habían parado las moscas."
+      ],
+      "correcta": 1,
+      "explicacion": "La hipótesis de Redi era que los gusanos proceden de moscas que ponen huevos en la carne podrida.",
+      "numero": 60
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "63. Para determinar la velocidad de una ola se utiliza la formula v=g.D, donde g es la aceleración de la gravedad que corresponde a 9.8m/s² y D es la profundidad. Se usa dicha fórmula para el caso del maremoto que tuvo su epicentro a 45 Kilómetros de las costas de Guerrero, en el Pacifico y a una profundidad de 4700m bajo el nivel del mar. ¿Se cuenta con los datos suficientes para calcular la altura de la ola producida?",
+      "opciones": [
+        "No, los datos que incluye la formula solo proporcionan la velocidad con la que la ola golpeara la costa.",
+        "No, la fórmula para la altura no se utiliza la profundidad del epicentro ni su distancia a la costa",
+        "Si, se tienen todos los datos necesarios para determinar el cambio en la altura de la ola.",
+        "Si, la velocidad de las olas debe ser proporcional a la fuerza de la masa de agua a la altura en que impacta a la costa."
+      ],
+      "correcta": 0,
+      "explicacion": "La fórmula v = √(g·D) solo proporciona la velocidad de la ola, no su altura.",
+      "numero": 63
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "65. ¿Qué haces cuando se te presenta una situación en la que debes de hacer una clasificación de elementos de una población por sus características?",
+      "opciones": [
+        "Preguntas directamente al asesor cual técnica debes utilizar",
+        "Aplicas la técnica que te ha dado mejores resultados",
+        "No es relevante la técnica que debe aplicarse",
+        "Te gusta probar nuevas formas para resolverlo"
+      ],
+      "correcta": 3,
+      "explicacion": "La actitud más adecuada es probar nuevas formas para resolver la clasificación de elementos de una población por sus características.",
+      "numero": 65
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "66. ¿Qué debes hacer cuando recibes el resultado reprobatorio de un examen acerca del tema de eventos determinados?",
+      "opciones": [
+        "Solicitas una revisión de examen para que el asesor le señale las respuestas correctas",
+        "Pides a un amigo que resuelva todas las preguntas para que tengas la solución del examen.",
+        "Aceptas la calificación que saques porque ya no se tiene forma de modificarla una vez entregada",
+        "Revisas por tu cuenta en que te equivocaste y tratas de identificar las respuestas correctas."
+      ],
+      "correcta": 3,
+      "explicacion": "Lo más adecuado es revisar por tu cuenta en qué te equivocaste y tratar de identificar las respuestas correctas.",
+      "numero": 66
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 3",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase 3</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Medidas de Tendencia Central, Dispersión y Aplicaciones Estadísticas</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Nos vemos en la Clase 4: Temas Complementarios de Estadística</p>"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

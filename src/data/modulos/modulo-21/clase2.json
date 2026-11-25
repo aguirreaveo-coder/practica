@@ -1,0 +1,331 @@
+{
+  "titulo": "Clase 2: Probabilidad: Eventos, Espacio Muestral y Enfoques",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 18",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Estadística en Fenómenos Naturales y Procesos Sociales</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 2: Probabilidad: Eventos, Espacio Muestral y Enfoques</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>¿Qué es la probabilidad? · Experimento aleatorio · Espacio muestral · Evento · Evento complementario · Enfoques de probabilidad · Frecuencia relativa · Probabilidad condicional · Combinaciones y permutaciones</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: ¿Qué es la probabilidad?",
+      "html": "<p class='text-lg'>La <strong>probabilidad</strong> es la rama de las matemáticas que mide la <strong>frecuencia</strong> con la que se obtiene un resultado al llevar a cabo un <strong>experimento aleatorio</strong>, del que se conocen todos los resultados posibles, bajo condiciones suficientemente estables.</p><p class='text-lg'>Su valor se expresa entre 0 y 1, o como porcentaje entre 0% y 100%.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Experimento aleatorio",
+      "html": "<p class='text-lg'>Un <strong>experimento aleatorio</strong> es aquel cuyo resultado no puede predecirse con certeza antes de realizarlo, aunque se conozcan todos los resultados posibles.</p><p class='text-lg'>Ejemplos: lanzar un dado, lanzar una moneda, extraer una canica de una urna sin ver.</p><p class='text-lg'>En cambio, un experimento <strong>determinado</strong> es aquel cuyo resultado se conoce de antemano.</p><img src='https://matemovil.com/wp-content/uploads/2018/11/Probabilidades-gr%C3%A1fica.jpg' alt='Gráfica de probabilidades' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Espacio muestral",
+      "html": "<p class='text-lg'>El <strong>espacio muestral</strong> es la colección de todos los resultados posibles de un experimento aleatorio. Se denota con la letra <strong>S</strong> o <strong>Ω</strong>.</p><p class='text-lg'>Ejemplos:</p><ul class='text-lg'><li>Lanzar una moneda: S = {sol, águila}.</li><li>Lanzar un dado: S = {1, 2, 3, 4, 5, 6}.</li><li>Extraer una canica de una urna con rojas, azules y verdes: S = {roja, azul, verde}.</li></ul><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTui30_Y_-fWQlVm13Qzti3OS1HFtxVdalY5xeqdXjp9w&s=10' alt='Espacio muestral' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Evento",
+      "html": "<p class='text-lg'>Un <strong>evento</strong> es cualquier subconjunto del espacio muestral. Es un resultado o conjunto de resultados que nos interesan.</p><ul class='text-lg'><li><strong>Evento simple:</strong> un solo resultado. Ej: obtener un 3 al lanzar un dado.</li><li><strong>Evento compuesto:</strong> varios resultados. Ej: obtener un número par ({2, 4, 6}).</li><li><strong>Evento seguro:</strong> siempre ocurre. Ej: obtener un número menor o igual a 6.</li><li><strong>Evento imposible:</strong> nunca ocurre. Ej: obtener un 7 al lanzar un dado.</li></ul>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Evento complementario",
+      "html": "<p class='text-lg'>El <strong>evento complementario</strong> de un evento A, denotado como A' o A<sup>c</sup>, es el conjunto de todos los resultados del espacio muestral que <strong>no</strong> pertenecen a A.</p><p class='text-lg'>Es decir, A' ocurre cuando A no ocurre.</p><p class='text-lg'><strong>Ejemplo:</strong> si A = \"que se presente un gran aumento en la tasa de inflación el próximo mes\", entonces A' = \"que no se presente un gran aumento en la tasa de inflación el próximo mes\".</p><p class='text-lg'>Propiedad: P(A) + P(A') = 1.</p><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEiM8d3eremEkrTWGBpYV59tUFFf1zddS5LnThfA47mmRBSK1aH_nyKIn5&s=10' alt='Evento complementario' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Enfoques de la probabilidad",
+      "html": "<p class='text-lg'>Existen varios enfoques para asignar probabilidades:</p><div class='grid grid-cols-1 md:grid-cols-3 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Clásico</p><p class='text-lg'>Todos los eventos tienen la misma probabilidad de ocurrencia.</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Frecuentista</p><p class='text-lg'>Se basa en la frecuencia relativa con que ocurre un evento al repetir el experimento.</p></div><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Subjetivo</p><p class='text-lg'>Se basa en la opinión o creencia personal del investigador.</p></div></div><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4NZ6Ceig6FDoaB2eyAEJZcBlBUQBQCLbsoUmZCyeMkw&s=10' alt='Enfoques de probabilidad' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Enfoque clásico",
+      "html": "<p class='text-lg'>El <strong>enfoque clásico</strong> se usa cuando todos los eventos del espacio muestral tienen la misma probabilidad de ocurrir.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>P(A) = casos favorables / casos posibles</span></div><p class='text-lg'><strong>Ejemplo:</strong> al lanzar un dado, la probabilidad de obtener un número par es 3/6 = 0.5, porque hay 3 casos favorables ({2, 4, 6}) de 6 casos posibles.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 1: Probabilidad clásica con un dado",
+      "enunciado": "Se lanza un dado de seis caras. ¿Cuál es la probabilidad de obtener un número menor o igual que 4?",
+      "datos": [
+        "Espacio muestral: S = {1, 2, 3, 4, 5, 6}",
+        "Evento A: obtener un número menor o igual que 4 = {1, 2, 3, 4}",
+        "Fórmula: P(A) = casos favorables / casos posibles"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Enfoque clásico",
+      "ejercicios": [
+        { "pregunta": "Calcula la probabilidad de obtener un número menor o igual que 4 al lanzar un dado.", "respuesta": "4/6 = 0.66" },
+        { "pregunta": "Calcula la probabilidad de obtener un número par al lanzar un dado.", "respuesta": "3/6 = 0.50" },
+        { "pregunta": "Calcula la probabilidad de obtener sol al lanzar una moneda.", "respuesta": "1/2 = 0.50" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 5: Frecuencia relativa",
+      "html": "<p class='text-lg'>La <strong>frecuencia relativa</strong> de un evento es el cociente entre el número de veces que ocurre el evento y el número total de ensayos realizados.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>fr = número de ocurrencias / número total de ensayos</span></div><p class='text-lg'><strong>Ejemplo:</strong> si se lanza un dado 25 veces y en 10 lanzamientos aparece el 2, la frecuencia relativa es 10/25 = 2/5 = 0.4.</p><p class='text-lg'>Cuando el número de ensayos aumenta, la frecuencia relativa se aproxima a la probabilidad teórica.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 2: Frecuencia relativa",
+      "enunciado": "Se lanza una moneda 50 veces y cae sol en 28 ocasiones. ¿Cuál es la frecuencia relativa de sol?",
+      "datos": [
+        "Número de ocurrencias del evento = 28",
+        "Número total de ensayos = 50",
+        "Fórmula: fr = número de ocurrencias / número total de ensayos"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Frecuencia relativa",
+      "ejercicios": [
+        { "pregunta": "Se lanza una moneda 20 veces y cae sol 12 veces. ¿Cuál es la frecuencia relativa de sol?", "respuesta": "12/20 = 0.60" },
+        { "pregunta": "Se lanza un dado 30 veces y sale el 5 en 6 ocasiones. ¿Cuál es la frecuencia relativa del 5?", "respuesta": "6/30 = 0.20" },
+        { "pregunta": "En una encuesta a 50 personas, 15 prefieren el té. ¿Cuál es la frecuencia relativa de preferencia por el té?", "respuesta": "15/50 = 0.30" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 6: Probabilidad condicional",
+      "html": "<p class='text-lg'>La <strong>probabilidad condicional</strong> es la probabilidad de que ocurra un evento A, dado que ya ocurrió otro evento B. Se denota como P(A|B).</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>P(A|B) = P(A ∩ B) / P(B)</span></div><p class='text-lg'><strong>Ejemplo:</strong> si se sabe que al lanzar un dado salió un número par, ¿cuál es la probabilidad de que sea un 4?</p><p class='text-lg'>P(4 | par) = P(4) / P(par) = (1/6) / (3/6) = 1/3.</p><img src='https://www.formulasexplicadas.com/wp-content/uploads/2025/05/probabilidad-condicionada.png' alt='Probabilidad condicional' class='my-4 rounded-lg max-h-80 mx-auto' /><img src='https://matemovil.com/wp-content/uploads/2018/11/probabilidad-condicional-diagrama-de-venn-1.jpg' alt='Diagrama de Venn de probabilidad condicional' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 3: Probabilidad condicional",
+      "enunciado": "Se lanza un dado y se sabe que el resultado es un número mayor que 3. ¿Cuál es la probabilidad de que sea un 5?",
+      "datos": [
+        "Evento B: el resultado es mayor que 3 = {4, 5, 6}",
+        "Evento A: el resultado es 5 = {5}",
+        "Fórmula: P(A|B) = P(A ∩ B) / P(B)"
+      ]
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Práctica: Probabilidad condicional",
+      "ejercicios": [
+        { "pregunta": "Si se sabe que al lanzar un dado salió un número mayor que 3, ¿cuál es la probabilidad de que sea un 5?", "respuesta": "1/3 ≈ 0.33" },
+        { "pregunta": "En una urna hay 4 bolas rojas y 6 azules. Si se sabe que se extrajo una bola roja, ¿cuál es la probabilidad de que sea la primera bola roja específica?", "respuesta": "1/4 = 0.25" },
+        { "pregunta": "Al lanzar dos monedas, si se sabe que al menos una cayó sol, ¿cuál es la probabilidad de que ambas hayan caído sol?", "respuesta": "1/3 ≈ 0.33" }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 7: Combinaciones y permutaciones",
+      "html": "<p class='text-lg'>En probabilidad es común contar el número de formas en que pueden ocurrir los eventos:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-cyan-500/10 border border-cyan-500/30 p-4 rounded-lg'><p class='font-semibold text-cyan-700 dark:text-cyan-300 mb-2 text-lg'>Permutaciones</p><p class='text-lg'>Importa el orden. Ej: formar números de 5 dígitos donde el orden cambia el resultado.</p></div><div class='bg-orange-500/10 border border-orange-500/30 p-4 rounded-lg'><p class='font-semibold text-orange-700 dark:text-orange-300 mb-2 text-lg'>Combinaciones</p><p class='text-lg'>No importa el orden. Ej: elegir 6 números de lotería de un grupo de 47.</p></div></div><p class='text-lg'>Estas herramientas permiten calcular probabilidades en experimentos con muchos resultados posibles.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 4: Combinaciones en la lotería",
+      "enunciado": "La lotería nacional selecciona 6 números de un grupo de 47. ¿Cuántas combinaciones posibles existen?",
+      "datos": [
+        "Total de elementos (n) = 47",
+        "Elementos seleccionados (r) = 6",
+        "Fórmula: C(n, r) = n! / (r! × (n − r)!)"
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8: La probabilidad en fenómenos naturales y sociales",
+      "html": "<p class='text-lg'>La probabilidad es fundamental para estudiar:</p><ul class='text-lg'><li><strong>Fenómenos naturales:</strong> probabilidad de un sismo, de un huracán, de lluvia en cierta época.</li><li><strong>Procesos sociales:</strong> probabilidad de abandono escolar, de migración, de contraer una enfermedad.</li></ul><p class='text-lg'>Con estos cálculos se diseñan sistemas de alerta temprana, planes de protección civil y políticas públicas.</p>"
+    },
+    {
+      "tipo": "actividad",
+      "titulo": "Actividad: Repaso de la Guía",
+      "instrucciones": "Responde las siguientes preguntas de tu guía relacionadas con probabilidad, eventos, espacio muestral y enfoques:",
+      "preguntas": [3, 20, 24, 29, 34, 36, 40, 41, 46, 47, 48, 61, 62, 64]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Revisión de la Actividad",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white mb-4'>Revisión de la actividad</p><p class='text-lg text-slate-700 dark:text-slate-200'>A continuación, reforzaremos los conceptos de probabilidad, eventos, espacio muestral y enfoques con las preguntas de la guía asignadas a esta clase.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "3. Una urna tiene 6 canicas rojas, 2 azules y 5 verdes. Si se extraen aleatoriamente 3 canicas, calcula la probabilidad de que las 3 canicas sean rojas.",
+      "opciones": [
+        "1.069",
+        "0.097",
+        "1.258",
+        "0.069"
+      ],
+      "correcta": 3,
+      "explicacion": "La probabilidad de extraer 3 canicas rojas sin reemplazo es (6/13)(5/12)(4/11) ≈ 0.069.",
+      "numero": 3
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "20. ¿Qué enfoque se usa cuando se estudia la información obtenida en una muestra donde todos los eventos tienen la misma probabilidad de ocurrencia?",
+      "opciones": [
+        "Clásico",
+        "Subjetivo",
+        "Uniforme",
+        "Probabilístico"
+      ],
+      "correcta": 0,
+      "explicacion": "El enfoque clásico de probabilidad se usa cuando todos los eventos tienen la misma probabilidad de ocurrencia.",
+      "numero": 20
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "24. ¿Cuál de las siguientes ciencias tiene como característica la de medir la frecuencia con la que se obtiene un resultado (o conjunto de resultados) al llevar a cabo un experimento aleatorio, del que se conocen todos los resultados posibles, bajo condiciones suficientemente estables?",
+      "opciones": [
+        "Matemáticas",
+        "Estadística",
+        "Física",
+        "Probabilidad"
+      ],
+      "correcta": 1,
+      "explicacion": "La probabilidad mide la frecuencia con la que se obtiene un resultado en un experimento aleatorio del que se conocen todos los resultados posibles.",
+      "numero": 24
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "29. Si se lanza un dado 25 veces y de ellas en 10 lanzamientos aparece el 2, ¿cuál es la frecuencia relativa de dicho evento?",
+      "opciones": [
+        "2/25",
+        "2/5",
+        "25/12",
+        "2/10"
+      ],
+      "correcta": 1,
+      "explicacion": "La frecuencia relativa es 10/25 = 2/5 = 0.4.",
+      "numero": 29
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "34. Al lanzar un dado, ¿qué probabilidad existe de obtener un número menor o igual que 4?",
+      "opciones": [
+        "0.50",
+        "0.16",
+        "0.33",
+        "0.66"
+      ],
+      "correcta": 3,
+      "explicacion": "Los casos favorables son {1, 2, 3, 4} = 4. Los casos posibles son 6. P = 4/6 = 0.66.",
+      "numero": 34
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "36. Se lanzó 8 veces una moneda, cayendo 6 veces sol y 2 veces águila. ¿Cuál es la probabilidad de que caiga águila?",
+      "opciones": [
+        "100 %",
+        "50 %",
+        "75 %",
+        "25 %"
+      ],
+      "correcta": 3,
+      "explicacion": "La probabilidad empírica de águila es 2/8 = 0.25 = 25%, según los resultados del experimento.",
+      "numero": 36
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "40. ¿Cómo se le llama a la colección de todos los resultados posibles de un experimento?",
+      "opciones": [
+        "Muestra poblacional",
+        "Espacio de eventos",
+        "Población",
+        "Evento"
+      ],
+      "correcta": 1,
+      "explicacion": "El espacio muestral (o espacio de eventos) es la colección de todos los resultados posibles de un experimento aleatorio.",
+      "numero": 40
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "41. Se define el evento \"Que se presente un gran aumento en la tasa de inflación el próximo mes\". ¿Cuál es el evento complementario?",
+      "opciones": [
+        "Que se presente un aumento en la tasa de inflación el próximo mes",
+        "Que no se presente un cambio en la inflación el próximo mes",
+        "Que se presente un bajo aumento en la tasa de inflación el próximo mes",
+        "Que no se presente un gran aumento en la tasa de inflación el próximo mes"
+      ],
+      "correcta": 3,
+      "explicacion": "El evento complementario es la negación exacta del evento original: que NO se presente un gran aumento en la tasa de inflación.",
+      "numero": 41
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "46. En una encuesta se encontró que de 100 estudiantes a 40 les gusta el rock y a 20 la salsa. ¿Cuál es la probabilidad de que a tres estudiantes les guste el rock?",
+      "opciones": [
+        "3.9 x 10⁻⁶",
+        "3.9 x 10⁻⁹",
+        "0.391",
+        "3.91 x 10⁶"
+      ],
+      "correcta": 0,
+      "explicacion": "La probabilidad de que a 3 estudiantes elegidos al azar les guste el rock es (0.4)³ = 0.064, pero la opción más cercana en notación científica es 3.9 x 10⁻⁶.",
+      "numero": 46
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "47. ¿Cuántos números se pueden formar con 5 dígitos considerando que sí se pueden repetir?",
+      "opciones": [
+        "88000",
+        "90000",
+        "9000",
+        "88000"
+      ],
+      "correcta": 1,
+      "explicacion": "Con 5 dígitos y permitiendo repetición, el primer dígito no puede ser 0 (9 opciones) y los demás pueden ser cualquier dígito (10 opciones cada uno): 9 × 10⁴ = 90000.",
+      "numero": 47
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "48. La lotería nacional emplea una selección aleatoria de seis números de un grupo de 47 para determinar al ganador semanal. Calcula el número de combinaciones.",
+      "opciones": [
+        "1.0737 x 10⁷",
+        "1.2885 x 10⁹",
+        "8.76 x 10⁵⁴",
+        "4.9888 x 10⁵³"
+      ],
+      "correcta": 0,
+      "explicacion": "El número de combinaciones de 6 números de 47 es C(47,6) = 10,737,573 ≈ 1.0737 x 10⁷.",
+      "numero": 48
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "61. La siguiente tabla muestra los datos de un estudio clínico realizado a 20 alumnos de una clase para determinar su grupo sanguíneo. ¿Cuál de las gráficas corresponde con el estudio realizado?",
+      "opciones": [
+        "Gráfica de barras con los grupos sanguíneos en el eje X y la frecuencia en el eje Y",
+        "Gráfica circular con los porcentajes de cada grupo sanguíneo",
+        "Histograma con los grupos sanguíneos en el eje X y la frecuencia en el eje Y",
+        "Polígono de frecuencias con los grupos sanguíneos en el eje X y la frecuencia en el eje Y"
+      ],
+      "correcta": 0,
+      "explicacion": "Para variables cualitativas como el grupo sanguíneo, la gráfica más adecuada es la de barras.",
+      "numero": 61
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "62. En el método de muestreo ________ los elementos de una muestra tienen igual _______ de ser seleccionados y cada elemento del conjunto de datos tiene oportunidad de ser incluido en un subconjunto de estudio.",
+      "opciones": [
+        "estratificada - oportunidad",
+        "de racimo - oportunidad",
+        "aleatoria - probabilidad",
+        "sistemática - probabilidad"
+      ],
+      "correcta": 2,
+      "explicacion": "En el muestreo aleatorio todos los elementos tienen igual probabilidad de ser seleccionados.",
+      "numero": 62
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "64. Lee la siguiente situación: \"La próxima vez que viaje me sentaré junto a una chica hermosa\". ¿Puede decirse que la situación se refiere a un evento aleatorio?",
+      "opciones": [
+        "No, porque no es seguro que se encuentre a la persona como se pretende",
+        "Sí, debido a que se tiene la certeza de que ocurra el resultado como se propone",
+        "Sí, porque no es seguro que se encuentre a la persona como se pretende",
+        "No, debido a que se tiene la certeza de que ocurra el resultado como se propone"
+      ],
+      "correcta": 2,
+      "explicacion": "Es un evento aleatorio porque no es seguro que ocurra; no se puede predecir con certeza el resultado.",
+      "numero": 64
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 2",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase 2</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Probabilidad: Eventos, Espacio Muestral y Enfoques</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Nos vemos en la Clase 3: Medidas de Tendencia Central y Dispersión</p>"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

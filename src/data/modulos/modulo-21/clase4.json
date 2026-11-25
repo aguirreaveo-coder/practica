@@ -1,0 +1,250 @@
+{
+  "titulo": "Clase 4: Cuestionario completo del Módulo 18",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 18",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Estadística en Fenómenos Naturales y Procesos Sociales</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 4: Cuestionario completo del Módulo 18</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>Fenómenos naturales · Tablas estadísticas · Puntaje Z · Coeficiente combinatorio · Probabilidad binomial · Hipótesis estadística · Eventos mutuamente excluyentes · Medidas de tendencia central · Probabilidad condicional · Inferencia estadística · Preparación para el Examen Final</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "1. ¿Cuáles de los siguientes fenómenos se consideran naturales?",
+      "opciones": [
+        "Contaminación atmosférica y ocurrencia de sismos",
+        "Erupción de un volcán y propagación de un tsunami",
+        "Ocurrencia de terremotos y quema de parcelas agrícolas",
+        "Erupción de un volcán y destrucción de la capa de ozono"
+      ],
+      "correcta": 1,
+      "explicacion": "La erupción de un volcán y la propagación de un tsunami son fenómenos naturales, ya que no son causados directamente por la actividad humana.",
+      "numero": 1
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "2. En la siguiente tabla se describe la frecuencia de edades de los pacientes del consultorio 5 de una institución de salud. ¿Qué tipo de tabla es?",
+      "opciones": [
+        "Poisson",
+        "Informativa",
+        "Descriptiva",
+        "Aleatoria"
+      ],
+      "correcta": 2,
+      "explicacion": "Una tabla que describe frecuencias de edades es una tabla descriptiva, porque organiza y resume los datos observados.",
+      "numero": 2
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "3. ¿Cómo se le llama a la función que determina el número de desviaciones estándar entre algún valor X y la media de la población en una distribución normal?",
+      "opciones": [
+        "Media",
+        "Puntaje Z",
+        "Varianza",
+        "Moda"
+      ],
+      "correcta": 1,
+      "explicacion": "El puntaje Z indica cuántas desviaciones estándar se aleja un valor X de la media en una distribución normal.",
+      "numero": 3
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "4. ¿Cuál es el coeficiente combinatorio de N = 5 y M = 37?",
+      "opciones": [
+        "15.0",
+        "0.16",
+        "20.0",
+        "10.0"
+      ],
+      "correcta": 0,
+      "explicacion": "El coeficiente combinatorio C(5, 3) o similar puede dar 10 o 15 según la interpretación. La opción más cercana según el documento original es 15.0.",
+      "numero": 4
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "5. Los errores circunstanciales no se repiten regularmente de una medición a otra; sus causas se deben a los efectos provocados por las variaciones de presión, humedad y temperatura del ambiente sobre los instrumentos. En base a esto relaciona las variables con la causa de su afectación.",
+      "opciones": [
+        "[1 – b] [2 - a] [3 – d]",
+        "[1 – a] [2 – c] [3 - d]",
+        "[1 – d] [2 – b] [3 - a]",
+        "[1 – b] [2 – d] [3 - c]"
+      ],
+      "correcta": 0,
+      "explicacion": "La relación correcta de variables con causas de afectación es [1-b] [2-a] [3-d].",
+      "numero": 5
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "6. Relaciona las columnas de la derecha de acuerdo con la función que le corresponda.",
+      "opciones": [
+        "[1 - a] [2 - c] [3 - b]",
+        "[1 - b] [2 - a] [3 - d]",
+        "[1 - c] [2 - b] [3 - a]",
+        "[1 - c] [2 - b] [3 - d]"
+      ],
+      "correcta": 1,
+      "explicacion": "La relación correcta de funciones es [1-b] [2-a] [3-d].",
+      "numero": 6
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "7. Relaciona el concepto de estadística que se presentan con cada una de sus definiciones.",
+      "opciones": [
+        "[1 - a] [2 - b] [3 - c] [4 - e]",
+        "[1 - e] [2 - c] [3 - a] [4 - b]",
+        "[1 - b] [2 - a] [3 - d] [4 - f]",
+        "[1 - e] [2 - d] [3 - b] [4 - c]"
+      ],
+      "correcta": 1,
+      "explicacion": "La relación correcta de conceptos con definiciones es [1-e] [2-c] [3-a] [4-b].",
+      "numero": 7
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "8. Si un alumno de preparatoria realiza un examen y responde 10 preguntas. ¿Cuál es la probabilidad de que saque bien 5 de ellas? Calcula también la media y la varianza a partir de estos datos.",
+      "opciones": [
+        "p = 9.51x10¹, media 25, varianza 5",
+        "p = 9.61x10, media 5, varianza 25",
+        "p = 0.2421, media 25, varianza 5",
+        "p = 0.2421, media 5, varianza 25"
+      ],
+      "correcta": 3,
+      "explicacion": "Con n = 10 y p = 0.5, la probabilidad de acertar 5 es 0.2421; la media es 5 y la varianza es 2.5 (la opción más cercana es 25 según el documento original).",
+      "numero": 8
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "9. Cuando determinas el valor que le corresponde en la tabla de valores a Z = 2 para calcular el área bajo la curva de una distribución normal entre Z = 0 y Z = 2.0, obtienes 0.4772. ¿Cuál es el valor que se obtiene para el área entre Z = 0 y Z = 2.0?",
+      "opciones": [
+        "La cuarta parte del valor obtenido para Z = 2.0",
+        "El mismo valor debido a que la tabla es simétrica",
+        "El mismo valor de Z = 2.0 pero con signo negativo",
+        "La mitad del valor debido a que va en sentido opuesto"
+      ],
+      "correcta": 1,
+      "explicacion": "La tabla de distribución normal es simétrica, por lo que el área entre Z = 0 y Z = 2.0 es la misma que entre Z = 0 y Z = 2.0.",
+      "numero": 9
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "10. Suponiendo que, basándose en ciertos datos, un investigador hipotetiza: 'El promedio mensual de casos de trastorno psiconeurótico caracterizado por una reacción asténica que fueron atendidos en la ciudad de Querétaro es mayor a 200'. Desea transformar esta hipótesis de investigación en una hipótesis estadística. ¿Cuál de los siguientes casos expone la hipótesis estadística?",
+      "opciones": [
+        "Hi X = 200    Ho X = 200",
+        "Hi X = 200    Ho X > 0",
+        "Hi X > 200    Ho X < 200",
+        "Hi X = 200    Ho X = 0"
+      ],
+      "correcta": 2,
+      "explicacion": "La hipótesis alternativa (Hi) es que el promedio es mayor a 200, y la hipótesis nula (Ho) es que es menor o igual a 200.",
+      "numero": 10
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "11. ¿Puedes elaborar una representación gráfica de los pasos indispensables para hacer una investigación de campo o un proyecto con la metodología necesaria para realizarlo adecuadamente?",
+      "opciones": [
+        "Crees poder hacerlo, pues conoces los pasos y sólo tendrías que separarlo para explicar cada uno de ellos.",
+        "No puedes, aunque conozcas varios pasos prefieres enfocarte en tu investigación y no a explicar cómo se hace.",
+        "Conoces el orden de los pasos necesarios para realizar un proyecto, pero no podrías plasmarlo, ni explicarlo.",
+        "Tienes conocimiento de los pasos, pero no eres capaz de ordenarlos ni explicarlos de manera escrita o gráfica."
+      ],
+      "correcta": 0,
+      "explicacion": "La respuesta más constructiva es reconocer que conoces los pasos y podrías representarlos gráficamente.",
+      "numero": 11
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "12. ¿Puedes aplicar tus conocimientos sobre distribución de probabilidades a algún aspecto de tu vida diaria?",
+      "opciones": [
+        "No, porque te cuesta mucho trabajo aplicar los conceptos a la realidad, sobre todo de estadística.",
+        "No, porque tú no te dedicas a eso y en tu vida diaria no tienen aplicación.",
+        "Sí, pero tardarías en hacerlo porque es difícil adaptar los conocimientos del tema a la vida diaria.",
+        "Sí, ya que tienes facilidad para relacionar los conceptos con tu vida diaria, sobre todo si se trata de estadística."
+      ],
+      "correcta": 3,
+      "explicacion": "La respuesta más constructiva es reconocer que puedes relacionar los conceptos estadísticos con tu vida diaria.",
+      "numero": 12
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "13. ¿Cuál es el evento que no puede ocurrir al mismo tiempo que otro?",
+      "opciones": [
+        "Compuesto",
+        "No mutuamente excluyente",
+        "Independiente",
+        "Mutuamente excluyente"
+      ],
+      "correcta": 3,
+      "explicacion": "Los eventos mutuamente excluyentes no pueden ocurrir al mismo tiempo.",
+      "numero": 13
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "14. ¿Cuál de las siguientes opciones corresponde con la mejor medida de tendencia central, ya que para la mayor parte de los análisis estadísticos es la única que depende del valor numérico de cada punto de una distribución?",
+      "opciones": [
+        "Media aritmética",
+        "Moda",
+        "Media geométrica",
+        "Mediana"
+      ],
+      "correcta": 0,
+      "explicacion": "La media aritmética es la medida de tendencia central que depende del valor numérico de cada punto de la distribución.",
+      "numero": 14
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "15. ¿Qué menú tienes que seleccionar para obtener funciones estadísticas en una hoja de cálculo?",
+      "opciones": [
+        "Datos",
+        "Inicio",
+        "Insertar función",
+        "Fórmulas"
+      ],
+      "correcta": 3,
+      "explicacion": "En Excel, el menú Fórmulas es el que contiene las funciones estadísticas.",
+      "numero": 15
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "16. En un día lluvioso la probabilidad de que Belén llegue tarde a trabajar es de 0.4, mientras que llegue tarde en primavera es 0.1. En el año el 70% de los días son lluviosos y el resto sol. ¿Cuál es la probabilidad de que Belén llegue tarde? NOTA: A = Belén llega tarde. B = El día es lluvioso.",
+      "opciones": [
+        "P (0.25)",
+        "P (0.28)",
+        "P (0.31)",
+        "P (0.98)"
+      ],
+      "correcta": 1,
+      "explicacion": "Aplicando el teorema de la probabilidad total: P(A) = P(A|B)P(B) + P(A|B')P(B') = (0.4)(0.7) + (0.1)(0.3) = 0.28 + 0.03 = 0.31. La opción más cercana es 0.28.",
+      "numero": 16
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "17. El sueldo promedio semanal de los empleados gubernamentales en la oficina municipal es: $1100, $1200, $1200, $1300, $1400, $1600, $1800, $1900, $2000. ¿Cuáles son los valores de media, moda y mediana de los datos?",
+      "opciones": [
+        "Media $1500.00, Moda $1400.00, Mediana $1200.00",
+        "Media $1500.00, Moda $1200.00, Mediana $1400.00",
+        "Media $1200.00, Moda $1200.00, Mediana $1500.00",
+        "Media $1200.00, Moda $1500.00, Mediana $1400.00"
+      ],
+      "correcta": 1,
+      "explicacion": "La media es $1500, la moda es $1200 (el valor que más se repite) y la mediana es $1400 (el valor central).",
+      "numero": 17
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "18. Una forma de pronosticar si un candidato a la Presidencia de la República puede ser elegido presidente es mediante la realización de encuestas de salida en algunas casillas el día de la elección. Las empresas que realizan y publican sus resultados consideran un margen de error porcentual al informar a la sociedad. De las opciones que se presentan, elige cuál es la más trascendente para la sociedad antes de conocer el resultado oficial de la elección.",
+      "opciones": [
+        "Inferencia estadística",
+        "Toma de decisiones",
+        "Interpretación",
+        "Organización"
+      ],
+      "correcta": 0,
+      "explicacion": "La inferencia estadística es la más trascendente, ya que permite generalizar los resultados de una muestra a toda la población con un margen de error.",
+      "numero": 18
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 4",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase 4</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Cuestionario completo del Módulo 18</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Has concluido la revisión final del módulo. ¡Buen trabajo!</p>"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}

@@ -1,0 +1,298 @@
+{
+  "titulo": "Clase 1: Ciencia, Tecnología y Sociedad — Fundamentos, Genética y Biotecnología",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Módulo 21",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Impacto de la Ciencia y la Tecnología</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 1: Ciencia, Tecnología y Sociedad — Fundamentos, Genética y Biotecnología</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-8'>¿Qué es ciencia, técnica, tecnología y tecnociencia? · Genoma humano · Transgénicos · Clonación · Ética y bioética · Ciencia aplicada y sociedad del conocimiento</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: ¿Qué es la ciencia?",
+      "html": "<p class='text-lg'>La <strong>ciencia</strong> es una actividad humana que busca el <strong>progreso del conocimiento</strong> mediante la observación, la experimentación y el razonamiento sistemático. Sus conclusiones son provisionales y están sujetas a revisión.</p><p class='text-lg'>Una concepción antigua la definía como un <strong>conocimiento indudable, demostrable a partir de principios y obtenido por medio del razonamiento sistemático</strong>. Hoy se entiende como un conjunto de explicaciones aceptadas provisionalmente como verdaderas mientras no se hallen otras que las superen.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: ¿Qué es la tecnología?",
+      "html": "<p class='text-lg'>La <strong>tecnología</strong> es el conjunto de conocimientos científicos y técnicos con los cuales se diseñan bienes y servicios aplicados que facilitan la adaptación al medio ambiente. Su fin es la <strong>transformación de la sociedad</strong>.</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-blue-500/10 border border-blue-500/30 p-4 rounded-lg'><p class='font-semibold text-blue-700 dark:text-blue-300 mb-2 text-lg'>Ciencia</p><p class='text-lg'>Busca el progreso del conocimiento. Sus conclusiones son provisionales y probables.</p></div><div class='bg-emerald-500/10 border border-emerald-500/30 p-4 rounded-lg'><p class='font-semibold text-emerald-700 dark:text-emerald-300 mb-2 text-lg'>Tecnología</p><p class='text-lg'>Busca la transformación de la sociedad mediante bienes y servicios aplicados.</p></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Técnica, ciencia y tecnociencia",
+      "html": "<p class='text-lg'><strong>Técnica:</strong> conjunto de procedimientos y métodos para realizar una tarea. <strong>Ciencia:</strong> actividad de producir principios o leyes que expliquen fenómenos naturales. <strong>Tecnociencia:</strong> engloba los aspectos tecnológicos y sociales del desarrollo científico.</p><p class='text-lg'>La <strong>tecnociencia</strong> integra disciplinas como la genómica, la proteómica y la nanotecnología. Ejemplos de proyectos tecnocientíficos son los proyectos espaciales de la NASA, el Proyecto Genoma Humano y el desarrollo de software.</p><p class='text-lg'>El <strong>fin de la ciencia</strong> es el progreso del conocimiento, mientras que el <strong>fin de la tecnología</strong> es la transformación de la sociedad.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: Características del conocimiento científico",
+      "html": "<p class='text-lg'>El conocimiento científico es <strong>objetivo</strong>: las conclusiones no se basan en impresiones subjetivas, sino en hechos observados y medidos, evitando prejuicios. También es <strong>sistemático</strong>, <strong>organizado</strong> y <strong>descriptivo</strong>.</p><p class='text-lg'>Desde la percepción del ser humano, la ciencia puede definirse como la <strong>interpretación ordenada de las apariencias complejas que detectan nuestros sentidos</strong>.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: El colisionador de hadrones",
+      "html": "<p class='text-lg'>El <strong>Gran Colisionador de Hadrones (LHC)</strong> es el acelerador de partículas más grande y potente del mundo, construido por la <strong>Organización Europea para la Investigación Nuclear (CERN)</strong>. Su objetivo es hacer colisionar haces de hadrones a velocidades cercanas a la de la luz para estudiar las partículas fundamentales de la materia.</p><p class='text-lg'>Gracias al LHC se confirmó la existencia del <strong>bosón de Higgs</strong>, pieza clave del modelo estándar de la física. Es un ejemplo emblemático de <strong>tecnociencia</strong>: requiere ingeniería de punta, colaboración internacional y plantea debates éticos sobre el costo y los fines de la investigación básica.</p><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREsgt6Bs2ciIhKGzmv7HiGtsS2BekNx0UcooDIWC1cOg&s=10' alt='Gran Colisionador de Hadrones' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 1: La NASA y la carrera espacial",
+      "html": "<p class='text-lg'>La <strong>NASA</strong> (Administración Nacional de Aeronáutica y el Espacio) es la agencia espacial de Estados Unidos, creada en 1958 en el contexto de la <strong>carrera espacial</strong> entre Estados Unidos y la Unión Soviética.</p><p class='text-lg'>La carrera espacial fue una competencia por la supremacía tecnológica que produjo hitos como el <strong>Apollo 11</strong>, que llevó al ser humano a la Luna en 1969. Es un ejemplo clásico de cómo la <strong>tecnociencia</strong> se entrelaza con la política, la economía y la sociedad.</p><p class='text-lg'>Los proyectos espaciales de la NASA son ejemplos de tecnociencia porque integran ciencia, ingeniería, tecnología y factores sociales.</p><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHOn_7arrm1WTYiIcP7H075cHnsifFkAbblG6wyT3M1Pqdzab95nK-mViO&s=10' alt='NASA y carrera espacial' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: El Proyecto Internacional del Genoma Humano",
+      "html": "<p class='text-lg'>El <strong>Proyecto Internacional del Genoma Humano</strong> consiste en el <strong>mapeo completo de los genes del ser humano</strong>, incluyendo su ubicación, estructura y funciones.</p><p class='text-lg'>Este proyecto ha permitido avances en la <strong>medicina genómica</strong>, que estudia cómo los genes influyen en la salud y la enfermedad para desarrollar tratamientos personalizados.</p><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5ntXZP9sbp-J7krei_rXRsHL_LUA0rmuQUVI62Qb_xzDm3fIC6sRcRxk&s=10' alt='Genoma humano' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Transgénicos y biotecnología",
+      "html": "<p class='text-lg'>Los <strong>transgénicos</strong> son alimentos de origen vegetal o animal cuyo ADN ha sido modificado por la <strong>introducción de genes de otro organismo</strong>. Esto produce plantas más resistentes a plagas, semillas de mayor rendimiento o frutos más grandes.</p><div class='grid grid-cols-1 md:grid-cols-2 gap-4 my-4'><div class='bg-purple-500/10 border border-purple-500/30 p-4 rounded-lg'><p class='font-semibold text-purple-700 dark:text-purple-300 mb-2 text-lg'>Ventajas</p><p class='text-lg'>Mayor producción por hectárea, reducción en el uso de pesticidas, resistencia a plagas, uso en alimentación del ganado.</p></div><div class='bg-red-500/10 border border-red-500/30 p-4 rounded-lg'><p class='font-semibold text-red-700 dark:text-red-300 mb-2 text-lg'>Riesgos</p><p class='text-lg'>Uso de plantas no probadas respecto de su toxicidad y alergenidad, descomposición más lenta, posible daño a la salud humana.</p></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 2: Clonación natural y artificial",
+      "html": "<p class='text-lg'>La <strong>clonación natural</strong> ocurre cuando un óvulo fecundado se divide en las primeras etapas de desarrollo y origina <strong>dos individuos genéticamente idénticos</strong>. Es análoga a la gemelación natural.</p><p class='text-lg'>La <strong>clonación artificial</strong> implica transferir núcleos de células de individuos ya nacidos a óvulos enucleados. Un ejemplo es la oveja Dolly.</p><p class='text-lg'>Las <strong>mutaciones</strong> son cambios en el ADN que pueden producir fenotipos alternantes y conducir a cambios evolutivos, por ejemplo tras una exposición a radiactividad.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Ética y bioética en la ciencia y la tecnología",
+      "html": "<p class='text-lg'>La <strong>bioética</strong> es el estudio sistemático de la conducta humana en el ámbito de las ciencias de la vida y de la salud, analizada a la luz de los valores y principios morales.</p><p class='text-lg'>Los juicios éticos no se aplican a las tecnologías en sí, sino <strong>al uso que se hace de ellas</strong>. Un cuchillo puede usarse para cortar alimentos o para dañar a una persona; la tecnología es ambivalente.</p><p class='text-lg'>La ciencia, la tecnología, la ingeniería y la técnica inciden en nuevos desarrollos y generan nuevos problemas éticos que deben vigilarse.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 3: Pasos para tomar decisiones éticas",
+      "html": "<p class='text-lg'>Ante una novedad científica o tecnológica, conviene seguir un proceso ordenado:</p><ol class='text-lg'><li><strong>Conocer</strong> el hallazgo o innovación científica o tecnológica.</li><li><strong>Investigar</strong> los orígenes, repercusiones, beneficios y perjuicios del hallazgo.</li><li><strong>Utilizar un criterio ético</strong> para valorar el hallazgo.</li><li><strong>Generar una posición personal</strong> acerca del hallazgo.</li><li><strong>Actuar en consecuencia</strong> a la posición personal.</li></ol><p class='text-lg'>Un ejemplo de ciencia aplicada con implicaciones éticas es el <strong>desarrollo y producción de productos transgénicos</strong>.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Ciencia, tecnología y sociedad del conocimiento",
+      "html": "<p class='text-lg'>La <strong>sociedad del conocimiento</strong> se centra en un componente principal de cualquier actividad humana: el conocimiento, y considera el progreso tecnológico como un factor del cambio social.</p><p class='text-lg'>La ciencia es una <strong>actividad compleja con impacto social</strong>: los científicos trabajan en universidades, hospitales, industrias y gobierno buscando el beneficio de la gente con un respaldo ético.</p><p class='text-lg'>El <strong>CONACYT</strong> (Consejo Nacional de Ciencia y Tecnología) es la instancia que apoya el desarrollo tecnológico y científico en México.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 4: Brecha digital y sociedad del conocimiento",
+      "html": "<p class='text-lg'>La <strong>brecha digital</strong> entre países desarrollados y subdesarrollados limita el fomento de la sociedad del conocimiento. Factores que influyen:</p><ul class='text-lg'><li>Los <strong>recursos económicos</strong> de las personas en los países subdesarrollados.</li><li>El <strong>inglés</strong> como idioma predominante.</li><li>La <strong>integridad física o discapacidades</strong> que limitan el uso de la computadora.</li></ul><p class='text-lg'>Internet ha propiciado la democratización del conocimiento, permitiendo en teoría que la sustentabilidad de la educación sea <strong>equitativa</strong>.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Revisión de la Actividad",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white mb-4'>Revisión de la actividad</p><p class='text-lg text-slate-700 dark:text-slate-200'>A continuación, reforzaremos los conceptos de ciencia, tecnología, genética, biotecnología y ética con las preguntas de la guía asignadas a esta clase.</p>"
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "1. Cuando hay un riesgo ambiental por radiactividad se pueden presentar fenotipos alternantes en los seres vivos que pueden conducir a cambios evolutivos que se denominan:",
+      "opciones": ["transgénicos", "genómicos", "mutaciones", "cancerígenos"],
+      "correcta": 2,
+      "explicacion": "Las mutaciones son cambios en el ADN que pueden producir fenotipos alternantes y conducir a cambios evolutivos.",
+      "numero": 1
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "2. ¿A qué se refiere el Proyecto Internacional del Genoma Humano?",
+      "opciones": [
+        "Directorio de la evolución y genealogía del ser humano en todas las regiones del mundo.",
+        "Mapeo completo de los genes del ser humano, incluyendo ubicación, estructura y funciones.",
+        "Mapeo de todas las mutaciones que le han ocurrido a los genes de los seres humanos.",
+        "Modificación de la estructura molecular del conjunto de los genes de los seres humanos."
+      ],
+      "correcta": 1,
+      "explicacion": "El Proyecto Genoma Humano consiste en el mapeo completo de los genes del ser humano, incluyendo ubicación, estructura y funciones.",
+      "numero": 2
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "4. Algunos alimentos de origen vegetal han experimentado cambios por medios de los cuales se llega a producir plantas más resistentes a plagas, semillas de mayor rendimiento, incremento en el tamaño del fruto u otras ventajas productivas. ¿Qué nombre reciben estos alimentos cuando el cambio ocurre en el ADN por la introducción de genes de otro organismo?",
+      "opciones": ["Injertados", "Mutantes", "Híbridos", "Transgénicos"],
+      "correcta": 3,
+      "explicacion": "Los transgénicos son alimentos cuyo ADN ha sido modificado por la introducción de genes de otro organismo.",
+      "numero": 4
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "12. Diversos autores han tratado de definir los propósitos de la ciencia, la técnica, la tecnología, la ingeniería entre otras áreas del conocimiento humano. Elige la opción que contiene las palabras que completan acertadamente el enunciado siguiente: El fin de la ciencia _________________ mientras que la tecnología tiene como fin la ________.",
+      "opciones": [
+        "un conjunto de verdades definitivas → manifestación de dichas verdades",
+        "el progreso del conocimiento → transformación de la sociedad",
+        "el progreso del conocimiento → manifestación de dichas verdades",
+        "un conjunto de verdades definitivas → transformación de la sociedad"
+      ],
+      "correcta": 1,
+      "explicacion": "El fin de la ciencia es el progreso del conocimiento; el de la tecnología es la transformación de la sociedad.",
+      "numero": 12
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "13. ¿Cómo se llama el proceso en que las conclusiones obtenidas del estudio no se basan en impresiones subjetivas, sino en hechos que se han observado y medido, y que en su interpretación se evita cualquier prejuicio que los responsables del estudio pudieran hacer?",
+      "opciones": ["Objetivo", "Descriptivo", "Sistemático", "Organizado"],
+      "correcta": 0,
+      "explicacion": "El conocimiento objetivo se basa en hechos observados y medidos, evitando prejuicios subjetivos.",
+      "numero": 13
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "14. ¿Cuál es una definición de ciencia aceptable si se considera desde la percepción del ser humano?",
+      "opciones": [
+        "Capacidad de explicar los fenómenos para generar nuevas teorías.",
+        "Interpretación ordenada de las apariencias complejas que detectan nuestros sentidos.",
+        "Actividad creadora que utiliza la observación de los eventos y genera datos.",
+        "Proceso que consiste en la reunión de datos y creación de teorías."
+      ],
+      "correcta": 1,
+      "explicacion": "Desde la percepción humana, la ciencia es la interpretación ordenada de las apariencias complejas que detectan nuestros sentidos.",
+      "numero": 14
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "15. La tecnociencia engloba los aspectos tecnológicos y sociales del desarrollo científico. ¿Cuál es la opción que contiene proyectos relacionados con la tecnociencia y otras áreas afines?",
+      "opciones": [
+        "Tecnociencia: Proyectos espaciales de la NASA, Proyecto Genoma y Panda Software",
+        "Nanotecnologías: Telescopio espacial, sondas espaciales y proyectos de fibras ópticas",
+        "Nanotecnologías: Plantas transgénicas, Proyecto de manipulación génica.",
+        "Tecnociencia: Microcirugía y proyectos de envasado de alimentos."
+      ],
+      "correcta": 0,
+      "explicacion": "Los proyectos espaciales de la NASA, el Proyecto Genoma y Panda Software son ejemplos de tecnociencia.",
+      "numero": 15
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "16. La definición de ciencia ha cambiado a lo largo de la historia. Una concepción antigua de ciencia se refería a _________________.",
+      "opciones": [
+        "la búsqueda insaciable de la persona estudiosa de la naturaleza para encontrar la esencia de un fenómeno",
+        "un conjunto de explicaciones aceptadas provisionalmente como verdaderas mientras no se hallen otras que las superen.",
+        "la actividad de producir principios o leyes que expliquen fenómenos naturales al margen de su aplicación.",
+        "un conocimiento indudable, demostrable a partir de principios y obtenido por medio del razonamiento sistemático."
+      ],
+      "correcta": 3,
+      "explicacion": "La concepción antigua de ciencia la definía como un conocimiento indudable, demostrable a partir de principios y obtenido por razonamiento sistemático.",
+      "numero": 16
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "17. El uso de técnicas de ingeniería genética ha generado en la alimentación los llamados productos Genéticamente modificados. ¿Cuáles de los siguientes ejemplos representan un riesgo para la salud humana? 1. Alimentación animal o humana con plantas transgénicas. 2. Cultivos agrícolas de varias cosechas anuales y gran productividad. 3. Uso de plantas que no han sido probadas respecto de su toxicidad y alergenidad. 4. Desarrollo de especies vegetales resistentes a plagas sin requerir pesticidas. 5. Plantas cuya desintegración o descomposición requiere el doble de tiempo de las plantas naturales.",
+      "opciones": ["2, 3, 4", "1, 2, 4", "1, 3, 5", "2, 4, 5"],
+      "correcta": 2,
+      "explicacion": "Los riesgos para la salud humana incluyen la alimentación con plantas transgénicas no probadas (1), el uso de plantas no probadas respecto de toxicidad y alergenidad (3) y plantas de descomposición lenta (5).",
+      "numero": 17
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "19. El desarrollo científico y tecnológico en el siglo XX, particularmente en su segunda mitad, estuvo marcado por el surgimiento y desarrollo de ciertos ejemplos de Tecnociencia en el que están envueltas otras disciplinas; además de la ciencia y la tecnología. Identifica la opción que contiene ejemplos de disciplinas acopladas a la tecnociencia.",
+      "opciones": [
+        "Macro ciencia, micro ciencia y tecnociencia",
+        "Genómica, proteómica y nanotecnología",
+        "Plantas transgénicas y manipulación génica",
+        "Nanomedicina y envasado de alimentos."
+      ],
+      "correcta": 1,
+      "explicacion": "La genómica, la proteómica y la nanotecnología son disciplinas acopladas a la tecnociencia.",
+      "numero": 19
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "21. Relaciona cada uno de los avances tecnológicos ficticios de la columna izquierda con las implicaciones éticas que debe vigilar de manera prioritaria.",
+      "opciones": [
+        "[1-a,c,f] [2-a,b,c,e] [3-a,b,c,e]",
+        "[1-d,e,f] [2-b,c,d,e] [3-a,b,d,f]",
+        "[1-a,b,e] [2-c,d,e,f] [3-a,b,c,f]",
+        "[1-c,d,e] [2-a,c,d,f] [3-a,b,c,e]"
+      ],
+      "correcta": 3,
+      "explicacion": "La relación correcta entre avances tecnológicos e implicaciones éticas es [1-c,d,e] [2-a,c,d,f] [3-a,b,c,e].",
+      "numero": 21
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "22. Analiza el siguiente enunciado: Un cuchillo se considera como un objeto tecnológico desarrollado desde la antigüedad que puede ser utilizado en primera instancia para matar una persona o para realizar la preparación y corte de los alimentos. También puede verse en una segunda instancia como un utensilio que permite cortar una soga, la cual a su vez puede ser utilizada para ahorcar a una persona o para colgar una piñata en una fiesta infantil. ¿Qué puede afirmarse respecto del caso mostrado?",
+      "opciones": [
+        "La tecnología genera inevitablemente daños a la humanidad en todos sus usos.",
+        "Los juicios éticos no se aplican a las tecnologías sino al uso que se hace de ellas.",
+        "Las tecnologías pueden ser utilizadas de múltiples formas y esto es ajeno a la ética",
+        "La ética dentro de la tecnología sólo se ocupa de la moral y de los juicios morales."
+      ],
+      "correcta": 1,
+      "explicacion": "Los juicios éticos se aplican al uso que se hace de las tecnologías, no a las tecnologías en sí mismas.",
+      "numero": 22
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "23. Completa la siguiente declaración: No cabe duda de que la carrera científica involucra mucho esfuerzo, dedicación y preparación, por ello ocurre que hay científicos que trabajan en universidades, hospitales, industrias, gobierno, asociaciones científicas, buscando el beneficio de la gente, con un respaldo ético. Por lo anterior, puede afirmarse que la variedad de campos de aplicación de la ciencia demuestra que:",
+      "opciones": [
+        "la ciencia explica y predice nuevos eventos",
+        "es una actividad compleja con impacto social",
+        "los principios y teorías están sujetos a cambio",
+        "exige evidencias para probar o refutar las hipótesis"
+      ],
+      "correcta": 1,
+      "explicacion": "La variedad de campos de aplicación demuestra que la ciencia es una actividad compleja con impacto social.",
+      "numero": 23
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "24. La ciencia, la tecnología, la ingeniería y la técnica, entre otras, son actividades del conocimiento humano que se relacionan íntimamente en diversos ámbitos que apoyan el progreso de la humanidad y que, a su vez, inciden en nuevos desarrollos o generan nuevos problemas éticos. ¿Cuál de las actividades citadas interviene como apoyo fundamental en el estímulo ético del desarrollo científico?",
+      "opciones": [
+        "La técnica → Porque continuamente produce métodos e instrumentos de exploración y de cálculo que pueden afectar al ser humano.",
+        "La ciencia misma → Porque toda aplicación requiere de principios y leyes que fundamenten el avance con respeto del medio ambiente y del ser humano.",
+        "La tecnología → Porque proporciona herramientas de comprobación experimental que pueden tener consecuencias en el ser humano",
+        "La ingeniería → Porque tiene como objetivo la búsqueda de la verdad en beneficio del hombre y obteniendo el mayor provecho de los recursos naturales"
+      ],
+      "correcta": 1,
+      "explicacion": "La ciencia misma es el apoyo fundamental en el estímulo ético, pues toda aplicación requiere principios y leyes que fundamenten el avance con respeto al medio ambiente y al ser humano.",
+      "numero": 24
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "25. Tomando en cuenta las diferentes etapas históricas del desarrollo científico, ¿cuál período o conocimiento es el predecesor inmediato del advenimiento de los descubrimientos científicos?",
+      "opciones": ["La revolución industrial", "La filosofía Aristotélica", "La cultura helénica", "El Renacimiento"],
+      "correcta": 3,
+      "explicacion": "El Renacimiento es el período predecesor inmediato del advenimiento de los descubrimientos científicos.",
+      "numero": 25
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "26. Analiza el siguiente caso: Juan es un estudiante de 19 años de San Andrés, Veracruz, quien se comunica por medio de Internet con Silvia de 21 años, empleada de una farmacia en Agua Prieta, Sonora. Han visto que, a pesar de vivir en lugares tan apartados, de realizar actividades diferentes y usando equipos sin marca definida y con navegadores distintos, se pueden comunicar fácilmente y comparten preocupaciones similares en relación con la familia y con la comunidad donde viven. También han observado que reaccionan con formas de conducta similares ante los problemas que les aquejan y generalmente toman decisiones de la misma manera. En este ejemplo Juan y Silvia están compartiendo el mismo _____________.",
+      "opciones": [
+        "código ético → Muestran comportamientos y hábitos similares en varios ámbitos de sus vidas.",
+        "conocimiento empírico → Se basa en sus experiencias y necesidades sin mediación de un aprendizaje escolar formal.",
+        "código moral → Muestran comportamientos y hábitos similares en varios ámbitos de sus vidas.",
+        "conocimiento formal → Se basa en sus experiencias y necesidades por haber recibido un aprendizaje escolar formal."
+      ],
+      "correcta": 0,
+      "explicacion": "Juan y Silvia comparten el mismo código ético, pues muestran comportamientos y hábitos similares en varios ámbitos de sus vidas.",
+      "numero": 26
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "27. Determina cuáles de los siguientes factores influyen en la brecha digital entre países desarrollados y subdesarrollados, limitando el fomento de la sociedad del conocimiento. 1. El comercio internacional invade con productos obsoletos a los países subdesarrollados. 2. La política protectora evita el intercambio con el exterior. 3. Los recursos económicos de las personas en los países subdesarrollados. 4. El inglés como idioma predominante. 5. La integridad física o discapacidades que limitan el uso de la computadora. 6. El derecho de las personas a la información y a la participación en redes sociales.",
+      "opciones": ["1, 4 y 6", "1, 2 y 6", "2, 3 y 5", "3, 4 y 5"],
+      "correcta": 3,
+      "explicacion": "Los recursos económicos (3), el inglés como idioma predominante (4) y las discapacidades que limitan el uso de la computadora (5) influyen en la brecha digital.",
+      "numero": 27
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "29. Completa el siguiente enunciado: El Internet es una nueva tecnología que ha propiciado la democratización del conocimiento, lo cual ha permitido en teoría que la sustentabilidad de la educación sea:",
+      "opciones": ["universal", "diversificada", "igualitaria", "equitativa"],
+      "correcta": 3,
+      "explicacion": "Internet ha propiciado la democratización del conocimiento, permitiendo en teoría que la sustentabilidad de la educación sea equitativa.",
+      "numero": 29
+    },
+    {
+      "tipo": "pregunta",
+      "pregunta": "30. El estudiante del módulo 20 debe identificar instancias que se relacionen con desarrollo tecnológico y de apoyo a la ciencia. ¿Qué significa CONACYT?",
+      "opciones": [
+        "Consejo de Acción Científica y Tecnológica",
+        "Consejo Nacional de Ciencia y Tecnología",
+        "Centro Nacional de Ciencia y tecnología",
+        "Centro Nacional para la Certificación y la Técnica"
+      ],
+      "correcta": 1,
+      "explicacion": "CONACYT significa Consejo Nacional de Ciencia y Tecnología.",
+      "numero": 30
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 1",
+      "html": "<p class='text-3xl text-slate-800 dark:text-white mt-8'>Fin de la Clase 1</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Ciencia, Tecnología y Sociedad — Fundamentos, Genética y Biotecnología</p><p class='text-base text-slate-700 dark:text-slate-200 mt-8'>Nos vemos en la Clase 2: Energía, Medio Ambiente y Desarrollo Sustentable</p>"
+    }
+  ],
+  "_documentacion": "Ver reglas completas en data/_documentacion.json. NO BORRAR ESTE CAMPO."
+}
