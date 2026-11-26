@@ -14,7 +14,7 @@
     {
       "tipo": "contenido",
       "titulo": "Tema 4 · Términos algebraicos",
-      "html": "<p class='text-lg'>En un término algebraico identificamos signo, coeficiente numérico sin signo, variables, exponentes y grado. El grado de un término con varias variables es la suma de sus exponentes; una constante distinta de cero tiene grado 0.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>−5x²</span></div><p class='text-lg'>Un término es monomio; dos, binomio; tres, trinomio; cuatro o más, polinomio.</p>"
+      "html": "<p class='text-lg'>En un término algebraico identificamos signo, coeficiente numérico sin signo, variables, exponentes y grado. El grado de un término con varias variables es la suma de sus exponentes; una constante distinta de cero tiene grado 0. El grado de un polinomio es el mayor grado de sus términos.</p><p class='text-lg mt-3'>Ejemplos de términos algebraicos:</p><div style='display:flex;flex-wrap:wrap;gap:0.75rem;justify-content:center;margin:0.75rem 0;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>−5x²</span><span style='display:inline-block;background-color:rgba(59,130,246,0.2);border:1px solid rgba(59,130,246,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>3ab</span><span style='display:inline-block;background-color:rgba(16,185,129,0.2);border:1px solid rgba(16,185,129,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>−11</span><span style='display:inline-block;background-color:rgba(139,92,246,0.2);border:1px solid rgba(139,92,246,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>−9z³</span><span style='display:inline-block;background-color:rgba(236,72,153,0.2);border:1px solid rgba(236,72,153,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>8pq²</span><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>7r³s</span></div><p class='text-lg'>Según el número de términos, las expresiones se clasifican así:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-3 rounded-lg'><p class='text-lg'>Monomio · un término</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>−8r⁴</span></div></div><div class='bg-blue-500/10 border border-blue-500/30 p-3 rounded-lg'><p class='text-lg'>Binomio · dos términos</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>2p − 9</span></div></div><div class='bg-blue-500/10 border border-blue-500/30 p-3 rounded-lg'><p class='text-lg'>Trinomio · tres términos</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>5z² + 3z − 8</span></div></div><div class='bg-blue-500/10 border border-blue-500/30 p-3 rounded-lg'><p class='text-lg'>Polinomio · cuatro términos o más</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>2t⁴ − 3t² + t + 6</span></div></div></div>"
     },
 {
   "tipo": "ejemplo",
@@ -30,15 +30,15 @@
     },
     {
       "tipo": "ejemplo",
-      "titulo": "Ejemplo 3 · Grado de un término",
-      "enunciado": "Identifica el signo, el coeficiente numérico sin signo, las variables, los exponentes y el grado del término:",
-      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>−9m³n²</span></div>"
+      "titulo": "Ejemplo 3 · Grado de un polinomio",
+      "enunciado": "Determina el grado del polinomio:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>4x³ − 2x² + 7x − 5</span></div>"
     },
     {
       "tipo": "ejemplo",
-      "titulo": "Ejemplo 4 · Identificar elementos",
-      "enunciado": "¿Cuántas variables y qué exponentes aparecen? Determina también el grado del término:",
-      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>8p²q⁴</span></div>"
+      "titulo": "Ejemplo 4 · Grado de un polinomio con varias variables",
+      "enunciado": "Determina el grado del polinomio; suma los exponentes de cada término y toma el mayor grado:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>3a²b + 2ab³ − 4</span></div>"
     },
     {
       "tipo": "practica",
@@ -57,8 +57,8 @@
           "respuesta": "Signo +; coeficiente 1; variables a, b y c; exponentes 3, 2 y 1; grado 6."
         },
         {
-          "pregunta": "Clasifica ax² + bx + c, 5x² y 3x³ + 2x según su número de términos, suponiendo a, b y c distintos de cero.",
-          "respuesta": "Trinomio; monomio; binomio, respectivamente."
+          "pregunta": "Determina el grado del polinomio 2m³n² − 4m²n + 7.",
+          "respuesta": "El grado es 5, porque el término de mayor grado es 2m³n² y 3 + 2 = 5."
         }
       ]
     },
@@ -84,8 +84,18 @@
     },
     {
       "tipo": "contenido",
+      "titulo": "Lenguaje algebraico: exponentes y potencias",
+      "html": "<p class='text-lg'>Una potencia representa una multiplicación repetida. La base es el factor que se repite y el exponente indica cuántas veces aparece como factor.</p><div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-3 rounded-lg'><p class='text-lg'>“El cuadrado de x”</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>x² = x · x</span></div></div><div class='bg-blue-500/10 border border-blue-500/30 p-3 rounded-lg'><p class='text-lg'>“El cubo de y”</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>y³ = y · y · y</span></div></div></div><p class='text-lg'>No confundas el cuadrado de un número con su doble: x² = x · x, mientras que 2x = 2 · x. Si la potencia se aplica a una suma completa, usa paréntesis: “el cuadrado de la suma de x y dos” se escribe (x + 2)².</p>"
+    },
+    {
+      "tipo": "contenido",
       "titulo": "Lenguaje algebraico: expresiones compuestas",
-      "html": "<p class='text-lg'>“Cuadrado” y “cubo” indican potencias; “suma de cuadrados” significa elevar cada cantidad antes de sumarlas. Usa paréntesis cuando una operación se aplica a toda una expresión; “es igual a” plantea una igualdad.</p><p class='text-lg'>Aclara el alcance del cuádruple:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-3 rounded-lg'><p class='text-lg'>“El cuádruple de un número, aumentado en seis”</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>4x + 6</span></div></div><div class='bg-blue-500/10 border border-blue-500/30 p-3 rounded-lg'><p class='text-lg'>“El cuádruple de la suma de un número y seis”</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>4(x + 6)</span></div></div></div>"
+      "html": "<p class='text-lg'>Una expresión compuesta combina varias operaciones. Usa paréntesis para agrupar cantidades y mostrar qué operación se realiza primero; cambiar el agrupamiento puede cambiar la expresión.</p><p class='text-lg'>Observa cómo se traducen estas frases:</p><div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-3 rounded-lg'><p class='text-lg'>“El cuádruple de un número, aumentado en seis”</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>4x + 6</span></div></div><div class='bg-blue-500/10 border border-blue-500/30 p-3 rounded-lg'><p class='text-lg'>“El cuádruple de la suma de un número y seis”</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>4(x + 6)</span></div></div><div class='bg-blue-500/10 border border-blue-500/30 p-3 rounded-lg'><p class='text-lg'>“El doble de la diferencia entre un número y cinco”</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>2(x − 5)</span></div></div><div class='bg-blue-500/10 border border-blue-500/30 p-3 rounded-lg'><p class='text-lg'>“La mitad de la suma de un número y ocho”</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>(x + 8) / 2</span></div></div></div>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Lenguaje algebraico: el signo igual",
+      "html": "<p class='text-lg'>El signo = se lee “es igual a” o “tiene el mismo valor que”. Compara las expresiones que aparecen a ambos lados: no significa que “la respuesta viene después”. Cada lado se llama miembro de la igualdad, y la igualdad es verdadera cuando ambos miembros tienen el mismo valor.</p><div class='grid grid-cols-1 md:grid-cols-2 gap-2 my-2'><div class='bg-blue-500/10 border border-blue-500/30 p-3 rounded-lg'><p class='text-lg'>“El triple de x es igual a quince”</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>3x = 15</span></div></div><div class='bg-blue-500/10 border border-blue-500/30 p-3 rounded-lg'><p class='text-lg'>“La suma de x y cuatro equivale a diez”</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>x + 4 = 10</span></div></div></div><p class='text-lg'>Una expresión como x + 4 no afirma una igualdad; al escribir x + 4 = 10 se plantea una ecuación que solo se cumple para ciertos valores de x.</p>"
     },
     {
       "tipo": "ejemplo",
@@ -112,20 +122,20 @@
       "titulo": "Práctica · Lenguaje algebraico · 10 minutos",
       "ejercicios": [
         {
-          "pregunta": "El triple de la diferencia entre x y cuatro equivale al doble del cuadrado de y.",
-          "respuesta": "3(x − 4) = 2y²."
+          "pregunta": "A un número le sumas ocho y luego le restas tres. Exprésalo algebraicamente.",
+          "respuesta": "x + 8 − 3."
         },
         {
-          "pregunta": "Con M = edad de María y E = edad de Elena, expresa: M dentro de 5 años iguala E hace 8 años.",
-          "respuesta": "M + 5 = E − 8."
+          "pregunta": "Expresa el producto de cuatro y x, dividido entre dos.",
+          "respuesta": "(4x) / 2."
         },
         {
-          "pregunta": "Expresa el cuadrado de la suma de dos números, menos el triple de un tercero.",
-          "respuesta": "(x + y)² − 3z."
+          "pregunta": "El doble de la suma de x y cinco, menos tres. Exprésalo algebraicamente.",
+          "respuesta": "2(x + 5) − 3."
         },
         {
-          "pregunta": "El doble de la suma de x y tres equivale a siete veces y.",
-          "respuesta": "2(x + 3) = 7y."
+          "pregunta": "El triple de x, más dos, es igual a catorce. Exprésalo como una ecuación.",
+          "respuesta": "3x + 2 = 14."
         }
       ]
     },
@@ -153,39 +163,15 @@
     },
     {
       "tipo": "ejemplo",
-      "titulo": "Ejemplo 3 · Factor común",
-      "enunciado": "Factoriza mediante el factor común:",
-      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>18a²b + 24ab² − 6ab</span></div>"
-    },
-    {
-      "tipo": "ejemplo",
-      "titulo": "Ejemplo 4 · Trinomio cuadrático",
+      "titulo": "Ejemplo 3 · Trinomio cuadrático",
       "enunciado": "¿Qué producto de dos binomios equivale a la expresión? Comprueba tu respuesta al desarrollar:",
       "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>x² − 8x + 15</span></div>"
     },
     {
       "tipo": "ejemplo",
-      "titulo": "Ejemplo 5 · Trinomio con término independiente negativo",
+      "titulo": "Ejemplo 4 · Trinomio con término independiente negativo",
       "enunciado": "¿Cómo se factoriza la expresión? Verifica el resultado multiplicando los factores:",
       "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>x² + 4x − 12</span></div>"
-    },
-    {
-      "tipo": "ejemplo",
-      "titulo": "Ejemplo 6 · Trinomio cuadrático",
-      "enunciado": "Factoriza el trinomio:",
-      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>x² + 7x + 12</span></div>"
-    },
-    {
-      "tipo": "ejemplo",
-      "titulo": "Ejemplo 7 · Factorización por comprobación",
-      "enunciado": "Selecciona la factorización correcta y comprueba tu respuesta:",
-      "html": "<div style='display:flex;flex-wrap:wrap;gap:0.75rem;justify-content:center;margin:1rem 0;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>3x² − 5x − 2</span><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>A) (3x − 1)(x + 2)</span><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>B) (3x + 1)(x − 2)</span><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>C) (3x − 1)(x − 2)</span><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>D) (3x + 1)(x + 2)</span></div>"
-    },
-    {
-      "tipo": "ejemplo",
-      "titulo": "Ejemplo 8 · Comprobación de una factorización",
-      "enunciado": "Comprueba si la factorización es correcta desarrollando el producto y comparándolo con el trinomio:",
-      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>x² + 5x + 6 = (x + 1)(x + 6)</span></div>"
     },
     {
       "tipo": "practica",
@@ -196,12 +182,12 @@
           "respuesta": "6m²n²(3m² − 2mn + 1)."
         },
         {
-          "pregunta": "Factoriza x² − 5x − 14.",
-          "respuesta": "(x − 7)(x + 2)."
+          "pregunta": "Factoriza 15a³b² + 20a²b³ − 5a²b².",
+          "respuesta": "5a²b²(3a + 4b − 1)."
         },
         {
-          "pregunta": "Factoriza 3x² + 7x − 6.",
-          "respuesta": "(3x − 2)(x + 3)."
+          "pregunta": "Factoriza x² − 5x − 14.",
+          "respuesta": "(x − 7)(x + 2)."
         },
         {
           "pregunta": "Factoriza x² − x − 20.",
@@ -263,7 +249,7 @@
     {
       "tipo": "contenido",
       "titulo": "Tarea para casa · Fin de la Clase 2",
-      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Fin de la Clase 2</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Estudia productos notables y repasa factorización por diferencia de cuadrados, trinomio cuadrado perfecto y método de Ruffini.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Al terminar las clases 1 y 2, resuelve los 15 reactivos de tarea de la sesión 1; consulta el respuestario al final de esa sesión.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Continúa con la Clase 3.</p>"
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Fin de la Clase 2</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Estudia productos notables y repasa factorización por diferencia de cuadrados, trinomio cuadrado perfecto.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Al terminar las clases 1 y 2, resuelve los 15 reactivos de tarea de la sesión 1; consulta el respuestario al final de esa sesión.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Continúa con la Clase 3.</p>"
     }
   ]
 }
