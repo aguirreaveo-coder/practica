@@ -13,6 +13,13 @@ function SlideEjemplo({ slide }) {
             {slide.enunciado}
           </p>
 
+          {slide.html && (
+            <div
+              className="mt-4"
+              dangerouslySetInnerHTML={{ __html: slide.html }}
+            />
+          )}
+
           {slide.datos && (
             <div className="mt-4 pt-4 border-t border-emerald-500/20">
               <p className="text-sm font-semibold text-emerald-800 dark:text-emerald-200 mb-2 uppercase tracking-wide">

@@ -1,15 +1,17 @@
 import { useParams, useNavigate } from 'react-router-dom'
 import Cuestionario from '../components/Cuestionario'
-import { getCuestionarioFinal, getCuestionarioSesion } from '../data/cargarContenido'
+import { getCuestionarioFinal, getCuestionarioFinal2, getCuestionarioSesion } from '../data/cargarContenido'
 
-function CuestionarioPage() {
+function CuestionarioPage({ esFinal2 = false }) {
   const { id, num } = useParams()
   const navigate = useNavigate()
 
   // Si hay :num, es cuestionario de sesión; si no, es cuestionario final
   const cuestionario = num
     ? getCuestionarioSesion(id, num)
-    : getCuestionarioFinal(id)
+    : esFinal2
+      ? getCuestionarioFinal2(id)
+      : getCuestionarioFinal(id)
 
   if (!cuestionario) {
     return (
@@ -18,7 +20,11 @@ function CuestionarioPage() {
 
         <div className="relative text-center">
           <h1 className="text-3xl font-bold mb-4 tracking-tight">
-            {num ? `Cuestionario de la Sesión ${num} no disponible` : 'Cuestionario no disponible'}
+            {num
+              ? `Cuestionario de la Sesión ${num} no disponible`
+              : esFinal2
+                ? 'Cuestionario Final 2 no disponible'
+                : 'Cuestionario no disponible'}
           </h1>
           <p className="text-slate-700 dark:text-slate-200 text-lg mb-8">
             Aún no hay contenido para este cuestionario.
@@ -38,7 +44,7 @@ function CuestionarioPage() {
     <Cuestionario
       cuestionario={cuestionario}
       cursoId={id}
-      tipo={num ? `sesion-${num}` : 'final'}
+      tipo={num ? `sesion-${num}` : esFinal2 ? 'final-2' : 'final'}
       onSalir={() => navigate(`/modulo/${id}`)}
     />
   )

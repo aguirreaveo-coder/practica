@@ -9,6 +9,8 @@ const ESTADO_INICIAL = {
   operadorRepetido: null,
   operandoRepetido: null,
   resultadoMostrado: false,
+  raizReciente: false,
+  prefijoRaiz: '',
 }
 
 const SIMBOLOS = {
@@ -38,6 +40,19 @@ function reducer(estado, accion) {
 
   if (accion.tipo === 'digito') {
     const digito = accion.valor
+    if (estado.raizReciente) {
+      return {
+        ...estado,
+        pantalla: digito,
+        expresion: `${estado.prefijoRaiz}${digito}`,
+        esperaOperando: false,
+        operadorRepetido: null,
+        operandoRepetido: null,
+        raizReciente: false,
+        prefijoRaiz: '',
+      }
+    }
+
     if (estado.resultadoMostrado || estado.pantalla === 'Error') {
       return {
         ...ESTADO_INICIAL,
@@ -60,6 +75,8 @@ function reducer(estado, accion) {
 
     const nuevaPantalla = estado.pantalla === '0'
       ? digito
+      : estado.pantalla === '-0'
+        ? `-${digito}`
       : `${estado.pantalla}${digito}`
     const nuevaExpresion = estado.expresion === ''
       ? nuevaPantalla
@@ -72,7 +89,46 @@ function reducer(estado, accion) {
     }
   }
 
+  if (accion.tipo === 'signo') {
+    if (estado.pantalla === 'Error') return estado
+
+    const nuevaPantalla = estado.pantalla.startsWith('-')
+      ? estado.pantalla.slice(1)
+      : `-${estado.pantalla}`
+    const prefijo = estado.raizReciente
+      ? estado.prefijoRaiz
+      : estado.resultadoMostrado
+        ? ''
+        : estado.esperaOperando
+          ? `${estado.expresion} `
+          : estado.expresion.slice(0, -estado.pantalla.length)
+
+    return {
+      ...estado,
+      pantalla: nuevaPantalla,
+      expresion: `${prefijo}${nuevaPantalla}`,
+      esperaOperando: false,
+      operadorRepetido: null,
+      operandoRepetido: null,
+      raizReciente: false,
+      prefijoRaiz: '',
+    }
+  }
+
   if (accion.tipo === 'decimal') {
+    if (estado.raizReciente) {
+      return {
+        ...estado,
+        pantalla: '0.',
+        expresion: `${estado.prefijoRaiz}0.`,
+        esperaOperando: false,
+        operadorRepetido: null,
+        operandoRepetido: null,
+        raizReciente: false,
+        prefijoRaiz: '',
+      }
+    }
+
     if (estado.resultadoMostrado || estado.pantalla === 'Error') {
       return {
         ...ESTADO_INICIAL,
@@ -109,6 +165,51 @@ function reducer(estado, accion) {
     }
   }
 
+  if (accion.tipo === 'raiz') {
+    if (estado.pantalla === 'Error') return estado
+
+    const numero = Number(estado.pantalla)
+    if (numero < 0) {
+      return {
+        ...ESTADO_INICIAL,
+        pantalla: 'Error',
+        expresion: 'Error: raíz de un número negativo',
+      }
+    }
+
+    const resultado = formatearNumero(Math.sqrt(numero))
+    if (resultado === null) {
+      return {
+        ...ESTADO_INICIAL,
+        pantalla: 'Error',
+        expresion: 'Error: resultado fuera de rango',
+      }
+    }
+
+    const prefijo = estado.raizReciente
+      ? estado.prefijoRaiz
+      : estado.esperaOperando
+        ? `${estado.expresion} `
+        : estado.resultadoMostrado
+          ? ''
+          : estado.expresion.slice(0, -estado.pantalla.length)
+    const operando = estado.raizReciente
+      ? estado.expresion.slice(estado.prefijoRaiz.length)
+      : estado.pantalla
+
+    return {
+      ...estado,
+      pantalla: resultado,
+      expresion: `${prefijo}√(${operando})`,
+      esperaOperando: false,
+      operadorRepetido: null,
+      operandoRepetido: null,
+      resultadoMostrado: false,
+      raizReciente: true,
+      prefijoRaiz: prefijo,
+    }
+  }
+
   if (accion.tipo === 'operador') {
     if (estado.pantalla === 'Error') return estado
     const nuevoOperador = accion.valor
@@ -135,6 +236,8 @@ function reducer(estado, accion) {
         operadorRepetido: null,
         operandoRepetido: null,
         resultadoMostrado: false,
+        raizReciente: false,
+        prefijoRaiz: '',
       }
     }
 
@@ -156,6 +259,8 @@ function reducer(estado, accion) {
       operadorRepetido: null,
       operandoRepetido: null,
       resultadoMostrado: false,
+      raizReciente: false,
+      prefijoRaiz: '',
     }
   }
 
@@ -203,6 +308,8 @@ function reducer(estado, accion) {
       operadorRepetido: operador,
       operandoRepetido: b,
       resultadoMostrado: true,
+      raizReciente: false,
+      prefijoRaiz: '',
     }
   }
 
@@ -212,16 +319,20 @@ function reducer(estado, accion) {
 function Calculadora({ onCerrar }) {
   const [estado, dispatch] = useReducer(reducer, ESTADO_INICIAL)
   const botones = [
-    ['C', 'limpiar'], ['÷', '/'], ['×', '*'], ['−', '-'],
-    ['7', '7'], ['8', '8'], ['9', '9'], ['+', '+'],
-    ['4', '4'], ['5', '5'], ['6', '6'], ['=', 'igual'],
-    ['1', '1'], ['2', '2'], ['3', '3'], ['0', '0'],
-    ['.', 'decimal'],
+    ['C', 'limpiar'], ['±', 'signo'], ['√', 'raiz'], ['÷', '/'],
+    ['7', '7'], ['8', '8'], ['9', '9'], ['×', '*'],
+    ['4', '4'], ['5', '5'], ['6', '6'], ['−', '-'],
+    ['1', '1'], ['2', '2'], ['3', '3'], ['+', '+'],
+    ['0', '0'], ['.', 'decimal'], ['=', 'igual'],
   ]
 
   const manejarBoton = (valor) => {
     if (valor === 'limpiar' || valor === 'igual' || valor === 'decimal') {
       dispatch({ tipo: valor })
+    } else if (valor === 'signo') {
+      dispatch({ tipo: 'signo' })
+    } else if (valor === 'raiz') {
+      dispatch({ tipo: 'raiz' })
     } else if (['+', '-', '*', '/'].includes(valor)) {
       dispatch({ tipo: 'operador', valor })
     } else {
@@ -258,8 +369,22 @@ function Calculadora({ onCerrar }) {
             key={etiqueta}
             type="button"
             onClick={() => manejarBoton(valor)}
-            className={`h-10 rounded-lg text-base font-semibold transition-colors ${
-              ['+', '−', '×', '÷'].includes(etiqueta)
+            aria-label={
+              valor === 'raiz'
+                ? 'Raíz cuadrada'
+                : valor === 'signo'
+                  ? 'Cambiar signo'
+                  : etiqueta
+            }
+            title={
+              valor === 'raiz'
+                ? 'Raíz cuadrada'
+                : valor === 'signo'
+                  ? 'Cambiar signo'
+                  : undefined
+            }
+            className={`h-10 ${etiqueta === '0' ? 'col-span-2' : ''} rounded-lg text-base font-semibold transition-colors ${
+              ['+', '−', '×', '÷', '√', '±'].includes(etiqueta)
                 ? 'bg-amber-500 text-slate-950 hover:bg-amber-400'
                 : etiqueta === '='
                   ? 'bg-blue-600 text-white hover:bg-blue-500'

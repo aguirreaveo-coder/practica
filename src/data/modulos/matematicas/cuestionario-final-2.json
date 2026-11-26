@@ -1,0 +1,245 @@
+{
+  "titulo": "Cuestionario Final 2: Matemáticas · Clase 3",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "¿Cuál es el complemento de un ángulo de 82°?",
+      "opciones": [
+        "8°",
+        "18°",
+        "98°",
+        "108°"
+      ],
+      "correcta": 0,
+      "explicacion": "Los ángulos complementarios suman 90°. Entonces, 90° − 82° = 8°."
+    },
+    {
+      "numero": 2,
+      "pregunta": "Dos ángulos son suplementarios. Si uno mide 127°, ¿cuánto mide el otro?",
+      "opciones": [
+        "43°",
+        "53°",
+        "63°",
+        "73°"
+      ],
+      "correcta": 1,
+      "explicacion": "Los ángulos suplementarios suman 180°. Entonces, 180° − 127° = 53°."
+    },
+    {
+      "numero": 3,
+      "pregunta": "Un triángulo tiene ángulos de 48° y 67°. ¿Cuánto mide el tercer ángulo?",
+      "opciones": [
+        "55°",
+        "60°",
+        "65°",
+        "75°"
+      ],
+      "correcta": 2,
+      "explicacion": "Los ángulos interiores suman 180°: 180° − 48° − 67° = 65°."
+    },
+    {
+      "numero": 4,
+      "pregunta": "Un triángulo tiene ángulos de 59°, 65° y x. ¿Cuánto vale x?",
+      "opciones": [
+        "46°",
+        "54°",
+        "55°",
+        "56°"
+      ],
+      "correcta": 3,
+      "explicacion": "La suma de los ángulos interiores es 180°: x = 180° − 59° − 65° = 56°."
+    },
+    {
+      "numero": 5,
+      "pregunta": "¿A cuántos radianes equivalen 255°?",
+      "opciones": [
+        "17π/12 rad",
+        "5π/6 rad",
+        "3π/4 rad",
+        "12π/17 rad"
+      ],
+      "correcta": 0,
+      "explicacion": "Multiplica por π/180: 255° · π/180 = 255π/180 = 17π/12 rad."
+    },
+    {
+      "numero": 6,
+      "pregunta": "¿A cuántos grados equivale π/2 radianes?",
+      "opciones": [
+        "45°",
+        "90°",
+        "120°",
+        "180°"
+      ],
+      "correcta": 1,
+      "explicacion": "Multiplica por 180/π: (π/2) · (180/π) = 90°."
+    },
+    {
+      "numero": 7,
+      "pregunta": "¿Cuántos radianes mide el complemento de 65°?",
+      "opciones": [
+        "π/36 rad",
+        "π/12 rad",
+        "5π/36 rad",
+        "5π/18 rad"
+      ],
+      "correcta": 2,
+      "explicacion": "El complemento mide 90° − 65° = 25°. En radianes, 25° · π/180 = 5π/36."
+    },
+    {
+      "numero": 8,
+      "pregunta": "Convierte 150° a radianes.",
+      "opciones": [
+        "3π/4 rad",
+        "2π/3 rad",
+        "7π/6 rad",
+        "5π/6 rad"
+      ],
+      "correcta": 3,
+      "explicacion": "150° · π/180 = 150π/180 = 5π/6 rad."
+    },
+    {
+      "numero": 9,
+      "pregunta": "¿Cuántos grados equivalen a 3π/4 radianes?",
+      "opciones": [
+        "135°",
+        "120°",
+        "90°",
+        "150°"
+      ],
+      "correcta": 0,
+      "explicacion": "(3π/4) · (180/π) = 135°."
+    },
+    {
+      "numero": 10,
+      "pregunta": "La hipotenusa de un triángulo rectángulo mide 17 cm y uno de sus catetos mide 8 cm. ¿Cuánto mide el otro cateto?",
+      "opciones": [
+        "9 cm",
+        "15 cm",
+        "16 cm",
+        "25 cm"
+      ],
+      "correcta": 1,
+      "explicacion": "Por Pitágoras, x² + 8² = 17². Así, x² = 289 − 64 = 225 y x = 15 cm."
+    },
+    {
+      "numero": 11,
+      "pregunta": "Los catetos de un triángulo rectángulo miden 6 cm y 8 cm. ¿Cuánto mide la hipotenusa?",
+      "opciones": [
+        "8 cm",
+        "9 cm",
+        "10 cm",
+        "14 cm"
+      ],
+      "correcta": 2,
+      "explicacion": "Por Pitágoras, c² = 6² + 8² = 36 + 64 = 100; por tanto, c = 10 cm."
+    },
+    {
+      "numero": 12,
+      "pregunta": "Un triángulo rectángulo tiene catetos de 7 cm y 24 cm. ¿Cuánto mide su hipotenusa?",
+      "opciones": [
+        "17 cm",
+        "24 cm",
+        "31 cm",
+        "25 cm"
+      ],
+      "correcta": 3,
+      "explicacion": "Por Pitágoras, c² = 7² + 24² = 49 + 576 = 625; por tanto, c = 25 cm."
+    },
+    {
+      "numero": 13,
+      "pregunta": "Un rectángulo mide 18 cm de largo y 12 cm de ancho. ¿Cuál es su área?",
+      "opciones": [
+        "216 cm²",
+        "60 cm²",
+        "30 cm²",
+        "432 cm²"
+      ],
+      "correcta": 0,
+      "explicacion": "El área del rectángulo es largo por ancho: 18 × 12 = 216 cm²."
+    },
+    {
+      "numero": 14,
+      "pregunta": "¿Cuál es el área de un círculo de radio 5 cm?",
+      "opciones": [
+        "10π cm²",
+        "25π cm²",
+        "50π cm²",
+        "100π cm²"
+      ],
+      "correcta": 1,
+      "explicacion": "El área es A = πr² = π(5²) = 25π cm²."
+    },
+    {
+      "numero": 15,
+      "pregunta": "¿Cuál es la longitud de una circunferencia de radio 5 cm?",
+      "opciones": [
+        "5π cm",
+        "25π cm",
+        "10π cm",
+        "20π cm"
+      ],
+      "correcta": 2,
+      "explicacion": "La longitud de la circunferencia es 2πr = 2π(5) = 10π cm."
+    },
+    {
+      "numero": 16,
+      "pregunta": "Un cilindro tiene radio de 4 cm y altura de 10 cm. ¿Cuál es su volumen?",
+      "opciones": [
+        "40π cm³",
+        "80π cm³",
+        "100π cm³",
+        "160π cm³"
+      ],
+      "correcta": 3,
+      "explicacion": "El volumen es V = πr²h = π(4²)(10) = 160π cm³."
+    },
+    {
+      "numero": 17,
+      "pregunta": "Un cuadrado tiene lados de 8 cm. ¿Cuál es su área?",
+      "opciones": [
+        "64 cm²",
+        "32 cm²",
+        "16 cm²",
+        "128 cm²"
+      ],
+      "correcta": 0,
+      "explicacion": "El área de un cuadrado es lado al cuadrado: 8² = 64 cm²."
+    },
+    {
+      "numero": 18,
+      "pregunta": "Un rectángulo mide 9 cm de largo y 6 cm de ancho. ¿Cuál es su perímetro?",
+      "opciones": [
+        "15 cm",
+        "30 cm",
+        "54 cm",
+        "60 cm"
+      ],
+      "correcta": 1,
+      "explicacion": "El perímetro es 2(9) + 2(6) = 18 + 12 = 30 cm."
+    },
+    {
+      "numero": 19,
+      "pregunta": "Un prisma rectangular mide 4 cm de largo, 5 cm de ancho y 6 cm de alto. ¿Cuál es su volumen?",
+      "opciones": [
+        "15 cm³",
+        "60 cm³",
+        "120 cm³",
+        "240 cm³"
+      ],
+      "correcta": 2,
+      "explicacion": "El volumen del prisma rectangular es largo por ancho por alto: 4 × 5 × 6 = 120 cm³."
+    },
+    {
+      "numero": 20,
+      "pregunta": "Un triángulo tiene base de 12 cm y altura de 7 cm. ¿Cuál es su área?",
+      "opciones": [
+        "19 cm²",
+        "42 cm²",
+        "84 cm²",
+        "168 cm²"
+      ],
+      "correcta": 1,
+      "explicacion": "El área del triángulo es (base × altura)/2 = (12 × 7)/2 = 42 cm²."
+    }
+  ]
+}

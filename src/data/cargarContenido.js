@@ -23,6 +23,10 @@ export function calcularProgresoCuestionarios(moduloId, aprobados = {}) {
       return ['final']
     }
 
+    if (nombre === 'cuestionario-final-2' && Array.isArray(mod[nombre]?.preguntas)) {
+      return ['final-2']
+    }
+
     const sesion = nombre.match(/^cuestionario-sesion(\d+)$/)
     if (sesion && Array.isArray(mod[nombre]?.preguntas)) {
       return [`sesion-${sesion[1]}`]
@@ -51,6 +55,10 @@ export function getExpress(moduloId) {
 // Cuestionario Final (del programa/módulo completo)
 export function getCuestionarioFinal(moduloId) {
   return contenido[moduloId]?.['cuestionario-final'] || null
+}
+
+export function getCuestionarioFinal2(moduloId) {
+  return contenido[moduloId]?.['cuestionario-final-2'] || null
 }
 
 // Cuestionario de una sesión específica (para programas especiales)

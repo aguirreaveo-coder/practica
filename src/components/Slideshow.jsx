@@ -56,7 +56,7 @@ function Slideshow({ clase, onSalir }) {
       <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-blue-300/30 dark:from-blue-900/20 via-slate-50 dark:via-slate-900 to-slate-50 dark:to-slate-900" />
 
       <div className="relative flex flex-col flex-1 min-h-0">
-        {/* Header compacto con botón de pizarrón */}
+        {/* Header compacto */}
         <header className="shrink-0 px-4 py-1 border-b border-slate-300 dark:border-white/10 flex items-center justify-between">
           <button
             onClick={onSalir}
@@ -65,13 +65,6 @@ function Slideshow({ clase, onSalir }) {
             ← Salir
           </button>
           <div className="text-sm text-slate-700 dark:text-slate-200 font-medium">
-            <button
-              onClick={() => setPizarronAbierto(true)}
-              className="mr-3 px-3 py-1 rounded-md bg-slate-100 dark:bg-white/5 hover:bg-slate-200 dark:hover:bg-white/10 border border-slate-300 dark:border-white/10 text-slate-700 dark:text-slate-200 text-xs font-medium transition-colors"
-              title="Abrir pizarrón"
-            >
-              Pizarrón
-            </button>
             {indice + 1} / {total}
           </div>
         </header>
@@ -111,6 +104,18 @@ function Slideshow({ clase, onSalir }) {
               <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <rect x="4" y="2" width="16" height="20" rx="2" />
                 <path d="M8 6h8M8 10h.01M12 10h.01M16 10h.01M8 14h.01M12 14h.01M16 14h.01M8 18h.01M12 18h.01M16 18h.01" />
+              </svg>
+            </button>
+            <button
+              type="button"
+              onClick={() => setPizarronAbierto(true)}
+              className="flex h-8 w-8 items-center justify-center rounded-md border border-slate-300 bg-white text-slate-700 hover:bg-slate-100 dark:border-white/15 dark:bg-white/5 dark:text-slate-200 dark:hover:bg-white/10"
+              aria-label="Abrir pizarrón"
+              title="Abrir pizarrón"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <rect x="3" y="4" width="18" height="13" rx="1.5" />
+                <path d="M7 21h10M12 17v4M7 8h10" />
               </svg>
             </button>
             {calculadoraAbierta && (

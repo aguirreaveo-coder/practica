@@ -1,0 +1,210 @@
+{
+  "titulo": "Clase 3: Ángulos, radianes, teorema de Pitágoras y geometría",
+  "slides": [
+    {
+      "tipo": "contenido",
+      "titulo": "Matemáticas de Bachillerato · Clase 3",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Matemáticas de Bachillerato</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Clase 3 · Duración: 2 horas</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "¿Qué veremos?",
+      "html": "<ul class='text-lg'><li>Repaso de contenidos de la sesión anterior.</li><li>Ángulos complementarios y suplementarios.</li><li>Conversión entre grados y radianes.</li><li>Teorema de Pitágoras.</li><li>Áreas, perímetros y volúmenes en un solo tema.</li></ul><p class='text-lg mt-4'>Resolveremos los ejercicios sin calculadora científica.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Repaso · Cuestionario de la Sesión 1",
+      "html": "<p class='text-lg'>Resuelve el cuestionario de repaso de la Sesión 1 antes de continuar. Lee cada reactivo con atención, escribe tus operaciones y revisa tus respuestas al terminar.</p><p class='text-lg mt-4'>Recuerda trabajar sin calculadora científica.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 8 · Ángulos",
+      "html": "<p class='text-lg'>Un ángulo se mide en grados (°). Dos ángulos son <strong>complementarios</strong> si suman 90° y <strong>suplementarios</strong> si suman 180°. Los ángulos interiores de todo triángulo suman 180°.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>complementarios: α + β = 90°</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>suplementarios: α + β = 180°</span></div><img src='https://i.ytimg.com/vi/sH3oQD30dag/maxresdefault.jpg' alt='Tipos de ángulos' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ángulos · Complemento",
+      "enunciado": "Encuentra el ángulo que complementa a 82°:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>α + β = 90°</span></div>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ángulos · Suplemento",
+      "enunciado": "Encuentra el ángulo suplementario de 145°:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>α + β = 180°</span></div>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ángulos · Ángulos interiores de un triángulo",
+      "enunciado": "En un triángulo, dos ángulos miden 56° y 59°. Encuentra el tercero:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>α + β + γ = 180°</span></div>"
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Resuelve · Ángulos · 10 minutos",
+      "ejercicios": [
+        {
+          "pregunta": "¿Cuánto mide el complemento de 55°?",
+          "respuesta": "35°."
+        },
+        {
+          "pregunta": "Dos ángulos suplementarios miden 121° y x. Encuentra x.",
+          "respuesta": "x = 59°."
+        },
+        {
+          "pregunta": "Los ángulos de un triángulo son x, 59° y 65°. Encuentra x.",
+          "respuesta": "x = 56°."
+        },
+        {
+          "pregunta": "Dos ángulos son complementarios. Si uno mide 37°, ¿cuánto mide el otro?",
+          "respuesta": "53°."
+        }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 9 · Conversión entre grados y radianes",
+      "html": "<p class='text-lg'>Una vuelta completa mide 360° o 2π radianes; por lo tanto, 180° equivalen a π radianes. Para convertir grados a radianes, multiplica por π/180. Para convertir radianes a grados, multiplica por 180/π.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>grados a radianes: θ° · π/180</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>radianes a grados: θ · 180/π</span></div>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Grados a radianes · Ejemplo",
+      "enunciado": "Convierte 255° a radianes y simplifica:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>255°</span></div>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Radianes a grados · Ejemplo",
+      "enunciado": "Convierte π/2 radianes a grados:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>π/2 rad</span></div>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Complemento en radianes · Ejemplo",
+      "enunciado": "Encuentra el complemento de 65° y expresa el resultado en radianes:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>65°</span></div>"
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Resuelve · Grados y radianes · 10 minutos",
+      "ejercicios": [
+        {
+          "pregunta": "Convierte 255° a radianes.",
+          "respuesta": "255° · π/180 = 17π/12 rad."
+        },
+        {
+          "pregunta": "Convierte π/2 radianes a grados.",
+          "respuesta": "π/2 · 180/π = 90°."
+        },
+        {
+          "pregunta": "¿Cuántos radianes mide el complemento de 65°?",
+          "respuesta": "El complemento es 25°; 25° · π/180 = 5π/36 rad."
+        },
+        {
+          "pregunta": "Convierte 150° a radianes.",
+          "respuesta": "5π/6 rad."
+        }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 10 · Teorema de Pitágoras",
+      "html": "<p class='text-lg'>En todo triángulo rectángulo, la hipotenusa es el lado opuesto al ángulo recto y es el lado más largo. El cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>a² + b² = c²</span></div><p class='text-lg'>Para encontrar cualquiera de los catetos:</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>a = √(c² − b²)</span></div><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>b = √(c² − a²)</span></div><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfScNtsuly83oSgD0S1HtYvI0n3Enw53wxvWnlJ3xiaNxQndyn7tyOlck3&s=10' alt='Teorema de Pitágoras y relación entre los catetos y la hipotenusa' class='my-4 rounded-lg max-h-80 mx-auto' />"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Pitágoras · Encuentra un cateto",
+      "enunciado": "La hipotenusa de un triángulo rectángulo mide 17 cm y un cateto mide 8 cm. Encuentra el otro cateto:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>a² + b² = c²</span></div>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Pitágoras · Encuentra la hipotenusa",
+      "enunciado": "Los catetos de un triángulo rectángulo miden 6 cm y 8 cm. Encuentra la hipotenusa:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>a² + b² = c²</span></div>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Pitágoras · Terna 7-24-25",
+      "enunciado": "Un triángulo rectángulo tiene catetos de 7 cm y 24 cm. Encuentra la hipotenusa:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>a² + b² = c²</span></div>"
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Resuelve · Teorema de Pitágoras · 10 minutos",
+      "ejercicios": [
+        {
+          "pregunta": "La hipotenusa mide 17 cm y un cateto 8 cm. ¿Cuánto mide el otro cateto?",
+          "respuesta": "15 cm."
+        },
+        {
+          "pregunta": "Un triángulo rectángulo tiene catetos de 6 cm y 8 cm. ¿Cuánto mide la hipotenusa?",
+          "respuesta": "10 cm."
+        },
+        {
+          "pregunta": "En un triángulo rectángulo, los catetos miden 5 cm y 12 cm. ¿Cuánto mide la hipotenusa?",
+          "respuesta": "13 cm."
+        },
+        {
+          "pregunta": "En un triángulo rectángulo, los catetos miden 9 cm y 12 cm. ¿Cuánto mide la hipotenusa?",
+          "respuesta": "15 cm."
+        }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Tema 11 · Áreas, perímetros y volúmenes",
+      "html": "<p class='text-lg'>El perímetro mide el contorno de una figura plana; el área mide la superficie y se expresa en unidades cuadradas; el volumen mide el espacio que ocupa un cuerpo y se expresa en unidades cúbicas.</p><img src='https://imgv2-2-f.scribdassets.com/img/document/642846349/original/ae39c08d7d/1?v=1' alt='Fórmulas de áreas, perímetros y volúmenes' class='my-4 rounded-lg max-h-80 mx-auto' /><p class='text-lg'>Antes de calcular, confirma que todas las medidas estén en la misma unidad.</p>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Geometría · Área y perímetro de un rectángulo",
+      "enunciado": "Un rectángulo mide 18 cm de largo y 12 cm de ancho. Calcula su área y su perímetro:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>A = bh; P = 2b + 2h</span></div>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Geometría · Área y perímetro de un círculo",
+      "enunciado": "Un círculo tiene radio de 5 cm. Calcula su área y la longitud de su circunferencia:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>A = πr²; P = 2πr</span></div>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Geometría · Volumen de un cilindro",
+      "enunciado": "Un cilindro tiene radio de 4 cm y altura de 10 cm. Calcula su volumen:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>V = πr²h</span></div>"
+    },
+    {
+      "tipo": "practica",
+      "titulo": "Resuelve · Áreas, perímetros y volúmenes · 10 minutos",
+      "ejercicios": [
+        {
+          "pregunta": "Calcula el área de un rectángulo de 18 cm por 12 cm.",
+          "respuesta": "216 cm²."
+        },
+        {
+          "pregunta": "Calcula el área de un círculo de radio 5 cm. Deja la respuesta en términos de π.",
+          "respuesta": "25π cm²."
+        },
+        {
+          "pregunta": "Calcula el volumen de un cilindro de radio 4 cm y altura 10 cm. Deja la respuesta en términos de π.",
+          "respuesta": "160π cm³."
+        },
+        {
+          "pregunta": "Calcula el perímetro de un círculo de radio 5 cm. Deja la respuesta en términos de π.",
+          "respuesta": "10π cm."
+        }
+      ]
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Temas para casa",
+      "html": "<p class='text-lg'>Repasa estos contenidos antes de la siguiente clase:</p><ul class='text-lg'><li>Notación geométrica básica.</li><li>Relaciones entre rectas.</li><li>Clasificación de triángulos.</li><li>Semejanza de triángulos.</li></ul><p class='text-lg mt-4'>Resuelve también el cuestionario de la Sesión 2 y revisa el respuestario indicado en el material.</p>"
+    },
+    {
+      "tipo": "contenido",
+      "titulo": "Fin de la Clase 3",
+      "html": "<p class='text-2xl text-slate-800 dark:text-white'>Fin de la Clase 3</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-4'>Ángulos, conversión entre grados y radianes, teorema de Pitágoras, áreas, perímetros y volúmenes.</p><p class='text-lg text-slate-700 dark:text-slate-200 mt-6'>Continúa con la Clase 4.</p>"
+    }
+  ]
+}

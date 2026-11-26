@@ -51,6 +51,7 @@ function App() {
       <Route path="/modulo/:id/express" element={<ProtectedRoute><AccessRoute><Clase esExpress={true} /></AccessRoute></ProtectedRoute>} />
       <Route path="/modulo/:id/cuestionario" element={<ProtectedRoute><AccessRoute><CuestionarioPage /></AccessRoute></ProtectedRoute>} />
       <Route path="/modulo/:id/cuestionario/:num" element={<ProtectedRoute><AccessRoute><CuestionarioPage /></AccessRoute></ProtectedRoute>} />
+      <Route path="/modulo/:id/cuestionario-final-2" element={<ProtectedRoute><AccessRoute><CuestionarioPage esFinal2 /></AccessRoute></ProtectedRoute>} />
       <Route path="/modulo/:id/interactivo" element={<ProtectedRoute><AccessRoute><InteractivoPage /></AccessRoute></ProtectedRoute>} />
       <Route path="/modulo/:id/tabla" element={<ProtectedRoute><AccessRoute><TablaReferenciaPage /></AccessRoute></ProtectedRoute>} />
       <Route path="*" element={<Navigate to="/" replace />} />

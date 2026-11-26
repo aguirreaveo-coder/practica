@@ -16,25 +16,29 @@
       "titulo": "Tema 4 · Términos algebraicos",
       "html": "<p class='text-lg'>En un término algebraico identificamos signo, coeficiente numérico sin signo, variables, exponentes y grado. El grado de un término con varias variables es la suma de sus exponentes; una constante distinta de cero tiene grado 0.</p><div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>−5x²</span></div><p class='text-lg'>Un término es monomio; dos, binomio; tres, trinomio; cuatro o más, polinomio.</p>"
     },
-    {
-      "tipo": "ejemplo",
-      "titulo": "Ejemplo 1 · Partes de un término",
-      "enunciado": "Completa una tabla con signo, coeficiente, variable, exponente y grado de cada término: 5x²; −2a²b; 7; x; −4y²; 6x²y³."
-    },
+{
+  "tipo": "ejemplo",
+  "titulo": "Ejemplo 1 · Partes de un término",
+  "enunciado": "Obtener el signo, coeficiente, variable, exponente y grado de los siguientes términos:",
+  "html": "<div style='display:flex;flex-wrap:wrap;gap:0.75rem;justify-content:center;margin:1rem 0;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>−2a²b</span><span style='display:inline-block;background-color:rgba(59,130,246,0.2);border:1px solid rgba(59,130,246,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>7</span><span style='display:inline-block;background-color:rgba(16,185,129,0.2);border:1px solid rgba(16,185,129,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>−4y²</span><span style='display:inline-block;background-color:rgba(139,92,246,0.2);border:1px solid rgba(139,92,246,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>6x²y³</span><span style='display:inline-block;background-color:rgba(236,72,153,0.2);border:1px solid rgba(236,72,153,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>x</span></div>"
+},
     {
       "tipo": "ejemplo",
       "titulo": "Ejemplo 2 · Número de términos",
-      "enunciado": "Indica el número de términos y clasifica cada expresión: 5x³; x + 7; a² + 2ab + b²; 3x³ − 2x² + x − 5."
+      "enunciado": "Indica el número de términos y clasifica cada expresión:",
+      "html": "<div style='display:flex;flex-wrap:wrap;gap:0.75rem;justify-content:center;margin:1rem 0;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>5x³</span><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>x + 7</span><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>a² + 2ab + b²</span><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>3x³ − 2x² + x − 5</span></div>"
     },
     {
       "tipo": "ejemplo",
       "titulo": "Ejemplo 3 · Grado de un término",
-      "enunciado": "En el término −9m³n², identifica el signo, el coeficiente numérico sin signo, las variables, los exponentes y el grado."
+      "enunciado": "Identifica el signo, el coeficiente numérico sin signo, las variables, los exponentes y el grado del término:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>−9m³n²</span></div>"
     },
     {
       "tipo": "ejemplo",
       "titulo": "Ejemplo 4 · Identificar elementos",
-      "enunciado": "¿Cuántas variables y qué exponentes aparecen en 8p²q⁴? Determina también el grado del término."
+      "enunciado": "¿Cuántas variables y qué exponentes aparecen? Determina también el grado del término:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>8p²q⁴</span></div>"
     },
     {
       "tipo": "practica",
@@ -138,27 +142,50 @@
     {
       "tipo": "ejemplo",
       "titulo": "Ejemplo 1 · Factor común",
-      "enunciado": "Factoriza 12x³y² − 18x²y³ + 6x²y² mediante el factor común."
+      "enunciado": "Factoriza mediante el factor común:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>12x³y² − 18x²y³ + 6x²y²</span></div>"
     },
     {
       "tipo": "ejemplo",
       "titulo": "Ejemplo 2 · Factor común",
-      "enunciado": "Factoriza 15a⁴b³ − 25a³b⁴ + 10a²b³ mediante el factor común."
+      "enunciado": "Factoriza mediante el factor común:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>15a⁴b³ − 25a³b⁴ + 10a²b³</span></div>"
     },
     {
       "tipo": "ejemplo",
-      "titulo": "Ejemplo 3 · Trinomio cuadrático",
-      "enunciado": "¿Qué producto de dos binomios equivale a x² − 8x + 15? Comprueba tu respuesta al desarrollar."
+      "titulo": "Ejemplo 3 · Factor común",
+      "enunciado": "Factoriza mediante el factor común:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>18a²b + 24ab² − 6ab</span></div>"
     },
     {
       "tipo": "ejemplo",
-      "titulo": "Ejemplo 4 · Trinomio con término independiente negativo",
-      "enunciado": "¿Cómo se factoriza x² + 4x − 12? Verifica el resultado multiplicando los factores."
+      "titulo": "Ejemplo 4 · Trinomio cuadrático",
+      "enunciado": "¿Qué producto de dos binomios equivale a la expresión? Comprueba tu respuesta al desarrollar:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>x² − 8x + 15</span></div>"
     },
     {
       "tipo": "ejemplo",
-      "titulo": "Ejemplo 5 · Factorización por comprobación",
-      "enunciado": "Selecciona la factorización de 3x² − 5x − 2: A) (3x − 1)(x + 2); B) (3x + 1)(x − 2); C) (3x − 1)(x − 2); D) (3x + 1)(x + 2)."
+      "titulo": "Ejemplo 5 · Trinomio con término independiente negativo",
+      "enunciado": "¿Cómo se factoriza la expresión? Verifica el resultado multiplicando los factores:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>x² + 4x − 12</span></div>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 6 · Trinomio cuadrático",
+      "enunciado": "Factoriza el trinomio:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>x² + 7x + 12</span></div>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 7 · Factorización por comprobación",
+      "enunciado": "Selecciona la factorización correcta y comprueba tu respuesta:",
+      "html": "<div style='display:flex;flex-wrap:wrap;gap:0.75rem;justify-content:center;margin:1rem 0;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>3x² − 5x − 2</span><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>A) (3x − 1)(x + 2)</span><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>B) (3x + 1)(x − 2)</span><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>C) (3x − 1)(x − 2)</span><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>D) (3x + 1)(x + 2)</span></div>"
+    },
+    {
+      "tipo": "ejemplo",
+      "titulo": "Ejemplo 8 · Comprobación de una factorización",
+      "enunciado": "Comprueba si la factorización es correcta desarrollando el producto y comparándolo con el trinomio:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>x² + 5x + 6 = (x + 1)(x + 6)</span></div>"
     },
     {
       "tipo": "practica",
@@ -190,22 +217,26 @@
     {
       "tipo": "ejemplo",
       "titulo": "Ejemplo 1 · Resolver una ecuación",
-      "enunciado": "Encuentra el valor de x que satisface 3x + 5 = 2x + 12."
+      "enunciado": "Encuentra el valor de x que satisface la ecuación:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>3x + 5 = 2x + 12</span></div>"
     },
     {
       "tipo": "ejemplo",
       "titulo": "Ejemplo 2 · Resolver una ecuación",
-      "enunciado": "Encuentra el valor de x que satisface 4x − 7 = x + 8."
+      "enunciado": "Encuentra el valor de x que satisface la ecuación:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>4x − 7 = x + 8</span></div>"
     },
     {
       "tipo": "ejemplo",
       "titulo": "Ejemplo 3 · Resolver una ecuación",
-      "enunciado": "Encuentra el valor de x que satisface 5x + 6 = 3x + 18."
+      "enunciado": "Encuentra el valor de x que satisface la ecuación:",
+      "html": "<div style='margin:0.75rem 0;text-align:center;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>5x + 6 = 3x + 18</span></div>"
     },
     {
       "tipo": "ejemplo",
       "titulo": "Ejemplo 4 · Reactivo de opción múltiple",
-      "enunciado": "Encuentra x en 5x − 8 = 3x + 12. A) 2; B) 10; C) −10; D) 5."
+      "enunciado": "Encuentra x en la ecuación. Elige la opción correcta:",
+      "html": "<div style='display:flex;flex-wrap:wrap;gap:0.75rem;justify-content:center;margin:1rem 0;'><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>5x − 8 = 3x + 12</span><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>A) 2</span><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>B) 10</span><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>C) −10</span><span style='display:inline-block;background-color:rgba(245,158,11,0.2);border:1px solid rgba(245,158,11,0.5);border-radius:0.375rem;padding:0.5rem 1rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:600;font-size:1.125rem;' class='text-slate-900 dark:text-white'>D) 5</span></div>"
     },
     {
       "tipo": "practica",

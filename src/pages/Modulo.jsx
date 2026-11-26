@@ -3,6 +3,7 @@ import modulos from '../data/modulos.json'
 import programas from '../data/programas.json'
 import ThemeToggle from '../components/ThemeToggle'
 import { useAuth } from '../contexts/AuthContext'
+import { getCuestionarioFinal2 } from '../data/cargarContenido'
 
 function Modulo() {
   const { id } = useParams()
@@ -27,6 +28,7 @@ function Modulo() {
 
   const esPrograma = item.tipo === 'programa'
   const esTablaPeriodica = item.tipoEspecial === 'tabla-periodica'
+  const tieneCuestionarioFinal2 = Boolean(getCuestionarioFinal2(id))
   const etiqueta = item.etiquetaSesion || 'Clase'
   const duracion = item.duracion || (esPrograma ? '4 horas' : '2 horas')
 
@@ -240,6 +242,31 @@ function Modulo() {
                     </h3>
                     <p className="text-slate-600 dark:text-slate-300 text-sm mt-0.5">
                       {esPrograma ? 'Autoevaluación general del programa' : '40 preguntas · Autoevaluación'}
+                    </p>
+                  </div>
+                </div>
+                <span className="text-slate-500 dark:text-slate-300 group-hover:text-slate-900 dark:group-hover:text-white group-hover:translate-x-1 transition-all text-xl">
+                  →
+                </span>
+              </Link>
+            )}
+
+            {tieneCuestionarioFinal2 && (
+              <Link
+                to={`/modulo/${id}/cuestionario-final-2`}
+                className="group flex items-center justify-between p-5 border border-slate-300 dark:border-white/10 bg-white/80 dark:bg-white/[0.04] hover:bg-white dark:hover:bg-white/[0.08] hover:border-slate-400 dark:hover:border-white/25 shadow-sm transition-all duration-200"
+              >
+                <div className="flex items-center gap-4">
+                  <span
+                    className="w-1 h-10 rounded-full shrink-0"
+                    style={{ backgroundColor: item.color }}
+                  />
+                  <div>
+                    <h3 className="font-semibold text-lg tracking-tight text-slate-900 dark:text-white">
+                      Cuestionario Final 2
+                    </h3>
+                    <p className="text-slate-600 dark:text-slate-300 text-sm mt-0.5">
+                      Autoevaluación de la Clase 3 · 20 preguntas
                     </p>
                   </div>
                 </div>
